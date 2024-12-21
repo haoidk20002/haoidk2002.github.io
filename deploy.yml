@@ -1,0 +1,74 @@
+name: Process Translations and Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main    # Запуск workflow при пуше в main
+    paths:
+      - raw/**              # Следим за изменениями в папке raw
+      - process_translation.py  # Или при изменении скрипта
+
+permissions:
+  pages: write               # Разрешение для работы с GitHub Pages
+  id-token: write            # Для аутентификации
+
+jobs:
+  process_and_deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Клонируем репозиторий
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. Устанавливаем Python 3.12
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      # 3. Устанавливаем зависимости (если требуются)
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # Если есть зависимости, разкомментируйте:
+          # pip install -r requirements.txt
+
+      # 4. Обрабатываем переводы
+      - name: Process translations
+        run: |
+          for version in $(ls raw); do
+            # Android
+            android_input="raw/$version/android_translation.txt"
+            android_output="translation/$version/ad/res_release"
+            if [ -f $android_input ]; then
+              mkdir -p $android_output
+              python process_translation.py $android_input $android_output ad
+            fi
+
+            # iOS
+            ios_input="raw/$version/ios_translation.txt"
+            ios_output="translation/$version/ios/res_release"
+            if [ -f $ios_input ]; then
+              mkdir -p $ios_output
+              python process_translation.py $ios_input $ios_output ios
+            fi
+          done
+
+      # 5. Загрузка артефактов для деплоя
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: translation   # Указываем папку с готовыми файлами для деплоя
+
+  deploy:
+    needs: process_and_deploy
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      # 1. Деплой артефактов на GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v2
