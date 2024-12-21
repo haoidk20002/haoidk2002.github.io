@@ -45,7 +45,7 @@ def process_translation(input_file, output_dir, platform):
     }
     # Генерация file_list.txt
     file_list_content = encode(str(d).encode())
-    with open(os.path.join(output_dir, "file_list.txt"), "w") as f:
+    with open(os.path.join(output_dir, "file_list.txt"), "wb") as f:
         f.write(file_list_content)
 
     print(f"Processed {platform} translation: {input_file}, files saved to {output_dir}")
