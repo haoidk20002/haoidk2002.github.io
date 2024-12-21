@@ -27,7 +27,7 @@ jobs:
             android_output="translation/$version/ad/res_release"
             if [ -f $android_input ]; then
               mkdir -p $android_output
-              python process_translation.py $android_input $android_output ad
+              python main.py $android_input $android_output ad
             fi
           
             # iOS
@@ -35,7 +35,7 @@ jobs:
             ios_output="translation/$version/ios/res_release"
             if [ -f $ios_input ]; then
               mkdir -p $ios_output
-              python process_translation.py $ios_input $ios_output ios
+              python main.py $ios_input $ios_output ios
             fi
           done
       - name: Upload artifact for GitHub Pages
