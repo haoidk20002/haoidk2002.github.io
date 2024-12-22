@@ -27,23 +27,25 @@ def encode(data: bytes):
 
 
 def process_translation(input_file, output_dir, platform):
-    # Читаем входной файл
+    # Reading input file
     with open(input_file, "rb") as f:
         translation = f.read()
 
-    # Генерация pvz2_l.txt
+    # Generating pvz2_l.txt
     pvz2_content = encode(translation)
     with open(os.path.join(output_dir, "pvz2_l.txt"), "wb") as f:
         f.write(pvz2_content)
 
+    # Generating content to file_lists.txt
     h = hashlib.md5(translation).hexdigest()
     d = {
         "File": {
             "Name": "pvz2_l.txt",
-            "Hash": str(h)
+            "Hash": h
         }
     }
-    # Генерация file_list.txt
+
+    # Generating file_list.txt
     file_list_content = encode(str(d).encode())
     with open(os.path.join(output_dir, "file_list.txt"), "wb") as f:
         f.write(file_list_content)
@@ -52,9 +54,9 @@ def process_translation(input_file, output_dir, platform):
 
 
 if __name__ == '__main__':
-    raw_file = sys.argv[1]  # Путь к файлу перевода
-    out_dir = sys.argv[2]  # Путь к выходной папке
-    op_system = sys.argv[3]  # Платформа (ad или ios)
+    raw_file = sys.argv[1]  # path to raw lawnstrings file
+    out_dir = sys.argv[2]  # path to output directory
+    op_system = sys.argv[3]  # OS - ad (Android) or ios
 
     os.makedirs(out_dir, exist_ok=True)
     process_translation(raw_file, out_dir, op_system)
