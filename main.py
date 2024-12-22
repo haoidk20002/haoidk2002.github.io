@@ -50,8 +50,6 @@ def process_translation(input_file, output_dir, platform):
     with open(os.path.join(output_dir, "file_list.txt"), "wb") as f:
         f.write(file_list_content)
 
-    print(f"Processed {platform} translation: {input_file}, files saved to {output_dir}")
-
 
 if __name__ == '__main__':
     raw_file = sys.argv[1]  # path to raw lawnstrings file
