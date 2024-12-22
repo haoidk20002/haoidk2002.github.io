@@ -23,7 +23,7 @@ jobs:
         run: |
           for version in $(ls raw); do
             # Android
-            android_input="raw/$version/android_translation.txt"
+            android_input="raw/$version/android_file.txt"
             android_res_release="translation/$version/ad/res_release"
             android_res_shipping="translation/$version/ad/res_shipping"
             if [ -f $android_input ]; then
@@ -34,7 +34,7 @@ jobs:
             fi
           
             # iOS
-            ios_input="raw/$version/ios_translation.txt"
+            ios_input="raw/$version/ios_file.txt"
             ios_res_release="translation/$version/ad/res_release"
             ios_res_shipping="translation/$version/ad/res_shipping"
             if [ -f $ios_input ]; then
