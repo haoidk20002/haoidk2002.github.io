@@ -29,19 +29,19 @@ jobs:
             if [ -f $android_input ]; then
               mkdir -p $android_res_release
               mkdir -p $android_res_shipping
-              python main.py $android_input $android_res_release ad
-              python main.py $android_input $android_res_shipping ad
+              python main.py $android_input $android_res_release
+              python main.py $android_input $android_res_shipping
             fi
           
             # iOS
             ios_input="raw/$version/ios_file.txt"
-            ios_res_release="translation/$version/ad/res_release"
-            ios_res_shipping="translation/$version/ad/res_shipping"
+            ios_res_release="translation/$version/ios/res_release"
+            ios_res_shipping="translation/$version/ios/res_shipping"
             if [ -f $ios_input ]; then
               mkdir -p $ios_res_release
               mkdir -p $ios_res_shipping
-              python main.py $ios_input $ios_res_release ios
-              python main.py $ios_input $ios_res_shipping ios
+              python main.py $ios_input $ios_res_release
+              python main.py $ios_input $ios_res_shipping
             fi
           done
       - name: Upload artifact for GitHub Pages
