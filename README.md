@@ -1,8 +1,8 @@
 # cybersteve777.github.io - currently it's a test repo for PvZ2C lawnstrings server, simplified to just pushing raw file to the directory.
 
 ## Credits:
- - ninteendo -  for his pyvz2 tool
- - Haruma -  fo`r his help with explaining algorithms 
+ - nineteendo -  for his pyvz2 tool
+ - Haruma -  for his help with explaining algorithms 
  - vi_i_guess for general file structure explanation [here](https://github.com/viiguess/Lawnstrings-Server).
 
 
