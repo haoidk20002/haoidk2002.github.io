@@ -38,10 +38,6 @@ jobs:
               python main.py $ios_input $ios_output ios
             fi
           done
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-artifact@v4
         with:
