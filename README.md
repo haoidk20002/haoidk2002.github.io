@@ -13,7 +13,7 @@ These folders will contain two folders - `res_release` and `res_shipping`. All t
 
 ---
 ## How to actually make it appear in game? (Android-friendly edition)
-You need to edit serverconfig.rton in dynamic.rsb(.smf) file of the game.
+You need to edit `serverconfig.rton` in `dynamic.rsb(.smf)` file of the game.
 You need to grab it from the following path: `Android/data/com.popcap.<some package depeinding on store the game was downloaded from>/files`. 
 
 Said rton is located in Packages, and you'll need to decrypt and decode it. 
@@ -21,12 +21,14 @@ I suggest [Sen](https://github.com/harumazzz/Sen.Environment) for that.
 After converting said file to json, find `LawnStringServerConfig` and replace corresponding links with your own ones.
 
 Example links for 3.5.8 on android (on ios replace `ad` with `ios`):
-`https://<your_github_username>.github.io/3.5.8/ad/res_release`
-`https://<your_github_username>.github.io/3.5.8/ad/res_shipping`
+```
+https://<your_github_username>.github.io/3.5.8/ad/res_release
+https://<your_github_username>.github.io/3.5.8/ad/res_shipping
+```
 
-After that, encrypt and encode json back to rton, pack dynamic.rsb(.smf) file back and put it into the game folder. 
-But before - back up original dynamic.rsb(.smf) just in case. After that, launch your game, and you should see your translation here.
+After that, encrypt and encode json back to rton, pack `dynamic.rsb(.smf)` file back and put it into the game folder. 
+But before - back up original `dynamic.rsb(.smf)` just in case. After that, launch your game, and you should see your translation here.
 
 Most important steps will work even on ios, the only difference will be in rton location. 
-I don't have any apple device nor tools to work with it, so can't help much. But if you are doing that on ios, then you definitely know more than me) 
+I don't have any Apple device nor tools to work with it, so can't help much. But if you are doing that on ios, then you definitely know more than me) 
 ### Good luck with translation and enjoy the gaming!)
