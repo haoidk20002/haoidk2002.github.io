@@ -46,7 +46,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: generated-files
-          path: ./generated
+          path: ./
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -55,7 +55,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: generated-files
-          path: ./generated
+          path: ./
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
