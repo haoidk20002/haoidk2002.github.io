@@ -29,8 +29,8 @@ jobs:
             if [ -f $android_input ]; then
               mkdir -p $android_res_release
               mkdir -p $android_res_shipping
-              python main.py $android_input $android_res_release
-              python main.py $android_input $android_res_shipping
+              python main.py $android_input $android_res_release ${{ github.event.repository.name }}
+              python main.py $android_input $android_res_shipping ${{ github.event.repository.name }}
             fi
           
             # iOS
@@ -40,8 +40,8 @@ jobs:
             if [ -f $ios_input ]; then
               mkdir -p $ios_res_release
               mkdir -p $ios_res_shipping
-              python main.py $ios_input $ios_res_release
-              python main.py $ios_input $ios_res_shipping
+              python main.py $ios_input $ios_res_release ${{ github.event.repository.name }}
+              python main.py $ios_input $ios_res_shipping ${{ github.event.repository.name }}
             fi
           done
       - name: Upload artifact for GitHub Pages

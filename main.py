@@ -54,6 +54,8 @@ def process_translation(input_file, output_dir):
 if __name__ == '__main__':
     raw_file = sys.argv[1]  # path to raw lawnstrings file
     out_dir = sys.argv[2]  # path to output directory
+    repo = sys.argv[3]
+    print(repo)
 
     os.makedirs(out_dir, exist_ok=True)
     process_translation(raw_file, out_dir)
