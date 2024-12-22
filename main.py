@@ -26,7 +26,7 @@ def encode(data: bytes):
     return step3
 
 
-def process_translation(input_file, output_dir, platform):
+def process_translation(input_file, output_dir):
     # Reading input file
     with open(input_file, "rb") as f:
         translation = f.read()
@@ -54,7 +54,6 @@ def process_translation(input_file, output_dir, platform):
 if __name__ == '__main__':
     raw_file = sys.argv[1]  # path to raw lawnstrings file
     out_dir = sys.argv[2]  # path to output directory
-    op_system = sys.argv[3]  # OS - ad (Android) or ios
 
     os.makedirs(out_dir, exist_ok=True)
-    process_translation(raw_file, out_dir, op_system)
+    process_translation(raw_file, out_dir)
