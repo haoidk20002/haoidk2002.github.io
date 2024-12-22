@@ -8,7 +8,7 @@
 
 ---
 ## How to use:
-Clone this repo (just main branch), name it with `<your_github_username>.github.io` (lower case every letter here),  and put your android translation into `raw/<game_version>` folder under `android_file.txt` name, result path should be `raw/<game_version>/android_file.txt`. For ios it will be `raw/<game_version>/ios_file.txt`. 
+Select `use this template -> create new repository`, name it with `<your_github_username>.github.io` (lower case every letter here),  and put your android translation into `raw/<game_version>` folder under `android_file.txt` name, result path should be `raw/<game_version>/android_file.txt`. For ios it will be `raw/<game_version>/ios_file.txt`. 
 Push the changes, and you'll see 2 actions running on github, one after another. 
 First one will create `gh-pages` branch, and there will be folders with such structure: `<game_version>/<ad>` and `<game_version/ios>`. 
 If some of raw files weren't present, e.g., `raw/<game_version>/ios_file.txt`, then `<game_version/ios>` folder won't be created. 
