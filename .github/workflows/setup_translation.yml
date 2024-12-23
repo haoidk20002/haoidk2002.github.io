@@ -43,6 +43,9 @@ jobs:
               python main.py $ios_input $ios_res_release ${{ github.event.repository.name }}
               python main.py $ios_input $ios_res_shipping ${{ github.event.repository.name }}
             fi
+            if [ -f "README.md" ]; then
+              cp "README.md" "translation/README.md"
+            fi
           done
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-artifact@v4
