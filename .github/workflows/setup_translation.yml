@@ -46,9 +46,6 @@ jobs:
               fi    
             done
           done
-          if [ -f "README.md" ]; then
-            cp "README.md" "translation/README.md"
-          fi
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-artifact@v4
         with:
