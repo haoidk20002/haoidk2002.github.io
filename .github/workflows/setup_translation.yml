@@ -43,12 +43,12 @@ jobs:
                 mkdir -p $ios_res_shipping
                 python main.py $ios_input $ios_res_release
                 python main.py $ios_input $ios_res_shipping
-              fi
-              if [ -f "README.md" ]; then
-                cp "README.md" "translation/README.md"
-              fi
+              fi    
             done
           done
+          if [ -f "README.md" ]; then
+            cp "README.md" "translation/README.md"
+          fi
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-artifact@v4
         with:
