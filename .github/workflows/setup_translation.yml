@@ -22,7 +22,7 @@ jobs:
       - name: Process Translation
         run: |
           for version in $(ls raw); do
-            for language in $(ls version); do
+            for language in $(ls $(version)); do
               # Android
               android_input="raw/$version/$language/android_file.txt"
               android_res_release="translation/$version/$language/ad/res_release"
