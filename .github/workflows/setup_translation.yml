@@ -22,7 +22,7 @@ jobs:
       - name: Process Translation
         run: |
           for version in $(ls raw); do
-            for language in $(ls $(version)); do
+            for language in $(ls raw/$(version)); do
               # Android
               echo $version
               echo $language
