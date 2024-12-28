@@ -24,8 +24,6 @@ jobs:
           for version in $(ls raw); do
             for language in $(ls raw/$version); do
               # Android
-              echo $version
-              echo $language
               android_input="raw/$version/$language/android_file.txt"
               android_res_release="translation/$version/$language/ad/res_release"
               android_res_shipping="translation/$version/$language/ad/res_shipping"
