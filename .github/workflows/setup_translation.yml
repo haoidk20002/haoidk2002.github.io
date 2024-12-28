@@ -22,30 +22,32 @@ jobs:
       - name: Process Translation
         run: |
           for version in $(ls raw); do
-            # Android
-            android_input="raw/$version/android_file.txt"
-            android_res_release="translation/$version/ad/res_release"
-            android_res_shipping="translation/$version/ad/res_shipping"
-            if [ -f $android_input ]; then
-              mkdir -p $android_res_release
-              mkdir -p $android_res_shipping
-              python main.py $android_input $android_res_release ${{ github.event.repository.name }}
-              python main.py $android_input $android_res_shipping ${{ github.event.repository.name }}
-            fi
-          
-            # iOS
-            ios_input="raw/$version/ios_file.txt"
-            ios_res_release="translation/$version/ios/res_release"
-            ios_res_shipping="translation/$version/ios/res_shipping"
-            if [ -f $ios_input ]; then
-              mkdir -p $ios_res_release
-              mkdir -p $ios_res_shipping
-              python main.py $ios_input $ios_res_release ${{ github.event.repository.name }}
-              python main.py $ios_input $ios_res_shipping ${{ github.event.repository.name }}
-            fi
-            if [ -f "README.md" ]; then
-              cp "README.md" "translation/README.md"
-            fi
+            for language in $(ls version); do
+              # Android
+              android_input="raw/$version/$language/android_file.txt"
+              android_res_release="translation/$version/$language/ad/res_release"
+              android_res_shipping="translation/$version/$language/ad/res_shipping"
+              if [ -f $android_input ]; then
+                mkdir -p $android_res_release
+                mkdir -p $android_res_shipping
+                python main.py $android_input $android_res_release
+                python main.py $android_input $android_res_shipping
+              fi
+            
+              # iOS
+              ios_input="raw/$version/$language/ios_file.txt"
+              ios_res_release="translation/$version/$language/ios/res_release"
+              ios_res_shipping="translation/$version/$language/ios/res_shipping"
+              if [ -f $ios_input ]; then
+                mkdir -p $ios_res_release
+                mkdir -p $ios_res_shipping
+                python main.py $ios_input $ios_res_release
+                python main.py $ios_input $ios_res_shipping
+              fi
+              if [ -f "README.md" ]; then
+                cp "README.md" "translation/README.md"
+              fi
+            done
           done
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-artifact@v4
