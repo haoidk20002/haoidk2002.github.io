@@ -10,7 +10,7 @@ import hashlib
 
 key = "65bd1b2305f46eb2806b935aab7630bb"
 tool = RijndaelCBC(key=key, block_size=24)
-magic = "DEADFED4"
+magic = 0xDEADFED4
 
 
 def decode(data: bytes):
@@ -20,7 +20,7 @@ def decode(data: bytes):
     return step3
 
 def encode(data: bytes):
-    step1 = binascii.unhexlify(magic) + struct.pack("<I", len(data)) + zlib.compress(data)
+    step1 = struct.pack("<I", magic) + struct.pack("<I", len(data)) + zlib.compress(data)
     step2 = tool.encrypt(step1)
     step3 = base64.b64encode(b"\x10\0" + step2)
     return step3
