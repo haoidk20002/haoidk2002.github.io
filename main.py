@@ -1,7 +1,6 @@
 from pyvz2rijndael import RijndaelCBC
 import base64
 import zlib
-import binascii
 import struct
 import sys
 import os
