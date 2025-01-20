@@ -33506,11 +33506,11 @@ Rafflesia碎片*10     6.00%    Chomper碎片*10     4.50%
 蚕豆突击队碎片*10   3.81%    贪吃龙草碎片  2.55%
 气泡奖励         10.00%
 9.玩家根据抽奖次数，将获得额外奖励，具体配置如下
-累计抽奖10次         贪吃龙草碎片*10
-累计抽奖30次         贪吃龙草碎片*10
-累计抽奖60次         贪吃龙草碎片*20
-累计抽奖100次       贪吃龙草碎片*40
-累计抽奖150次       贪吃龙草碎片*60
+累计抽奖10次        激光皇冠花碎片*10
+累计抽奖30次        激光皇冠花碎片*10
+累计抽奖60次        激光皇冠花碎片*20
+累计抽奖100次       激光皇冠花碎片*40
+累计抽奖150次       激光皇冠花碎片*60
 
 [WISHING_POOL_DESCRIPTION_1_VERSION2]
 活动规则：
@@ -33543,11 +33543,11 @@ Rafflesia碎片*10     6.00%    Chomper碎片*10     4.50%
 蚕豆突击队碎片*10   3.81%    贪吃龙草碎片  2.55%
 气泡奖励         10.00%
 9.玩家根据抽奖次数，将获得额外奖励，具体配置如下
-累计抽奖10次         贪吃龙草碎片*10
-累计抽奖30次         贪吃龙草碎片*10
-累计抽奖60次         贪吃龙草碎片*20
-累计抽奖100次       贪吃龙草碎片*40
-累计抽奖150次       贪吃龙草碎片*60
+累计抽奖10次        激光皇冠花碎片*10
+累计抽奖30次        激光皇冠花碎片*10
+累计抽奖60次        激光皇冠花碎片*20
+累计抽奖100次       激光皇冠花碎片*40
+累计抽奖150次       激光皇冠花碎片*60
 
 
 [WISHING_POOL_DESCRIPTION_TITLE]
@@ -36642,7 +36642,7 @@ You haven't selected wish rewards. Click the assist button to choose rewards.
 Get Nyuwa Ophiuros Party Assistance Costume.
 
 [PARTY_ASSIST_TASK_DES_1]
-获得女娲蛇尾草全身装扮以及火龙草兔耳帽装扮，桑葚爆破手周年庆装扮，电击钩吻新装扮
+获得女娲派对助力装扮以及火龙草兔耳帽装扮，桑葚爆破手周年庆装扮，电击钩吻新装扮
 
 [PARTY_ASSIST_TASK_DES_2]
 Acquire all Costumes in this event.
@@ -38444,6 +38444,13 @@ Happily Ever After
 [UNCHARTED_TALE_HEAD_DES_ID_10000]
 Collected all stars in Fairytale Forest - Part 2.
 And so, peace returns to the fae kingdom. The Wicked Empress' tyranny is put to an eternal end. Hurrah to our hero!
+
+[UNCHARTED_NO42_HEAD_ID_10000]
+平行宇宙征服者
+
+[UNCHARTED_NO42_HEAD_DES_ID_10000]
+完美通关42号平行宇宙的证明
+
 [PARTYEPSACTIVITY_HEAD_ID_25535]
 Party Mandrake
 
@@ -38523,7 +38530,7 @@ Please complete the previous levels first.
 [PVZ2_UNCHARTED_MODE_NO42_UNIVERSE_TIPS_DESC]
 1.困难模式最后一关通关后可解锁无尽模式。
 2.无尽模式总共100波，每一波从所有的秘境僵尸池里随机选择僵尸出现，僵尸的阶级和数量逐渐递增。
-3.挑战无尽模式没有货币奖励，但是商店中兑换的纪念头像上会显示玩家通过的最高无尽波数。
+3.挑战无尽模式通关可获得大量高级币奖励，可在商店中兑换纪念头像。
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_NO42_UNIVERSE]
 1.时空秘境中拥有各种不同的新世界和新僵尸等待你来探索，每个世界都有普通和困难关卡。
@@ -67044,6 +67051,9 @@ If you want to prove your strength, challenge with Dr. Zomboss in the Steam Age!
 [TASK_WORLDTASK_EGYPT1]
 Complete the easy mode of Ancient Egypt day 8
 
+[TASK_WORLDTASK_EGYPT2]
+Complete the hard mode of Ancient Egypt day 8
+
 [TASK_WORLDTASK_EGYPT3]
 Complete the final day of Ancient Egypt
 
@@ -70681,7 +70691,7 @@ Speed Racing - Day 6 (Hard)
 Speed Racing - Day 7 (Hard)
 
 [PLAYERS_TRIP_TO_NO42]
-{PLAYER}的42号平行副宇宙之旅
+{PLAYER}的42号平行宇宙之旅
 
 [NO42_LEVEL_NAME_01]
 开场
@@ -71915,6 +71925,7 @@ Black Hole Fantastic Journey
 1、通过购买礼包获得星星币，消耗星星币在活动中抽取奖励，星星币与小型黑洞无法继承至下期活动，活动结束后根据1：10与1：1的比例自动转化为钻石。
 2、每次抽奖有概率获得小型黑洞或其他奖励，幸运的小僵僵有概率直接获取瓷砖萝卜超级装扮。
 3、若连续20次内抽奖未抽到大奖，则下次抽奖奖励会在保底奖池中抽取。
+4、重复抽到的超级装扮会自动转化为200个小型黑洞奖励。
 
 保底奖池概率：
 瓷砖萝卜超级装扮：    3.72%    大奖
@@ -71938,7 +71949,7 @@ Black Hole Fantastic Journey
 潘妮秘宝券*1：     17.00%    普通
 
 [TOY_NIGHT_GACHA_GOT_HINT]
-已拥有,自动转换为积分奖励
+如已拥有,自动转换为积分奖励
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
 活动说明
@@ -72860,8 +72871,29 @@ Bubble Coral Costume
 [RANK_AVATAR_CONTENT_CONTENT_61034]
 2025年参加三月同游活动的玩家奖励
 
+[RANK_AVATAR_CONTENT_TITLE_61035]
+金蛇狂舞
+
+[RANK_AVATAR_CONTENT_CONTENT_61035]
+双人对决第27赛季宗师段位奖励
+
+[RANK_AVATAR_CONTENT_TITLE_61036]
+智慧之视
+
+[RANK_AVATAR_CONTENT_CONTENT_61036]
+双人对决第28赛季宗师段位奖励
+
 [RANK_AVATAR_DIY_34]
 滑雪大冒险
+
+[RANK_AVATAR_DIY_35]
+烟花易冷
+
+[RANK_AVATAR_DIY_36]
+金蛇狂舞
+
+[RANK_AVATAR_DIY_37]
+智慧之视
 
 [UNCHARTED_ICEAGE_ID_25391]
 Spilt Latte
@@ -73143,9 +73175,10 @@ Attack speed increased by 10%.
 [UINEWYEARREDPACKET_DES_DESCRIPTION]
 1.活动每日固定时间12:00-14:00及18：00-21：00可在主界面领取一次红包（一天最多可领取2次）
 2.1月27日到2月9日期间，每日21点，将从全服(ios和安卓各1)抽出一个幸运玩家（需领取过当日红包），获得当日配置的极高价值头奖
-3.特殊日期（暂定除夕、初一、初五），增加每天一次的实物抽奖，除夕、初一、初五00：00-21：59可在活动页面消耗抽奖券在实物大奖界面报名
-4.玩家每消耗一张抽奖券，记录一次该报名玩家信息，金条大奖将会在除夕、初一、初五22：00开奖时从所有记录中抽取。
-5.每日幸运大奖是在第二天开奖前未登录领取，视为放弃奖励。
+3.特殊日期（除夕、初一、初五），增加每天一次的实物抽奖，除夕、初一、初五00：00-21：59可在活动页面消耗抽奖券在实物大奖界面报名
+4.玩家每消耗一张抽奖券，记录一次该报名玩家信息，实物大奖将会在除夕、初一、初五22：00开奖时从所有记录中抽取。
+5.每日幸运大奖在第二天开奖前未登录领取，视为放弃奖励。
+6.实物大奖为 ^CDBE70 5g《植物大战僵尸2》定制金钞 ^oldclr ，奖励以实物为准
 
 [UINEWYEARREDPACKET_DES_TITLE]
 新年领红包活动说明
