@@ -73360,5 +73360,75 @@ Attack speed increased by 10%.
 [REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
 恭喜您被选中成为今日最幸运玩家
 
-[PVZ2_CHINESE_END
+[PVZ2_CHINESE_END]
+[LOADING_1]
+^00FF08^ English Patch Plus features: You have a turbo button that allows you to speed up the game in a level.
+
+[LOADING_2]
+^00FF08^ English Patch Plus features: Added Mower Launch and Instant Recharge upgrades (You can get it in Star Exchange)
+
+[LOADING_3]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[LOADING_4]
+^00FF08^ English Patch Plus features: You could have the Octopus Artifact for free. Beat it's demo level to get it.  
+
+[LOADING_5]
+^00FF08^ English Patch Plus features: You can use all plants in the Memory Lane mode.  
+
+[LOADING_6]
+^00FF08^ English Patch Plus features: You can get up to 20000 crystal/week after beating an adventure level.
+
+[LOADING_7]
+^00FF08^ English Patch Plus features: Ported some extra fonts from the international version!
+
+[LOADING_8]
+^00FF08^ English Patch Plus features: Auto Collecting Sun, Plant Food and Coins!
+
+[LOADING_9]
+^00FF08^ English Patch Plus features: You have a locally VIP Profile Picture!
+
+[LOADING_10]
+^00FF08^ English Patch Plus features: Plant Food and Sun now costs coins!
+
+[LOADING_11]
+^00FF08^ English Patch Plus features: Some quests are automatically completed for you!
+
+[LOADING_12]
+^00FF08^ English Patch Plus features: Unlocking New World with 1 stars!
+
+[LOADING_13]
+^00FF08^ English Patch Plus features: The amount of star required for unlocking items in Star Exchange are now cheaper!
+
+[360_1_NOTICE_1]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+
+[360_1_NOTICE_2]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[360_1_NOTICE_3]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[360_1_NOTICE_4]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[360_1_NOTICE_5]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[360_1_NOTICE_6]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[360_1_NOTICE_7]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[360_1_NOTICE_8]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[360_1_NOTICE_9]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[360_1_NOTICE_10]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
 [ENDURIAN_SKILL_LEVEL1]
