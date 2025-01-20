@@ -15,5 +15,7 @@ You can refer to [CyberSteve's tutorial](https://github.com/CyberSteve777/cybers
 ## Adding to Serverconfig
 ```
 https://nvdtn19.github.io/file/en/ad/res_release
+```
+```
 https://nvdtn19.github.io/file/en/ad/res_shipping
 ```
