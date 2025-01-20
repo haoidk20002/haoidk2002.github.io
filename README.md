@@ -14,8 +14,16 @@ You can refer to [CyberSteve's tutorial](https://github.com/CyberSteve777/cybers
 
 ## Adding to Serverconfig
 ```
-https://nvdtn19.github.io/file/en/ad/res_release
-```
-```
-https://nvdtn19.github.io/file/en/ad/res_shipping
+		{
+			"objclass": "LawnStringServerConfig",
+			"aliases": [
+				"LawnStringServerConfig"
+			],
+			"objdata": {
+				"ReleaseFileInfoURL": "https://nvdtn19.github.io/file/en/ad/res_release",
+				"ShippingFileInfoURL": "https://nvdtn19.github.io/file/en/ad/res_shipping",
+				"ReleaseFileURL": "https://nvdtn19.github.io/file/en/ad/res_release",
+				"ShippingFileURL": "https://nvdtn19.github.io/file/en/ad/res_shipping"
+			}
+		},
 ```
