@@ -11,3 +11,9 @@ Note: If you want to download the translation patch, this is not a place to do t
 ---
 ## How to build my own one?
 You can refer to [CyberSteve's tutorial](https://github.com/CyberSteve777/cybersteve777.github.io) on how to create your own one.
+
+## Adding to Serverconfig
+```
+https://nvdtn19.github.io/file/en/ad/res_release
+https://nvdtn19.github.io/file/en/ad/res_shipping
+```
