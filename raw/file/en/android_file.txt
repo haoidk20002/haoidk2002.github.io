@@ -1,4 +1,4 @@
-[ORIGINAL_TRANSLATION_MADE_BY_PEA_GAMEPLAY]
+﻿[ORIGINAL_TRANSLATION_MADE_BY_PEA_GAMEPLAY]
 [COMPLAIN_CONTENT]
 Translated by Pea Gameplay (Original author) with some help from Nectarinna and evilhack28.
 
@@ -1566,13 +1566,13 @@ Bloomerang shoots boomerangs down his lane, dealing damage to up to 3 different 
 用力一顶击退自己前方一格的僵尸，^ff0000^造成伤害^oldclr^并使它们^848484^眩晕Ⅰ^oldclr^5秒。
 
 [DOUBLESAMARA_NEW_SKILL_LEVEL1_DES]
-将3×3范围内僵尸吹到空中聚在一起，然后分开。在“天空之城”的天空区域可以对僵尸造成500点伤害。秒杀可以被他拖动的阶数低于他的处在空中的僵尸
+将3×3范围内僵尸吹到空中聚在一起，然后分开。在"天空之城"的天空区域可以对僵尸造成500点伤害。秒杀可以被他拖动的阶数低于他的处在空中的僵尸
 
 [DOUBLESAMARA_NEW_SKILL_LEVEL2_DES]
-使旋涡枇杷引起的旋风能够直接将一阶僵尸拉扯下去。在“天空之城”的天空区域可以对僵尸造成 750 点伤害。
+使旋涡枇杷引起的旋风能够直接将一阶僵尸拉扯下去。在"天空之城"的天空区域可以对僵尸造成 750 点伤害。
 
 [DOUBLESAMARA_NEW_SKILL_LEVEL3_DES]
-使旋涡枇杷引起的旋风能够直接将二阶僵尸拉扯下去，在“天空之城”的天空区域可以对僵尸造成 1000 点伤害。
+使旋涡枇杷引起的旋风能够直接将二阶僵尸拉扯下去，在"天空之城"的天空区域可以对僵尸造成 1000 点伤害。
 
 [DOUBLESAMARA_PLANTFOOD_DESCRIPTION]
 此植物无能量豆大招。
@@ -4869,7 +4869,7 @@ Complete a level using only Phat Beets to defeat zombies
 Beet It
 
 [ACHIEVE_EIGHTIES_BREAKING_IT_OFF_DESC]
-Defeat a Boombox Zombie before it’s able to express its feelings through the power of song
+Defeat a Boombox Zombie before it's able to express its feelings through the power of song
 
 [ACHIEVE_EIGHTIES_BREAKING_IT_OFF_TITLE]
 Breaking It Off
@@ -6906,7 +6906,7 @@ Chinese_China
 Delete
 
 [MAINMENU_DELETE_PROFILE_BODY]
-如果“删除”这个存档，你将失去该存档的所有游戏数据，包括你已经购买的道具。
+如果"删除"这个存档，你将失去该存档的所有游戏数据，包括你已经购买的道具。
 
 [MAINMENU_DELETE_PROFILE_HEADER]
 你确定吗？
@@ -7352,7 +7352,7 @@ Coin Pack 5000
 铲除后+25%返还阳光! 
 
 [product_10_name]
-强化—嘉奖阳光铲
+强化-嘉奖阳光铲
 
 [product_10_short_description]
 嘉奖阳光铲
@@ -9749,11 +9749,11 @@ Spring Festival Challenge: Blessed by Fate
 Not Enough Gems!
 
 [GEM_NOT_ENOUGH_DIALOG_TEXT]
-Oops, you don’t have enough gems for that!
+Oops, you don't have enough gems for that!
 Earn more gems or buy them in the store!
 
 [STAMINA_NOT_ENOUGH_DIALOG_TITLE]
-Oops, you don’t have enough Physical Strength!
+Oops, you don't have enough Physical Strength!
 
 [STAMINA_NOT_ENOUGH_DIALOG_TEXT]
 Buy more Physical Strength?
@@ -11019,7 +11019,7 @@ Earn more stars to get the new plants!
 【签到植物 惊喜连连】
 2月新植物猕猴桃粉墨登场，坚持签到即可获得二阶植物与丰厚钻石奖励! 
 
-——小豌豌
+--小豌豌
 
 [NOTICE_CONTENT_FIRST_LABORDAY]
 亲爱的各位玩家：
@@ -11057,11 +11057,11 @@ Cherry Bomb ^ff0000^ 装扮 ^oldclr^ -装备后炸死僵尸获得额外阳光!
 
 
 [NOTICE_CONTENT_FIRST_QQ]
-亲爱的植物小伙伴们， 
-    疯狂戴夫已经穿越到中国来啦，大波功夫僵尸磨刀霍霍向你的脑子袭来!  
+亲爱的植物小伙伴们， 
+    疯狂戴夫已经穿越到中国来啦，大波功夫僵尸磨刀霍霍向你的脑子袭来!  
     与此同时，我们为大家准备了更加刺激的每日挑战，觉得僵尸还不够厉害？远古的巨人僵尸已经被召唤! 每次只打败一个雪人僵尸不过瘾？我们有雪人大暴走，大批马年雪人僵尸向你袭来! 
     全新植物装扮系统已经上线! 给植物们穿上新的服饰，除了更华丽，还能解锁新的植物技能! 而每天击败巨人，就能获得这些宝贵的奖品! 
-    全新功夫植物，全新玩法闪亮登场! 和戴夫一起种下植物，体验全新的游戏欢乐吧!  
+    全新功夫植物，全新玩法闪亮登场! 和戴夫一起种下植物，体验全新的游戏欢乐吧!  
 
 [SUMMARY_USE_OLDER_DATA_HEADER]
 Use Different Progress
@@ -13384,7 +13384,7 @@ Coconut Cannon发射一颗尖头开花弹，击中僵尸后会额外炸出最多
 超级甜度
 
 [SWEETPOTATO_SKILL1_LEVEL2_DES]
-使“能量分解”的效果提升100%。
+使"能量分解"的效果提升100%。
 
 [BOWLINGBULB_SKILL_LEVEL1]
 快速生长
@@ -14262,7 +14262,7 @@ The name you entered contains sensitive characters, please re-enter it.
 （获赠的钻石分7日领取，无需连续登录）
 <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_1 align=center width=1016 height=320>
 
-——小豌豌
+--小豌豌
 
 [BONUS_KEY_EGYPT_SHORT]
 Sandy Key
@@ -14377,7 +14377,7 @@ Dear Players:
 2. Sweet Potato碎片x10
 
 感谢大家对《植物大战僵尸2》的支持，祝大家在植物大战僵尸2中度过一个愉快的假期! 
-————————小豌豌
+--------小豌豌
 
 [DAILY_REWARD_COMPENSATION_CONTENT_SPECIAL]
 亲爱的各位玩家：
@@ -14389,7 +14389,7 @@ Dear Players:
 Big Wave Beach版本上线后，甜薯、莲叶、大嘴花、保龄泡泡4个植物由于数据错乱导致的消失或多出情况，我们已经按照出错前的碎片和阶数进行恢复，并给予玩家50钻石的补偿。
 
 感谢大家对《植物大战僵尸2》的支持，祝大家在植物大战僵尸2中度过一个愉快的假期! 
-————————小豌豌
+--------小豌豌
 
 [COMPEN_OBTAIN]
 Recieve
@@ -18171,7 +18171,7 @@ Current score: {NUM}
 {NUMBER} coins
 
 [NATIONALDAY_ACTIVE_TIME_1]  
-October 29 – November 15
+October 29 - November 15
 
 [NATIONALDAY_ACTIVE_CONTENT]  
 During the event period, participate in the lottery for a chance to win the two-year anniversary plant Sunflower Singer.
@@ -18346,10 +18346,10 @@ d
 点击礼物盒看看里面有什么礼物～
 
 [BIRTHZ_DZ_FOOT]
-每天前3次参与“儿童节挑战”活动都可以抽出大奖! 
+每天前3次参与"儿童节挑战"活动都可以抽出大奖! 
 
 [LABOR_DZ_FOOT]
-参与“破罐大师”活动都可以抽出大奖! 
+参与"破罐大师"活动都可以抽出大奖! 
 
 [BIRTHZ_DIALOG_LVTITLE]
 关卡奖励
@@ -20981,7 +20981,7 @@ Gems
 神秘礼盒
 
 [HES_GOT_YOUR_BACK]
-小心身后——还有身前! 
+小心身后--还有身前! 
 
 [HOURS]
 h
@@ -21121,7 +21121,7 @@ Piñata派对时间到。连赢 {LARGE_PINATA_INTERVAL} 场即可挑战Señor Pi
 旅行日志更新：就快达成了! 赢得 {XP_NEEDED} 点，提升级别至 {NEXT_RANK}级。
 
 [LOCAL_NOTE_VASEBREAKER_6D_01]
-Play Vasebreaker today! Those vases won’t smash themselves.
+Play Vasebreaker today! Those vases won't smash themselves.
 
 [LOCAL_NOTE_VASEBREAKER_ENDLESS_CONTINUE]
 You're smashing it up in Vasebreaker! Play now to break your all-time zombie-wave record.
@@ -21136,7 +21136,7 @@ Unlock the Butterizer! Defeat three Vasebreaker levels and all the butter is you
 Take on the Vasebreaker again to unlock the mighty Butterizer!
 
 [LOCAL_NOTE_VASEBREAKER_UNLOCK_BUTTERZOMBIE_03]
-Don’t stop Vasebreaking now! One more level and Butterizer and its mighty butter are yours!
+Don't stop Vasebreaking now! One more level and Butterizer and its mighty butter are yours!
 
 [LOCAL_NOTE_VASEBREAKER_UNLOCK_MOVEVASE]
 The zombies are coming in Vasebreaker! Defeat {ENDLESS_WAVE} waves to take control with the Vase Displacer!
@@ -21290,7 +21290,7 @@ PIÑATA 派对
 点击烟花盒3次，打开神秘宝藏! 
 
 [LOD_OPEN_REWARDS_BIRTHDAYZ_FOOTER]
-每次获胜都可赢得宝石!  
+每次获胜都可赢得宝石!  
 
 [LOD_OPEN_REWARDS_FOOTER]
 获得2倍金币奖励，来源为
@@ -22365,7 +22365,7 @@ Purchase Cancelled
 You already have an in-progress transaction for the requested product.
 
 [PURCHASE_ERROR_INSUFFICIENT_GEMS]
-Oops, you don’t have enough gems for that! Earn more gems or buy them in the store!
+Oops, you don't have enough gems for that! Earn more gems or buy them in the store!
 
 [PURCHASE_ERROR_INVALID_SKU]
 The requested SKU could not be found in the catalog.
@@ -22552,7 +22552,7 @@ Find in {WORLDNAME}
 植物装扮只会对当前档案有效
 
 [STORE_FEATURE_PLANT_CURRENT_PROFILE]
-戴夫说：“使用强力的新植物来击退僵尸! ”
+戴夫说："使用强力的新植物来击退僵尸! "
 
 [STORE_GEMS_CURRENT_PROFILE]
 你在商城中购买的宝石只会对当前档案生效
@@ -23921,7 +23921,7 @@ Spend ^00FF00{NUMBER} Gems^oldclr to try your luck.
 Winter Champion
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25017]
-恭喜你获得“冬日挑战大赛最强”称号。
+恭喜你获得"冬日挑战大赛最强"称号。
 
 [BOSS_CHALLENGE_HEAD_ID_25018]
 冬日挑战亚军
@@ -24612,7 +24612,7 @@ SDK初始化失败
 现价
 
 [RECHARGEBUNDLE_LIMIT_TIME]
-活动时间 7月6日12：00——7月14日 12：00
+活动时间 7月6日12：00--7月14日 12：00
 
 [RECHARGEBUNDLE_EVENT_TIPS]
 限时特惠 过期不候
@@ -24636,7 +24636,7 @@ SDK初始化失败
 点击红包看看里面有什么礼物～
 
 [YUANBAODEFENCE_DZ_FOOT]
-每天前3次参与“元宝大作战”活动都可以抽出特殊奖励哦! 
+每天前3次参与"元宝大作战"活动都可以抽出特殊奖励哦! 
 
 [SUMMEREVENTGAMEMODE_DAYS_TITLE]
 第{DAY}天关卡
@@ -25806,7 +25806,7 @@ Small blessing gift pack
 您的票已用完，请购买门票再进行游戏
 
 [PVZ_WORLDCUP_ACTIVITY_TIME]
-活动时间:{NUM1}月{NUM2}日——{NUM3}月{NUM4}日
+活动时间:{NUM1}月{NUM2}日--{NUM3}月{NUM4}日
 
 [PVZ_FESTIVAL_GAME_TIME]
 2019年6月1日--2019年6月14日
@@ -27171,8 +27171,8 @@ Select one of the following Super Pendants:
 活动规则:
 1、玩家通过完成每日挑战、每周挑战、限定挑战中的任务,获得经验。每收集500经验可以提升至下一等级,获取对应的等级奖励。
 2、随着等级提升,奖励将会更加丰厚。前50级奖励中包含宝石,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出宝石。
-3、激活高级权益,可以在“秋日庆典”获得中获取更多权益,包括解锁高级档位的奖励领取资格、等级立即提升10级、任务获得经验加成20%、150钻石。其中任务获取加成仅激活后领取的经验生效,激活前已领取的经验按原规则发放。
-4、使用宝石可在“宝藏”栏目参与转盘抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
+3、激活高级权益,可以在"秋日庆典"获得中获取更多权益,包括解锁高级档位的奖励领取资格、等级立即提升10级、任务获得经验加成20%、150钻石。其中任务获取加成仅激活后领取的经验生效,激活前已领取的经验按原规则发放。
+4、使用宝石可在"宝藏"栏目参与转盘抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
 5、宝藏转盘中所有奖励有且仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
 金币22.66%、钻石27.20%、挂件19.26%、植物24.25%、超级挂件2.04%、单抽券4.53%、进阶书0.06%。
 6、部分等级奖励、转盘奖励中可以自选奖励,本期活动中在各个自选档位投放的内容如下:
@@ -27195,8 +27195,8 @@ Flower Pot和稀有挂件碎片:Speed-Up Flower Pot、Sun-Concentrating Flower P
 活动规则:
 1、玩家通过完成每日挑战、每周挑战、限定挑战中的任务,获得经验。每收集500经验可以提升至下一等级,获取对应的等级奖励。
 2、随着等级提升,奖励将会更加丰厚。前50级奖励中包含宝石,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出宝石。
-3、激活高级权益,可以在“冬日庆典”获得中获取更多权益,包括解锁高级档位的奖励领取资格、等级立即提升20级、任务获得经验加成20%、150钻石。其中任务获取加成仅激活后领取的经验生效,激活前已领取的经验按原规则发放。
-4、使用宝石可在“宝藏”栏目参与转盘抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
+3、激活高级权益,可以在"冬日庆典"获得中获取更多权益,包括解锁高级档位的奖励领取资格、等级立即提升20级、任务获得经验加成20%、150钻石。其中任务获取加成仅激活后领取的经验生效,激活前已领取的经验按原规则发放。
+4、使用宝石可在"宝藏"栏目参与转盘抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
 5、宝藏转盘中所有奖励有且仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
 金币22.66%、钻石27.20%、挂件19.26%、植物24.25%、超级挂件2.04%、单抽券4.53%、进阶书0.06%。
 6、部分等级奖励、转盘奖励中可以自选奖励,本期活动中在各个自选档位投放的内容如下:
@@ -27219,8 +27219,8 @@ Flower Pot和稀有挂件碎片:Speed-Up Flower Pot、Sun-Concentrating Flower P
 活动规则:
 1、玩家通过完成每日挑战、每周挑战、限定挑战中的任务,获得经验。每收集500经验可以提升至下一等级,获取对应的等级奖励。
 2、随着等级提升,奖励将会更加丰厚。前50级奖励中包含宝石,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出宝石。
-3、激活高级权益,可以在“恭贺新春”获得中获取更多权益,包括解锁高级档位的奖励领取资格、等级立即提升20级、任务获得经验加成20%、150钻石。其中任务获取加成仅激活后领取的经验生效,激活前已领取的经验按原规则发放。
-4、使用宝石可在“宝藏”栏目参与转盘抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
+3、激活高级权益,可以在"恭贺新春"获得中获取更多权益,包括解锁高级档位的奖励领取资格、等级立即提升20级、任务获得经验加成20%、150钻石。其中任务获取加成仅激活后领取的经验生效,激活前已领取的经验按原规则发放。
+4、使用宝石可在"宝藏"栏目参与转盘抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
 5、宝藏转盘中所有奖励有且仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
 金币22.66%、钻石27.20%、挂件19.26%、植物24.25%、超级挂件2.04%、单抽券4.53%、进阶书0.06%。
 6、部分等级奖励、转盘奖励中可以自选奖励,本期活动中在各个自选档位投放的内容如下:
@@ -27243,8 +27243,8 @@ Flower Pot和稀有挂件碎片:Speed-Up Flower Pot、Sun-Concentrating Flower P
 活动规则:
 1、玩家通过完成每日挑战、每周挑战、限定挑战中的任务,获得经验。每收集500经验可以提升至下一等级,获取对应的等级奖励。
 2、随着等级提升,奖励将会更加丰厚。前50级奖励中包含宝石,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出宝石。
-3、激活高级权益,可以在“游园花会”获得中获取更多权益,包括解锁高级档位的奖励领取资格、等级立即提升20级、任务获得经验加成20%、150钻石。其中任务获取加成仅激活后领取的经验生效,激活前已领取的经验按原规则发放。
-4、使用宝石可在“宝藏”栏目参与转盘抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
+3、激活高级权益,可以在"游园花会"获得中获取更多权益,包括解锁高级档位的奖励领取资格、等级立即提升20级、任务获得经验加成20%、150钻石。其中任务获取加成仅激活后领取的经验生效,激活前已领取的经验按原规则发放。
+4、使用宝石可在"宝藏"栏目参与转盘抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
 5、宝藏转盘中所有奖励有且仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
 金币22.66%、钻石27.20%、挂件19.26%、植物24.25%、超级挂件2.04%、单抽券4.53%、进阶书0.06%。
 6、部分等级奖励、转盘奖励中可以自选奖励,本期活动中在各个自选档位投放的内容如下:
@@ -28003,15 +28003,15 @@ Obtained from events.
 [CARNIVAL_DESCRIPTION_1]
 活动规则:
 1、每天都会刷新多款礼包，可以购买兑换券兑换获取；
-2、每次购买礼包，除了固定获得的商品内容外，将会额外获得概率产出，领取更多奖品和钻石，点击礼包右上角的“?”按钮可以查看详情；
+2、每次购买礼包，除了固定获得的商品内容外，将会额外获得概率产出，领取更多奖品和钻石，点击礼包右上角的"?"按钮可以查看详情；
 3、活动期间，每天20:00-22:00将会开启秒杀礼包抢购活动：
 A、特惠礼包：以超值折扣获取特惠礼包，限量1000份，每人限购1份；
 B、福袋礼包：购买礼包后，可随机获得一款当天在售礼包。限量10000份，每人限购1份；
-4、点击“秒杀预告”功能，可以查看下一场秒杀礼包的内容；
+4、点击"秒杀预告"功能，可以查看下一场秒杀礼包的内容；
 5、累计购买多款礼包，可以解锁个人进度奖励，购买礼包的次数越多，奖励越丰厚；
 6、购买礼包积攒全服进度，解锁全服进度奖励。需要至少购买1次礼包才可领取全服进度奖励；
 7、购买礼包获取到大量额外产出时，有机会登上全服跑马灯展示功能，向大家分享你的好运气；
-8、点击兑换券右侧“+”按钮可以前往充值页面，当期未消耗的兑换券可以保留至后续嘉年华活动使用；
+8、点击兑换券右侧"+"按钮可以前往充值页面，当期未消耗的兑换券可以保留至后续嘉年华活动使用；
 
 [CARNIVAL_DESCRIPTION_2]
 9、各礼包包含的内容如下：
@@ -28583,11 +28583,11 @@ Crystal
 Tactical Cuke
 
 [RECHARGE_DAILYSIGN_ACTIVITY_DESC_PARAM]
-活动说明，{MONTH}月{START}日——{END}日，每日签到可得丰厚奖励，
+活动说明，{MONTH}月{START}日--{END}日，每日签到可得丰厚奖励，
 期间充值任意钻石还能同时获得高级奖励。
 
 [RECHARGE_DAILYSIGN_ACTIVITY_DESC]
-活动说明，6月1日——10日，每日签到可得丰厚奖励，
+活动说明，6月1日--10日，每日签到可得丰厚奖励，
 期间充值任意钻石还能同时获得高级奖励。
 
 [RECHARGE_DAILYSIGN_ACTIVITY_TIME_COUNTDOWN]
@@ -28617,11 +28617,11 @@ Tactical Cuke
 Claimed
 
 [DISCOUNT_SHOP_ACTIVITY_DESC]
-活动期间，6月1日————6月10日，每天充值任意数量钻石，即可
+活动期间，6月1日----6月10日，每天充值任意数量钻石，即可
 购买当日折扣奖池内道具。
 
 [DISCOUNT_SHOP_ACTIVITY_DESC_PARAM]
-活动期间，{MONTH}月{START}日————{MONTH}月{END}日，每天充值任意数量钻石，即可
+活动期间，{MONTH}月{START}日----{MONTH}月{END}日，每天充值任意数量钻石，即可
 购买当日折扣奖池内道具。
 
 [DISCOUNT_SHOP_ACTIVITY_DIAMOND]
@@ -28910,7 +28910,7 @@ DISAGREE
 ^FF0000^ 150 CNY^oldclr^
 
 [MONTHLY_CARD_LINE]
-^FF0000^ ——— ^oldclr^
+^FF0000^ --- ^oldclr^
 
 [PRODUCT_MONTHLY_CARD_SPECIAL_01]
 购买7天体验权
@@ -29462,27 +29462,27 @@ Children's Playpark (Hard Mode) - Level 7
 成长礼包说明
 
 [SURVEY_QUESTION_0]
-1.您体验过“创意庭院”了吗？
+1.您体验过"创意庭院"了吗？
 [SURVEY_ANSWER_0]
 ca=已经游玩并尝试创作了关卡|仅游玩，但尚未进行创作|知道这个模式但尚未体验|这是啥？|
 
 [SURVEY_QUESTION_1]
-2.您觉得“创意庭院”的创作模式：
+2.您觉得"创意庭院"的创作模式：
 [SURVEY_ANSWER_1]
 ca=操作引导简单易懂，能快速上手|能够基本熟悉操作和发布的方式|操作不便，有点无从下手|尚未进行体验|
 
 [SURVEY_QUESTION_2]
-3.您觉得“创意庭院”商店中最吸引您的是：
+3.您觉得"创意庭院"商店中最吸引您的是：
 [SURVEY_ANSWER_2]
 ca=排行榜名片/头像|植物/装扮碎片|钻石/金币|尚未进行兑换|
 
 [SURVEY_QUESTION_3]
-4.您觉得“创意庭院”最吸引您的方面是：
+4.您觉得"创意庭院"最吸引您的方面是：
 [SURVEY_ANSWER_3]
 ca=创作关卡|游玩关卡|创作排行榜|兑换商店|
 
 [SURVEY_QUESTION_4]
-5.您觉得“创意庭院”有待改进的是：
+5.您觉得"创意庭院"有待改进的是：
 [SURVEY_ANSWER_4]
 ca=创作关卡|游玩关卡|创作排行榜|兑换商店|
 
@@ -29492,24 +29492,24 @@ ca=创作关卡|游玩关卡|创作排行榜|兑换商店|
 ca=对我通关很有帮助|娱乐性大于实用性|整体偏弱或有副作用|尚未体验|
 
 [SURVEY_QUESTION_6]
-7.您觉得“扭蛋神器”的整体强度如何：
+7.您觉得"扭蛋神器"的整体强度如何：
 [SURVEY_ANSWER_6]
 ca=对我通关很有帮助|娱乐性大于实用性|整体偏弱或有副作用|尚未体验|
 
 [SURVEY_QUESTION_7]
-8.您觉得“回忆之旅”第三赛季的关卡难度：
+8.您觉得"回忆之旅"第三赛季的关卡难度：
 
 [SURVEY_ANSWER_7]
 ca=不觉得难，可以熟练应对|整体偏难，但可以接受|难度偏高，过关有点困难|还没有体验过第三赛季|
 
 [SURVEY_QUESTION_8]
-9.您觉得新植物“烈焰火蕨”的强度：
+9.您觉得新植物"烈焰火蕨"的强度：
 
 [SURVEY_ANSWER_8]
 ca=对我通关很有帮助|娱乐性大于实用性|整体偏弱或有副作用|尚未获得该植物|
 
 [SURVEY_QUESTION_9]
-10.您觉得新植物“虎头菇”的强度：
+10.您觉得新植物"虎头菇"的强度：
 
 [SURVEY_ANSWER_9]
 ca=对我通关很有帮助|娱乐性大于实用性|整体偏弱或有副作用|尚未获得该植物|
@@ -34163,8 +34163,8 @@ Production interval
 活动规则:
 1、玩家通过完成每日挑战、每周挑战、限定挑战中的任务,获得经验。每收集500经验可以提升至下一等级,获取对应的等级奖励。
 2、随着等级提升,奖励将会更加丰厚。前50级奖励中包含宝石,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出宝石。
-3、激活高级权益,可以在“立夏庆典”获得中获取更多权益,包括解锁高级档位的奖励领取资格、等级立即提升20级、任务获得经验加成20%、150钻石。其中任务获取加成仅激活后领取的经验生效,激活前已领取的经验按原规则发放。
-4、使用宝石可在“宝藏”栏目参与转盘抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
+3、激活高级权益,可以在"立夏庆典"获得中获取更多权益,包括解锁高级档位的奖励领取资格、等级立即提升20级、任务获得经验加成20%、150钻石。其中任务获取加成仅激活后领取的经验生效,激活前已领取的经验按原规则发放。
+4、使用宝石可在"宝藏"栏目参与转盘抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
 5、宝藏转盘中所有奖励有且仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
 金币22.66%、钻石27.20%、挂件19.26%、植物24.25%、超级挂件2.04%、单抽券4.53%、进阶书0.06%。
 6、部分等级奖励、转盘奖励中可以自选奖励,本期活动中在各个自选档位投放的内容如下:
@@ -35353,7 +35353,7 @@ Upgrade
 全服进行10次聚宝盆抽奖，奖池内钻石数量+1
 
 [CORNUCOPIA_MARQUEE_TEMPLATE]
-恭喜玩家{NAME}在“欢乐聚宝盆”中抽中幸运奖，获得{INFO}
+恭喜玩家{NAME}在"欢乐聚宝盆"中抽中幸运奖，获得{INFO}
 
 [CORNUCOPIA_SHOP_ITEM_LOCK_DESCRIPTION_1]
 Unlock at Level 1
@@ -36498,7 +36498,7 @@ In 2023, the Two-player mode was launched!
     Congratulations on receiving the anniversary deluxe reward. Click to claim it now!
 
 [TENYEAR_RECORD_INDEX4_3]
-    ———— Dear, Dave
+    ---- Dear, Dave
 
 [PRODUCT_PLANT_CULTIVATE_20_SHORTDESC]
 Plant Cultivation Limited Gift Pack
@@ -37846,7 +37846,7 @@ Happy Slide
 游戏类型：休闲益智
 公司名称：拓维信息系统股份有限公司
 客服QQ公众号： 4008932088
-注：点击“找人”，显示“拓维游戏”公众号，点击“关注”
+注：点击"找人"，显示"拓维游戏"公众号，点击"关注"
 服务时间：9:00-18:00
 客服邮箱：csonline@139.com 
 版本号：{VersionName}
@@ -38264,7 +38264,7 @@ Large Gold Ingot Gift Pack
 Extra Large Gold Ingot Gift Pack
 
 [DAVEKITCHEN_EXCHANGE_2]
-BBQ Tacos: You can get Artifact Blessing Tickets, Orientational Pieces or Abyss Devil’s Flower
+BBQ Tacos: You can get Artifact Blessing Tickets, Orientational Pieces or Abyss Devil's Flower
  Pieces
 
 [DAVEKITCHEN_EXCHANGE_3]
@@ -41913,7 +41913,7 @@ Magic Beans
 [MAGICBEANS_DESCRIPTION]
 
 [DEVILSFLOWER]
-Abyss Devil’s Flower
+Abyss Devil's Flower
 
  
 [DEVILSFLOWER_DESCRIPTION]
@@ -41927,14 +41927,14 @@ Devil's Flower commands Abyss Disciples to hug and absorb energy from zombies.
 Devil's Flower commands Abyss Disciples to hug and absorb energy from zombies.
  
 [DEVILSFLOWER_PRODUCT_SHORT_DESC]
-Devil’s Flower commands Abyss Disciples to hug and absorb energy from zombies.
+Devil's Flower commands Abyss Disciples to hug and absorb energy from zombies.
  
 [DEVILSFLOWER_AVATAR_NAME]
-Devil’s Flower commands Abyss Disciples to hug and absorb energy from zombies.
+Devil's Flower commands Abyss Disciples to hug and absorb energy from zombies.
  
  
 [STORE_PRODUCT_AVATAR_DEVILSFLOWER_TITLE]
-Abyss Devil’s Flower costume
+Abyss Devil's Flower costume
  
 [STORE_PRODUCT_AVATAR_DEVILSFLOWER]
 The Disciple Gargantuar is upgraded to Disciple Leader Zombie, having more health and damage. When Disciple Leader Zombie attacks, there is a chance of spitting acid at zombies in a 3x3 area ahead
@@ -41962,7 +41962,7 @@ MayBee
 
 [MAYBEE_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT} yellow plant
-{FLAVOR} “I'm more than just a set of pretty bells ya know? I can also throw a wicked curveball.”
+{FLAVOR} "I'm more than just a set of pretty bells ya know? I can also throw a wicked curveball."
 
 [MAYBEE_DESCRIPTION_HEADER]
 Fires multiple bee-like projectiles that target nearby zombies.
@@ -42095,7 +42095,7 @@ Hoya Heart
  
 [HOYACORDATA_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT} green plants
-{FLAVOR}After seeing Sunflower Singer’s concert, Hoya Heart was deeply impassioned and decided that it will only support this one idol. It cannot recall how many times something similar has happened.
+{FLAVOR}After seeing Sunflower Singer's concert, Hoya Heart was deeply impassioned and decided that it will only support this one idol. It cannot recall how many times something similar has happened.
  
 [HOYACORDATA_DESCRIPTION_HEADER]
 Cheers up the plant in front of it, increasing the attack damage and health.
@@ -42995,7 +42995,7 @@ Winter Melon
 Range: lobbed
 {KEYWORD}Special: {STAT}damaged zombies are also frozen
 {KEYWORD}Plant characteristics: {STAT}blue plant
-{FLAVOR}You may recognize Winter Melon's voice from such incredible documentaries as “It's Cold Up Here”, “Ice Bingo”, and Surfin' Swedes.
+{FLAVOR}You may recognize Winter Melon's voice from such incredible documentaries as "It's Cold Up Here", "Ice Bingo", and Surfin' Swedes.
 
 [WINTERMELON_DESCRIPTION_HEADER]
 Winter Melons do heavy damage and slow groups of zombies.
@@ -43210,7 +43210,7 @@ Sweet Potatoes attract zombies from other lanes when they are close by.
 
 [SWEETPOTATO_DESCRIPTION]
 {KEYWORD}Special: {STAT}can't attract the zombies behind
-{FLAVOR}Sweet Potato really is as sweet as she looks. Her favorite animal is the unicorn. Her favorite color is (and this is a direct quote) “all the colors of the rainbow.” When she writes the letter “i”, she draws a little heart where the dot belongs. Frankly, if it were anyone else, this amount of syrup would be sickening. But on her, well, it just seems right.
+{FLAVOR}Sweet Potato really is as sweet as she looks. Her favorite animal is the unicorn. Her favorite color is (and this is a direct quote) "all the colors of the rainbow." When she writes the letter "i", she draws a little heart where the dot belongs. Frankly, if it were anyone else, this amount of syrup would be sickening. But on her, well, it just seems right.
 
 [SWEETPOTATO_PLANTFOOD]
 Heals itself and attracts all nearby zombies to its row.
@@ -43227,7 +43227,7 @@ Sunflower
 [SUNFLOWER_DESCRIPTION]
 {KEYWORD}Sun Production: {STAT}normal
 {KEYWORD}Plant characteristics: {STAT}yellow plant, infinite sun
-{FLAVOR}After the release of her first major YouTuber video “Zombies On Your Lawn”, Sunflower's Youtube channel has been bursting with fun. She is currently putting the final touches on her reality show TV pitch “Sunflower Thinks She Can Dance”.
+{FLAVOR}After the release of her first major YouTuber video "Zombies On Your Lawn", Sunflower's Youtube channel has been bursting with fun. She is currently putting the final touches on her reality show TV pitch "Sunflower Thinks She Can Dance".
 
 [SUNFLOWER_DESCRIPTION_HEADER]
 Sunflowers are essential for you to produce extra sun. Try planting as many as you can!
@@ -43267,7 +43267,7 @@ Peashooter
 
 [PEASHOOTER_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}green plant, pea family
-{FLAVOR}“What is it like being famous?” asked the Peashooter while sipping his bottled water, “I can't talk right now, I'm finishing my merchandising deal. Hold my fir coat.”
+{FLAVOR}"What is it like being famous?" asked the Peashooter while sipping his bottled water, "I can't talk right now, I'm finishing my merchandising deal. Hold my fir coat."
 
 [PEASHOOTER_DESCRIPTION_HEADER]
 Peashooters are your first line of defense. They shoot peas at attacking zombies.
@@ -43287,7 +43287,7 @@ Tall-nut
 [TALLNUT_DESCRIPTION]
 {KEYWORD}Special: {STAT}blocks launched imps
 {KEYWORD}Plant characteristics: {STAT}brown plant, tall stature
-{FLAVOR}Tall-nut is opening a chain of stores for Tall and Taller gentlemen. “I'll shell out the savings to you!”
+{FLAVOR}Tall-nut is opening a chain of stores for Tall and Taller gentlemen. "I'll shell out the savings to you!"
 
 [TALLNUT_DESCRIPTION_HEADER]
 Tall-nuts are heavy-duty wall plants that block low flying zombies.
@@ -43431,7 +43431,7 @@ Imitater
 
 [IMITATER_DESCRIPTION]
 {KEYWORD}Special: {STAT}can imitate other plants
-{FLAVOR}Having studied French Theater at Julienne, the Imitater went to the streets with his art, and has perfected his technique he calls “Potato stuck in a box”.
+{FLAVOR}Having studied French Theater at Julienne, the Imitater went to the streets with his art, and has perfected his technique he calls "Potato stuck in a box".
 
 [IMITATER_DESCRIPTION_HEADER]
 Imitaters let you use two of the same plant during a level!
@@ -43633,7 +43633,7 @@ Split Pea
 [SPLITPEA_DESCRIPTION]
 {KEYWORD}Firing Speed: {STAT}1x forward, 2x backwards
 {KEYWORD}Plant characteristics: {STAT}green plant, pea family
-{FLAVOR}“It's my turn with the eyebrows”, said Frontie. “Fine, we'll split them”, said Backie. Sprouted two minutes apart, their eyebrow war is eternal.
+{FLAVOR}"It's my turn with the eyebrows", said Frontie. "Fine, we'll split them", said Backie. Sprouted two minutes apart, their eyebrow war is eternal.
 
 [SPLITPEA_DESCRIPTION_HEADER]
 Split Peas shoot peas forward and backwards.
@@ -43697,7 +43697,7 @@ Cold Snapdragon
 {KEYWORD}Area: {STAT}slows and damages zombies in the 6 tiles in front of it
 {KEYWORD}Plant Characteristics: {STAT}blue plant
 
-{FLAVOR}Cold Snapdragon gets chilly when anyone brings up his cousin Snapdragon. “We just view temperature very differently, and I'd really rather not discuss it”, he says. Yikes.
+{FLAVOR}Cold Snapdragon gets chilly when anyone brings up his cousin Snapdragon. "We just view temperature very differently, and I'd really rather not discuss it", he says. Yikes.
 
 [COLDSNAPDRAGON_DESCRIPTION_HEADER]
 Cold Snapdragons breathe icy mist into 6 adjacent tiles that both slows and damage zombies.
@@ -43716,7 +43716,7 @@ Melon-pult
 Range: lobbed
 {KEYWORD}Plant Characteristics: {STAT}green plant
 {KEYWORD}Range: {STAT}lobbed
-{FLAVOR}“Everyone says my head looks like a melon”, said the middle child of the Pult family, “and they would be right”. Don't ask him if he's seedless or not though, it offends him and frankly it's none of your business.
+{FLAVOR}"Everyone says my head looks like a melon", said the middle child of the Pult family, "and they would be right". Don't ask him if he's seedless or not though, it offends him and frankly it's none of your business.
 
 [MELONPULT_DESCRIPTION_HEADER]
 Melon-pults do heavy damage to groups of zombies.
@@ -43760,7 +43760,7 @@ Sunflower Singer sings to produce sun and inspires surrounding plants to increas
 Sings to produce sun and inspires surrounding plants
 
 [BIRTHSUNFLOWER_PLANTFOOD]
-Sing and makes every plant dance and forms sun into a heart shape and later a “2” shape. The effect also stuns zombies
+Sing and makes every plant dance and forms sun into a heart shape and later a "2" shape. The effect also stuns zombies
 
 [BIRTHSUNFLOWER_PRODUCT_SHORT_DESC]
 Sings to produce sun and inspires surrounding plants
@@ -43825,7 +43825,7 @@ Vamporcini
 {KEYWORD}Range: {STAT}3x3
 {KEYWORD}Special: {STAT}Vamporcini can halt zombies from advancing, and siphons their health to itself.
 {KEYWORD}Plant features: {STAT}mushroom family
-{FLAVOR}"Zombie blood Is Like Pizza, in that even when It's Bad It's Good!” - Vamporcini.. probably
+{FLAVOR}"Zombie blood Is Like Pizza, in that even when It's Bad It's Good!" - Vamporcini.. probably
 
 [VAMPORCINI_DESCRIPTION_HEADER]
 Vamporcinis are defensive plants that drain HP from surrounding zombies for a few seconds.
@@ -43861,7 +43861,7 @@ Citron
 
 [CITRON_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}orange plant, 100,000 volts
-{FLAVOR}As the owner and primary user of “Vitamin C-U-Later” 20-hour energy shots, Citron is always on and always ready for action. “Let's make this happen!!”
+{FLAVOR}As the owner and primary user of "Vitamin C-U-Later" 20-hour energy shots, Citron is always on and always ready for action. "Let's make this happen!!"
 
 [CITRON_DESCRIPTION_HEADER]
 Citrons shoot powerful balls of plasma.
@@ -43879,7 +43879,7 @@ E.M.Peach
 {KEYWORD}Usage: {STAT}single use, instant
 {KEYWORD}Special: {STAT}disables machines
 {KEYWORD}Plant characteristics: {STAT}orange plant, short
-{FLAVOR}Has grown tired of people lazily calling him E.M. Pea. “There's a C and H there for a reason people! And I've got the stone to prove it!”
+{FLAVOR}Has grown tired of people lazily calling him E.M. Pea. "There's a C and H there for a reason people! And I've got the stone to prove it!"
 
 [EMPEA_DESCRIPTION_HEADER]
 E.M.Peaches explode and disable all machines in an area.
@@ -44041,7 +44041,7 @@ Hypno-shroom
 [HYPNOSHROOM_DESCRIPTION]
 {KEYWORD}Special: {STAT}makes one zombie fight for you
 {KEYWORD}Plant characteristics: {STAT}mushroom family
-{FLAVOR}Hypno-shroom has no trouble persuading zombies to fight on behalf of the plants. But he has yet to convince one to cluck like a chicken. “One day”, he says. “One day”.
+{FLAVOR}Hypno-shroom has no trouble persuading zombies to fight on behalf of the plants. But he has yet to convince one to cluck like a chicken. "One day", he says. "One day".
 
 [HYPNOSHROOM_DESCRIPTION_HEADER]
 When zombies eat Hypno-shrooms, they will turn around and fight for you.
@@ -44080,7 +44080,7 @@ Shoots peas and blocks zombies
 Plantern
 
 [STREETLAMP_DESCRIPTION]
-{FLAVOR}Plantern defies science, that's how he is. When other plants absorb light, they excrete oxygen; But Plantern absorbs darkness and excretes light. Plantern once commented on this. “I'm not gonna talk about things like 'sorcery,' I would only use the term 'dark forces,' I just... I think I've said enough.”
+{FLAVOR}Plantern defies science, that's how he is. When other plants absorb light, they excrete oxygen; But Plantern absorbs darkness and excretes light. Plantern once commented on this. "I'm not gonna talk about things like 'sorcery,' I would only use the term 'dark forces,' I just... I think I've said enough."
 
 [STREETLAMP_DESCRIPTION_HEADER]
 Plantern can expel fog and uncover Bandit Zombies invisible states.
@@ -44093,7 +44093,7 @@ Coffee Bean
 
 [COFFEEBEAN_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}short
-{FLAVOR}“Dude, dude, get up to see God!” Coffee Bean likes to use this quote of his favorite movie lines to wake people up. To be honest, this method is quite effective. At least every time when his friends open their eyes they will see a figure of a person with wings.
+{FLAVOR}"Dude, dude, get up to see God!" Coffee Bean likes to use this quote of his favorite movie lines to wake people up. To be honest, this method is quite effective. At least every time when his friends open their eyes they will see a figure of a person with wings.
 
 [COFFEEBEAN_DESCRIPTION_HEADER]
 Coffee Bean wakes up sleeping plants within range and slightly increases their attack.
@@ -44172,7 +44172,7 @@ Fume-shroom
 
 [FUMESHROOM_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}purple plant, mushroom family, short
-{FLAVOR}“I think of myself as a pretty confident shroom and an all-around fungi”, says Fume-shroom. “But sometimes, when I'm eating Plant Food, I hear them chuckling. I hear them calling me 'Balloon-shroom'. I don't think they know how much that hurts.”
+{FLAVOR}"I think of myself as a pretty confident shroom and an all-around fungi", says Fume-shroom. "But sometimes, when I'm eating Plant Food, I hear them chuckling. I hear them calling me 'Balloon-shroom'. I don't think they know how much that hurts."
 
 [FUMESHROOM_TOOLTIP]
 Shoots fumes that can damage all zombies in an area
@@ -44248,7 +44248,7 @@ Shadow Peashooters are shadow plants that fire piercing shadowy peas at zombies.
 [SHADOWPEASHOOTER_DESCRIPTION]
 {KEYWORD}Special: {STAT}fires piercing, slowing bolts when powered
 {KEYWORD}Plant characteristics: {STAT}green plant, shadow family
-{FLAVOR}"Phoot”, Shadow Peashooter says, emitting a shadowy, ah, hmmm, I guess you could call it a pea, at a distant zombie. "Uph!" gasps the zombie in evident surprise. There's a lot going on under the surface between these two.
+{FLAVOR}"Phoot", Shadow Peashooter says, emitting a shadowy, ah, hmmm, I guess you could call it a pea, at a distant zombie. "Uph!" gasps the zombie in evident surprise. There's a lot going on under the surface between these two.
 
 [SHADOWPEASHOOTER_TOOLTIP]
 Fires piercing slowing bolts
@@ -44372,7 +44372,7 @@ Rotten Red
 
 [POMEGRANATE_DESCRIPTION]
 {KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 芦荟游走于各大化妆品新品发布会，借机推销她的产品“芦荟水”。今年整个护肤品市场都在讲美白，这可是芦荟的强项。
+{FLAVOR} 芦荟游走于各大化妆品新品发布会，借机推销她的产品"芦荟水"。今年整个护肤品市场都在讲美白，这可是芦荟的强项。
 
 [POMEGRANATE_DESCRIPTION_HEADER]
 可以净化调香师僵尸的毒雾，提升周围植物的攻击力
@@ -44388,7 +44388,7 @@ Snap Pea
 
 [SNAPPEA_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}green plant, pea family
-{FLAVOR}"I'm a picky eater, I'll admit it”, admits Snap Pea casually. "I'll eat a zombie, no problem, but there's just something about heads. I feel like they're looking at me."
+{FLAVOR}"I'm a picky eater, I'll admit it", admits Snap Pea casually. "I'll eat a zombie, no problem, but there's just something about heads. I feel like they're looking at me."
 
 [SNAPPEA_DESCRIPTION_HEADER]
 Snap Peas dive underground, burrow towards zombies, then pop up underneath to swallow them in one gulp. Snap Peas then return to their starting spot, chew on the entire matter for a while, and finally spit the zombies' heads out at attackers.
@@ -44442,7 +44442,7 @@ Imp Pear
 
 [IMPPEAR_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}short
-{FLAVOR} Imp Pear impairs zombies. Of course, Imps don’t appreciate this characterization, but who cares?
+{FLAVOR} Imp Pear impairs zombies. Of course, Imps don't appreciate this characterization, but who cares?
 
 [IMPPEAR_DESCRIPTION_HEADER]
 When zombies eat Imp Pears, they become Imps. When Imps eat Imp Pears, they are destroyed, releasing stunning gas.
@@ -44500,7 +44500,7 @@ Grimroses are shadow plants that behave like landbound Tangle Kelps, dragging up
 [GRIMROSE_DESCRIPTION]
 {KEYWORD}Special: {STAT}powered Grimroses can drag 3 zombies before expiring
 {KEYWORD}Plant characteristics: {STAT}green plant, purple plant, shadow family
-{FLAVOR}“When you think about it, the proper place for a zombie is in the ground”, says Grimrose. “So, really, I'm just expediting the process.”
+{FLAVOR}"When you think about it, the proper place for a zombie is in the ground", says Grimrose. "So, really, I'm just expediting the process."
 
 [MOONFLOWER]
 Moonflower
@@ -44537,7 +44537,7 @@ Guacodile
 {KEYWORD}Usage: {STAT}disappears after rushing attack
 {KEYWORD}Special: {STAT}can be planted on water
 {KEYWORD}Plant characteristics: {STAT}green plant, sharp teeth, aquatic plant, short
-{FLAVOR}Ask Guacodile to tell you a little bit about himself and he'll give you a wry smile. “I'm a Guacodile. I've got a bite like a bear trap. I spit rock-hard pits with a force, speed and accuracy envied by every plant on the battlefield. Heck, I've been known to walk on water. I'm pretty much the whole enchilada.” Yeah, the guy is a bit of a braggart but he’s good at what he does.
+{FLAVOR}Ask Guacodile to tell you a little bit about himself and he'll give you a wry smile. "I'm a Guacodile. I've got a bite like a bear trap. I spit rock-hard pits with a force, speed and accuracy envied by every plant on the battlefield. Heck, I've been known to walk on water. I'm pretty much the whole enchilada." Yeah, the guy is a bit of a braggart but he's good at what he does.
 
 [GUACODILE_DESCRIPTION_HEADER]
 Guacodiles is an amphibious plant that fire seeds from a distance. When attacked they will rush off the lawn biting any zombies they encounter.
@@ -44689,7 +44689,7 @@ Bamboo Bro defends and holds zombies back.
 {KEYWORD}Special: {STAT}When it is not attacked, he will heal gradually itself.
 {KEYWORD}Plant Characteristics: {STAT}Green plant, Master of martial arts
 
-{FLAVOR}Bamboo Bro's childhood has been doing errands in a troupe of the adjacent town. He hoped to become a leading actor one day, so he learned all kinds of Martial Arts. Finally one day he mastered his exclusive skill, Consecutive Backflip. His efforts pay off. He finally played as a leading role in a drama, the plot of which is: “One day in the forest a ferocious wolf kidnapped a pig. His mother was brave and looked for the wolf's lair to rescue him...”
+{FLAVOR}Bamboo Bro's childhood has been doing errands in a troupe of the adjacent town. He hoped to become a leading actor one day, so he learned all kinds of Martial Arts. Finally one day he mastered his exclusive skill, Consecutive Backflip. His efforts pay off. He finally played as a leading role in a drama, the plot of which is: "One day in the forest a ferocious wolf kidnapped a pig. His mother was brave and looked for the wolf's lair to rescue him..."
 
 [SUGARCANE_TOOLTIP]
 Defends and holds zombies back.
@@ -44706,7 +44706,7 @@ Rose Swordfighter attacks approaching zombies and launches a strong attack when 
 [ROSESWORDMAN_DESCRIPTION]
 {KEYWORD}Special: {STAT}Strong attacks on zombies with low hit points
 {KEYWORD}Plant characteristics: {STAT}red plant, martial arts
-{FLAVOR}This mysterious swordsman from the far east calls himself Versailles Gogh. When he drinks in taverns, he always brags about being an artist to transend the ages. “These boorish guys simply can't comprehend what I'm trying to express!” He always says so angrily. “That famous singer Sunflower, I once painted her a ground-breaking portrait, but of course she said that what I had painted was rubbish! But this was my one and only portrait that wasn't of roses! I also deliberately signed my name at the bottom of the painting. I bet that signature alone is enough to make that painting a priceless treasure... Buuurrrp!”
+{FLAVOR}This mysterious swordsman from the far east calls himself Versailles Gogh. When he drinks in taverns, he always brags about being an artist to transend the ages. "These boorish guys simply can't comprehend what I'm trying to express!" He always says so angrily. "That famous singer Sunflower, I once painted her a ground-breaking portrait, but of course she said that what I had painted was rubbish! But this was my one and only portrait that wasn't of roses! I also deliberately signed my name at the bottom of the painting. I bet that signature alone is enough to make that painting a priceless treasure... Buuurrrp!"
 
 [ROSESWORDMAN_TOOLTIP]
 Attacks approaching zombies and launches a strong attack on their low life.
@@ -44723,7 +44723,7 @@ Magic-shroom throws playing cards back and forth at zombies.
 [MAGICSHROOM_DESCRIPTION]
 {KEYWORD}Special: {STAT}It attacks zombies at front and back
 {KEYWORD}Plant characteristics: {STAT}mushroom family
-{FLAVOR}Before becoming a talented mushroom, Magic-shroom was merely a very normal mushroom in Mushroom village. It is only after he was introduced to the world of magic that allowed him to transform into the mushroom he is now. “I am a shining star!” exclaimed Magic-shroom, as he practices shuffling the playing cards in his hands, which he considers being his coolest gesture. However, it is not wise to think that there is a rabbit inside his magic hat. If you peek into it, you'll be screwed!
+{FLAVOR}Before becoming a talented mushroom, Magic-shroom was merely a very normal mushroom in Mushroom village. It is only after he was introduced to the world of magic that allowed him to transform into the mushroom he is now. "I am a shining star!" exclaimed Magic-shroom, as he practices shuffling the playing cards in his hands, which he considers being his coolest gesture. However, it is not wise to think that there is a rabbit inside his magic hat. If you peek into it, you'll be screwed!
 
 [MAGICSHROOM_TOOLTIP]
 Throws playing cards back and forth at zombies.
@@ -44740,7 +44740,7 @@ Chestnut Squad summons chestnuts that attack zombies in a certain area.
 [CHESTNUT_DESCRIPTION]
 {KEYWORD}Special: {STAT}Summons groups of chestnuts
 {KEYWORD}Plant characteristics: {STAT}green plant, offensive and defensive, brothers galore
-{FLAVOR}These little chestnuts prefer to live together. When somebody asks them why, they'll begin sharing their story with pride-A group of chestnuts who've just graduated crowded into one small room, worked hard, supported each other, wanted to be great out of its kind. And, at the end of the story-telling, they never forget to add a tiny grumble about a chestnut nicknamed “Handsome Boy” occupying so much space that's a bad behavior... However, an old classmate, Mao Bamboo, revealed the true cause merely in a word: “They just can't afford the rent of a larger room”.
+{FLAVOR}These little chestnuts prefer to live together. When somebody asks them why, they'll begin sharing their story with pride-A group of chestnuts who've just graduated crowded into one small room, worked hard, supported each other, wanted to be great out of its kind. And, at the end of the story-telling, they never forget to add a tiny grumble about a chestnut nicknamed "Handsome Boy" occupying so much space that's a bad behavior... However, an old classmate, Mao Bamboo, revealed the true cause merely in a word: "They just can't afford the rent of a larger room".
 
 [CHESTNUT_TOOLTIP]
 Summons chestnuts that attack zombies in a certain area.
@@ -44757,7 +44757,7 @@ Rafflesia produces spores that explode when they reach a zombie.
 [RAFFLESIA_DESCRIPTION]
 {KEYWORD}Special: {STAT}Attacks zombies at the rear
 {KEYWORD}Plant characteristics: {STAT}short
-{FLAVOR}Rafflesia is one of the park employees that children love the most. He is always surrounded by children wherever he is. He enjoys such a feeling. “I'm the best at blowing bubbles! The kids love it!” He always introduces himself as so to others. Unbeknownst to him, when they are giving a nod and a smile, most of them are confused: Isn't he a balloon seller?
+{FLAVOR}Rafflesia is one of the park employees that children love the most. He is always surrounded by children wherever he is. He enjoys such a feeling. "I'm the best at blowing bubbles! The kids love it!" He always introduces himself as so to others. Unbeknownst to him, when they are giving a nod and a smile, most of them are confused: Isn't he a balloon seller?
 
 [RAFFLESIA_TOOLTIP]
 Attacks zombies that hides at the rear.
@@ -44827,7 +44827,7 @@ Hurrikales push back all zombies in their lane with a chilling wind.
 {KEYWORD}Usage: {STAT}single use, instant
 {KEYWORD}Special: {STAT}blows hurricanes towards zombies
 {KEYWORD}Plant characteristics: {STAT}green plant
-{FLAVOR}You could say Hurrikale is a “blow hard” in the truest sense of the phrase. He is the first chair trombonist in the Biennial Philharmonic Orchestra. He is also proficient in the trumpet, saxophone and the tuba. But man o' man, you should really see him on the flugelhorn. Dude absolutely kills it.
+{FLAVOR}You could say Hurrikale is a "blow hard" in the truest sense of the phrase. He is the first chair trombonist in the Biennial Philharmonic Orchestra. He is also proficient in the trumpet, saxophone and the tuba. But man o' man, you should really see him on the flugelhorn. Dude absolutely kills it.
 
 [HURRIKALE_TOOLTIP]
 Blows a chilling wind that pushes back zombies in lane
@@ -44842,7 +44842,7 @@ Fire Peashooters are immune to frost and shoot flaming peas down the lane.
 {KEYWORD}Special: {STAT}immune to frost
 {KEYWORD}Special: {STAT}warms nearby plants
 {KEYWORD}Plant characteristics: {STAT}orange plant, pea family, full of fiery aura, full of anger
-{FLAVOR}Fire Peashooter knows that what she does looks exciting. But working with an open flame is serious and, more importantly, dangerous business. That's why, in her spare time, she talks to children about the importance of fire safety. “I'm a trained professional”, she explains. “Don't try this at home, kids.”
+{FLAVOR}Fire Peashooter knows that what she does looks exciting. But working with an open flame is serious and, more importantly, dangerous business. That's why, in her spare time, she talks to children about the importance of fire safety. "I'm a trained professional", she explains. "Don't try this at home, kids."
 
 [FIREPEASHOOTER_TOOLTIP]
 Shoots flaming peas and warms nearby plants
@@ -44854,12 +44854,12 @@ Throws a line of flame down the lane, damaging all zombies in it.
 Hot Potato
 
 [HOTPOTATO_DESCRIPTION_HEADER]
-Hot Potatoes melt the ice blocks they’re planted on.
+Hot Potatoes melt the ice blocks they're planted on.
 
 [HOTPOTATO_DESCRIPTION]
 {KEYWORD}Usage: {STAT}single use
 {KEYWORD}Special: {STAT}melts an ice block
-{FLAVOR}How does Hot Potato stay so positive and even-peeled all the time? Yoga, that’s how. She never misses a class. Also, regular meditation. It's the only way she can handle the hard work of fighting zombies, day in and day out, without melting down.
+{FLAVOR}How does Hot Potato stay so positive and even-peeled all the time? Yoga, that's how. She never misses a class. Also, regular meditation. It's the only way she can handle the hard work of fighting zombies, day in and day out, without melting down.
 
 [HOTPOTATO_TOOLTIP]
 Plant it on an ice block to melt the block
@@ -44873,7 +44873,7 @@ Pepper-pults lob flaming peppers at zombies and keep nearby plants warm.
 [PEPPERPULT_DESCRIPTION]
 {KEYWORD}Special: {STAT}warms nearby tiles
 {KEYWORD}Plant characteristics: {STAT}orange plant, full of fiery aura
-{FLAVOR}Some say Pepper-pult is a hot head. Some find his fiery disposition off-putting. But the truth is, he's just very focused and determined. He loves what he does. He appreciates everything he has. “I came from the weedy side of the lawn”, Pepper-pult explains. “I worked hard to pull myself up by my roots. I'm a self-made pepper and I don't take a single thing for granted.”
+{FLAVOR}Some say Pepper-pult is a hot head. Some find his fiery disposition off-putting. But the truth is, he's just very focused and determined. He loves what he does. He appreciates everything he has. "I came from the weedy side of the lawn", Pepper-pult explains. "I worked hard to pull myself up by my roots. I'm a self-made pepper and I don't take a single thing for granted."
 
 [PEPPERPULT_TOOLTIP]
 Lobs flaming peppers at zombies and warms nearby plants
@@ -44890,7 +44890,7 @@ Loquat can create a vortex that pulls zombies together.
 [DOUBLESAMARA_DESCRIPTION]
 {KEYWORD}Special: {STAT}Generates a whirlwind to pull zombies, can pull down zombies in the sky.
 {KEYWORD}Plant characteristics: {STAT}yellow plant, tornado family
-{FLAVOR}Loquat who dreams of becoming a ballet dancer has one trick: She can rotate many rounds in place. “I think I will be able to become the world's greatest ballet dancer, but no one wants to hire me, I don't understand why”, Loquat says in frustration, as she swallows a large mouthful of ice-cream.
+{FLAVOR}Loquat who dreams of becoming a ballet dancer has one trick: She can rotate many rounds in place. "I think I will be able to become the world's greatest ballet dancer, but no one wants to hire me, I don't understand why", Loquat says in frustration, as she swallows a large mouthful of ice-cream.
 
 [DOUBLESAMARA_TOOLTIP]
 Creates a vortex that pulls zombies together
@@ -44913,7 +44913,7 @@ Asparagus can attack zombies ahead and on nearby rows.
 [ASPARAGUS_DESCRIPTION]
 {KEYWORD}Special: {STAT}Able to attack targets ahead and on nearby rows
 {KEYWORD}Plant characteristics: {STAT}green plant, weapon family, flying plant
-{FLAVOR}Asparagus has a wonderful title as “the king of vegetables”, however, he is never proud of having the title. He who has been enthusiastic on researching various hot weapons from a young age could only show his value on the battlefield. “I just hope that everyone could remember the hot-blooded me on the battlefield!” said Asparagus seriously.
+{FLAVOR}Asparagus has a wonderful title as "the king of vegetables", however, he is never proud of having the title. He who has been enthusiastic on researching various hot weapons from a young age could only show his value on the battlefield. "I just hope that everyone could remember the hot-blooded me on the battlefield!" said Asparagus seriously.
 
 [ASPARAGUS_TOOLTIP]
 Attacks zombies upper, lower and in front
@@ -44959,7 +44959,7 @@ Horsebean sends out commandos to attack zombies in a nearby area.
 [HORSEBEAN_DESCRIPTION]
 {KEYWORD}Special: {STAT}Attack zombies in range using horse bean warriors
 {KEYWORD}Plant characteristics: {STAT}green plant, flying plant, brother group
-{FLAVOR}The Horsebean won the “best pilot” title in flying school, and after graduation, they couldn't wait to form a flying team. But although the Horsebean often brag about their flying skills, no one seems to dare set foot upon their bumpy mothership.
+{FLAVOR}The Horsebean won the "best pilot" title in flying school, and after graduation, they couldn't wait to form a flying team. But although the Horsebean often brag about their flying skills, no one seems to dare set foot upon their bumpy mothership.
 
 [HORSEBEAN_TOOLTIP]
 Sends out commandos to attack zombies in a nearby area
@@ -45069,7 +45069,7 @@ Electric Blueberries randomly electrocute zombies every so often.
 
 [ELECTRICBLUEBERRY_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}blue plant, 100,000 volts
-{FLAVOR}Electric Blueberry prides herself on being eclectic as well as electric. “I like to keep 'em guessing”, she says. “A zombie should always be like, 'Whoa, didn't see that coming,' when it's disintegrated.”
+{FLAVOR}Electric Blueberry prides herself on being eclectic as well as electric. "I like to keep 'em guessing", she says. "A zombie should always be like, 'Whoa, didn't see that coming,' when it's disintegrated."
 
 [ELECTRICBLUEBERRY_TOOLTIP]
 Randomly electrocutes zombies
@@ -45131,7 +45131,7 @@ Endurians are defensive plants that deal damage to zombies attacking them.
 
 [ENDURIAN_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}yellow plant
-{FLAVOR}“When other plants talk about me, they say I’m too gruff. They say I’m difficult to approach, that I’m afraid to let others get too close to me. Also, I smell terrible,” said Endurian. But deep down inside, he knows that he’s so much more than that. He’s also short-tempered.
+{FLAVOR}"When other plants talk about me, they say I'm too gruff. They say I'm difficult to approach, that I'm afraid to let others get too close to me. Also, I smell terrible," said Endurian. But deep down inside, he knows that he's so much more than that. He's also short-tempered.
 
 [ENDURIAN_TOOLTIP]
 Defends while dealing damage to zombies attacking it.
@@ -45170,7 +45170,7 @@ Agave attacks zombies within two tiles in front of it, and deals additional dama
 [AGAVE_DESCRIPTION]
 {KEYWORD}Special: {STAT}Deals more damage to zombies with headgear.
 {KEYWORD}Plant characteristics: {STAT}green plant, master of martial arts
-{FLAVOR}“When two masters fight, victories or defeats are determined instantly. Those flowery swordplays are not worth mentioning.” Agave would say this with scorn every time when that “Epic” duel was mentioned. However, everyone knew that it was just a game of Rock-Paper-Scissors with Rose Swordfighter.
+{FLAVOR}"When two masters fight, victories or defeats are determined instantly. Those flowery swordplays are not worth mentioning." Agave would say this with scorn every time when that "Epic" duel was mentioned. However, everyone knew that it was just a game of Rock-Paper-Scissors with Rose Swordfighter.
 
 [AGAVE_TOOLTIP]
 Attacks zombies within two tiles in front of it, and causes additional damage to armored zombies.
@@ -45190,7 +45190,7 @@ Jackfruits roll forward to attack a row of zombies and blocks underground passag
 [JACKFRUIT_DESCRIPTION]
 {KEYWORD}Special: {STAT}deals more damage to armored zombies.
 {KEYWORD}Plant characteristics: {STAT}green plant, tough guy
-{FLAVOR}Jackfruit is a big fan of Indi-pop, his favorite activity is to sing “tunak tunak tun, tunak tunak tun, tunak tunak tun da da da” while continuously rolling forward.
+{FLAVOR}Jackfruit is a big fan of Indi-pop, his favorite activity is to sing "tunak tunak tun, tunak tunak tun, tunak tunak tun da da da" while continuously rolling forward.
 
 [JACKFRUIT_TOOLTIP]
 Rolls forward to a row of zombies and covers up open passages
@@ -45238,7 +45238,7 @@ Monkeyfruit pulls out his staff to attack the nearest zombie and also does damag
 {KEYWORD}Other names: {STAT}Monkiwi, Kiwifruit
 {KEYWORD}Special: {STAT}Causes damage to all zombies in an area.
 {KEYWORD}Plant characteristics: {STAT}green plant, powerful martial art skills
-{FLAVOR}“Great Saint, Victor of Buddhas, Monkey King...” Monkeyfruit wants to put all of his names out to represent himself. However, reality is cruel, as in the eyes of the zombies, he's just an edible fruit... That's all...
+{FLAVOR}"Great Saint, Victor of Buddhas, Monkey King..." Monkeyfruit wants to put all of his names out to represent himself. However, reality is cruel, as in the eyes of the zombies, he's just an edible fruit... That's all...
 
 [KIWIFRUIT_TOOLTIP]
 Pulls out the Monkey King Bar and attacks the nearest zombie, causing damage to all zombies within the range
@@ -45300,7 +45300,7 @@ Firebloom Queen
 {KEYWORD}Other name: {STAT}Flame Flower Queen
 {KEYWORD}Special: {STAT}Damage increases, when the enemy is close.
 {KEYWORD}Plant characteristics: {STAT}red plant, full of fiery aura, full of anger
-{FLAVOR}“When viewed from a far distance, Firebloom Queen may be the most elegant and beautiful plant, but when you get closer, you will find that she is basically a fire-breathing female dinosaur.” – A Zombie Adventurer's dying words (Cause of death: Said that Firebloom Queen was a dinosaur and got killed by the Queen's army).
+{FLAVOR}"When viewed from a far distance, Firebloom Queen may be the most elegant and beautiful plant, but when you get closer, you will find that she is basically a fire-breathing female dinosaur." - A Zombie Adventurer's dying words (Cause of death: Said that Firebloom Queen was a dinosaur and got killed by the Queen's army).
 
 [FLAMELADY_DESCRIPTION_HEADER]
 Firebloom Queen attacks far enemies, and releases fire to close enemies
@@ -45347,7 +45347,7 @@ Banksia Boxer
 [MATCHFLOWER_DESCRIPTION]
 {KEYWORD}Special: {STAT}Light itself after attacking for a while, can also be lit by other plants. Can ignite peas after being set alight.
 {KEYWORD}Plant characteristics: {STAT}Red plant, full of fiery aura, full of anger
-{FLAVOR}Torchwood always tries to tell everyone Banksia Boxer is his descendant, but not only can Banksia Boxer light peas, he's also a warrior that has a “let the fists do the talking” attitude, being obviously much stronger than Torchwood, who can only make a scary face to scare enemies.
+{FLAVOR}Torchwood always tries to tell everyone Banksia Boxer is his descendant, but not only can Banksia Boxer light peas, he's also a warrior that has a "let the fists do the talking" attitude, being obviously much stronger than Torchwood, who can only make a scary face to scare enemies.
 
 [MATCHFLOWER_DESCRIPTION_HEADER]
 Attack enemies in front of them. The more they attack the more fiery they become, can even ignite peas after set alight.
@@ -45440,7 +45440,7 @@ Cattail
 [NEKOTAIL_DESCRIPTION]
 {KEYWORD}Special: {STAT}launches homing spikes at zombies, that can stun them for a moment.
 {KEYWORD}Plant characteristics: {STAT}White plant, 100 000 volts
-{FLAVOR}When Cattail was being interviewed, the journalist asked, “how do you look at the competitive relationship between you and Homing Thistle?” Cattail factly replied, “Meow meow meow~” which translated to “Nothing can't be solved with being cute~”
+{FLAVOR}When Cattail was being interviewed, the journalist asked, "how do you look at the competitive relationship between you and Homing Thistle?" Cattail factly replied, "Meow meow meow~" which translated to "Nothing can't be solved with being cute~"
 
 [NEKOTAIL_DESCRIPTION_HEADER]
 Cattail launches homing spikes at zombies, that can stun them for a moment.
@@ -45502,7 +45502,7 @@ Toadstool
 [TOADSTOOL_DESCRIPTION]
 {KEYWORD}Weakness: {STAT}vulnerable while chewing
 {KEYWORD}Plant characteristics: {STAT}yellow plant
-{FLAVOR}Toadstool just can’t stand being idle. “I keep everything that I want to do on lists, and keep the lists where I can see them so that I’m always motivated!” she said. Whenever there’s work to be done, she’s always the first to hop to it.
+{FLAVOR}Toadstool just can't stand being idle. "I keep everything that I want to do on lists, and keep the lists where I can see them so that I'm always motivated!" she said. Whenever there's work to be done, she's always the first to hop to it.
 
 [TOADSTOOL_DESCRIPTION_HEADER]
 Toadstools gulp down zombies whole, then produce sun.
@@ -45563,7 +45563,7 @@ Stallia
 {KEYWORD}Special: {STAT}slows nearby zombies
 {KEYWORD}Plant Characteristics: {STAT} purple plant
 
-{FLAVOR}“Life moves too quickly in our modern world,” says Stallia. “Folks need to slow down and smell some spores.”
+{FLAVOR}"Life moves too quickly in our modern world," says Stallia. "Folks need to slow down and smell some spores."
 
 [STALLIA_DESCRIPTION_HEADER]
 Stallias stall zombies with a puff of perfume.
@@ -45619,7 +45619,7 @@ Gold Leaf
 
 [GOLDLEAF_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}yellow plant
-{FLAVOR}”For a small initial investment, you too can generate huge sun,” says Gold Leaf. She’s a firm believer in solar markets.
+{FLAVOR}"For a small initial investment, you too can generate huge sun," says Gold Leaf. She's a firm believer in solar markets.
 
 [GOLDLEAF_DESCRIPTION_HEADER]
 Gold Leaves create a Gold Tile on planting.
@@ -45656,7 +45656,7 @@ Red Stinger
 
 [REDSTINGER_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}red plant
-{FLAVOR}Flexibility is of key importance to Red Stinger. “I do stretching exercises every morning”, he says. “It's important to stay mentally and physically nimble.”
+{FLAVOR}Flexibility is of key importance to Red Stinger. "I do stretching exercises every morning", he says. "It's important to stay mentally and physically nimble."
 
 [REDSTINGER_DESCRIPTION_HEADER]
 Red Stingers fire shots at full force when close to home and become more defensive the further from it they get.
@@ -45705,7 +45705,7 @@ Lava Guava
 {KEYWORD}Special: {STAT}erupts, damaging nearby zombies
 {KEYWORD}Special: {STAT}creates a burning lava pool in its tile
 {KEYWORD}Plant characteristics: {STATgreen plant, full of anger
-{FLAVOR}Lava Guava frowns with barely-repressed rage. He’s trying to keep it in check. He’s trying so hard. But one day some zombie’s going to push him too far, and he can’t be held responsible for the consequences.
+{FLAVOR}Lava Guava frowns with barely-repressed rage. He's trying to keep it in check. He's trying so hard. But one day some zombie's going to push him too far, and he can't be held responsible for the consequences.
 
 [LAVAGUAVA_DESCRIPTION_HEADER]
 Lava Guavas erupt, creating a lava pool that burns zombies.
@@ -45759,7 +45759,7 @@ Thyme Warp
 {KEYWORD}Usage: {STAT}single use, instant
 {KEYWORD}Special: {STAT}rewound zombies have restored health
 {KEYWORD}Plant characteristics: {STAT}green plant
-{FLAVOR}“Possibilities other to open be to need we.” Warp Thyme says, “Limited too far was time to approach unidirectional the that felt always I've.”
+{FLAVOR}"Possibilities other to open be to need we." Warp Thyme says, "Limited too far was time to approach unidirectional the that felt always I've."
 
 [THYMEWARP_DESCRIPTION_HEADER]
 Thyme Warps rewind time, sending zombies back where they started.
@@ -45774,7 +45774,7 @@ Cactus
 {KEYWORD}Special: {STAT}Hides, does ground damage when zombies are near
 {KEYWORD}Plant Characteristics: {STAT}green plant, thunderbolt, tall
 
-{FLAVOR}Things have really changed for Cactus lately. Book deals, movies, truck show appearances... she’s just trying to focus on staying humble and launching thorns like always.
+{FLAVOR}Things have really changed for Cactus lately. Book deals, movies, truck show appearances... she's just trying to focus on staying humble and launching thorns like always.
 
 [CACTUS_DESCRIPTION_HEADER]
 Cactus fires a penetrating thorn that can damage multiple enemies! Hides underground when zombies are close.
@@ -45788,7 +45788,7 @@ Celery Stalker
 [CELERYSTALKER_DESCRIPTION]
 {KEYWORD}Special: {STAT}waits until zombies pass over it, then pops up and attacks
 {KEYWORD}Plant characteristics: {STAT}green plant, short
-{FLAVOR}Celery Stalker resents the implication that there’s anything unsavory about his attack style. He simply believes that discretion is the better part of vegetation.
+{FLAVOR}Celery Stalker resents the implication that there's anything unsavory about his attack style. He simply believes that discretion is the better part of vegetation.
 
 [CELERYSTALKER_DESCRIPTION_HEADER]
 Celery Stalkers wait until zombies pass, then pop up and bash them from behind.
@@ -45816,7 +45816,7 @@ Electric Currant
 [ELECTRICCURRANT_DESCRIPTION]
 {KEYWORD}Usage: {STAT}area effect (electric fence)
 {KEYWORD}Special: {STAT}knocks zombies back into other lanes when activated
-{FLAVOR}“Electricity is all very well and fine as a phenomenon”, says Electric Currant, “but electromagnetism as a whole is where it's really at.”
+{FLAVOR}"Electricity is all very well and fine as a phenomenon", says Electric Currant, "but electromagnetism as a whole is where it's really at."
 
 [ELECTRICCURRANT_DESCRIPTION_HEADER]
 Electric Currants create electrical fences between ones planted on the same row or column.
@@ -45846,7 +45846,7 @@ Primal Rafflesia
 [PRIMALRAFFLESIA_DESCRIPTION]
 {KEYWORD}Special: {STAT}When attacking zombies, leaves a puddle of venom that causes slowing effect
 {KEYWORD}Plant characteristics: {STAT}purple plant, short
-{FLAVOR}As the winner of the plants' world-ranked “The uglier the stronger” prize, when Primal Rafflesia saw his own weak successor, he could only lament: “Didn't think that after the hair has been devolved the combat power would follow, combat power isn't from blowing.”
+{FLAVOR}As the winner of the plants' world-ranked "The uglier the stronger" prize, when Primal Rafflesia saw his own weak successor, he could only lament: "Didn't think that after the hair has been devolved the combat power would follow, combat power isn't from blowing."
 
 [PRIMALRAFFLESIA_DESCRIPTION_HEADER]
 Primal Rafflesia can launch venom balls to attack zombies, while causing slowing effect.
@@ -45860,7 +45860,7 @@ Dino-Roar Grass
 [DRAGONROAR_DESCRIPTION]
 {KEYWORD}Special: {STAT}eats delicious zombies, spits out awfully-tasting dinosaur eggs
 {KEYWORD}Plant characteristics: {STAT}green plant, strong teeth
-{FLAVOR}Dino-Roar Grass has had a loud voice since young, so at senior high he joined the school's choir. But after a short while, he quit because of “various reasons”. “I still think he's better doing solo”, Morning Glory commented. “After all for a choir, the safe range he needs is just too large...”
+{FLAVOR}Dino-Roar Grass has had a loud voice since young, so at senior high he joined the school's choir. But after a short while, he quit because of "various reasons". "I still think he's better doing solo", Morning Glory commented. "After all for a choir, the safe range he needs is just too large..."
 
 [DRAGONROAR_DESCRIPTION_HEADER]
 Dino-Roar Grass can eat nearby zombies, and spit out undigestible dinosaur eggs.
@@ -45987,7 +45987,7 @@ Dazey Chain
 
 [DAZEYCHAIN_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}white plant, red plant, purple plant
-{FLAVOR} Dazey Chain are a three in one deal, but in order to curb excess energy consumption, usually just the White Warrior will be available for communication. But after sufficient exercise, White Warrior's elder brothers, Dr. Purple and Red Overlord, will awaken as well. Together they will defeat the enemy forces! "I use they/them pronouns”, says Dazey Chain. "Duh”, they add.
+{FLAVOR} Dazey Chain are a three in one deal, but in order to curb excess energy consumption, usually just the White Warrior will be available for communication. But after sufficient exercise, White Warrior's elder brothers, Dr. Purple and Red Overlord, will awaken as well. Together they will defeat the enemy forces! "I use they/them pronouns", says Dazey Chain. "Duh", they add.
 
 [DAZEYCHAIN_DESCRIPTION_HEADER]
 Dazey Chains grow through stages, becoming more powerful and releasing a stunning puff of gas at each stage.
@@ -46074,7 +46074,7 @@ Ultomato
 
 [ULTOMATO_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}red plant
-{FLAVOR} Ultomato yawns as unimaginable energies build up inside his being. It’s cool. He can afford to wait. He’s got allllll day.
+{FLAVOR} Ultomato yawns as unimaginable energies build up inside his being. It's cool. He can afford to wait. He's got allllll day.
 
 [ULTOMATO_DESCRIPTION_HEADER]
 Ultomatoes charge up slowly, then fire a devastating beam down the lane that damages zombies as long as the charge lasts. Ultomatoes can be made more powerful by planting multiple Ultomatoes on the same tile.
@@ -46252,7 +46252,7 @@ Sling Pea
 
 [SLINGPEA_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT} green plants, pea family
-{FLAVOR} Sling Pea keeps a keen eye on the whole battle space. He's alert and attentive. "If something slips through”, he muses quietly, "it would be my fault. And I just couldn't forgive myself if that happened."
+{FLAVOR} Sling Pea keeps a keen eye on the whole battle space. He's alert and attentive. "If something slips through", he muses quietly, "it would be my fault. And I just couldn't forgive myself if that happened."
 
 [SLINGPEA_DESCRIPTION_HEADER]
 Sling Peas fire 5 peas in a burst, targeting the zombies closest to your house each time.
@@ -46540,7 +46540,7 @@ Electrici-tea
 [ELECTRICITEA_DESCRIPTION]
 {KEYWORD}Special: {STAT} can cause damage to all zombies in the 3X3 range, and will create lightning with high damage after being eaten by zombies.
 {KEYWORD}Plant characteristics: {STAT} 100,000 volts, green plant
-{FLAVOR} "I want to be eaten. I NEED to be eaten”, says Electrici-tea. "However, I am perfectly content to fry nearby zombies in the meantime."
+{FLAVOR} "I want to be eaten. I NEED to be eaten", says Electrici-tea. "However, I am perfectly content to fry nearby zombies in the meantime."
 
 [ELECTRICITEA_DESCRIPTION_HEADER]
 Electrici-teas wait and emit zaps of electrical energy until they are eaten, at which point the eating zombies explode in a flurry of electrical discharges.
@@ -46686,7 +46686,7 @@ Gumnuts pop sticky gum onto zombies, pinning them in place and causing them to b
 [GUMNUT_DESCRIPTION]
 {KEYWORD} Special: {STAT} sticks all the zombies in front with chewing gum.
 {KEYWORD}Plant characteristics: {STAT} yellow plants
-{FLAVOR} "I only chew ham-flavored gum”, exudes Gumnut. "Ham and salt."
+{FLAVOR} "I only chew ham-flavored gum", exudes Gumnut. "Ham and salt."
 
 [GUMNUT_TOOLTIP]
 Creates zombie barriers
@@ -46985,7 +46985,7 @@ Dartichoke
 
 [DARTICHOKE_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}green plant
-{FLAVOR}“Why waste shots on foot soldiers when you can win the battle with one well-chosen dart to the dome?” wonders Dartichoke. “Why would you do it? Why would ANYONE do it?”
+{FLAVOR}"Why waste shots on foot soldiers when you can win the battle with one well-chosen dart to the dome?" wonders Dartichoke. "Why would you do it? Why would ANYONE do it?"
 
 [DARTICHOKE_DESCRIPTION_HEADER]
 Dartichokes fire high-damage darts down the lane, prioritizing especially dangerous zombies such as Wizards, Octo Zombies, and Healers. Has a limited supply of darts that can deal critical damage.
@@ -47028,7 +47028,7 @@ Pokra
 
 [POKRA_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT} green plant
-{FLAVOR}Pokra’s scrappy, she’s a fighter, she’s not afraid to jab below the belt to get the job done. She won’t, because that would be cheating, but she’s not afraid to. “Just so we’re clear”, she says with a resolute glint in her eye.
+{FLAVOR}Pokra's scrappy, she's a fighter, she's not afraid to jab below the belt to get the job done. She won't, because that would be cheating, but she's not afraid to. "Just so we're clear", she says with a resolute glint in her eye.
 
 [POKRA_DESCRIPTION_HEADER]
 Pokras deliver piercing, zombie-stalling jabs that add up to a powerful spike launch, then they rest momentarily before starting again.
@@ -47540,7 +47540,7 @@ Parsnips snip at zombies, then charge down the lane at the last moment.
 
 [PARSNIP_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}orange plant
-{FLAVOR}“Snip!” says Parsnip. “Snip snip snip! If it wasn't for my scrapbook, my coupons, and snipping zombies to death, I just don't know what I'd do with myself!”
+{FLAVOR}"Snip!" says Parsnip. "Snip snip snip! If it wasn't for my scrapbook, my coupons, and snipping zombies to death, I just don't know what I'd do with myself!"
 
 [KIWIBEAST]
 Kiwibeast
@@ -47578,7 +47578,7 @@ Kiwibeasts emit damaging thumps, and become bigger and more powerful the more th
 [KIWIBEAST_DESCRIPTION]
 {KEYWORD}Special: {STAT}knocks back zombies during growth.
 {KEYWORD}Plant characteristics: brown plant
-{FLAVOR}“I like to keep an even keel”, says Kiwibeast. “But zombies... oooh... zombies make me so mad! And when I get mad... RARRRRRGGG!”
+{FLAVOR}"I like to keep an even keel", says Kiwibeast. "But zombies... oooh... zombies make me so mad! And when I get mad... RARRRRRGGG!"
 
 [MISSILETOE]
 Missile Toe
@@ -47761,7 +47761,7 @@ Hocus Crocus
 {KEYWORD}Scope: {STAT} lawn full range
 {KEYWORD} Special: {STAT} releases magic light to the nearest zombies on the lawn
 {KEYWORD}Plant characteristics: {STAT} purple plant, magic
-{FLAVOR} "Observe”, says Hocus Crocus. "Have I anything up my sleeve? Do I even have sleeves? No? Prepare, then, to have your quaint and old-fashioned notions of spatial location SHATTERED FOREVER!!!"
+{FLAVOR} "Observe", says Hocus Crocus. "Have I anything up my sleeve? Do I even have sleeves? No? Prepare, then, to have your quaint and old-fashioned notions of spatial location SHATTERED FOREVER!!!"
 
 [HOCUSCROCUS_DESCRIPTION_HEADER]
 Hocus Crocuses use slick sleight-of-petal chicanery to magic zombies close to your home to attack and shrink the zombies, while increasing the damage they receive
@@ -48206,7 +48206,7 @@ Zoybean Pod
 {KEYWORD}Range: {STAT}1 row ahead
 {KEYWORD}Features: {STAT}tofu zombies walk forward and bite other zombies
 {KEYWORD}Plant features: {STAT}green plant
-{FLAVOR}"Developing plant zomboids in eerie mimicry of zombie life is well within the boundaries of human experience”, Zoybean Pod insists with a calm, unvarying steadiness.
+{FLAVOR}"Developing plant zomboids in eerie mimicry of zombie life is well within the boundaries of human experience", Zoybean Pod insists with a calm, unvarying steadiness.
 
 [ZOYBEANPOD_DESCRIPTION_HEADER]
 Zoybean Pods grow from sprouts to full pods, then split open to release helpful plant "zomboids" which attack zombies.
@@ -48540,7 +48540,7 @@ Flat-shrooms can only be planted on the sewer without a manhole cover, making it
 {KEYWORD}Usage: {STAT}single-use 
 {KEYWORD}Special: {STAT}blocks a sewer hole
 {KEYWORD}Plant characteristics: {STAT}red plant
-{FLAVOR}Flat-shroom originally wants to quietly bask in the sunlight, but is always used to repair roads. It says that “it's cold down in the sewers.”
+{FLAVOR}Flat-shroom originally wants to quietly bask in the sunlight, but is always used to repair roads. It says that "it's cold down in the sewers."
 
 [FLATTENEDSHROOM_TOOLTIP]
 Block sewer hole on the ground
@@ -48678,7 +48678,7 @@ Holly Barrier deals damage to zombies attacking him, and can launch 3 prickly ba
 {KEYWORD}Usage: {STAT}tap to arm, tap on target tile to fire; can fire up to 3 barriers
 {KEYWORD}Special: {STAT}projectile knocks back, deals damage, leaves barrier on empty tiles
 {KEYWORD}Plant characteristics: {STAT}red plant
-{FLAVOR}Holly Barrier would like to advise folks not to eat his berries. "It's rude to eat somebody's berries without asking”, he says. "In addition, they are highly toxic."
+{FLAVOR}Holly Barrier would like to advise folks not to eat his berries. "It's rude to eat somebody's berries without asking", he says. "In addition, they are highly toxic."
 
 [HOLLYKNIGHT_TOOLTIP]
 Damages attacking zombies, tap to launch barriers
@@ -48800,7 +48800,7 @@ Spore-shroom
 
 [SPORESHROOM_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}purple plant
-{FLAVOR}“My favorite arithmetic operation?” wonders Spore-shroom. “I guess I'd have to say, um, addition. Hang on, no... multiplication.”
+{FLAVOR}"My favorite arithmetic operation?" wonders Spore-shroom. "I guess I'd have to say, um, addition. Hang on, no... multiplication."
 
 [SPORESHROOM_DESCRIPTION_HEADER]
 Spore-shrooms fire spores that create new Spore-shrooms out of defeated zombies.
@@ -48827,7 +48827,7 @@ Gold Bloom
 [GOLDBLOOM_DESCRIPTION]
 {KEYWORD}Usage: {STAT}single use, instant
 {KEYWORD}Plant characteristics: {STAT}green plant
-{FLAVOR}“Your botanists were so preoccupied with whether they coul”, says Gold Bloom, about nothing and to nobody in particular, “they didn't stop to think if they should.”
+{FLAVOR}"Your botanists were so preoccupied with whether they coul", says Gold Bloom, about nothing and to nobody in particular, "they didn't stop to think if they should."
 
 [GOLDBLOOM_DESCRIPTION_HEADER]
 Gold Blooms produce a burst of sun all at once.
@@ -48842,7 +48842,7 @@ Grapeshot
 {KEYWORD}Usage: {STAT}single use, instant
 {KEYWORD}Plant Characteristics: {STAT}purple plant, groups of brothers
 
-{FLAVOR}“Spa-BOOM!” enthuses Grapeshot. “You like that? I got a million of 'em! Wa-POW! Buh-BLAM! Za-... um... Ker-... hmmm... Okay, I guess I've only got the three.”
+{FLAVOR}"Spa-BOOM!" enthuses Grapeshot. "You like that? I got a million of 'em! Wa-POW! Buh-BLAM! Za-... um... Ker-... hmmm... Okay, I guess I've only got the three."
 
 [GRAPESHOT_DESCRIPTION_HEADER]
 Grapeshots explode and scatter bouncing projectiles in eight directions.
@@ -48856,7 +48856,7 @@ Intensive Carrot
 [INTENSIVECARROT_DESCRIPTION]
 {KEYWORD}Usage: {STAT}single use, instant
 {KEYWORD}Plant characteristics: {STAT}red plant
-{FLAVOR}“How do I revive defeated plants?” asks Intensive Carrot. “In a word: vitamins. Vitamins and sorcery.”
+{FLAVOR}"How do I revive defeated plants?" asks Intensive Carrot. "In a word: vitamins. Vitamins and sorcery."
 
 [INTENSIVECARROT_DESCRIPTION_HEADER]
 Intensive Carrots bring eaten plants back to life.
@@ -48913,7 +48913,7 @@ Primal Wall-nut
 
 [PRIMALWALLNUT_DESCRIPTION]
 {KEYWORD}Plant characteristics: {STAT}brown plant, wild growth, tall
-{FLAVOR}“Grunt” explains Primal Wall-nut. “Grunt oog grunt-grunt”, he goes on to say. “Ook-urg grunty grunt grunt”, he concludes. A nut of many opinions, is Primal Wall-nut.
+{FLAVOR}"Grunt" explains Primal Wall-nut. "Grunt oog grunt-grunt", he goes on to say. "Ook-urg grunty grunt grunt", he concludes. A nut of many opinions, is Primal Wall-nut.
 
 [PRIMALWALLNUT_DESCRIPTION_HEADER]
 Primal Wall-nuts cost a bit more than typical Wall-nuts, but they can be planted much more quickly.
@@ -49067,7 +49067,7 @@ Electric Currant
 {KEYWORD}Usage: {STAT}area effect (electric fence)
 {KEYWORD}Special: {STAT}knocks zombies back into other lanes when activated
 {KEYWORD}Plant characteristics: {STAT}red plant, 100,000 volts
-{FLAVOR}“Electricity is all very well and fine as a phenomenon”, says Electric Currant, “but electromagnetism as a whole is where it's really at.”
+{FLAVOR}"Electricity is all very well and fine as a phenomenon", says Electric Currant, "but electromagnetism as a whole is where it's really at."
                     
 [ELECTRICCURRANT_DESCRIPTION_HEADER]
 Electric Currants create electrical fences between ones planted on the same row or column.
@@ -49129,7 +49129,7 @@ Sumo Melon stands still, vigorously repels zombies.
 [WHITEMELON_DESCRIPTION]
 {KEYWORD}Special: {STAT}Different types of zombies will have different repelled distances.
 {KEYWORD}Plant characteristics: {STAT}green plant, sumo master, hot-blooded youth
-{FLAVOR}Sumo Melon is a hot-blooded boy, loves the job of sumo wrestling, refining his sumo skills everyday, because he has a dream, using his sumo power to “dominate the world”!
+{FLAVOR}Sumo Melon is a hot-blooded boy, loves the job of sumo wrestling, refining his sumo skills everyday, because he has a dream, using his sumo power to "dominate the world"!
 
 [CAULIPOWER]
 Caulipower
@@ -49281,13 +49281,13 @@ Whips both ahead and behind
 
 [WASABIWHIP_DESCRIPTION]
 {KEYWORD}Special: {STAT}resists cold and warm plants around it
-{FLAVOR}“The trick to proper whipping is all in the wrist”, says Wasabi Whip. “Well, not the wrist, exactly, since I don't have any. You have to, like... BE the wrist.”
+{FLAVOR}"The trick to proper whipping is all in the wrist", says Wasabi Whip. "Well, not the wrist, exactly, since I don't have any. You have to, like... BE the wrist."
 
 [EXPLODEONUT]
 Explode-O-Nut
 
 [EXPLODEONUT_DESCRIPTION]
-{FLAVOR}“My only regret”, says Explode-O-Nut, “is that I have but one chewy center full of nitroglycerine to give in defense of this lawn.”
+{FLAVOR}"My only regret", says Explode-O-Nut, "is that I have but one chewy center full of nitroglycerine to give in defense of this lawn."
 
 [EXPLODEONUT_DESCRIPTION_HEADER]
 Explode-O-Nuts provide protection, and when their shells are eaten, they explode to blow up zombies.
@@ -52475,7 +52475,7 @@ Punk Zombie
 [ZOMBIE_EIGHTIES_PUNK_DESCRIPTION]
 {KEYWORD}Weakness: {STAT}Magnet Shrooms pull off his head
 
-{FLAVOR}Punk Zombie’s piercings represent his individuality and his belief in personal freedom, or maybe just that he fell face-first into a sewing machine.
+{FLAVOR}Punk Zombie's piercings represent his individuality and his belief in personal freedom, or maybe just that he fell face-first into a sewing machine.
 
 [ZOMBIE_EIGHTIES_PUNK_DESCRIPTION_HEADER]
 Moshes plants back a space when his jam is playing.
@@ -58896,7 +58896,7 @@ When a plant dies, it turns into a seed that can't be planted on. After some tim
 [SECTION_NARRATIVE]
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}What’s this? A vortex I’ve never seen before?
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}What's this? A vortex I've never seen before?
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_2]
 {NPC_ENTER:winnie}{PLAYFUL:winnie}Data indicates this is a new vortex black hole caused by chaotic time fluctuations in a spacetime tunnel.
@@ -58905,10 +58905,10 @@ When a plant dies, it turns into a seed that can't be planted on. After some tim
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Black hole? Plants always need a hole in the soil to take root and grow.
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_4]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}You’re not wrong, Dave, but according to the data, this doesn’t connect to some giant plant—it connects to a new universe.
+{NPC_ENTER:winnie}{PLAYFUL:winnie}You're not wrong, Dave, but according to the data, this doesn't connect to some giant plant-it connects to a new universe.
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_5]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Oh no, the black hole is releasing strong gravity—we’re being pulled in!
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Oh no, the black hole is releasing strong gravity-we're being pulled in!
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_6]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}A new universe-flavored taco! Here I come!
@@ -58917,16 +58917,16 @@ When a plant dies, it turns into a seed that can't be planted on. After some tim
 {NPC_ENTER:no42zombossicon}Let me see what this chaos has attracted!
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_2]
-{NPC_ENTER:no42zombossicon}A talking vehicle made of scrap metal? Looks like this universe’s version of you still lacks artistic taste.
+{NPC_ENTER:no42zombossicon}A talking vehicle made of scrap metal? Looks like this universe's version of you still lacks artistic taste.
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_3]
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave}Enough nonsense, handsome Zomboss! You stole the prized wig from the Mini Fossil Museum—I won’t let you get away with it!
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave}Enough nonsense, handsome Zomboss! You stole the prized wig from the Mini Fossil Museum-I won't let you get away with it!
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_4]
-{NPC_ENTER:no42zombossicon}Looks like this disturbance didn’t bring you any decent allies. You should take better care of your face!
+{NPC_ENTER:no42zombossicon}Looks like this disturbance didn't bring you any decent allies. You should take better care of your face!
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_5]
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave}It’s because you stole the wig! You’ve disrupted the stability of the parallel universe! I’ll capture you for sure!
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave}It's because you stole the wig! You've disrupted the stability of the parallel universe! I'll capture you for sure!
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_1]
 {NPC_ENTER:winnie}{PLAYFUL:winnie}Data indicates... Universe No. 42 has a 42% similarity to our universe.
@@ -58944,7 +58944,7 @@ When a plant dies, it turns into a seed that can't be planted on. After some tim
 {NPC_ENTER:winnie}{PLAYFUL:winnie}Data indicates that Tough Dave from Universe No. 42 shares a 42% thought synchronization rate with Crazy Dave.
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_6]
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave}I don’t understand what you’re saying with all this nonsense, but whatever—help me deal with Handsome Zomboss!
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave}I don't understand what you're saying with all this nonsense, but whatever-help me deal with Handsome Zomboss!
 
 
 [NARRATIVE_TUTORIAL_FIRST_RECHARGE_INTRO_1]
@@ -59149,13 +59149,13 @@ When a plant dies, it turns into a seed that can't be planted on. After some tim
 {SAY:zombossicon}Before that, let us commence a grand performance!
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}I didn’t understand a word of that.
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}I didn't understand a word of that.
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_5]
-{EXCITED:winnie}He said he’s going to take you down.
+{EXCITED:winnie}He said he's going to take you down.
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_6]
-{EXCITED:crazydave}Maybe he’s carrying tacos.
+{EXCITED:crazydave}Maybe he's carrying tacos.
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_1]
 {NPC_ENTER:zombossicon}{SAY:zombossicon}Ah, fate! Fate!
@@ -59167,7 +59167,7 @@ When a plant dies, it turns into a seed that can't be planted on. After some tim
 {SAY:zombossicon}You revel in fleeting joy, unaware that I shall return like lightning!
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}I still don’t understand.
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}I still don't understand.
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_5]
 {TIRED:winnie}Perhaps this is what they call a "Shakespearean" poetic defeat.
@@ -71916,7 +71916,7 @@ Obtain through purchasing in the Black Hole Fantasy Journey Gift Shop
 Expired rewards for the Black Hole Fantasy Journey
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
-1. Star Coins are obtained via gift packs and used for draws. They and Mini Black Holes won’t carry over to the next event and will be converted to Gems at a 1:10 and 1:1 ratio.
+1. Star Coins are obtained via gift packs and used for draws. They and Mini Black Holes won't carry over to the next event and will be converted to Gems at a 1:10 and 1:1 ratio.
 2. Each draw offers a chance for a Mini Black Hole or other rewards. Lucky players may directly win the Tile Carrot Super Outfit.
 3. If no grand prize is won within 20 consecutive draws, the next draw guarantees a reward from the prize pool.
 4. Repeated Super Outfits are converted into 200 Mini Black Hole rewards.
@@ -72453,7 +72453,7 @@ Pocket Paph
 {KEYWORD} Range: {STAT} single line  
 {KEYWORD} Special: {STAT} throws random items  
 {KEYWORD} Plant feature: {STAT} pink plant  
-{FLAVOR} Nobody knows how many things can be stuffed into Pocket Paph’s pocket. Laser Bean’s bamboo-copter, Potato Mine’s eye patch… everyone’s looking forward to the next surprise. Maybe there would even be a pink door. Even zombies gave positive feedback, saying at least the snacks are tasty.
+{FLAVOR} Nobody knows how many things can be stuffed into Pocket Paph's pocket. Laser Bean's bamboo-copter, Potato Mine's eye patch... everyone's looking forward to the next surprise. Maybe there would even be a pink door. Even zombies gave positive feedback, saying at least the snacks are tasty.
 
 [PAPHIOPEDILUM_DESCRIPTION_HEADER]  
 Pocket Paph throws random items towards zombies at the front, tiering up gives the plant a chance to throw multiple items at once
@@ -72474,7 +72474,7 @@ There is a 10% chance to consecutively throw 2 random items
 Two more
 
 [PAPHIOPEDILUM_SKILL_LEVEL2_DES]  
-The chance to consecutively throw 2 random items increases to 20%, and there’s a 10% chance to consecutively throw 3 random items
+The chance to consecutively throw 2 random items increases to 20%, and there's a 10% chance to consecutively throw 3 random items
 
 [PAPHIOPEDILUM_SKILL_LEVEL5]  
 Aerial support
@@ -72498,7 +72498,7 @@ Throws various items using a toss (small snacks, butter blocks, anvils, bombs, r
 There is a 10% chance to consecutively throw 2 random items
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL3_DES]  
-The chance to consecutively throw 2 random items increases to 20%, and there’s a 10% chance to consecutively throw 3 random items
+The chance to consecutively throw 2 random items increases to 20%, and there's a 10% chance to consecutively throw 3 random items
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL4_DES]  
 Has a high chance to directly release the Energy Bean ultimate move when planting
@@ -72546,7 +72546,7 @@ The first molded figurine is directly a mortar figurine. The number of attacks r
 Air Force Technology
 
 [EYWA_SKILL_LEVEL5_DES]  
-The first molded figurine is directly a tank figurine. When the tank figurine disappears, there’s a chance for a plane to appear, which catches the figurine, drops a nuclear bomb, and then flies away. The nuclear bomb has a 3×3 explosion range, dealing damage and degeneration effects to zombies in the area.
+The first molded figurine is directly a tank figurine. When the tank figurine disappears, there's a chance for a plane to appear, which catches the figurine, drops a nuclear bomb, and then flies away. The nuclear bomb has a 3×3 explosion range, dealing damage and degeneration effects to zombies in the area.
 
 [EYWA_AVATAR_NAME]  
 Nyuwa Ophiuros Costume
@@ -72570,7 +72570,7 @@ The first molded figurine is directly a mortar figurine. The number of attacks r
 Has a high chance to directly release the Plant Food when planting
 
 [EYWA_NEW_SKILL_LEVEL5_DES]  
-The first molded figurine is directly a tank figurine. The tank figurine jumps out of the tank and disappears into the air. There’s a chance for a plane to catch the figurine, drop a nuclear bomb, and then fly away. The nuclear bomb has a 3×3 explosion range, dealing damage and degeneration effects to zombies in the area.
+The first molded figurine is directly a tank figurine. The tank figurine jumps out of the tank and disappears into the air. There's a chance for a plane to catch the figurine, drop a nuclear bomb, and then fly away. The nuclear bomb has a 3×3 explosion range, dealing damage and degeneration effects to zombies in the area.
 
 [EYWA_PLANTFOOD_DESCRIPTION]  
 Nuwa Grass pulls out vines and tosses 5 mud points, which randomly land in the front 2 columns, turning into bomb figurines that rush toward the nearest zombie and explode, causing 3×3 area damage.
@@ -72922,7 +72922,7 @@ Don't worry(?), he's fine in there. Zombies don't feel pain, or much else really
 3、4周的每周任务随时间解锁，解锁后直到赛季结束前都可以完成。
 4、随着等级提升,奖励将会更加丰厚。前50级奖励中包含对决币,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出对决币。对决币仅限当前赛季使用，下个赛季无法继承。
 5、激活高级权益后,解锁高级档位的奖励领取资格,每日与每周任务经验提升20%，购买即可立刻获得270对决币和赛季主打植物。
-6、使用对决币可在“幸运转盘”中参与抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
+6、使用对决币可在"幸运转盘"中参与抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
 7、宝藏转盘中所有奖励仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
 金币22.67%、钻石22.66%、挂件19.26%、绿色植物11.33%、蓝色植物7.93%、紫色植物11.33%、橙色植物2.49%、超级挂件2.04%、藤蔓&装扮多选一自选礼盒0.23%、进阶书0.06%。
 
@@ -72932,7 +72932,7 @@ Don't worry(?), he's fine in there. Zombies don't feel pain, or much else really
 3、4周的每周任务随时间解锁，解锁后直到赛季结束前都可以完成。
 4、随着等级提升,奖励将会更加丰厚。前50级奖励中包含对决币,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出对决币。对决币仅限当前赛季使用，下个赛季无法继承。
 5、激活高级权益后,解锁高级档位的奖励领取资格,每日与每周任务经验提升20%，购买即可立刻获得270对决币和赛季主打植物。
-6、使用对决币可在“幸运转盘”中参与抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
+6、使用对决币可在"幸运转盘"中参与抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
 7、宝藏转盘中所有奖励仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
 金币22.67%、钻石22.66%、挂件19.26%、绿色植物11.33%、蓝色植物7.93%、紫色植物11.33%、橙色植物2.49%、超级挂件2.04%、藤蔓&装扮多选一自选礼盒0.23%、进阶书0.06%。
 
@@ -73057,8 +73057,8 @@ Attack speed increased by 10%.
 [ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION]
 {KEYWORD}特点：{STAT}创作戏剧
 {FLAVOR}一页僵尸博士的手稿：
-“‘懦夫在未死之前已经多次死亡，勇者一生只尝一次死亡的滋味。’作为最年轻的死亡学博士，僵尸博士的伟大传奇早已跨越了每一个时间阶段。重来，复仇，毁灭，创造一段新的神话！伟大的僵尸博士一定会再次复出！僵尸博士的邪恶事业终将兴盛！（注释，这段不要出版：纪念最美好的大学剧团生活）。”
-                                   ——《僵博：史上最棒的回忆录！第1616号增刊》
+"'懦夫在未死之前已经多次死亡，勇者一生只尝一次死亡的滋味。'作为最年轻的死亡学博士，僵尸博士的伟大传奇早已跨越了每一个时间阶段。重来，复仇，毁灭，创造一段新的神话！伟大的僵尸博士一定会再次复出！僵尸博士的邪恶事业终将兴盛！（注释，这段不要出版：纪念最美好的大学剧团生活）。"
+                                   --《僵博：史上最棒的回忆录！第1616号增刊》
 [ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION_HEADER]
 夹杂悲壮史诗与邪恶混乱的剧场幕后主使。
 
