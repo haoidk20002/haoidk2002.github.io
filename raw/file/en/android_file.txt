@@ -9734,16 +9734,16 @@ Fairytale Challenge Pack
 Kongfu Challenge Pack
 
 [VASEBREAKER_PACK_17_DESCRIPTION]
-春节挑战包
+Spring Festival Challenge Pack
 
 [VASEBREAKER_NEWYEAR_LEVEL_NAME_1]
-春节挑战：一帆风顺
+Spring Festival Challenge: Smooth Sailing
 
 [VASEBREAKER_NEWYEAR_LEVEL_NAME_2]
-春节挑战：二人同心
+Spring Festival Challenge: United We Stand
 
 [VASEBREAKER_NEWYEAR_LEVEL_NAME_3]
-春节挑战：三生有幸
+Spring Festival Challenge: Blessed by Fate
 
 [GEM_NOT_ENOUGH_DIALOG_TITLE]
 Not Enough Gems!
@@ -18101,155 +18101,149 @@ There're payment items in-game. Payment restrictions for minors:
 
 4) Players strategically use resources, upgrade plants, and adapt on the battlefield, enhancing logical thinking and adaptability.
 
-[REDEEM_TITLE]
-补单
+[REDEEM_TITLE]  
+Redeem
 
-[REDEEM_SUCCESS_TITLE]
-补单成功
+[REDEEM_SUCCESS_TITLE]  
+Redeem Successful
 
-[REDEEM_SUCCESS_TEXT]
-补单成功，请进入游戏领取缺失物品。
+[REDEEM_SUCCESS_TEXT]  
+Redeem successful, please enter the game to claim the missing items.
 
-[REDEEM_FAILED_TITLE]
-补单失败
+[REDEEM_FAILED_TITLE]  
+Redeem Failed
 
-[REDEEM_FAILED_TEXT]
-补单失败，未查询到缺失的订单，请稍候再试。
+[REDEEM_FAILED_TEXT]  
+Redeem failed, no missing order found. Please try again later.
 
-[MINIGAME_RULE_TXT2]
-趣味竞赛挑战说明
+[MINIGAME_RULE_TXT2]  
+Fun Competition Challenge Instructions
 
-[MINIGAME_RULE_TXT]
-1.本次趣味竞赛开放时间2025年1月21日至2025年2月3日，每天开放一期小游戏。
+[MINIGAME_RULE_TXT]  
+1. The fun competition is open from January 21, 2025, to February 3, 2025, with a new mini-game available each day.  
+2. During the event, there is no limit on the number of challenges a player can attempt per day. After successfully completing a mini-game level, players will earn corresponding points and enhancement energy.  
+3. The points earned upon successfully completing a level consist of base points and time points. Normal levels provide 1000 base points and a time points maximum of 500; difficult levels provide 2000 base points and a time points maximum of 500.  
+4. Time points are awarded based on the time taken to complete a level.  
+5. Players can redeem corresponding point rewards after completing the mini-game.  
+6. Points earned in the mini-game are converted into enhancement energy at a certain ratio.  
+7. Enhancement energy can be used to enhance mini-games, providing corresponding enhancement benefits.
 
-2.在活动期间, 玩家每日没有挑战次数上限限制, 玩家成功通关小游戏关卡后会获得对应的积分与强化能量. 
+[SCORE_RANK_LIST]  
+Leaderboard
 
-3.玩家成功通过关卡后获得的积分包含基础积分以及时间积分两部分, 普通关卡可获得的基础积分为1000, 时间积分上限为500；困难关卡可获得的基础积分为2000, 时间积分上限为500
+[CHALLENGE_LEVEL]  
+Challenge level {NUMBER}
 
-4.玩家通过关卡后获取的时间积分由玩家通过关卡的用时折算获得. 
+[SKIP_LEVEL]  
+Skip {NUMBER} levels
 
-5.通过小游戏后根据获得的积分可领取对应的积分奖励. 
+[MAX_LEVEL_TO_SKIP]  
+Currently, you can skip up to level {NUMBER}
 
-6.通过小游戏后根据在小游戏中获得积分按照一定的比例转化获得强化能量
+[UNABLE_TO_SKIP_LEVEL]  
+You cannot skip levels currently
 
-7.在小游戏强化中可以使用强化能量进行小游戏强化, 强化后可以获得对应的强化增益效果. 
+[TRAINING_COUNT]  
+Remaining attempts: {NUMBER}
 
-[SCORE_RANK_LIST]
-积分排行榜
+[REACH_DANGER_ROOM_LIMIT]  
+You have reached the last level of this endless challenge. More levels will be available soon!
 
-[CHALLENGE_LEVEL]
-挑战第{NUMBER}关
+[RETURN_WITH_SPACE]  
+Return
 
-[SKIP_LEVEL]
-跳{NUMBER}关
+[LEVEL_INDEX]  
+Level {NUMBER}
 
-[MAX_LEVEL_TO_SKIP]
-当前最高可跳至: 第{NUMBER}关
+[START]  
+Start:
 
-[UNABLE_TO_SKIP_LEVEL]
-当前不可跳关
+[AFTER_LEVEL_SCORE]  
+Score after passing: {NUM}
 
-[TRAINING_COUNT]
-剩余次数: {NUMBER}
+[OVER_PLAYER]  
+Expected to surpass {NUM} players
 
-[REACH_DANGER_ROOM_LIMIT]
-您已经达到本次无尽的最后一关, 更多关卡敬请期待! 
+[CURRENT_SCORE]  
+Current score: {NUM}
 
-[RETURN_WITH_SPACE]
-返 回
+[PINATA_PARTY_COIN_REWARD_TEXT]  
+{NUMBER} coins
 
-[LEVEL_INDEX]
-第{NUMBER}关
+[NATIONALDAY_ACTIVE_TIME_1]  
+October 29 – November 15
 
-[START]
-初始:
+[NATIONALDAY_ACTIVE_CONTENT]  
+During the event period, participate in the lottery for a chance to win the two-year anniversary plant Sunflower Singer.
+Current plants: Sunflower Singer, Cryo-shroom, Carrotillery Missile Truck, Melon-pult, Snow Pea
 
-[AFTER_LEVEL_SCORE]
-过关后          分
+[NATIONALDAY_ACTIVE_BUY]  
+{GEM} to draw once
 
-[OVER_PLAYER]
-预计超越               名玩家
+[NATIONALDAY_ACTIVE_BUY_DIALOG_TITLE]  
+Purchase Fragments
 
-[CURRENT_SCORE]
-当前积分: {NUM}
+[NATIONALDAY_ACTIVE_BUY_DIALOG_CONTENT]  
+Confirm purchase of fragments?
 
-[PINATA_PARTY_COIN_REWARD_TEXT]
-{NUMBER}个金币
-
-[NATIONALDAY_ACTIVE_TIME_1]
-10月29日－11月15日
-
-[NATIONALDAY_ACTIVE_CONTENT]
-活动期间参与抽奖, 有概率获得两周年新植物［Sunflower Singer］. 
-本期植物: ［Sunflower Singer］［Cryo-shroom］［Carrotillery导弹车］［Melon-pult］［Snow Pea］
-
-[NATIONALDAY_ACTIVE_BUY]
-     {GEM}抽一次
-
-[NATIONALDAY_ACTIVE_BUY_DIALOG_TITLE]
-购买碎片
-
-[NATIONALDAY_ACTIVE_BUY_DIALOG_CONTENT]
-确认购买碎片？
-
-[CONSUMPTION_GEM_REWARD]
+[CONSUMPTION_GEM_REWARD]  
 {GEM} gems
 
-[CONSUMPTION_COIN_REWARD]
+[CONSUMPTION_COIN_REWARD]  
 {COIN} coins
 
-[CONSUMPTION_COIN2018_REWARD]
-吉祥结x{NUM}
+[CONSUMPTION_COIN2018_REWARD]  
+Lucky Knot x{NUM}
 
-[CONSUMPTION_STATUE2019_REWARD]
-雕像x{NUM}
+[CONSUMPTION_STATUE2019_REWARD]  
+Statue x{NUM}
 
-[CONSUMPTION_COUNT_REWARD]
-{NAME}x{COUNT}
+[CONSUMPTION_COUNT_REWARD]  
+{NAME} x{COUNT}
 
-[TWO_YEAR_RECORD_1]
-从您第一次进入游戏至今已
+[TWO_YEAR_RECORD_1]  
+It has been since you first entered the game.
 
-[TWO_YEAR_RECORD_2]
-在这些日子里，您闯过了 ^00FF00 {COUNT} ^oldclr 个奇妙的世界
+[TWO_YEAR_RECORD_2]  
+In these days, you've passed ^00FF00 {COUNT} ^oldclr wonderful worlds.
 
-[TWO_YEAR_RECORD_3]
-是您奋战最多的战场! 
+[TWO_YEAR_RECORD_3]  
+This is your most fought battlefield!
 
-[TWO_YEAR_RECORD_4]
-据世界关爱僵尸协会统计
+[TWO_YEAR_RECORD_4]  
+According to the World Zombie Care Association,
 
-[TWO_YEAR_RECORD_5]
-您击杀了
+[TWO_YEAR_RECORD_5]  
+You have killed
 
-[TWO_YEAR_RECORD_6]
-^00FF00 {COUNT} ^oldclr 种僵尸
+[TWO_YEAR_RECORD_6]  
+^00FF00 {COUNT} ^oldclr kinds of zombies.
 
-[TWO_YEAR_RECORD_7]
-僵尸界流传您为“僵尸杀手”
+[TWO_YEAR_RECORD_7]  
+The zombie world refers to you as the "Zombie Slayer."
 
-[TWO_YEAR_RECORD_8]
-作为战利品，您收集的星星在白天也能
+[TWO_YEAR_RECORD_8]  
+As a trophy, the stars you collect can
 
-[TWO_YEAR_RECORD_9]
-亮瞎僵尸的眼睛! 至今您已收集
+[TWO_YEAR_RECORD_9]  
+Blind zombies' eyes even in the daytime! You have collected
 
-[TWO_YEAR_RECORD_10]
-这一切多亏了您收集的 ^00FF00 {COUNT} ^oldclr 种植物
+[TWO_YEAR_RECORD_10]  
+All thanks to the ^00FF00 {COUNT} ^oldclr plants you have collected.
 
-[TWO_YEAR_RECORD_11]
-是您的幸运植物! 
+[TWO_YEAR_RECORD_11]  
+These are your lucky plants!
 
-[TWO_YEAR_RECORD_12]
-邻居还有植物和僵尸欢迎您回来! 
+[TWO_YEAR_RECORD_12]  
+Neighbors and both plants and zombies welcome you back!
 
-[TWO_YEAR_RECORD_13]
-我猜
+[TWO_YEAR_RECORD_13]  
+I guess
 
-[TWO_YEAR_SHARE_BUTTON]
-分享有礼
+[TWO_YEAR_SHARE_BUTTON]  
+Share for rewards
 
-[YEAR]
+[YEAR]  
 y
 
 [MONTH]
@@ -32010,7 +32004,7 @@ Defeat the zombies!
 Complete the level objectives and defeat the zombies!
 
 [PVZ2_UNCHARTED_NO42_UNIVERSE_HARD_LEVEL_MAIN_GOAL_DESC]
-收集阳光种植植物，抵挡僵尸的入侵。完成挑战获得专属头像。
+Defeat the zombies and complete the challenge to earn an exclusive avatar.
 
 [PVZ2_UNCHARTED_CHALLENGE_TITLE]
 Level Objectives
@@ -33073,19 +33067,19 @@ Complete Vasebreaker levels for gift boxes, and try your hand at Endless for som
 Swipe up and down to avoid obstacles, survive and reach the target score.
 
 [PVZ2_UNCHARTED_NO42_ENDLESS_RECORD_DESC]
-最高记录： {NUMS} / 100
+Highest Record: {NUMS} / 100
 
 [MAT_NO42_UNIVERSE_NORMAL_COIN]
-普通币
+Normal Coins
 
 [MAT_NO42_UNIVERSE_HARD_COIN]
-困难币
+Hard Coins
 
 [MAT_NO42_UNIVERSE_BASIC_SUN1]
-强化阳光
+Enhanced Sunlight
 
 [MAT_NO42_UNIVERSE_BASIC_SUN2]
-强化阳光
+Enhanced Sunlight
 
 [PLAYERS_TRIP_TO_SPECIAL]
 {PLAYER}'s Trip to Parkour Party!
@@ -38446,10 +38440,10 @@ Collected all stars in Fairytale Forest - Part 2.
 And so, peace returns to the fae kingdom. The Wicked Empress' tyranny is put to an eternal end. Hurrah to our hero!
 
 [UNCHARTED_NO42_HEAD_ID_10000]
-平行宇宙征服者
+Parallel Universe Conqueror
 
 [UNCHARTED_NO42_HEAD_DES_ID_10000]
-完美通关42号平行宇宙的证明
+Proof of perfect completion of Parallel Universe No. 42.
 
 [PARTYEPSACTIVITY_HEAD_ID_25535]
 Party Mandrake
@@ -38528,14 +38522,14 @@ You must unlock all previous levels to access Day 8.
 Please complete the previous levels first.
 
 [PVZ2_UNCHARTED_MODE_NO42_UNIVERSE_TIPS_DESC]
-1.困难模式最后一关通关后可解锁无尽模式。
-2.无尽模式总共100波，每一波从所有的秘境僵尸池里随机选择僵尸出现，僵尸的阶级和数量逐渐递增。
-3.挑战无尽模式通关可获得大量高级币奖励，可在商店中兑换纪念头像。
+1. The final level of Hard Mode must be completed to unlock Endless Mode.
+2. Endless Mode consists of 100 waves. In each wave, zombies are randomly selected from all the secret zombie pools, with their rank and number gradually increasing.
+3. Completing the Endless Mode challenge rewards you with a large amount of high-level coins, which can be exchanged for commemorative avatars in the store.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_NO42_UNIVERSE]
-1.时空秘境中拥有各种不同的新世界和新僵尸等待你来探索，每个世界都有普通和困难关卡。
-2.普通与困难模式关卡分别拥有首通奖励与正常过关奖励，首通奖励在第一次通关时获得，且无法重复领取。
-3.普通模式关卡全部通关后解锁困难模式关卡。
+1. The Secret Realms features various new worlds and zombies waiting for you to explore. Each world has both normal and hard levels.
+2. Normal and Hard Mode levels offer first-time completion rewards and regular completion rewards. The first-time rewards are earned upon completing the level for the first time and cannot be claimed again.
+3. Completing all levels in Normal Mode unlocks the Hard Mode levels.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHILDRENSDAY]
 1. There are various new worlds and new zombies in the secret realm waiting for you to explore. Each world has normal and hard levels.
@@ -41114,16 +41108,16 @@ Difficulty Increase
 Gene Enhancements
 
 [UNCHARTED_NO42_UNIVERSE_WORLD_DIFFICULTY_DESC_1]
-秘境中使用的植物为平行宇宙硬汉戴夫的植物，与玩家的所持植物无关
+The plants used in the Secret Realm are those of Parallel Universe Hardman Dave, and are unrelated to the plants owned by the player.
 
 [UNCHARTED_NO42_UNIVERSE_WORLD_DIFFICULTY_DESC_2]
-对抗的僵尸也是平行宇宙帅哥僵博的僵尸，哪怕外形相同功能很可能也会不一样
+The zombies you face are those of Parallel Universe Handsome Zombie Bo, and while they may look the same, their abilities might be different.
 
 [UNCHARTED_NO42_UNIVERSE_WORLD_DIFFICULTY_DESC_3]
-关卡胜利后可获得秘境币，首通获得高级币，重复通关获得普通币，普通币每日获得有上限
+After winning a level, you will earn Secret Realm Coins. First-time completion rewards high-level coins, while repeated completions reward normal coins. There is a daily limit on the acquisition of normal coins.
 
 [UNCHARTED_NO42_UNIVERSE_WORLD_DIFFICULTY_DESC_4]
-商店中可使用秘境币兑换奖励，普通币兑换的奖励只在当前秘境生效，高级币兑换的奖励可带出秘境
+You can exchange Secret Realm Coins for rewards in the shop. Rewards exchanged for normal coins are only valid in the current Secret Realm, while rewards exchanged for high-level coins can be taken out of the Secret Realm.
 
 
 [UNCHARTED_WORLD_DIFFICULTY_DESC_1]
@@ -41495,16 +41489,16 @@ Bun Chi's regular attacks change from single-target to hitting up to 3 zombies.
 兔极对前方3*3范围内的僵尸连续造成2次伤害，最后1次伤害击退范围内的僵尸1.5格
  
 [WATERRABBIT_AVATAR_PLANTFOOD_DESCRIPTION]
-兔极对前方3*3范围内的僵尸连续造成2次伤害后，^ff0000^再次跃起对3*3范围内僵尸造成伤害并使僵尸的啃食伤害降低80%，持续18秒^oldclr^，最后1次伤害击退范围内的僵尸1.5格
+兔极对前方3*3范围内的僵尸连续造成2次伤害后，^ff0000^再次跃起Gluttonous Snapdragon对3*3范围内僵尸造成伤害并使僵尸的啃食伤害降低80%，持续18秒^oldclr^，最后1次伤害击退范围内的僵尸1.5格
  
 [GLUTTONYDRAGON]
-Gluttony Dragon Grass
+Gluttonous Snapdragon
 
 [GLUTTONYDRAGON_DESCRIPTION]
 {KEYWORD} Range: {STAT} 1 tile in front or 3x3
 {KEYWORD} Traits: {STAT} Consumes snacks or gnaws on zombies to accumulate energy, then expels flames
 {KEYWORD} Plant Features: {STAT} Green plant
-{FLAVOR} As the fifth member of the Dragon Grass family, the Gluttony Dragon Grass has an astonishingly large appetite. Snacks or even a pile of zombies are no challenge for it.
+{FLAVOR} As the fifth member of the Dragon Grass family, the Gluttonous Snapdragon has an astonishingly large appetite. Snacks or even a pile of zombies are no challenge for it.
 
 [GLUTTONYDRAGON_DESCRIPTION_HEADER]
 Accumulates energy by consuming snacks or gnawing on zombies, then expels flames.
@@ -41534,10 +41528,10 @@ Flame Clone
 After expelling flames, a clone of the main body  appears above for a duration related to the flame-spewing time. The doppelgänger continuously expels tracking fireballs, causing continuous burn damage on hitting zombies.
 
 [STORE_PRODUCT_AVATAR_GLUTTONYDRAGON_TITLE]
-Gluttony Dragon Grass Costume
+Gluttonous Snapdragon Costume
 
 [GLUTTONYDRAGON_AVATAR_NAME]
-Gluttony Dragon Grass Costume
+Gluttonous Snapdragon Costume
 
 [STORE_PRODUCT_AVATAR_GLUTTONYDRAGON]
 Before absorbing zombies, it throws out lots of snacks. When absorbing, snacks fly into its mouth, additionally restoring 40% of energy.
@@ -55081,7 +55075,7 @@ Don't detonate any explosive barrels
 Maintain Dynamite Kegs
 
 [STARCHALLENGE_PLANTFOOD_NONUSE_TIP_PVZ1]
-Using plant food will not complete the challenge, are you sure still want to use it?
+Using plant food will break the challenge mission, are you sure still want to use it?
  
 [STAR_CHALLENGE_FUTURE_CONVEYOR]
 Survive the zombie attack with the given plants
@@ -55105,7 +55099,7 @@ Survive a massive attacks in Sky City
 Survive a massive attacks in Frostbite Caves
 
 [STARCHALLENGE_ICEAGA_FINALE_NAME]
-Final Day
+Ultimate Battle
 
 [STARCHALLENGE_MAZE_STATUE_NAME]
 Statue-shuffling
@@ -55114,7 +55108,7 @@ Statue-shuffling
 Find all the hidden zombies
 
 [STARCHALLENGE_COWBOY_FINALE_NAME]
-Final Day
+Ultimate Battle
 
 [STARCHALLENGE_DEFAULT_DEFEAT_ZOMBIES]
 Defeat the zombies!
@@ -55126,7 +55120,7 @@ Defeat the gunpowder lord from the world of Kung-fu in Invincible mode.
 Survive a massive attack in Ancient Egypt
 
 [STARCHALLENGE_EGYPT_FINALE_NAME]
-Final Day
+Ultimate Battle
 
 [STARCHALLENGE_FUTURE_FINALE]
 Survive a massive attack in the Far Future
@@ -55135,13 +55129,13 @@ Survive a massive attack in the Far Future
 Survive a massive attack in the Dark Ages
 
 [STARCHALLENGE_DARK_FINALE_NAME]
-Final Day
+Ultimate Battle
 
 [STARCHALLENGE_RENAI_FINALE]
 Survive a massive attack in the Renaissance Age
 
 [STARCHALLENGE_RENAI_FINALE_NAME]
-Final Day
+Ultimate Battle
 
 [STARCHALLENGE_BEACH_FINALE]
 Survive a massive attack at Big Wave Beach
@@ -55150,7 +55144,7 @@ Survive a massive attack at Big Wave Beach
 Shark Hunt
 
 [STARCHALLENGE_FUTURE_FINALE_NAME]
-Final Day
+Ultimate Battle
 
 [STARCHALLENGE_LOSTCITY_FINALE_NAME]
 Ultimate Battle
@@ -58900,6 +58894,59 @@ When a plant dies, it turns into a seed that can't be planted on. After some tim
 
 
 [SECTION_NARRATIVE]
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_1]
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}What’s this? A vortex I’ve never seen before?
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_2]
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Data indicates this is a new vortex black hole caused by chaotic time fluctuations in a spacetime tunnel.
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_3]
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Black hole? Plants always need a hole in the soil to take root and grow.
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_4]
+{NPC_ENTER:winnie}{PLAYFUL:winnie}You’re not wrong, Dave, but according to the data, this doesn’t connect to some giant plant—it connects to a new universe.
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_5]
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Oh no, the black hole is releasing strong gravity—we’re being pulled in!
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_6]
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}A new universe-flavored taco! Here I come!
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_1]
+{NPC_ENTER:no42zombossicon}Let me see what this chaos has attracted!
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_2]
+{NPC_ENTER:no42zombossicon}A talking vehicle made of scrap metal? Looks like this universe’s version of you still lacks artistic taste.
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_3]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave}Enough nonsense, handsome Zomboss! You stole the prized wig from the Mini Fossil Museum—I won’t let you get away with it!
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_4]
+{NPC_ENTER:no42zombossicon}Looks like this disturbance didn’t bring you any decent allies. You should take better care of your face!
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_5]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave}It’s because you stole the wig! You’ve disrupted the stability of the parallel universe! I’ll capture you for sure!
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_1]
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Data indicates... Universe No. 42 has a 42% similarity to our universe.
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_2]
+{NPC_ENTER:winnie}{PLAYFUL:winnie}The plants and zombies here, while appearing similar, actually have surprising differences.
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_3]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave}Who is this talking vehicle?
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_4]
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Scanning... User Dave. Registration complete.
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_5]
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Data indicates that Tough Dave from Universe No. 42 shares a 42% thought synchronization rate with Crazy Dave.
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_6]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave}I don’t understand what you’re saying with all this nonsense, but whatever—help me deal with Handsome Zomboss!
+
+
 [NARRATIVE_TUTORIAL_FIRST_RECHARGE_INTRO_1]
 {NPC_ENTER:evilcrazydave}Hey punk, wanna see some cool offers?
 
@@ -59092,39 +59139,39 @@ When a plant dies, it turns into a seed that can't be planted on. After some tim
 [NARRATIVE_STEAM_OUTRO_ZOMBOSS_5]
 {TIRED:winnie}I don't think he is right now, we need to be careful in the future.
 
-
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}哦，疯狂之人，汝所植之草木，岂能阻止命运之车轮?
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Oh, mad one, do you think the plants you grow can stop the wheels of fate?
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_2]
-{SAY:zombossicon}吾欲将尔之园地化为僵尸的领域
+{SAY:zombossicon}I intend to turn your garden into a domain for zombies.
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_3]
-{SAY:zombossicon}在此之前，让我们开始一场盛大的演出吧！
+{SAY:zombossicon}Before that, let us commence a grand performance!
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}我没听懂
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}I didn’t understand a word of that.
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_5]
-{EXCITED:winnie}他说他要干掉你。
+{EXCITED:winnie}He said he’s going to take you down.
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_6]
-{EXCITED:crazydave}也许他身上带着玉米卷。
+{EXCITED:crazydave}Maybe he’s carrying tacos.
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}唉，命运！命运！
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Ah, fate! Fate!
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_2]
-{SAY:zombossicon}我之努力竟如流星划过天际。
+{SAY:zombossicon}All my efforts have been like a meteor streaking across the sky.
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_3]
-{SAY:zombossicon}尔等沉迷于短暂的欢愉，却不知我将会如闪电般归来！
+{SAY:zombossicon}You revel in fleeting joy, unaware that I shall return like lightning!
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}我还是没听懂
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}I still don’t understand.
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_5]
-{TIRED:winnie}或许这就是“莎士比亚式”的诗意失败
+{TIRED:winnie}Perhaps this is what they call a "Shakespearean" poetic defeat.
+
 
 [NARRATIVE_CANNON_USE_INTRO_1]
 {NPC_ENTER:crazydaveicon}{SAY}This beauty can automatically shoot at incoming zombies for big damage!
@@ -64369,70 +64416,70 @@ LET'S ROCK!
 Cancel
 
 [NEW_PVP_FREE_TO_PLAY_MAIN_CREATE_ROOM]
-创建房间
+Create Room
 
 [NEW_PVP_FREE_TO_PLAY_MAIN_CREATE_ROOM_TITLE]
-创建与加入
+Create and Join
 
 [NEW_PVP_FREE_TO_PLAY_MAIN_JOIN_ROOM]
-加入房间
+Join Room
 
 [NEW_PVP_FREE_TO_PLAY_AREA_CONFIRM]
-确定
+Confirm
 
 [NEW_PVP_FREE_TO_PLAY_AREA_TITLE]
-世界选择
+World Selection
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_TITLE_HOST]
-房主
+Host
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_TITLE_GUEST]
-访客
+Guest
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE]
-你的编队^oldclr ^00FF00 准备中 ^oldclr
+Your lineup^oldclr ^00FF00 Preparing ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY]
-你的编队^oldclr ^00FF00 已准备 ^oldclr
+Your lineup^oldclr ^00FF00 Ready ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_WAITING]
-^oldclr ^00FF00 等待进入 ^oldclr
+^oldclr ^00FF00 Waiting to enter ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE_OPPONENT]
-访客^oldclr ^00FF00 准备中 ^oldclr
+Guest^oldclr ^00FF00 Preparing ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY_OPPONENT]
-访客^oldclr ^00FF00 已准备 ^oldclr
+Guest^oldclr ^00FF00 Ready ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE_HOST]
-房主^oldclr ^00FF00 准备中 ^oldclr
+Host^oldclr ^00FF00 Preparing ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY_HOST]
-房主^oldclr ^00FF00 已准备 ^oldclr
+Host^oldclr ^00FF00 Ready ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_KICK_BTN]
-请出
+Kick Out
 
 [NEW_PVP_FREE_TO_PLAY_MATCHING_SCREEN_ROOM_NUMBER]
-房间码: {NUMBER}
+Room Code: {NUMBER}
 
 [NEW_PVP_FREE_TO_PLAY_MATCHING_SCREEN_BTN_COPY]
-复制
+Copy
 
 [NEW_PVP_FREE_TO_PLAY_MATCHING_SCREEN_BTN_READY]
-准备完毕
+Ready
 
 [NEW_PVP_FREE_TO_PLAY_MATCHING_SCREEN_BTN_IS_READY]
-已准备
+Ready
 
 [NEW_PVP_FREE_TO_PLAY_PLANT_EDIT_CONFIRM]
-保存阵容
+Save Lineup
 
 [NEW_PVP_FREE_TO_PLAY_JOIN_CONFIRM]
-加入房间
+Join Room
 
 [NEW_PVP_FREE_TO_PLAY_JOIN_TITLE]
-请输入房间码
+Enter Room Code
 
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT]
 Found opponent
@@ -64526,22 +64573,22 @@ You got daily chest!
 You got weekly chest!
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_TITLE]
-系统提示
+System Notification
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_1]
-房间不存在！
+Room does not exist!
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_2]
-已在房间内！
+Already in a room!
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_3]
-战斗已开始！
+Battle has already started!
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_4]
-房间成员已满！
+Room is full!
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_5]
-房间已解散！
+Room has been disbanded!
 
 [NEW_PVP_MAIN_VIEW_FPS_WARNING]
 ^FF0000 Your current game frame rate is too low! Unable to play online battles! ^oldclr^
@@ -67677,16 +67724,16 @@ You need to charge at least 10 times to receive the full rewards.
 Resources
 
 [UI_BAG_PLANT_PIECE]
-Plant pieces
+Plant Pieces
 
 [UI_BAG_AVATAR_PIECE]
-Costume pieces
+Costume Pieces
 
 [UI_BAG_PARTY_ASSIST_EXCHANGE]
-Gems exchange
+Gems Exchange
 
 [UI_BAG_ACCESSORY_PIECE]
-Accessory pieces
+Pendant Pieces
 
 [UI_BAG_OTHER_ITEM]
 Others
@@ -69183,59 +69230,6 @@ Fast Fusion will automatically fuse all pieces that cannot be used anymore. The 
 [NOT_REMIND_TODAY]
 Don't Remind Me Today
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}这是什么？此前从未见过的漩涡？
-
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}数据显示，这是一个由于时空通道的时间波动混乱，形成的新的漩涡黑洞。
-
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_3]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave} 黑洞？植物们生根发芽总是需要先在土壤里挖个洞。
-
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_4]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}你说的没错戴夫同学，但根据资料显示，这里联通的并不是某个巨大的植物，而是一个新的宇宙。
-
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_5]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} 不好，黑洞开始释放强引力，我们要被吸进去了！
-
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_6]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}新宇宙口味的玉米卷！我来了！
-
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_1]
-{NPC_ENTER:no42zombossicon}让本少爷看看，这场骚乱都引来了什么东西！
-
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_2]
-{NPC_ENTER:no42zombossicon}一台由破铜烂铁拼成的会说话的车？看来另一个宇宙的这家伙依然没有艺术气息。
-
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_3]
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} 少说废话了帅哥僵博！你偷走迷你化石博物馆的宝物假发这件事！我绝饶不了你！
-
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_4]
-{NPC_ENTER:no42zombossicon}看来这次的扰乱没给你带来什么像样的帮手啊，你还是好好保养一下自己的脸吧！
-
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_5]
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} 就是因为你偷走了假发！破坏了平行世界的稳定性!我一定要抓住你！
-
-[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} 数据显示......42号宇宙与我们宇宙的相似度达到42％。
-
-[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} 这里的植物，僵尸，虽然看似相同，实际上有令人意外的变化。
-
-[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_3]
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} 这台会说话的车是谁？
-
-[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_4]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} 扫描** 用户...硬汉戴夫先生，注册完毕。
-
-[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_5]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} 数据显示，用户硬汉戴夫来自42号平行宇宙，与疯狂戴夫的思想同步程度达到42％。
-
-[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_6]
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} 听不懂你说的莫名奇妙的都是些什么，不管了，来帮忙对付帅哥僵博！
-
-
-
 [FIRECRACKERFLOWER]
 Bloomfire Blaster
 
@@ -70206,13 +70200,13 @@ Hit zombies with peas to summon a storm of peas from above!
 Every time a zombie is hit by a pea projectile, the meter on the bottom is charged. Once it is full, a large amount of powerful peas will rain down randomly, dealing high damage to whatever they hit. These peas' damage ignores the Crystallization buff's damage resistance.\
 
 [THEME_MIND_CONTROL_NAME]
-精神控制
+Mind Control
 
 [THEME_MIND_CONTROL_DESCRIPTION]
-使用豌豆充能，落下豌豆雨
+Charge with peas, summon a rain of peas
 
 [THEME_MIND_CONTROL_DESCRIPTION_DETAILS]
-当豌豆类子弹攻击到僵尸造成伤害后，根据该次伤害为蓄能条进行充能，当蓄能条充满后，将消耗所有蓄能条全场降下一定数量的豌豆雨，豌豆下落位置随机，豌豆对单个僵尸造成固定伤害且无视词条效果\
+When pea-based projectiles hit zombies and deal damage, it charges the energy bar based on the damage dealt. Once the energy bar is full, all energy is consumed, and a certain number of peas will fall across the field at random locations. Each pea deals fixed damage to a single zombie and ignores any stat effects.
 
 
 [THEME_WATERING_NAME]
@@ -70601,34 +70595,34 @@ Survive using allied Zombotanies.
 每关困难关卡存在3个挑战目标, 完成后收集徽章, 兑换奖励. 
 
 [ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_NO42_UNIVERSE]
-1、活动时间
+1. Event Duration
 
 [ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_NO42_UNIVERSE]
-本次秘境的开启时间为1月27号至2月25号。
+The event will run from January 27th to February 25th.
 
 [ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_NO42_UNIVERSE]
-2、植物规则
+2. Plant Rules
 
 [ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_NO42_UNIVERSE]
-秘境中使用平行宇宙植物,玩家的植物养成包括家族挂件等在该秘境中不生效,且秘境中无法使用神器
+In the event, only parallel universe plants can be used. Player plant upgrades, including family charms, do not apply in this event, and artifacts cannot be used.
 
 [ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_NO42_UNIVERSE]
-3、关卡规则
+3. Level Rules
 
 [ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_NO42_UNIVERSE]
-秘境中初始阳光为50,植物槽为8,初始阳光可通过秘境商店升级。
+The starting sun is 50, and the plant slots are 8. Sun can be upgraded through the event shop.
 
 [ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_NO42_UNIVERSE]
-4、秘境奖励
+4. Event Rewards
 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_NO42_UNIVERSE]
-通关秘境可获得普通和高级2种货币，高级币只有首通获得，普通币可以通关反复获得但每天获得有500上限,货币可在商店中兑换奖励。
+Completing the event will reward you with two types of currency: normal and advanced. The advanced currency is only available on the first completion, while the normal currency can be repeatedly earned after completing levels, with a daily maximum of 500. The currencies can be used in the shop to exchange for rewards.
 
 [SPACETIME_KEY_INFO_TITLE_UNCHARTED_NEEDFORSPEED_202406]
-飞车竞速赛秘境说明
+Racing Event Dungeon Description
 
 [SPACETIME_KEY_INFO_TITLE_UNCHARTED_NO42_UNIVERSE]
-NO42平行宇宙秘境说明
+NO42 Parallel Universe Dungeon Description
 
 [ELITE_ZOMBIE_TIPS_TEXT_ZOMBIE_VAN]
 ^573701^经过特训后能够免疫控制、变形、秒杀, 在3秒内受到一定伤害后进入无敌状态, 一段时间后恢复常态. ^oldclr^
@@ -70691,52 +70685,52 @@ Speed Racing - Day 6 (Hard)
 Speed Racing - Day 7 (Hard)
 
 [PLAYERS_TRIP_TO_NO42]
-{PLAYER}的42号平行宇宙之旅
+{PLAYER}'s Trip to Parallel Universe No. 42
 
 [NO42_LEVEL_NAME_01]
-开场
+Opening
 
 [NO42_LEVEL_NAME_02]
-时间
+Time
 
 [NO42_LEVEL_NAME_03]
-分析
+Analysis
 
 [NO42_LEVEL_NAME_04]
-科学
+Science
 
 [NO42_LEVEL_NAME_05]
-虚实
+Reality and Illusion
 
 [NO42_LEVEL_NAME_06]
-矛盾
+Contradiction
 
 [NO42_LEVEL_NAME_07]
-破局
+Breaking the Impasse
 
 [NO42_LEVEL_NAME_01_H]
-四二
+Forty-Two
 
 [NO42_LEVEL_NAME_02_H]
-闭环
+Closed Loop
 
 [NO42_LEVEL_NAME_03_H]
-计划
+Plan
 
 [NO42_LEVEL_NAME_04_H]
-陷阱
+Trap
 
 [NO42_LEVEL_NAME_05_H]
-镜子
+Mirror
 
 [NO42_LEVEL_NAME_06_H]
-千年
+Millennium
 
 [NO42_LEVEL_NAME_07_H]
-入梦
+Entering the Dream
 
 [NO42_LEVEL_NAME_MUGEN]
-无限
+Infinity
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_NEEDFORSPEED1]
 加速冲锋
@@ -71087,7 +71081,7 @@ Backwards Cap
 Dragon Puppets
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_2]
-Toy Gluttony Dragon Grass
+Toy Gluttonous Snapdragon
 
 [NEW_AVATAR_DESCRIPTION_GLUTTONYDRAGON_2]
 Energy recovery increased by 50%.
@@ -71154,54 +71148,55 @@ Energy recovery increased by 50%.
 超级礼包盒
 
 [MAT_PENNY_GIFT_TOKEN]
-潘妮金币
+Penny Coin
 
 [MAT_PENNY_GIFT_TOKEN_USE]
-用于潘妮未来礼盒购买道具
+Used for purchasing items in Penny's future gift box
 
 [MAT_PENNY_GIFT_TOKEN_GOT_WAY]
-潘妮未来礼盒中购买金币礼包获得
+Obtained by purchasing the coin gift pack in Penny's future gift box
 
 [MAT_LUCKYCHEST]
-幸运宝箱第Ⅱ期
+Lucky Chest Phase II
 
 [MAT_LUCKYCHEST_USE]
-开启幸运宝箱后可以随机获取丰厚奖励，仅可在2025年1月1日-2月25日使用
+Opening the lucky chest gives you a chance to receive generous rewards. Only available for use between January 1, 2025, and February 25, 2025.
 
 [MAT_LUCKYCHEST_GOT_WAY]
-幸运宝藏活动获取、每周特惠礼包购买获取
+Available through the Lucky Treasure event or purchased with weekly special offer bundles
 
 [NFS_LINKAGE_TAB1]
-新春签到
+Spring Sign-In
 
 [NFS_LINKAGE_TAB2]
-元宝任务
+Had Gears Tasks
 
 [NFS_LINKAGE_TAB3]
-兑换商店
+Exchange Shop
 
 [NFSLINKAGE_DESCRIPTION_TITLE]
-元宝大作战活动说明
+Had Gears Battle Event Description
 
 [NFSLINKAGE_DESCRIPTION]
-活动规则
-1.玩家活动期间每日登录期间，可以领取超值奖励，签到奖励共14天
-2.元宝任务分为每日任务和活动任务，每日任务每日0点刷新，每日可完成一次
-3.活动任务存在多阶段任务，只有完成上一阶段任务后，才会显示下一阶段
-4.完成元宝任务可获得元宝，消耗元宝可在兑换商店中兑换道具奖励
-5.兑换商店兑换需要在活动开启期间兑换，各位小僵僵记得及时兑换哦
+Event Rules:
+1. Players can log in daily during the event period to receive valuable rewards, with a total of 14 days of sign-in rewards.
+2. Had Gears tasks are divided into daily tasks and event tasks. Daily tasks refresh at midnight and can be completed once each day.
+3. Event tasks have multiple stages, and only after completing a previous stage will the next stage appear.
+4. Completing Had Gears tasks rewards Had Gears, which can be used in the exchange shop for item rewards.
+5. The exchange shop can be accessed during the event period. Don't forget to redeem your rewards in time!
 
 [MAT_NFSLINKAGE_INTEGRAL]
-元宝
+Had Gears
 
 [NFSLINKAGE_TITLE]
-元宝大作战
+Had Gears Battle
 
 [MAT_NFSLINKAGE_TICKET]
-元宝
+Had Gears
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION]
-活动期间内，玩家可以登录领取14天超值奖励，完成活动任务可获得元宝，在兑换商店可消耗元宝换取超值奖励哦！
+During the event, players can log in to claim 14 days of valuable rewards. Completing event tasks will earn Had Gears, which can be used in the exchange shop to redeem valuable rewards!
+
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}滑动手指拖动车辆进行移动, 水平车辆左右移动, 垂直车辆上下移动
@@ -71876,107 +71871,108 @@ Wicked Empress Zombie
 Black Hole Fantastic Journey
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-初级玩具礼包
+Beginner Toy Gift Pack
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-中级玩具礼包
+Intermediate Toy Gift Pack
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-高级玩具礼包
+Advanced Toy Gift Pack
 
 [PRODUCT_TOY_NIGHT_45_SHORTDESC]
-初级限购礼包
+Beginner Limited Edition Gift Pack
 
 [PRODUCT_TOY_NIGHT_198_SHORTDESC]
-皇家御用奢华典藏限购礼包
+Royal Luxury Limited Edition Gift Pack
 
 [TOYNIGHT_TASK_1]
-首次进入活动
+Enter the event for the first time
 
 [TOYNIGHT_TASK_2]
-获得瓷砖萝卜超级装扮
+Obtain the Gluttonous Snapdragon Super Outfit
 
 [TOYNIGHT_TASK_3]
-获得蛇妖瓶子草三个全部装扮
+Obtain all Gluttonous Snapdragon outfits
 
 [MAT_TOY_PARTS]
-小型黑洞
+Mini Black Hole
 
 [MAT_TOY_PARTS_USE]
-在黑洞奇幻旅活动黑洞商店中兑换奖励
+Exchange rewards in the Black Hole Fantasy Journey event Black Hole Shop
 
 [MAT_TOY_PARTS_GOT_WAY]
-在黑洞奇幻旅活动中通过抽取获得
+Obtain through draws in the Black Hole Fantasy Journey event
 
 [MAT_TOY_CLOCKWORK]
-星星币
+Star Coins
 
 [MAT_TOY_CLOCKWORK_USE]
-在黑洞奇幻旅活动中抽奖消耗的道具
+Item consumed for draws in the Black Hole Fantasy Journey event
 
 [MAT_TOY_CLOCKWORK_GOT_WAY]
-在黑洞奇幻旅活动礼包商店中购买获得
+Obtain through purchasing in the Black Hole Fantasy Journey Gift Shop
 
 [TOY_NIGHT_EXPIRED]
-黑洞奇幻旅过期奖励
+Expired rewards for the Black Hole Fantasy Journey
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
-活动规则：
-1、通过购买礼包获得星星币，消耗星星币在活动中抽取奖励，星星币与小型黑洞无法继承至下期活动，活动结束后根据1：10与1：1的比例自动转化为钻石。
-2、每次抽奖有概率获得小型黑洞或其他奖励，幸运的小僵僵有概率直接获取瓷砖萝卜超级装扮。
-3、若连续20次内抽奖未抽到大奖，则下次抽奖奖励会在保底奖池中抽取。
-4、重复抽到的超级装扮会自动转化为200个小型黑洞奖励。
+1. Star Coins are obtained via gift packs and used for draws. They and Mini Black Holes won’t carry over to the next event and will be converted to Gems at a 1:10 and 1:1 ratio.
+2. Each draw offers a chance for a Mini Black Hole or other rewards. Lucky players may directly win the Tile Carrot Super Outfit.
+3. If no grand prize is won within 20 consecutive draws, the next draw guarantees a reward from the prize pool.
+4. Repeated Super Outfits are converted into 200 Mini Black Hole rewards.
 
-保底奖池概率：
-瓷砖萝卜超级装扮：    3.72%    大奖
-小型黑洞*1300：      5.28%    大奖
-小型黑洞*700：      12.55%    大奖
-小型黑洞*500：      11.10%    大奖
-钻石*1888：         32.17%    大奖
-潘妮秘宝券*10：      35.18%    大奖
+Guaranteed Prize Pool Chances:
+Tile Carrot Super Outfit: 3.72%
+Mini Black Hole*1300: 5.28%
+Mini Black Hole*700: 12.55%
+Mini BH*500: 11.10%
+Gems*1888: 32.17%
+Penny's Secret Treasure Coupon*10: 35.18%
 
-奖励概率公示：
-瓷砖萝卜超级装扮：  0.17%    大奖
-小型黑洞*1300：    0.21%    大奖
-小型黑洞*700：     0.43%    大奖
-小型黑洞*500：     0.85%    大奖
-小型黑洞*100：     6.09%    普通
-小型黑洞*50：     16.00%    普通
-小型黑洞*20：     12.00%    普通
-小型黑洞*10：     35.00%    普通
-装扮券*500：       2.50%    普通
-装扮券*100：       9.75%    普通
-潘妮秘宝券*1：     17.00%    普通
+Reward Probability:
+Tile Carrot Super Outfit: 0.17%
+Mini Black Hole*1300: 0.21%
+Mini Black Hole*700: 0.43%
+Mini BH*500: 0.85%
+Mini BH*100: 6.09%
+Mini BH*50: 16.00%
+Mini BH*20: 12.00%
+Mini BH*10: 35.00%
+Outfit Coupon*500: 2.50%
+Outfit Coupon*100: 9.75%
+Penny's Secret Treasure Coupon*1: 17.00%
 
 [TOY_NIGHT_GACHA_GOT_HINT]
-如已拥有,自动转换为积分奖励
+If already owned, automatically converted to points reward
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
-活动说明
+Event Description
 
 [MINIGAME_COLLECTION_TITLE]
-趣味竞赛
+Fun Competition
 
 [MINIGAME_COLLECTION_TAB1]
-迷你游戏
+Mini Games
 
 [MINIGAME_COLLECTION_TAB2]
-活动奖励
+Event Rewards
 
 [MINIGAME_COLLECTION_TAB3]
-迷你强化
+Mini Game Enhancements
 
 [MINIGAME_COLLECTION_TAB4]
-活动说明
+Event Description
 
 [MINIGAME_COLLECTION_NORMAL_LEVEL]
-普通模式
+Normal Mode
 
 [MINIGAME_COLLECTION_HARD_LEVEL]
-困难模式
+Hard Mode
+
+
 
 [MINIGAME_COLLECTION_ACTIVITY_TIME_OVER]
-活动结束
+Event Ended
 
 [MINIGAME_COLLECTION_TIPS_INFO]
 活动说明
@@ -72451,449 +72447,449 @@ Bubble Coral Costume
 大招产生更多的泡泡
 
 [PAPHIOPEDILUM]
-百宝兜兰
+Pocket Paph
 
-[PAPHIOPEDILUM_DESCRIPTION]
-{KEYWORD}范围：{STAT}单行
-{KEYWORD}特点：{STAT}扔出随机道具
-{KEYWORD}植物特征：{STAT}粉色植物
-{FLAVOR}谁都不知道百宝兜兰的口袋有多能装，激光豆的竹蜻蜓、土豆地雷的眼罩……大家总是对口袋里的下一个“惊喜”充满了期待，说不定啥时候还能变个传送门出来。甚至僵尸都罕见地对百宝兜兰作出了正面评价，至少零食挺好吃的
+[PAPHIOPEDILUM_DESCRIPTION]  
+{KEYWORD} Range: {STAT} single line  
+{KEYWORD} Special: {STAT} throws random items  
+{KEYWORD} Plant feature: {STAT} pink plant  
+{FLAVOR} Nobody knows how many things can be stuffed into Pocket Paph’s pocket. Laser Bean’s bamboo-copter, Potato Mine’s eye patch… everyone’s looking forward to the next surprise. Maybe there would even be a pink door. Even zombies gave positive feedback, saying at least the snacks are tasty.
 
-[PAPHIOPEDILUM_DESCRIPTION_HEADER]
-用抛投形式扔出各种道具，产生各种效果
+[PAPHIOPEDILUM_DESCRIPTION_HEADER]  
+Pocket Paph throws random items towards zombies at the front, tiering up gives the plant a chance to throw multiple items at once
 
-[PAPHIOPEDILUM_TOOLTIP]
-用抛投形式扔出各种道具，产生各种效果
+[PAPHIOPEDILUM_TOOLTIP]  
+Throws various items using a toss, generating different effects
 
-[PAPHIOPEDILUM_PRODUCT_SHORT_DESC]
-用抛投形式扔出各种道具，产生各种效果
+[PAPHIOPEDILUM_PRODUCT_SHORT_DESC]  
+Throws various items using a toss, generating different effects
 
-[PAPHIOPEDILUM_SKILL_LEVEL1]
-再来一个
+[PAPHIOPEDILUM_SKILL_LEVEL1]  
+Another one
 
-[PAPHIOPEDILUM_SKILL_LEVEL1_DES]
-有10%的概率可以连续丢出2个随机道具
+[PAPHIOPEDILUM_SKILL_LEVEL1_DES]  
+There is a 10% chance to consecutively throw 2 random items
 
-[PAPHIOPEDILUM_SKILL_LEVEL2]
-再来两个
+[PAPHIOPEDILUM_SKILL_LEVEL2]  
+Two more
 
-[PAPHIOPEDILUM_SKILL_LEVEL2_DES]
-连续丢出2个随机道具的概率提升至20%，同时有10%的概率连续丢出3个随机道具
+[PAPHIOPEDILUM_SKILL_LEVEL2_DES]  
+The chance to consecutively throw 2 random items increases to 20%, and there’s a 10% chance to consecutively throw 3 random items
 
-[PAPHIOPEDILUM_SKILL_LEVEL5]
-空中支援
+[PAPHIOPEDILUM_SKILL_LEVEL5]  
+Aerial support
 
-[PAPHIOPEDILUM_SKILL_LEVEL5_DES]
-在道具池中添加一个信标，信标落下后会在5×5范围内随机落下炸弹进行轰炸，共5发炸弹每发造成3×3的范围火焰伤害
+[PAPHIOPEDILUM_SKILL_LEVEL5_DES]  
+Adds a beacon to the item pool. After the beacon drops, bombs will randomly drop within a 5×5 area, bombing 5 times in total. Each bomb causes 3×3 range fire damage.
 
-[PAPHIOPEDILUM_AVATAR_NAME]
-百宝兜兰装扮
+[PAPHIOPEDILUM_AVATAR_NAME]  
+Pocket Paph Costume
 
-[STORE_PRODUCT_AVATAR_PAPHIOPEDILUM]
-扔出更多的道具
+[STORE_PRODUCT_AVATAR_PAPHIOPEDILUM]  
+Throw more items
 
-[STORE_PRODUCT_AVATAR_PAPHIOPEDILUM_TITLE]
-百宝兜兰装扮
+[STORE_PRODUCT_AVATAR_PAPHIOPEDILUM_TITLE]  
+Pocket Paph Costume
 
-[PAPHIOPEDILUM_NEW_SKILL_LEVEL1_DES]
-用抛投形式扔出各种道具(小零食,黄油块,铁砧,炸弹,橡胶锤)
+[PAPHIOPEDILUM_NEW_SKILL_LEVEL1_DES]  
+Throws various items using a toss (small snacks, butter blocks, anvils, bombs, rubber hammers)
 
-[PAPHIOPEDILUM_NEW_SKILL_LEVEL2_DES]
-有10%的概率可以连续丢出2个随机道具
+[PAPHIOPEDILUM_NEW_SKILL_LEVEL2_DES]  
+There is a 10% chance to consecutively throw 2 random items
 
-[PAPHIOPEDILUM_NEW_SKILL_LEVEL3_DES]
-连续丢出2个随机道具的概率提升至20%，同时有10%的概率连续丢出3个随机道具
+[PAPHIOPEDILUM_NEW_SKILL_LEVEL3_DES]  
+The chance to consecutively throw 2 random items increases to 20%, and there’s a 10% chance to consecutively throw 3 random items
 
-[PAPHIOPEDILUM_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招
+[PAPHIOPEDILUM_NEW_SKILL_LEVEL4_DES]  
+Has a high chance to directly release the Energy Bean ultimate move when planting
 
-[PAPHIOPEDILUM_NEW_SKILL_LEVEL5_DES]
-在道具池中添加一个信标，信标落下后会在5×5范围内随机落下炸弹进行轰炸，共5发炸弹每发造成3×3的范围火焰伤害
+[PAPHIOPEDILUM_NEW_SKILL_LEVEL5_DES]  
+Adds a beacon to the item pool. After the beacon drops, bombs will randomly drop within a 5×5 area, bombing 5 times in total. Each bomb causes 3×3 range fire damage.
 
-[PAPHIOPEDILUM_PLANTFOOD_DESCRIPTION]
-向场上每个僵尸丢出1个随机道具，场上僵尸数量少于5个时，也会至少丢出5个道具
+[PAPHIOPEDILUM_PLANTFOOD_DESCRIPTION]  
+Throws 1 random item at each zombie on the field. When fewer than 5 zombies are on the field, it will throw at least 5 items.
 
-[PAPHIOPEDILUM_AVATAR_PLANTFOOD_DESCRIPTION]
-扔出更多的道具
+[PAPHIOPEDILUM_AVATAR_PLANTFOOD_DESCRIPTION]  
+Throw more items
 
+[EYWA]  
+Nyuwa Ophiuros
 
-[EYWA]
-女娲蛇尾草
+[EYWA_DESCRIPTION]  
+{KEYWORD} Range: {STAT} Full lawn
+{KEYWORD} Characteristic: {STAT} molds plant figurines  
+{KEYWORD} Plant feature: {STAT} green plant  
+{FLAVOR} Stemming from her deep understanding and practice of botanical ontology, despite living in the era of unrest due to all the zombie fighting, Nyuwa Ophiuros still advocates for fair treatment of the botanical brethren with no eyes, and that we shouldn't use them as meat shields. She also has some special feelings towards a certain crazy, moustached inventor.
 
-[EYWA_DESCRIPTION]
-{KEYWORD}范围：{STAT}全屏
-{KEYWORD}特点：{STAT}捏出植物小人
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}出于对植物本体论的深刻认知和实践，即使在这个每天对抗僵尸的浮躁年代，女娲蛇尾草也总是主张植物同胞们要好好对待那些没有眼睛的植物，不要总是把它们扔出去对付僵尸。她对某位疯狂的大胡子发明家的情感也是独一无二的。
+[EYWA_DESCRIPTION_HEADER]  
+Nyuwa Ophiuros summons tiny plant soldiers who upgrade after several attacks. Different units have different abilities. Units time out and disappear.
 
-[EYWA_DESCRIPTION_HEADER]
-捏出植物小人,植物小人会自己寻找僵尸攻击
+[EYWA_TOOLTIP]  
+Molds plant figurines, which automatically find zombies to attack
 
-[EYWA_TOOLTIP]
-捏出植物小人,植物小人会自己寻找僵尸攻击
+[EYWA_PRODUCT_SHORT_DESC]  
+Molds plant figurines, which automatically find zombies to attack
 
-[EYWA_PRODUCT_SHORT_DESC]
-捏出植物小人,植物小人会自己寻找僵尸攻击
+[EYWA_SKILL_LEVEL1]  
+Rapid Evolution
 
-[EYWA_SKILL_LEVEL1]
-快速进化
+[EYWA_SKILL_LEVEL1_DES]  
+The first molded figurine is directly a rifle figurine. The number of attacks required for all plant figurines to upgrade is reduced by 1.
 
-[EYWA_SKILL_LEVEL1_DES]
-首次捏人会直接捏出步枪小人，所有形态植物小人升级所需攻击次数减少1次
+[EYWA_SKILL_LEVEL2]  
+Super Evolution
 
-[EYWA_SKILL_LEVEL2]
-极速进化
+[EYWA_SKILL_LEVEL2_DES]  
+The first molded figurine is directly a mortar figurine. The number of attacks required for all plant figurines to upgrade is reduced by 2.
 
-[EYWA_SKILL_LEVEL2_DES]
-首次捏人会直接捏出迫击炮小人，所有形态植物小人升级所需攻击次数减少2次
+[EYWA_SKILL_LEVEL5]  
+Air Force Technology
 
-[EYWA_SKILL_LEVEL5]
-空军科技
+[EYWA_SKILL_LEVEL5_DES]  
+The first molded figurine is directly a tank figurine. When the tank figurine disappears, there’s a chance for a plane to appear, which catches the figurine, drops a nuclear bomb, and then flies away. The nuclear bomb has a 3×3 explosion range, dealing damage and degeneration effects to zombies in the area.
 
-[EYWA_SKILL_LEVEL5_DES]
-首次捏人会直接捏出坦克小人，坦克小人消失时有概率出现一架飞机，额外投下一颗核弹后再飞走，核弹有3×3的爆炸范围，对范围内的僵尸造成伤害和退化效果
+[EYWA_AVATAR_NAME]  
+Nyuwa Ophiuros Costume
 
-[EYWA_AVATAR_NAME]
-女娲蛇尾草装扮
+[STORE_PRODUCT_AVATAR_EYWA]  
+An additional figurine with a larger bomb
 
-[STORE_PRODUCT_AVATAR_EYWA]
-额外出现一个拥有更大炸弹的小人
+[STORE_PRODUCT_AVATAR_EYWA_TITLE]  
+Nyuwa Ophiuros Costume
 
-[STORE_PRODUCT_AVATAR_EYWA_TITLE]
-女娲蛇尾草装扮
+[EYWA_NEW_SKILL_LEVEL1_DES]  
+Molds plant figurines, which automatically find zombies to attack. After a certain number of attacks, the plant figurines evolve.
 
-[EYWA_NEW_SKILL_LEVEL1_DES]
-捏出植物小人，植物小人会自己寻找僵尸攻击，植物小人攻击僵尸一定次数后会进化
+[EYWA_NEW_SKILL_LEVEL2_DES]  
+The first molded figurine is directly a rifle figurine. The number of attacks required for all plant figurines to upgrade is reduced by 1.
 
-[EYWA_NEW_SKILL_LEVEL2_DES]
-首次捏人会直接捏出步枪小人，所有形态植物小人升级所需攻击次数减少1次
+[EYWA_NEW_SKILL_LEVEL3_DES]  
+The first molded figurine is directly a mortar figurine. The number of attacks required for all plant figurines to upgrade is reduced by 2.
 
-[EYWA_NEW_SKILL_LEVEL3_DES]
-首次捏人会直接捏出迫击炮小人，所有形态植物小人升级所需攻击次数减少2次
+[EYWA_NEW_SKILL_LEVEL4_DES]  
+Has a high chance to directly release the Plant Food when planting
 
-[EYWA_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招
+[EYWA_NEW_SKILL_LEVEL5_DES]  
+The first molded figurine is directly a tank figurine. The tank figurine jumps out of the tank and disappears into the air. There’s a chance for a plane to catch the figurine, drop a nuclear bomb, and then fly away. The nuclear bomb has a 3×3 explosion range, dealing damage and degeneration effects to zombies in the area.
 
-[EYWA_NEW_SKILL_LEVEL5_DES]
-首次捏人会直接捏出坦克小人，坦克小人从坦克中跳出在空中消失的过程中有概率出现一架飞机接住小人，额外投下一颗核弹后再飞走，核弹有3×3的爆炸范围，对范围内的僵尸造成伤害和退化效果
+[EYWA_PLANTFOOD_DESCRIPTION]  
+Nuwa Grass pulls out vines and tosses 5 mud points, which randomly land in the front 2 columns, turning into bomb figurines that rush toward the nearest zombie and explode, causing 3×3 area damage.
 
-[EYWA_PLANTFOOD_DESCRIPTION]
-女娲草抽出藤条甩出5团泥点，泥点随机降落在前方2列的随机格子中变成炸弹小人，冲向最近的僵尸爆炸，造成3×3的范围伤害
+[EYWA_AVATAR_PLANTFOOD_DESCRIPTION]  
+An additional figurine with a larger bomb
 
-[EYWA_AVATAR_PLANTFOOD_DESCRIPTION]
-额外出现一个拥有更大炸弹的小人
+[PARALLEL_SUNFLOWER]  
+42nd Sunflower
 
-[PARALLEL_SUNFLOWER]
-42号向日葵
+[PARALLEL_SUNFLOWER_TOOLTIP]  
+Basic sunshine plant, generates 25 sunshine each time
 
-[PARALLEL_SUNFLOWER_TOOLTIP]
-基础阳光植物，每次生产25阳光
+[PARALLEL_SUNFLOWER_DESCRIPTION_HEADER]  
+A normal sunflower, whose ability seems to have been restored.
 
-[PARALLEL_SUNFLOWER_DESCRIPTION_HEADER]
-普通的向日葵，能力疑似遭到了还原。
+[PARALLEL_SUNFLOWER_DESCRIPTION]  
+Basic sunshine plant, generates 25 sunshine each time
 
-[PARALLEL_SUNFLOWER_DESCRIPTION]
-基础阳光植物，每次生产25阳光
+[PARALLEL_PEASHOOTER]  
+42nd Peashooter
 
-[PARALLEL_PEASHOOTER]
-42号豌豆射手
+[PARALLEL_PEASHOOTER_TOOLTIP]  
+Basic output plant, classic and timeless
 
-[PARALLEL_PEASHOOTER_TOOLTIP]
-基础输出植物，经典永不过时
+[PARALLEL_PEASHOOTER_DESCRIPTION_HEADER]  
+No change.
 
-[PARALLEL_PEASHOOTER_DESCRIPTION_HEADER]
-没有变化。
+[PARALLEL_PEASHOOTER_DESCRIPTION]  
+Basic output plant, classic and timeless
 
-[PARALLEL_PEASHOOTER_DESCRIPTION]
-基础输出植物，经典永不过时
+[PARALLEL_WALLNUT]  
+42nd Wall-nut
 
-[PARALLEL_WALLNUT]
-42号坚果墙
+[PARALLEL_WALLNUT_TOOLTIP]  
+Basic defense plant, classic and timeless
 
-[PARALLEL_WALLNUT_TOOLTIP]
-基础防御植物，经典永不过时
+[PARALLEL_WALLNUT_DESCRIPTION_HEADER]  
+No change.
 
-[PARALLEL_WALLNUT_DESCRIPTION_HEADER]
-没有变化。
+[PARALLEL_WALLNUT_DESCRIPTION]  
+Basic defense plant, classic and timeless
 
-[PARALLEL_WALLNUT_DESCRIPTION]
-基础防御植物，经典永不过时
+[PARALLEL_CHOMPER]  
+42nd Chomper
 
-[PARALLEL_CHOMPER]
-42号大嘴花
+[PARALLEL_CHOMPER_TOOLTIP]  
+Basic instant-kill plant, cannot eat large zombies, no class limit on zombies eaten
 
-[PARALLEL_CHOMPER_TOOLTIP]
-基础秒杀植物，不能吃大型僵尸，吃僵尸没有阶级限制
+[PARALLEL_CHOMPER_DESCRIPTION_HEADER]  
+Class suppression no longer applies in the parallel universe!
 
-[PARALLEL_CHOMPER_DESCRIPTION_HEADER]
-阶级压制在平行宇宙中不再生效了！
+[PARALLEL_CHOMPER_DESCRIPTION]  
+Basic instant-kill plant, cannot eat large zombies, no class limit on zombies eaten
 
-[PARALLEL_CHOMPER_DESCRIPTION]
-基础秒杀植物，不能吃大型僵尸，吃僵尸没有阶级限制
+[PARALLEL_CHERRY_BOMB]  
+42nd Cherry Bomb
 
-[PARALLEL_CHERRY_BOMB]
-42号樱桃炸弹
+[PARALLEL_CHERRY_BOMB_TOOLTIP]  
+Basic clearing plant, instant-kills zombies in a 3×3 area, excluding large zombies, with some damage to large zombies
 
-[PARALLEL_CHERRY_BOMB_TOOLTIP]
-基础解场植物，3×3范围除大型僵尸外秒杀，大型僵尸造成一定伤害
+[PARALLEL_CHERRY_BOMB_DESCRIPTION_HEADER]  
+Single-use plants still have a place in higher-tier battles
 
-[PARALLEL_CHERRY_BOMB_DESCRIPTION_HEADER]
-一次性植物在高阶对战中也有了用武之地
+[PARALLEL_CHERRY_BOMB_DESCRIPTION]  
+Basic clearing plant, instant-kills zombies in a 3×3 area, excluding large zombies, with some damage to large zombies
 
-[PARALLEL_CHERRY_BOMB_DESCRIPTION]
-基础解场植物，3×3范围除大型僵尸外秒杀，大型僵尸造成一定伤害
+[PARALLEL_ICEBURG]  
+42nd Iceberg Lettuce
 
-[PARALLEL_ICEBURG]
-42号冰冻生菜
+[PARALLEL_ICEBURG_TOOLTIP]  
+Basic one-time control plant, 100% triggers ultimate upon landing
 
-[PARALLEL_ICEBURG_TOOLTIP]
-基础一次性控制植物,落地100%开大
+[PARALLEL_ICEBURG_DESCRIPTION_HEADER]  
+Frozen mushroom plus version
 
-[PARALLEL_ICEBURG_DESCRIPTION_HEADER]
-寒冰菇plus版
+[PARALLEL_ICEBURG_DESCRIPTION]  
+Basic one-time control plant, 100% triggers ultimate upon landing
 
-[PARALLEL_ICEBURG_DESCRIPTION]
-基础一次性控制植物,落地100%开大
+[PARALLEL_BONKCHOY]  
+42nd Bonk Choy
 
-[PARALLEL_BONKCHOY]
-42号菜问
+[PARALLEL_BONKCHOY_TOOLTIP]  
+Basic aggro plant, 100% triggers ultimate upon landing, ultimate effect is outfit ultimate effect
 
-[PARALLEL_BONKCHOY_TOOLTIP]
-基础聚怪植物,落地100%开大，大招为装扮大招效果
+[PARALLEL_BONKCHOY_DESCRIPTION_HEADER]  
+Though useful, the cooldown has increased; be mindful of timing
 
-[PARALLEL_BONKCHOY_DESCRIPTION_HEADER]
-虽然好用，但冷却变长了，注意使用时机
+[PARALLEL_BONKCHOY_DESCRIPTION]  
+Basic aggro plant, 100% triggers ultimate upon landing, ultimate effect is outfit ultimate effect
 
-[PARALLEL_BONKCHOY_DESCRIPTION]
-基础聚怪植物,落地100%开大，大招为装扮大招效果
+[PARALLEL_MOONFLOWER]  
+42nd Moonflower
 
-[PARALLEL_MOONFLOWER]
-42号月光花
+[PARALLEL_MOONFLOWER_TOOLTIP]  
+Advanced sunshine plant, core of the shadow series plants, generates 100 sunshine each time
 
-[PARALLEL_MOONFLOWER_TOOLTIP]
-进阶阳光植物，暗影系列植物核心，每次生产100阳光,
+[PARALLEL_MOONFLOWER_DESCRIPTION_HEADER]  
+A new beginning.
 
-[PARALLEL_MOONFLOWER_DESCRIPTION_HEADER]
-新的开始。
+[PARALLEL_MOONFLOWER_DESCRIPTION]  
+Advanced sunshine plant, core of the shadow series plants, generates 100 sunshine each time
 
-[PARALLEL_MOONFLOWER_DESCRIPTION]
-进阶阳光植物，暗影系列植物核心，每次生产100阳光,
+[PARALLEL_SHADOWSHROOM]  
+42nd Shadow Shroom
 
-[PARALLEL_SHADOWSHROOM]
-42号毒影菇
+[PARALLEL_SHADOWSHROOM_TOOLTIP]  
+Advanced one-time plant
 
-[PARALLEL_SHADOWSHROOM_TOOLTIP]
-进阶1次性植物
+[PARALLEL_SHADOWSHROOM_DESCRIPTION_HEADER]  
+Shadow series, some damage and control.
 
-[PARALLEL_SHADOWSHROOM_DESCRIPTION_HEADER]
-暗影系列，些许的伤害和控制。
+[PARALLEL_SHADOWSHROOM_DESCRIPTION]  
+Advanced one-time plant
 
-[PARALLEL_SHADOWSHROOM_DESCRIPTION]
-进阶1次性植物
+[PARALLEL_GRIMROSE]  
+42nd Grimrose
 
-[PARALLEL_GRIMROSE]
-42号暗樱草
+[PARALLEL_GRIMROSE_TOOLTIP]  
+Advanced instant-kill plant
 
-[PARALLEL_GRIMROSE_TOOLTIP]
-进阶秒杀植物
+[PARALLEL_GRIMROSE_DESCRIPTION_HEADER]  
+Shadow series, specializes in exchanges.
 
-[PARALLEL_GRIMROSE_DESCRIPTION_HEADER]
-暗影系列，擅长交换。
+[PARALLEL_GRIMROSE_DESCRIPTION]  
+Advanced instant-kill plant
 
-[PARALLEL_GRIMROSE_DESCRIPTION]
-进阶秒杀植物
+[PARALLEL_NIGHTSHADE]  
+42nd Nightshade
 
-[PARALLEL_NIGHTSHADE]
-42号夜影龙葵
+[PARALLEL_NIGHTSHADE_TOOLTIP]  
+Advanced output plant
 
-[PARALLEL_NIGHTSHADE_TOOLTIP]
-进阶输出植物
+[PARALLEL_NIGHTSHADE_DESCRIPTION_HEADER]  
+Shadow series, alternative Peashooter
 
-[PARALLEL_NIGHTSHADE_DESCRIPTION_HEADER]
-暗影系列，另类豌豆射手
+[PARALLEL_NIGHTSHADE_DESCRIPTION]  
+Advanced output plant
 
-[PARALLEL_NIGHTSHADE_DESCRIPTION]
-进阶输出植物
+[PARALLEL_DUSKLOBBER]  
+42nd Dusklobber
 
-[PARALLEL_DUSKLOBBER]
-42号幽暮投手
+[PARALLEL_DUSKLOBBER_TOOLTIP]  
+Shadow series, advanced projectile range plant
 
-[PARALLEL_DUSKLOBBER_TOOLTIP]
-暗影系列，进阶抛射范围植物
+[PARALLEL_DUSKLOBBER_DESCRIPTION_HEADER]  
+Range-based cabbage-pult
 
-[PARALLEL_DUSKLOBBER_DESCRIPTION_HEADER]
-范围型卷心菜投手
+[PARALLEL_DUSKLOBBER_DESCRIPTION]  
+Advanced projectile range plant
 
-[PARALLEL_DUSKLOBBER_DESCRIPTION]
-进阶抛射范围植物
+[PARALLEL_SHADOWPEASHOOTER]  
+42nd Shadow Peashooter
 
-[PARALLEL_SHADOWPEASHOOTER]
-42号暗影豌豆
+[PARALLEL_SHADOWPEASHOOTER_TOOLTIP]  
+Advanced instant-kill output plant
 
-[PARALLEL_SHADOWPEASHOOTER_TOOLTIP]
-进阶秒杀输出植物
+[PARALLEL_SHADOWPEASHOOTER_DESCRIPTION_HEADER]  
+Shadow series, will explode when in a hurry
 
-[PARALLEL_SHADOWPEASHOOTER_DESCRIPTION_HEADER]
-暗影系列，急了就会爆
+[PARALLEL_SHADOWPEASHOOTER_DESCRIPTION]  
+Advanced instant-kill output plant
 
-[PARALLEL_SHADOWPEASHOOTER_DESCRIPTION]
-进阶秒杀输出植物
+[PARALLEL_SHADOWVANILLA]  
+42nd Shadow Vanilla
 
-[PARALLEL_SHADOWVANILLA]
-42号暗影荚兰
+[PARALLEL_SHADOWVANILLA_TOOLTIP]  
+Damage-enhancing auxiliary plant
 
-[PARALLEL_SHADOWVANILLA_TOOLTIP]
-增伤辅助植物
+[PARALLEL_SHADOWVANILLA_DESCRIPTION_HEADER]  
+Shadow series, in shadow state, every 3 attacks releases a shadow mist that causes zombies to enter 50% vulnerability
 
-[PARALLEL_SHADOWVANILLA_DESCRIPTION_HEADER]
-暗影系列，暗影状态下每攻击3次可以发射一团使僵尸进入 50%易伤状态的暗影雾气
+[PARALLEL_SHADOWVANILLA_DESCRIPTION]  
+Damage-enhancing auxiliary plant
 
-[PARALLEL_SHADOWVANILLA_DESCRIPTION]
-增伤辅助植物
+[PARALLEL_PRIMALSUNFLOWER]  
+42nd Primal Sunflower
 
-[PARALLEL_PRIMALSUNFLOWER]
-42号原始向日葵
+[PARALLEL_PRIMALSUNFLOWER_TOOLTIP]  
+Ultimate sunshine plant, generates 1000 sunshine each time
 
-[PARALLEL_PRIMALSUNFLOWER_TOOLTIP]
-终极阳光植物，每次生产1000阳光
+[PARALLEL_PRIMALSUNFLOWER_DESCRIPTION_HEADER]  
+Primal Sunflower generates large suns, not normal suns
 
-[PARALLEL_PRIMALSUNFLOWER_DESCRIPTION_HEADER]
-原始向日葵会产出大号太阳，而不是普通太阳
+[PARALLEL_PRIMALSUNFLOWER_DESCRIPTION]  
+Ultimate sunshine plant, generates 1000 sunshine each time
 
-[PARALLEL_PRIMALSUNFLOWER_DESCRIPTION]
-终极阳光植物，每次生产1000阳光
+[PARALLEL_PRIMALPEASHOOTER]  
+42nd Primal Peashooter
 
-[PARALLEL_PRIMALPEASHOOTER]
-42号原始豌豆射手
+[PARALLEL_PRIMALPEASHOOTER_TOOLTIP]  
+Ultimate output plant
 
-[PARALLEL_PRIMALPEASHOOTER_TOOLTIP]
-终极输出植物
+[PARALLEL_PRIMALPEASHOOTER_DESCRIPTION_HEADER]  
+Reliable across all universes
 
-[PARALLEL_PRIMALPEASHOOTER_DESCRIPTION_HEADER]
-不管在哪个宇宙都值得信赖
+[PARALLEL_PRIMALPEASHOOTER_DESCRIPTION]  
+Ultimate output plant
 
-[PARALLEL_PRIMALPEASHOOTER_DESCRIPTION]
-终极输出植物
+[PARALLEL_PRIMALWALLNUT]  
+42nd Primal Wall-nut
 
-[PARALLEL_PRIMALWALLNUT]
-42号原始坚果墙
+[PARALLEL_PRIMALWALLNUT_TOOLTIP]  
+Ultimate defense plant, can withstand 7 hits from giants
 
-[PARALLEL_PRIMALWALLNUT_TOOLTIP]
-终极防御类植物，可抗巨人7下攻击
+[PARALLEL_PRIMALWALLNUT_DESCRIPTION_HEADER]  
+Hard enough to resist
 
-[PARALLEL_PRIMALWALLNUT_DESCRIPTION_HEADER]
-够硬够能抗
+[PARALLEL_PRIMALWALLNUT_DESCRIPTION]  
+Ultimate defense plant, can withstand 7 hits from giants
 
-[PARALLEL_PRIMALWALLNUT_DESCRIPTION]
-终极防御类植物，可抗巨人7下攻击
+[PARALLEL_PRIMALPOTATOMINE]  
+42nd Primal Potato Mine
 
-[PARALLEL_PRIMALPOTATOMINE]
-42号原始土豆雷
+[PARALLEL_PRIMALPOTATOMINE_TOOLTIP]  
+Produces 2 additional mines upon landing, instant-kills small to medium-sized zombies
 
-[PARALLEL_PRIMALPOTATOMINE_TOOLTIP]
-落地额外生产2个，秒杀中小型僵尸
+[PARALLEL_PRIMALPOTATOMINE_DESCRIPTION_HEADER]  
+Divides into 3
 
-[PARALLEL_PRIMALPOTATOMINE_DESCRIPTION_HEADER]
-一分为3
+[PARALLEL_PRIMALPOTATOMINE_DESCRIPTION]  
+Produces 2 additional mines upon landing, instant-kills small to medium-sized zombies
 
-[PARALLEL_PRIMALPOTATOMINE_DESCRIPTION]
-落地额外生产2个，秒杀中小型僵尸
+[PARALLEL_PUMPKIN]  
+42nd Pumpkin
 
-[PARALLEL_PUMPKIN]
-42号南瓜罩
+[PARALLEL_PUMPKIN_TOOLTIP]  
+Activates upon landing, can block 3 giant hammer hits
 
-[PARALLEL_PUMPKIN_TOOLTIP]
-落地开大，能挡巨人3下锤击
+[PARALLEL_PUMPKIN_DESCRIPTION_HEADER]  
+Not as strong as the original walnut wall, but stronger than the walnut wall
 
-[PARALLEL_PUMPKIN_DESCRIPTION_HEADER]
-没有原始坚果墙能抗但比坚果墙能抗
+[PARALLEL_PUMPKIN_DESCRIPTION]  
+Activates upon landing, can block 3 giant hammer hits
 
-[PARALLEL_PUMPKIN_DESCRIPTION]
-落地开大，能挡巨人3下锤击
+[PARALLEL_NEKOTAIL]  
+42nd Cattail
 
-[PARALLEL_NEKOTAIL]
-42号猫尾草
+[PARALLEL_NEKOTAIL_TOOLTIP]  
+Normal output with a chance to deal percentage-based damage to maximum health
 
-[PARALLEL_NEKOTAIL_TOOLTIP]
-普通输出有概率造成生命值上限百分比的伤害
+[PARALLEL_NEKOTAIL_DESCRIPTION_HEADER]  
+Perhaps more suitable for endless mode
 
-[PARALLEL_NEKOTAIL_DESCRIPTION_HEADER]
-也许更适合无尽
+[PARALLEL_NEKOTAIL_DESCRIPTION]  
+Normal output with a chance to deal percentage-based damage to maximum health
 
-[PARALLEL_NEKOTAIL_DESCRIPTION]
-普通输出有概率造成生命值上限百分比的伤害
+[PARALLEL_KERNELPULT]  
+42nd Kernelpult
 
-[PARALLEL_KERNELPULT]
-42号玉米投手
+[PARALLEL_KERNELPULT_TOOLTIP]  
+Useless
 
-[PARALLEL_KERNELPULT_TOOLTIP]
-一无是处
+[PARALLEL_KERNELPULT_DESCRIPTION_HEADER]  
+Only cannon fodder for the cannon.
 
-[PARALLEL_KERNELPULT_DESCRIPTION_HEADER]
-只是为了加农炮的炮灰。
+[PARALLEL_KERNELPULT_DESCRIPTION]  
+Useless
 
-[PARALLEL_KERNELPULT_DESCRIPTION]
-一无是处
+[PARALLEL_COBCANNON]  
+42nd Corn Cannon
 
-[PARALLEL_COBCANNON]
-42号玉米加农炮
+[PARALLEL_COBCANNON_TOOLTIP]  
+Corn cannon instantly kills small and medium-sized zombies, deals 50% max health damage to large zombies
 
-[PARALLEL_COBCANNON_TOOLTIP]
-玉米炮秒杀中小体型僵尸，对大体型僵尸造成生命值上限50%的伤害
+[PARALLEL_COBCANNON_DESCRIPTION_HEADER]  
+Reforge glory today
 
-[PARALLEL_COBCANNON_DESCRIPTION_HEADER]
-重铸荣光就在今天
+[PARALLEL_COBCANNON_DESCRIPTION]  
+Corn cannon instantly kills small and medium-sized zombies, deals 50% max health damage to large zombies
 
-[PARALLEL_COBCANNON_DESCRIPTION]
-玉米炮秒杀中小体型僵尸，对大体型僵尸造成生命值上限50%的伤害
+[PARALLEL_POTATOMINE]  
+42nd Potato Mine
 
-[PARALLEL_POTATOMINE]
-42号土豆雷
+[PARALLEL_POTATOMINE_TOOLTIP]  
+Basic one-time plant, no changes
 
-[PARALLEL_POTATOMINE_TOOLTIP]
-基础一次性植物，没有变化
+[PARALLEL_POTATOMINE_DESCRIPTION_HEADER]  
+A temporary solution when there is no sunlight
 
-[PARALLEL_POTATOMINE_DESCRIPTION_HEADER]
-没有阳光时的权宜之计
+[PARALLEL_POTATOMINE_DESCRIPTION]  
+Basic one-time plant, no changes
 
-[PARALLEL_POTATOMINE_DESCRIPTION]
-基础一次性植物，没有变化
+[RANK_AVATAR_CONTENT_TITLE_61033]  
+Skiing Adventure
 
-[RANK_AVATAR_CONTENT_TITLE_61033]
-滑雪大冒险
+[RANK_AVATAR_CONTENT_CONTENT_61033]  
+Season 26 Master Rank reward for Duo Matches
 
-[RANK_AVATAR_CONTENT_CONTENT_61033]
-双人对决第26赛季宗师段位奖励
+[RANK_AVATAR_CONTENT_TITLE_61034]  
+Fireworks Fade
 
-[RANK_AVATAR_CONTENT_TITLE_61034]
-烟花易冷
+[RANK_AVATAR_CONTENT_CONTENT_61034]  
+Reward for players who participated in the March Co-op event in 2025
 
-[RANK_AVATAR_CONTENT_CONTENT_61034]
-2025年参加三月同游活动的玩家奖励
+[RANK_AVATAR_CONTENT_TITLE_61035]  
+Golden Snake Dance
 
-[RANK_AVATAR_CONTENT_TITLE_61035]
-金蛇狂舞
+[RANK_AVATAR_CONTENT_CONTENT_61035]  
+Season 27 Master Rank reward for Duo Matches
 
-[RANK_AVATAR_CONTENT_CONTENT_61035]
-双人对决第27赛季宗师段位奖励
+[RANK_AVATAR_CONTENT_TITLE_61036]  
+Vision of Wisdom
 
-[RANK_AVATAR_CONTENT_TITLE_61036]
-智慧之视
+[RANK_AVATAR_CONTENT_CONTENT_61036]  
+Season 28 Master Rank reward for Duo Matches
 
-[RANK_AVATAR_CONTENT_CONTENT_61036]
-双人对决第28赛季宗师段位奖励
+[RANK_AVATAR_DIY_34]  
+Skiing Adventure
 
-[RANK_AVATAR_DIY_34]
-滑雪大冒险
+[RANK_AVATAR_DIY_35]  
+Fireworks Fade
 
-[RANK_AVATAR_DIY_35]
-烟花易冷
+[RANK_AVATAR_DIY_36]  
+Golden Snake Dance
 
-[RANK_AVATAR_DIY_36]
-金蛇狂舞
+[RANK_AVATAR_DIY_37]  
+Vision of Wisdom
 
-[RANK_AVATAR_DIY_37]
-智慧之视
 
 [UNCHARTED_ICEAGE_ID_25391]
 Spilt Latte
@@ -73099,266 +73095,265 @@ Attack speed increased by 10%.
 {KEYWORD}特点：{STAT}用洋伞抵挡植物的抛投攻击，当罗密欧死亡时进入狂暴状态
 [ZOMBIE_RENAI_JULIET_DESCRIPTION_HEADER]
 朱丽叶僵尸在剧场上苏醒了过来，她不被外人的意愿所左右，有自己的追求和目标，也坚信跨越死亡的爱情。有人说女僵尸是真正的演员，这对于朱丽叶僵尸来说是一种夸赞。
-[ELITE_ZOMBIE_TIPS_TEXT_RENAI_JULIET]
-^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
+[ELITE_ZOMBIE_TIPS_TEXT_RENAI_JULIET]  
+^573701^After special training, can be immune to control, transformation, and instant kills, with higher resistance.
 
-[PVZ2UNCHARTED_SHOP_TITLE]
-秘境商店
+[PVZ2UNCHARTED_SHOP_TITLE]  
+Secret Shop
 
-[PVZ2UNCHARTED_SHOP_TIME_TITLE]
-商店倒计时
+[PVZ2UNCHARTED_SHOP_TIME_TITLE]  
+Shop Countdown
 
-[PVZ2UNCHARTED_SHOP_TIPS_DESC]
-玩家可以通过完成秘境的关卡获取代币，在商店兑换各种物品
+[PVZ2UNCHARTED_SHOP_TIPS_DESC]  
+Players can earn tokens by completing levels in the secret area and exchange them for various items in the shop.
 
-[NEWYEAR_PACK_TITLE]
-新年礼包
+[NEWYEAR_PACK_TITLE]  
+New Year Gift Pack
 
-[NEWYEAR_PACK_TEN]
-十次必得
+[NEWYEAR_PACK_TEN]  
+Ten times guaranteed
 
-[NEWYEARPACK_DESCRIPTION_TITLE]
-活动说明
+[NEWYEARPACK_DESCRIPTION_TITLE]  
+Activity Description
 
-[NEWYEARPACK_DESCRIPTION]
-新年礼包购买说明：
-1.购买礼包后必得钻石奖励，概率获得自选装扮宝箱（年货箱）
-2.礼包有保底，同种礼包购买九次未得年货箱，下次购买必得年货箱。
-3.礼包限购次数每天刷新，保底次数不刷新可继承
-4.年货箱获得后会存入背包，使用后可选择一个宝箱内装扮获得
+[NEWYEARPACK_DESCRIPTION]  
+New Year Gift Pack Purchase Description:  
+1. After purchasing the gift pack, gems are guaranteed, with a chance to receive a selected decoration box (New Year Box).  
+2. The gift pack has a guaranteed drop, after purchasing the same pack 9 times without receiving the New Year Box, the next purchase will guarantee the New Year Box.  
+3. The gift pack purchase limit is refreshed daily, but the guaranteed count does not reset and carries over.  
+4. After obtaining the New Year Box, it will be stored in the inventory, where you can select a decoration from the box.
 
-新年累积充值说明：
-  活动期间游戏内任意位置充值都可叠加累积充值进度条
+New Year Cumulative Recharge Description:  
+During the event, any recharge within the game will contribute to the cumulative recharge progress bar.
 
-[NEWYEARPACK_MAIN_TIPS_INFO]
-每日0元见面礼：钻石*15	
-2元福利礼包：钻石*30、10%概率获得初级装扮年货箱
-3元福利礼包：钻石*90、10%概率获得中级装扮年货箱
-6元福利礼包：钻石*180、10%概率获得高级装扮年货箱
+[NEWYEARPACK_MAIN_TIPS_INFO]  
+Daily 0 Yuan Welcome Gift: Gems *15  
+2 Yuan Welfare Gift Pack: Gems *30, 10% chance to get a Beginner Decoration New Year Box  
+3 Yuan Welfare Gift Pack: Gems *90, 10% chance to get an Intermediate Decoration New Year Box  
+6 Yuan Welfare Gift Pack: Gems *180, 10% chance to get an Advanced Decoration New Year Box
 
-[PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
-2元福利礼盒
+[PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]  
+2 Yuan Welfare Gift Box
 
-[PRODUCT_NEW_YEAR_PACK_3_SHORTDESC]
-3元福利礼盒
+[PRODUCT_NEW_YEAR_PACK_3_SHORTDESC]  
+3 Yuan Welfare Gift Box
 
-[PRODUCT_NEW_YEAR_PACK_6_SHORTDESC]
-6元福利礼盒
+[PRODUCT_NEW_YEAR_PACK_6_SHORTDESC]  
+6 Yuan Welfare Gift Box
 
-[MAT_NEW_YEAR_CHESTS_SMALL]
-初级装扮年货箱
+[MAT_NEW_YEAR_CHESTS_SMALL]  
+Beginner Decoration New Year Box
 
-[MAT_NEW_YEAR_CHESTS_SMALL_USE]
-使用后可选择道具内的一款植物装扮获得
+[MAT_NEW_YEAR_CHESTS_SMALL_USE]  
+After use, choose one plant costume from the box.
 
-[MAT_NEW_YEAR_CHESTS_SMALL_GOT_WAY]
-新年礼包中购买福利礼盒概率获得
+[MAT_NEW_YEAR_CHESTS_SMALL_GOT_WAY]  
+Chance to obtain from purchasing welfare gift boxes in the New Year Gift Pack.
 
-[MAT_NEW_YEAR_CHESTS_MIDDLE]
-中级装扮年货箱
+[MAT_NEW_YEAR_CHESTS_MIDDLE]  
+Intermediate Decoration New Year Box
 
-[MAT_NEW_YEAR_CHESTS_MIDDLE_USE]
-使用后可选择道具内的一款植物装扮获得
+[MAT_NEW_YEAR_CHESTS_MIDDLE_USE]  
+After use, choose one plant costume from the box.
 
-[MAT_NEW_YEAR_CHESTS_MIDDLE_GOT_WAY]
-新年礼包中购买福利礼盒概率获得
+[MAT_NEW_YEAR_CHESTS_MIDDLE_GOT_WAY]  
+Chance to obtain from purchasing welfare gift boxes in the New Year Gift Pack.
 
-[MAT_NEW_YEAR_CHESTS_BIG]
-高级装扮年货箱
+[MAT_NEW_YEAR_CHESTS_BIG]  
+Advanced Decoration New Year Box
 
-[MAT_NEW_YEAR_CHESTS_BIG_USE]
-使用后可选择道具内的一款植物装扮获得
+[MAT_NEW_YEAR_CHESTS_BIG_USE]  
+After use, choose one plant costume from the box.
 
-[MAT_NEW_YEAR_CHESTS_BIG_GOT_WAY]
-新年礼包中购买福利礼盒概率获得
+[MAT_NEW_YEAR_CHESTS_BIG_GOT_WAY]  
+Chance to obtain from purchasing welfare gift boxes in the New Year Gift Pack.
 
-[UINEWYEARREDPACKET_DES_DESCRIPTION]
-1.活动每日固定时间12:00-14:00及18：00-21：00可在主界面领取一次红包（一天最多可领取2次）
-2.1月27日到2月9日期间，每日21点，将从全服(ios和安卓各1)抽出一个幸运玩家（需领取过当日红包），获得当日配置的极高价值头奖
-3.特殊日期（除夕、初一、初五），增加每天一次的实物抽奖，除夕、初一、初五00：00-21：59可在活动页面消耗抽奖券在实物大奖界面报名
-4.玩家每消耗一张抽奖券，记录一次该报名玩家信息，实物大奖将会在除夕、初一、初五22：00开奖时从所有记录中抽取。
-5.每日幸运大奖在第二天开奖前未登录领取，视为放弃奖励。
-6.实物大奖为 ^CDBE70 5g《植物大战僵尸2》定制金钞 ^oldclr ，奖励以实物为准
+[UINEWYEARREDPACKET_DES_DESCRIPTION]  
+1. The event's fixed time for receiving red packets is from 12:00-14:00 and 18:00-21:00 daily (up to 2 times a day).  
+2. From January 27th to February 9th, a lucky player (who has claimed the red packet on the same day) will be drawn every day at 9 PM, with a chance to win the high-value grand prize.  
+3. Special dates (New Year's Eve, New Year's Day, Fifth Day of the New Year) will have an additional physical prize draw once a day. During these dates (00:00-21:59), players can use their draw tickets to participate in the physical prize draw.  
+4. Each draw ticket used will record the player's entry information, and the physical prize will be drawn from all entries on New Year's Eve, New Year's Day, and the Fifth Day of the New Year at 10 PM.  
+5. If a player does not log in to claim their daily lucky prize before the next day's draw, the prize will be forfeited.  
+6. The physical prize is ^CDBE70 5g "Plants vs Zombies 2" Customized Gold Banknote ^oldclr, the reward is subject to the physical item.
 
-[UINEWYEARREDPACKET_DES_TITLE]
-新年领红包活动说明
+[UINEWYEARREDPACKET_DES_TITLE]  
+New Year Red Packet Activity Description
 
-[NARRATIVE_TUTORIAL_NEWYEARREDPACKET_1]
-{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave}恭喜发财！这是给你的新年红包
+[NARRATIVE_TUTORIAL_NEWYEARREDPACKET_1]  
+{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave} Congratulations on getting rich! Here's your New Year red packet.
 
-[NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]
-{SAY:NEWYEARCRAZYDAVE}新年红包
+[NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]  
+{SAY:NEWYEARCRAZYDAVE} New Year Red Packet
 
-[NARRATIVE_TUTORIAL_NEWYEARREDPACKET_3]
+[NARRATIVE_TUTORIAL_NEWYEARREDPACKET_3]  
 {NPC_EXIT:newyearcrazydave}
 
+[UINEWYEARREDPACKET_GACHA]  
+Sign up for the prize draw
 
-[UINEWYEARREDPACKET_GACHA]
-报名抽奖
+[REDPACKETWIDGET_DES_DESCRIPTION]  
+During the event, you can receive a red packet once daily between 12:00-14:00 and 18:00-21:00.
 
-[REDPACKETWIDGET_DES_DESCRIPTION]
-活动期间,每日时间12:00-14:00及18:00-21:00可领取一次红包哦
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC1]  
+Player ^FFFF00 {NAME} ^oldclr
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC1]
-玩家 ^FFFF00 {NAME} ^oldclr 
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_0]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the Lunar 28th Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_0]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得腊月廿八头奖 
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_1]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the New Year's Eve Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_1]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得除夕头奖 
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_2]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the New Year's Day Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_2]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得正月初一头奖 
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_3]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the Second Day of the New Year Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_3]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得正月初二头奖 
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_4]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the Third Day of the New Year Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_4]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得正月初三头奖  
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_5]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the Fourth Day of the New Year Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_5]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得正月初四头奖  
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_6]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the Fifth Day of the New Year Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_6]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得正月初五头奖  
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_7]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the Sixth Day of the New Year Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_7]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得正月初六头奖  
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_8]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the Seventh Day of the New Year Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_8]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得正月初七头奖 
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_9]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the Eighth Day of the New Year Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_9]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得正月初八头奖 
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_10]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the Ninth Day of the New Year Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_10]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得正月初九头奖 
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_11]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the Tenth Day of the New Year Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_11]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得正月初十头奖 
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_12]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the Eleventh Day of the New Year Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_12]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得正月十一头奖 
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_13]  
+Congratulations ^FFFF00 {NAME} ^oldclr on winning the Twelfth Day of the New Year Grand Prize!
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_13]
-恭喜 ^FFFF00 {NAME} ^oldclr 获得正月十二头奖 
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC3_1]  
+^0775F7 {ITEM} ^oldclr x {NUMS}
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC3_1]
-^0775F7 {ITEM} ^oldclr x {NUMS} 
+[REDPACKETWIDGET_DES_TITLE]  
+New Year Red Packet
 
-[REDPACKETWIDGET_DES_TITLE]
-新春领红包
+[REDPACKETWIDGET_SELECT_TITLE]  
+Select a Costume
 
-[REDPACKETWIDGET_SELECT_TITLE]
-装扮多选一
+[REDPACKETWIDGET_SELECT_DESCRIPTION]  
+Choose one from the following costume!
 
-[REDPACKETWIDGET_SELECT_DESCRIPTION]
-从下列装扮中选择一份吧！
+[NEW_YEAR_PACK_BUNDLE_LIMIT]  
+Remaining purchase attempts today: ^FF0000^{NUM}^oldclr^
 
-[NEW_YEAR_PACK_BUNDLE_LIMIT]
-每日剩余购买次数：^FF0000^{NUM}^oldclr^
+[NEWYEARREDPACKET_TASK_NAME_1]  
+Play 2 rounds of Two-Player Mode
 
-[NEWYEARREDPACKET_TASK_NAME_1]
-游玩2次双人竞技对决
+[NEWYEARREDPACKET_TASK_NAME_2]  
+Battle in a room with friends
 
-[NEWYEARREDPACKET_TASK_NAME_2]
-与好友开房间对决
+[NEWYEARREDPACKET_TOKEN]  
+New Year Lottery Ticket
 
-[NEWYEARREDPACKET_TOKEN]
-新年抽奖券
+[NEWYEARREDPACKET_GACHA]  
+Sign-up successful
 
-[NEWYEARREDPACKET_GACHA]
-报名成功
+[NEWYEARREDPACKET_GACHA_ERROR]  
+Not enough lottery tickets
 
-[NEWYEARREDPACKET_GACHA_ERROR]
-抽奖券不足
+[PVZ_ERROR_75721]  
+Not in sign-up time
 
-[PVZ_ERROR_75721]
-不在报名时间
+[PVZ_ERROR_75720]  
+Cannot claim online rewards
 
-[PVZ_ERROR_75720]
-不能领取在线奖励
+[PVZ_ERROR_75722]  
+Not enough sign-up tickets
 
-[PVZ_ERROR_75722]
-报名券不足
+[PVZ_ERROR_75722]  
+No binding required
 
-[PVZ_ERROR_75722]
-不需要绑定
+[TOURISMOCTOBERSPECIAL_TASKDESCRIPTION]  
+Complete personal tasks to reach {NUMBER} points.
 
-[TOURISMOCTOBERSPECIAL_TASKDESCRIPTION]
-个人完成任务获取积分达到 {NUMBER}  
+[TOURISMOCTOBERSPECIAL_TASKOPENTIME]  
+Opens in {NUMBER} days
 
-[TOURISMOCTOBERSPECIAL_TASKOPENTIME]
- {NUMBER} 日后开启
+[TOURISMOCTOBER_TASK_NAME_10]  
+Publish 3 levels in Creative Courtyard
 
-[TOURISMOCTOBER_TASK_NAME_10]
-在创意庭院发布3个关卡
+[TOYS_HEAD_ID_25630]  
+World-ending Radish
 
-[TOYS_HEAD_ID_25630]
-灭世萝卜
+[TOYS_HEAD_DES_ID_25630]  
+Earned through the "Black Hole Fantasy Journey" event
 
-[TOYS_HEAD_DES_ID_25630]
-参与活动黑洞奇幻旅兑换获得
+[HARVEST_BATTLE_HEAD_ID_25631]  
+Just Kidding
 
-[HARVEST_BATTLE_HEAD_ID_25631]
-逗你玩儿
+[HARVEST_BATTLE_HEAD_DES_ID_25631]  
+Earned through the "Farm Battle" event, exchanged with Super Corn
 
-[HARVEST_BATTLE_HEAD_DES_ID_25631]
-在农场大作战活动中，通过超级玉米兑换
+[NEWYEAR_GIFT_HEAD_ID_25632]  
+Golden and Silver New Year's Greetings
 
-[NEWYEAR_GIFT_HEAD_ID_25632]
-金银拜年
+[NEWYEAR_GIFT_HEAD_DES_ID_25632]  
+Earned during the New Year Gift Pack event, reached through cumulative recharge progress
 
-[NEWYEAR_GIFT_HEAD_DES_ID_25632]
-在新年礼包活动期间，达到活动中累计充值进度领取
+[TEN_THOUSAND_HEAD_ID_25636]  
+Plant Enthusiast
 
-[TEN_THOUSAND_HEAD_ID_25636]
-植物热爱者
+[TEN_THOUSAND_HEAD_DES_ID_25636]  
+Earned through the limited-time gift pack's cumulative recharge progress
 
-[TEN_THOUSAND_HEAD_DES_ID_25636]
-在限时礼包中达到累计充值进度领取
+[NEWYEARREDPACKETE_TAB0]  
+New Year's Grand Prize
 
-[NEWYEARREDPACKETE_TAB0]
-新春头奖
+[NEWYEARREDPACKETE_TAB1]  
+Physical Prize
 
-[NEWYEARREDPACKETE_TAB1]
-实物大奖
+[NEWYEARREDPACKETE_TAB1_BUTTON1]  
+Sign up for the lottery
 
-[NEWYEARREDPACKETE_TAB1_BUTTON1]
-报名抽奖
+[NEWYEARREDPACKETE_TAB1_BUTTON2]  
+Get a free lottery ticket
 
-[NEWYEARREDPACKETE_TAB1_BUTTON2]
-免费获取抽奖券
+[PRODUCT_NEWYEARREDPACKETE_TITLE]  
+New Year Red Packet
 
-[PRODUCT_NEWYEARREDPACKETE_TITLE]
-新春领红包
+[UINEWYEARREDPACKET_DES_REWARD_DESCRIPTION]  
+Reward Preview:  
+Lunar 28th: ^ff0000^Universal Fragments^oldclr^*200  
+Lunar 29th: ^ff0000^Advancement Books^oldclr^*10  
+New Year's Day: ^ff0000^Targeted Fragments^oldclr^*300  
+2nd Day of New Year: ^ff0000^Gems^oldclr^*20250  
+3rd Day of New Year: ^ff0000^Limited-time Treasure Trophy^oldclr^*5  
+4th Day of New Year: ^ff0000^Universal Fragments^oldclr^*200  
+5th Day of New Year: ^ff0000^Advancement Books^oldclr^*10  
+6th Day of New Year: ^ff0000^Targeted Fragments^oldclr^*300  
+7th Day of New Year: ^ff0000^Gems^oldclr^*20250  
+8th Day of New Year: ^ff0000^Limited-time Treasure Trophy^oldclr^*5  
+9th Day of New Year: ^ff0000^Universal Fragments^oldclr^*200  
+10th Day of New Year: ^ff0000^Advancement Books^oldclr^*10  
+11th Day of New Year: ^ff0000^Targeted Fragments^oldclr^*300  
+12th Day of New Year: ^ff0000^Gems^oldclr^*20250  
 
-[UINEWYEARREDPACKET_DES_REWARD_DESCRIPTION]
-奖励预览：
-腊月廿八：^ff0000^万能碎片^oldclr^*200
-腊月廿九：^ff0000^进阶书^oldclr^*10
-正月初一：^ff0000^定向碎片^oldclr^*300
-正月初二：^ff0000^钻石^oldclr^*20250
-正月初三：^ff0000^限时夺宝奖杯^oldclr^*5
-正月初四：^ff0000^万能碎片^oldclr^*200
-正月初五：^ff0000^进阶书^oldclr^*10
-正月初六：^ff0000^定向碎片^oldclr^*300
-正月初七：^ff0000^钻石^oldclr^*20250
-正月初八：^ff0000^限时夺宝奖杯^oldclr^*5
-正月初九：^ff0000^万能碎片^oldclr^*200
-正月初十：^ff0000^进阶书^oldclr^*10
-正月十一：^ff0000^定向碎片^oldclr^*300
-正月十二：^ff0000^钻石^oldclr^*20250
+[UINEWYEARREDPACKET_DES_REWARD_TITLE]  
+Grand Prize for the Luckiest Player
 
-[UINEWYEARREDPACKET_DES_REWARD_TITLE]
-头号幸运玩家奖
+[ACTIVITY_NEWYEARPACK_SHORT_DESCRIPTION]  
+Open the New Year Gift Pack to get lots of gems and rare decorations
 
-[ACTIVITY_NEWYEARPACK_SHORT_DESCRIPTION]
-打开新年礼包，获取超多钻石与稀有装扮
-
-[REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
-恭喜您被选中成为今日最幸运玩家
+[REDPACKETWIDGET_DES_LUCK_DESCRIPTION]  
+Congratulations! You have been selected as today's luckiest player!
 
 [PVZ2_CHINESE_END]
 [LOADING_1]
@@ -73368,7 +73363,7 @@ Attack speed increased by 10%.
 ^00FF08^ English Patch Plus features: Added Mower Launch and Instant Recharge upgrades (You can get it in Star Exchange)
 
 [LOADING_3]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ English patch Plus feature: Arena now playing Ultimate Battle music!
 
 [LOADING_4]
 ^00FF08^ English Patch Plus features: You could have the Octopus Artifact for free. Beat it's demo level to get it.  
@@ -73399,6 +73394,9 @@ Attack speed increased by 10%.
 
 [LOADING_13]
 ^00FF08^ English Patch Plus features: The amount of star required for unlocking items in Star Exchange are now cheaper!
+
+[LOADING_14]
+^00FF08^ English Patch Plus features: Some improvements to Daily Challenge!
 
 [360_1_NOTICE_1]
 ^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
