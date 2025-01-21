@@ -73363,7 +73363,7 @@ Congratulations! You have been selected as today's luckiest player!
 ^00FF08^ English Patch Plus features: Added Mower Launch and Instant Recharge upgrades (You can get it in Star Exchange)
 
 [LOADING_3]
-^00FF08^ English patch Plus feature: Arena now playing Ultimate Battle music!
+
 
 [LOADING_4]
 ^00FF08^ English Patch Plus features: You could have the Octopus Artifact for free. Beat it's demo level to get it.  
