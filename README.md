@@ -20,10 +20,10 @@ You can refer to [CyberSteve's tutorial](https://github.com/CyberSteve777/cybers
 				"LawnStringServerConfig"
 			],
 			"objdata": {
-				"ReleaseFileInfoURL": "https://nvdtn19.github.io/file/en/ad/res_release",
-				"ShippingFileInfoURL": "https://nvdtn19.github.io/file/en/ad/res_shipping",
-				"ReleaseFileURL": "https://nvdtn19.github.io/file/en/ad/res_release",
-				"ShippingFileURL": "https://nvdtn19.github.io/file/en/ad/res_shipping"
+				"ReleaseFileInfoURL": "https://nvdtn19.github.io/3.6.0-2/en/ad/res_release",
+				"ShippingFileInfoURL": "https://nvdtn19.github.io/3.6.0-2/en/ad/res_shipping",
+				"ReleaseFileURL": "https://nvdtn19.github.io/3.6.0-2/en/ad/res_release",
+				"ShippingFileURL": "https://nvdtn19.github.io/3.6.0-2/en/ad/res_shipping"
 			}
 		},
 ```
