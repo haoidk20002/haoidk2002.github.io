@@ -21,12 +21,12 @@ jobs:
           python-version: "3.12"
       - name: Process Translation
         run: |
-          for version in $(ls raw); do
-            for language in $(ls raw/$version); do
+          for file in $(ls raw); do
+            for language in $(ls raw/file); do
               # Android
-              android_input="raw/$version/$language/android_file.txt"
-              android_res_release="translation/$version/$language/ad/res_release"
-              android_res_shipping="translation/$version/$language/ad/res_shipping"
+              android_input="raw/file/$language/android_file.txt"
+              android_res_release="translation/file/$language/ad/res_release"
+              android_res_shipping="translation/file/$language/ad/res_shipping"
               if [ -f $android_input ]; then
                 mkdir -p $android_res_release
                 mkdir -p $android_res_shipping
@@ -35,9 +35,9 @@ jobs:
               fi
             
               # iOS
-              ios_input="raw/$version/$language/ios_file.txt"
-              ios_res_release="translation/$version/$language/ios/res_release"
-              ios_res_shipping="translation/$version/$language/ios/res_shipping"
+              ios_input="raw/file/$language/ios_file.txt"
+              ios_res_release="translation/file/$language/ios/res_release"
+              ios_res_shipping="translation/file/$language/ios/res_shipping"
               if [ -f $ios_input ]; then
                 mkdir -p $ios_res_release
                 mkdir -p $ios_res_shipping
