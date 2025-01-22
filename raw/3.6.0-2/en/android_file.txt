@@ -7088,18 +7088,6 @@ The current progress in this device will be erased completely and will be replac
 [FREE_GEM_GET_TEXT]
 Get free gems!
 
-[HEALTH_NOTICE_CONTENT]
-Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
-
-[HEALTH_NOTICE_TITLE]
-Healthy Gaming Advice
-
-[HEALTH_NOTICE_CONTENT_2]
-This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
-Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
-Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A. Registration inquiry: https://beian.miit.gov.cn/
-Game Copyright Owner: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
-
 [MENU_BUTTON]
 MENU
 
@@ -69058,22 +69046,6 @@ Effective date: December 14, 2021
 [RANK_AVATAR_CONTENT_CONTENT_61032]
 双人对决第25赛季宗师段位奖励
 
-[HEALTH_NOTICE_CONTENT_3]
-This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
-Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
-Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
-
-[HEALTH_NOTICE_CONTENT_3_1]
-This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
-Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
-Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
-
-[HEALTH_NOTICE_CONTENT_4]
-Game Copyright Owner: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
-
-[HEALTH_NOTICE_CONTENT_5]
-Registration Inquiry: https://beian.miit.gov.cn/
-
 [SETTINGS_FPS_TITLE]
 FPS Toggle
 [SETTINGS_FPS_DISABLE]
@@ -73361,6 +73333,36 @@ ONLY buy this once! Maximum amount is 2,147,483,647
 [INFINITY_COINS_DESC]
 Infinity Coins - Make sure your coins is <27,483,647 before buying this
 
+[HEALTH_NOTICE_CONTENT]
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+
+[HEALTH_NOTICE_TITLE]
+Healthy Gaming Advice
+
+[HEALTH_NOTICE_CONTENT_2]
+This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A. Registration inquiry: https://beian.miit.gov.cn/
+Game Copyright Owner: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
+
+
+[HEALTH_NOTICE_CONTENT_3]
+This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
+
+[HEALTH_NOTICE_CONTENT_3_1]
+This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
+
+[HEALTH_NOTICE_CONTENT_4]
+Game Copyright Owner: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
+
+[HEALTH_NOTICE_CONTENT_5]
+Registration Inquiry: https://beian.miit.gov.cn/
+
+
 [PVZ2_CHINESE_END]
 [LOADING_1]
 ^00FF08^ English Patch Plus features: You have a turbo button that allows you to speed up the game in a level.
@@ -73403,66 +73405,94 @@ Infinity Coins - Make sure your coins is <27,483,647 before buying this
 
 [LOADING_14]
 ^00FF08^ English Patch Plus features: Some improvements to Daily Challenge!
-
 [360_1_NOTICE_1]
-^00FF08^ EP Plus have updated to version 3.6.0-2. Changelog: Fixed a crash in the PVP Friend patche. You are using EP Plus 3.6.0-1, update now by redownloading the patch from the download link!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible!
 
 [360_1_NOTICE_2]
-^00FF08^ EP Plus have updated to version 3.6.0-2. Changelog: Fixed a crash in the PVP Friend patche. You are using EP Plus 3.6.0-1, update now by redownloading the patch from the download link!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible!
 
 [360_1_NOTICE_3]
-^00FF08^ EP Plus have updated to version 3.6.0-2. Changelog: Fixed a crash in the PVP Friend patche. You are using EP Plus 3.6.0-1, update now by redownloading the patch from the download link!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible!
 
 [360_1_NOTICE_4]
-^00FF08^ EP Plus have updated to version 3.6.0-2. Changelog: Fixed a crash in the PVP Friend patche. You are using EP Plus 3.6.0-1, update now by redownloading the patch from the download link!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible!
 
 [360_1_NOTICE_5]
-^00FF08^ EP Plus have updated to version 3.6.0-2. Changelog: Fixed a crash in the PVP Friend patche. You are using EP Plus 3.6.0-1, update now by redownloading the patch from the download link!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible!
 
 [360_1_NOTICE_6]
-^00FF08^ EP Plus have updated to version 3.6.0-2. Changelog: Fixed a crash in the PVP Friend patche. You are using EP Plus 3.6.0-1, update now by redownloading the patch from the download link!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible!
 
 [360_1_NOTICE_7]
-^00FF08^ EP Plus have updated to version 3.6.0-2. Changelog: Fixed a crash in the PVP Friend patche. You are using EP Plus 3.6.0-1, update now by redownloading the patch from the download link!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible!
 
 [360_1_NOTICE_8]
-^00FF08^ EP Plus have updated to version 3.6.0-2. Changelog: Fixed a crash in the PVP Friend patche. You are using EP Plus 3.6.0-1, update now by redownloading the patch from the download link!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible!
 
 [360_1_NOTICE_9]
-^00FF08^ EP Plus have updated to version 3.6.0-2. Changelog: Fixed a crash in the PVP Friend patche. You are using EP Plus 3.6.0-1, update now by redownloading the patch from the download link!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible!
 
 [360_1_NOTICE_10]
-^00FF08^ EP Plus have updated to version 3.6.0-2. Changelog: Fixed a crash in the PVP Friend patche. You are using EP Plus 3.6.0-1, update now by redownloading the patch from the download link!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible!
 
 [360_2_NOTICE_1]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
-
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible! 
 
 [360_2_NOTICE_2]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible! 
 
 [360_2_NOTICE_3]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible! 
 
 [360_2_NOTICE_4]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible! 
 
 [360_2_NOTICE_5]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible! 
 
 [360_2_NOTICE_6]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible! 
 
 [360_2_NOTICE_7]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible! 
 
 [360_2_NOTICE_8]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible! 
 
 [360_2_NOTICE_9]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible! 
 
 [360_2_NOTICE_10]
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2), with some bug fixes and improvements. Update now as soon as possible! 
+
+[362_1_NOTICE_1]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_1_NOTICE_2]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_1_NOTICE_3]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_1_NOTICE_4]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_1_NOTICE_5]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_1_NOTICE_6]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_1_NOTICE_7]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_1_NOTICE_8]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_1_NOTICE_9]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_1_NOTICE_10]
 ^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
 
 [ENDURIAN_SKILL_LEVEL1]
