@@ -35248,25 +35248,25 @@ Wall-nut Bowling
 噔噔咚
 
 [CORNUCOPIA_ACTIVITY_COUNTDOWN_TITLE]
-结束倒计时
+Ends in
 
 [CORNUCOPIA_SHOP_COUNTDOWN_TITLE]
-兑换倒计时
+Exchange Countdown
 
 [CORNUCOPIA_LEADERBOARD_COUNTDOWN_TITLE]
-公示倒计时
+Leaderboard Announcement Countdown
 
 [CORNUCOPIA_MAX_LEVEL]
-已满级
+Max Level Reached
 
 [CORNUCOPIA_ACTIVITY_TIME_OVER]
-活动结束
+Event Ended
 
 [CORNUCOPIA_SERVER_TOTAL_PROGRESS_GEM]
-聚宝盆奖池累计
+Cornucopia Prize Pool Progress
 
 [CORNUCOPIA_TOTAL_GACHA_TITLE]
-累计抽取{NUMS}次
+Total Draws: {NUMS}
 
 [CORNUCOPIA_CURRENT_TITLE]
 Current
@@ -35275,16 +35275,16 @@ Current
 Next Level
 
 [CORNUCOPIA_NEXT_LEVEL_DESC]
-距离下一级还要{NUMS}成长值，充值或完成任务可以获得成长值
+{NUMS} growth points needed for the next level. Recharge or complete tasks to earn growth points.
 
 [CORNUCOPIA_GACHA_TIPS_DESC]
-单次最高可以获得5000钻石大奖哦! 
+Win up to 5000 Gems in a single draw!
 
 [CORNUCOPIA_HARVEST_COOLDOWN_TITLE]
-收获加速
+Harvest Acceleration
 
 [CORNUCOPIA_LOCK_TITLE]
-档位
+Tier
 
 [CORNUCOPIA_GACHA_ONE_TITLE]
 Try Once
@@ -35296,10 +35296,10 @@ Try 10 Times
 Cornucopia Event
 
 [CORNUCOPIA_TAB_NAME2]
-Task
+Tasks
 
 [CORNUCOPIA_TAB_NAME3]
-Special Package
+Special Packages
 
 [CORNUCOPIA_TAB_NAME4]
 Exchange Shop
@@ -35314,34 +35314,34 @@ Upgrade
 {NUM1} / {NUM2}
 
 [CORNUCOPIA_MAIN_TIPS_INFO]
-活动规则：
-1、通过购买礼包或收集气泡获得幸运金币，将幸运金币投入聚宝盆，聚宝盆将给予丰厚的奖励。本活动中的幸运金币仅在当期活动有效，无法继承至下期活动，请尽快使用。
-2、每次抽奖都将获得兑换徽章和随机奖励，幸运的小僵僵有概率抽取获得5000钻石的幸运大奖。
-必得奖励概率公示
-兑换徽章*1：50.00%
-兑换徽章*2：35.00%
-兑换徽章*3：15.00%
-随机奖励概率公示
-钻石*10：       24.99%  钻石*30：          8.33%
-钻石*50：       4.16%   幸运大奖钻石*5000：0.05%
-紫色植物碎片*1：8.33%   紫色植物碎片*2：   12.49%
-蓝色植物碎片*2：16.66%  绿色植物碎片*5：   24.99%
-3、购买幸运礼包，可以获取额外的幸运金币、聚宝盆经验值、钻石等奖励。
-4、完成每日任务以及购买幸运礼包可以提升聚宝盆等级，获取更快的幸运金币产出速度，并解锁更高的兑换商店槽位。升级所需要的聚宝盆经验值随等级增加而增长，至高可达到10级。聚宝盆等级仅在当期活动有效，无法继承至下期活动。
-5、每隔一段时间，聚宝盆都将产出免费的幸运金币，点击任意气泡即可领取当前可供领取的全部奖励。聚宝盆等级越高，产出免费幸运金币的速度也将越快。界面中至多储存5个气泡，当玩家的气泡达到上限时，将不再产出气泡，直至收取后重新开始计时。
-6、使用抽奖获得的兑换徽章，可在兑换商店获取进阶书、植物碎片等丰厚奖励。不同商品的限购次数和价格不同，部分商品需要达成指定聚宝盆等级才可兑换；本活动中的兑换徽章仅在当期活动有效，无法继承至下期活动，请尽快使用。
-7、进行聚宝盆抽奖，将积累全服奖池进度，初始为10000钻石，每进行10次聚宝盆抽奖，奖池内钻石数量+1。活动结束时将会根据榜单排名瓜分奖池中的钻石奖励：
-前1-50名每人可获得总奖池的0.5%，总计25%，进入该段名次需至少抽取200次
-前51-150名每人可获得总奖池的0.25%，总计25%，进入该段名次需至少抽取160次
-前151-300名每人可获得总奖池的0.20%，总计30%，进入该段名次需至少抽取120次
-前301-500名每人可获得总奖池的0.10%，总计20%，进入该段名次需至少抽取80次
-（进入榜单需要达成保底抽取次数，未达成指定次数无法进入榜单）
+Event Rules:
+1. Obtain Lucky Coins by purchasing packs or collecting bubbles. Add them to the Cornucopia to receive generous rewards. Lucky Coins are only valid for the current event and cannot be carried over to the next event. Use them promptly.
+2. Each draw rewards Exchange Emblems and random prizes. Lucky participants have a chance to win the grand prize of 5000 Gems.
+Guaranteed Rewards Probabilities:
+Exchange Emblem ×1: 50.00%
+Exchange Emblem ×2: 35.00%
+Exchange Emblem ×3: 15.00%
+Random Rewards Probabilities:
+Gems ×10: 24.99% | Gems ×30: 8.33%
+Gems ×50: 4.16% | Grand Prize Gems ×5000: 0.05%
+Purple Plant Fragment ×1: 8.33% | Purple Plant Fragment ×2: 12.49%
+Blue Plant Fragment ×2: 16.66% | Green Plant Fragment ×5: 24.99%
+3. Purchase Lucky Packs to receive additional Lucky Coins, Cornucopia EXP, Gems, and more.
+4. Complete daily tasks or purchase Lucky Packs to level up the Cornucopia, speeding up Lucky Coin production and unlocking higher exchange shop slots. The EXP required increases with levels, up to level 10. Cornucopia levels are valid only for the current event and do not carry over to the next.
+5. The Cornucopia produces free Lucky Coins at intervals. Collect all available rewards by tapping any bubble. The higher the Cornucopia level, the faster it produces Lucky Coins. The interface can store up to 5 bubbles; no new bubbles will generate until the current ones are collected.
+6. Use Exchange Emblems obtained from draws to redeem rewards like upgrade books and plant fragments in the exchange shop. Different items have different purchase limits and prices; some require a specific Cornucopia level to unlock. Exchange Emblems are valid only for the current event and cannot be carried over to the next. Use them promptly.
+7. Each Cornucopia draw contributes to the server-wide prize pool. The initial pool is 10,000 Gems. For every 10 draws, the pool increases by 1 Gem. At the end of the event, the prize pool is distributed based on leaderboard rankings:
+Top 1–50: 0.5% of the total pool per player (requires at least 200 draws)
+Top 51–150: 0.25% per player (requires at least 160 draws)
+Top 151–300: 0.2% per player (requires at least 120 draws)
+Top 301–500: 0.1% per player (requires at least 80 draws)
+(A minimum number of draws is required to qualify for the leaderboard.)
 
 [CORNUCOPIA_PROGRESS_TIPS_INFO]
-全服进行10次聚宝盆抽奖，奖池内钻石数量+1
+The prize pool increases by 1 Gem for every 10 server-wide Cornucopia draws.
 
 [CORNUCOPIA_MARQUEE_TEMPLATE]
-恭喜玩家{NAME}在"欢乐聚宝盆"中抽中幸运奖，获得{INFO}
+Congratulations to player {NAME} for winning the grand prize of {INFO} in the "Cornucopia Event"!
 
 [CORNUCOPIA_SHOP_ITEM_LOCK_DESCRIPTION_1]
 Unlock at Level 1
@@ -35375,45 +35375,45 @@ Unlock at Level 10
 
 [CORNUCOPIA_PRESENT_BUY_CONFIRM]
 Would you like to purchase the gift pack?
- 
+
 [CORNUCOPIA_SHOP_BUY_CONFIRM]
-是否花费 {NUMS} 兑换徽章兑换？
+Spend {NUMS} Exchange Emblems to redeem?
 
 [CORNUCOPIA_GACHA_CONFIRM]
-是否花费 {NUMS} 幸运金币？
+Spend {NUMS} Lucky Coins?
 
 [CORNUCOPIA_HARVEST_GOT_CONFIRM]
 Harvest Cornucopia bubbles?
 
 [CORNUCOPIA_HARVEST_TITLE]
-Get
+Collect
 
 [CORNUCOPIA_SHOP_BUY_TIME]
-Buy Time: {NUM1} / {NUM2}
+Purchase Limit: {NUM1} / {NUM2}
 
 [MAT_CORNUCOPIA_TICKET_NOT_ENOUGH]
-幸运金币不足
+Insufficient Lucky Coins
 
 [MAT_CORNUCOPIA_EMBLEM_NOT_ENOUGH]
-兑换徽章不足
+Insufficient Exchange Emblems
 
 [MAT_CORNUCOPIA_TICKET]
-幸运金币
+Lucky Coins
 
 [MAT_CORNUCOPIA_EMBLEM]
-兑换徽章
+Exchange Emblems
 
 [MAT_CORNUCOPIA_TICKET_USE]
-用于聚宝盆抽奖
+Used for Cornucopia draws
 
 [MAT_CORNUCOPIA_TICKET_GOT_WAY]
-聚宝盆特惠礼包获取，聚宝盆定时气泡产出
+Obtained from Cornucopia special packs and bubble production
 
 [MAT_CORNUCOPIA_EMBLEM_USE]
-用于兑换商店兑换奖励
+Used to redeem rewards in the exchange shop
 
 [MAT_CORNUCOPIA_EMBLEM_GOT_WAY]
-聚宝盆抽奖
+Obtained from Cornucopia draws
 
 [CORNUCOPIA_BONUS_DETAIL_PLANT]
 Plant
@@ -35428,70 +35428,70 @@ Pendant Pieces
 Gems
 
 [PRODUCT_CORNUCOPIA_TREASURE_BOWL]
-聚宝盆礼包
+Cornucopia Pack
 
 [PRODUCT_CORNUCOPIA_TREASURE_BOWL_6_SHORTDESC]
-初级幸运礼包
+Basic Lucky Pack
 
 [PRODUCT_CORNUCOPIA_TREASURE_BOWL_30_SHORTDESC]
-中级幸运礼包
+Intermediate Lucky Pack
 
 [PRODUCT_CORNUCOPIA_TREASURE_BOWL_68_SHORTDESC]
-高级幸运礼包
+Advanced Lucky Pack
 
 [PRODUCT_CORNUCOPIA_TREASURE_BOWL_128_SHORTDESC]
-超级幸运礼包
+Super Lucky Pack
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_1]
-第1-50名：钻石×{NUM}
+Rank 1–50: Gems ×{NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_1]
-名次区间内每人可获得总奖池的^08FF20^0.5%^oldclr^（至少抽取200次）
+Players in this range receive ^08FF20^0.5%^oldclr^ of the total prize pool each (requires at least 200 draws).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_2]
-第51-150名：钻石×{NUM}
+Rank 51–150: Gems ×{NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_2]
-名次区间内每人可获得总奖池的^08FF20^0.25%^oldclr^（至少抽取160次）
+Players in this range receive ^08FF20^0.25%^oldclr^ of the total prize pool each (requires at least 160 draws).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_3]
-第151-300名：钻石×{NUM}
+Rank 151–300: Gems ×{NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_3]
-名次区间内每人可获得总奖池的^08FF20^0.2%^oldclr^（至少抽取120次）
+Players in this range receive ^08FF20^0.2%^oldclr^ of the total prize pool each (requires at least 120 draws).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_4]
-第301-500名：钻石×{NUM}
+Rank 301–500: Gems ×{NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_4]
-名次区间内每人可获得总奖池的^08FF20^0.1%^oldclr^（至少抽取80次）
+Players in this range receive ^08FF20^0.1%^oldclr^ of the total prize pool each (requires at least 80 draws).
 
 [CORNUCOPIA_GIFT_REWARD_ADD_UP_ANDROID]
-根据个人抽奖次数进行排名，排名越高瓜分奖金越多
+Rankings are based on the number of personal draws. The higher the rank, the more rewards.
 
 [CORNUCOPIA_GIFT_REWARD_ADD_UP_IOS]
-根据个人抽奖次数进行排名，排名越高瓜分奖金越多
+Rankings are based on the number of personal draws. The higher the rank, the more rewards.
 
 [CORNUCOPIA_GIFT_GACHA_COUNT_TITLE]
-抽奖次数：{NUMS}
+Number of Draws: {NUMS}
 
 [CORNUCOPIA_GIFT_GEM_REWARD_TITLE]
-可获得钻石：{NUMS}
+Gems Earned: {NUMS}
 
 [CORNUCOPIA_GIFT_RANK_GACHA_TITLE]
-抽奖{NUMS}次
+Drawn {NUMS} Times
 
 [CORNUCOPIA_GIFT_RANK_DUMMY_TITLE]
-虚位以待
+Position Open
 
 [SHOP_NO_LIMIT_BUYTIME_TITLE]
-限购次数：不限
+Purchase Limit: Unlimited
 
 [CORNUCOPIA_CRYSTAL_5000]
-幸运大奖
+Grand Prize
 
 [MAT_CORNUCOPIA_EMBLEM_MUST]
-兑换徽章（必得）
+Guaranteed Exchange Emblem
 
 [CORNUCOPIA_GRADE_TASK_NAME_1_1]
 Free!
@@ -70103,64 +70103,64 @@ Carnival Mask
 You've favourited too many Artifacts!
 
 [MINIGAME_PERK_REDUCE_ZOMBIE_SPEED_DESCRIPTION]
-僵尸速度降低{NUMBER}%
+Zombie speed reduced by {NUMBER}%
 
 [MINIGAME_PERK_STUCK_ALL_ZOMBIE_DESCRIPTION]
-每隔20秒, 将僵尸定住{NUMBER}秒
+Every 20 seconds, zombies are stunned for {NUMBER} seconds.
 
 [MINIGAME_PERK_KILL_ALL_ZOMBIE_DESCRIPTION]
-使用道具后, 秒杀场内的僵尸, 可以使用{NUMBER}次
+Upon using the item, instantly kill all zombies on the field. Usable {NUMBER} times.
 
 [MINIGAME_PERK_PLANTS_STATS_INCREASED_DESCRIPTION]
-种植植物属性提升{NUMBER3}%(包括记忆骆驼牌中特殊植物种植冷却, Wall-nut Bowling中Bowling Bulb球出现速度, 模仿者中植物种植冷却)
+Plant attributes increased by {NUMBER3}% (including special plant planting cooldowns in Memory Lane mode, Bowling Bulb spawn speed in Wall-nut Bowling, and plant planting cooldowns in Imitator mode).
 
 [MINIGAME_PERK_GAME_DURATION_INCREASED]
-游戏时长增加{NUMBER}秒
+Game duration extended by {NUMBER} seconds.
 
 [MINIGAME_PERK_GAME_COIN_INCREASED]
-通关后获得的强化能量增加{NUMBER}%
+Increased bonus energy gained after completion by {NUMBER}%.
 
 [MINIGAME_PERK_XRAY]
-翻开所有骆驼牌, 持续10秒, 可以使用{NUMBER}次
+Reveal all Camel cards for 10 seconds. Usable {NUMBER} times.
 
 [MINIGAME_PERK_BOWLING]
-立即补充5个原始坚果, 在接下来10s内只会出现爆炸坚果和原始坚果, 可以使用{NUMBER}次
+Instantly replenish 5 basic Wall-nuts. For the next 10 seconds, only Exploding Wall-nuts and basic Wall-nuts will appear. Usable {NUMBER} times.
 
 [MINIGAME_PERK_REFRESH_CARD]
-立即刷新卡槽中的cd, 且接下来10s内种植的魔术帽中只会出现植物, 可以使用{NUMBER}次
+Immediately refresh the cooldown of card slots. For the next 10 seconds, only plants will appear in the Magic Hat. Usable {NUMBER} times.
 
 [MINIGAME_PERK_TIME_BACK]
-返回至5步之前的游戏界面, 且返还已消耗的步数(不可超过初始步数上限), 可以使用{NUMBER}次
+Revert to the game screen from 5 steps ago, restoring consumed moves (cannot exceed the initial move limit). Usable {NUMBER} times.
 
 [MINI_GAME_PERK_NAME_ZOMBIE_SPEED_REDUCED]
-僵尸移动速度降低
+Zombie Movement Speed Reduced
 
 [MINI_GAME_PERK_NAME_PLANT_STATS_INCREASED]
-植物相关属性提升
+Plant Attribute Enhancement
 
 [MINI_GAME_PERK_NAME_ZOMBIE_GLOBAL_STUCK]
-全场僵尸麻痹
+Global Zombie Stun
 
 [MINI_GAME_PERK_NAME_MINI_GAME_DURATION_INCREASED]
-游戏获得额外时长
+Extra Game Duration Granted
 
 [MINI_GAME_PERK_NAME_MINI_GAME_COIN_INCREASED]
-通关后获取的代币数量增加
+Increased Token Reward After Completion
 
 [MINI_GAME_PERK_NAME_ITEM_KILL_ALL_ZOMBIES]
-秒杀场上所有的僵尸
+Defeat all the zombies
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_X_RAY]
-透视镜
+X-Ray
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_BOWLING]
-Bowling Bulb球补充卡
+Bowling Bulb Refill Card
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_REFRESH_CARD]
-刷新卡
+Refresh Card
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_TIME_BACK]
-时光倒流
+Time Rewind
 
 [THEME_PEA_RAIN_NAME]
 Pea Rain
@@ -70189,124 +70189,122 @@ The hot weather on the lawn makes all plants have a 3% chance to become thirsty 
 
 [ARTIFACT_CAMERA]
 Camera Artifact
-
 [ARTIFACT_CAMERA_DESCRIPTION]
-使用相机完成拍照, 使用相片完成植物回溯
+Use the camera to take photos, and use the photos to rewind plants.
 
 [ARTIFACT_CAMERA_SKILL_1]
-记录一下
+Take a Snapshot
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_1]
-点击神器按钮弹出窗口, 左侧为相机神器拍照功能, 点击后可以直接完成拍照操作, 右侧为相框, 当拍照完成后, 拍下的照片会填充到相框中；拍照时相机闪光灯闪烁, 对僵尸造成{MainField_1}秒眩晕效果, 冷却时间30秒；使用照片进行回溯, 回溯后的植物受到无敌保护, 持续{MainField_2}秒, 每场战斗可使用{MainField_4}次. 
+Click the artifact button to open a window. The left side features the camera artifact's photo function; clicking it completes the photo-taking operation. The right side is the photo frame, where the captured photo fills in after taking a picture. When the camera flashes during the photo, zombies are stunned for {MainField_1} seconds. Cooldown: 30 seconds. Use photos to rewind plants, granting them invincibility for {MainField_2} seconds. Usable {MainField_4} times per battle.
 
 [ARTIFACT_CAMERA_SKILL_2]
-当心眼睛
+Watch Your Eyes
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_2]
-带有眩晕效果的植物攻防属性增加{PassiveField1_1}%
+Plants with a stun effect gain an attack and defense boost of {PassiveField1_1}%.
 
 [ARTIFACT_CAMERA_SKILL_3]
-闪光灯！
+Flash!
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒照相机的闪光灯闪烁, 对每一行最前的一个中小体型僵尸造成3s眩晕效果. 
+Every {PassiveField2_1} seconds, the camera flash blinks, stunning the frontmost small- to medium-sized zombie in each row for 3 seconds.
 
 [ARTIFACT_CAMERA_SKILL_4]
-鬼魂来袭
+Ghostly Arrival
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_4]
-使用相机及使用回溯功能后, 生成五个鬼魂, 鬼魂生成后向前移动, 碰到僵尸后停止, 对当前格的中小体型僵尸造成持续恐吓效果
-
+After using the camera or rewind function, five ghosts are generated. The ghosts move forward and stop when encountering zombies, continuously intimidating small- to medium-sized zombies in the current tile.
 
 [ARTIFACT_SOULBELL]
 Soul Bell Artifact
 
 [ARTIFACT_SOULBELL_DESCRIPTION]
-摇动摄魂铃控制僵尸进行作战
+Shake the Soul Bell to control zombies in battle.
 
 [ARTIFACT_SOULBELL_SKILL_1]
-夺心魄
+Mind Stealer
 
 [ARTIFACT_SOULBELL_SKILL_DESCRIPTION_1]
-主动使用: 释放技能后摇动摄魂铃, 朝场上的僵尸丢出符咒, 被符咒贴上的中小型僵尸将被我方操控进行攻击, 大型僵尸将被定身, 持续{MainField_1}秒, 冷却30秒, 每场战斗可使用{MainField_6}次
+Active: Use the skill to shake the Soul Bell and throw talismans at zombies on the field. Small- to medium-sized zombies with talismans are controlled to attack on your side, while large zombies are immobilized for {MainField_1} seconds. Cooldown: 30 seconds. Usable {MainField_6} times per battle.
 
 [ARTIFACT_SOULBELL_SKILL_2]
-操控大师
+Master of Control
 
 [ARTIFACT_SOULBELL_SKILL_DESCRIPTION_2]
-操控僵尸的植物攻防属性增{PassiveField1_1}%
+Plants that control zombies gain an attack and defense boost of {PassiveField1_1}%.
 
 [ARTIFACT_SOULBELL_SKILL_3]
-僵尸军团
+Zombie Legion
 
 [ARTIFACT_SOULBELL_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒, 从地图左侧召唤出5个符咒僵尸
+Every {PassiveField2_1} seconds, summon 5 talisman zombies from the left side of the map.
 
 [ARTIFACT_SOULBELL_SKILL_4]
-摄魂大法
+Advanced Soul Manipulation
 
 [ARTIFACT_SOULBELL_SKILL_DESCRIPTION_4]
-摄魂铃的符咒可控制巨人僵尸, 控制时间为{PassiveField3_1}秒
+The Soul Bell talismans can control Gargantuar zombies for {PassiveField3_1} seconds.
 
 [ARTIFACT_GRAVITY]
 Hypergravity Artifact
 
 [ARTIFACT_GRAVITY_DESCRIPTION]
-释放超重力波, 将僵尸压入地底
+Release a hypergravity wave to sink zombies underground.
 
 [ARTIFACT_GRAVITY_SKILL_1]
-重力压制
+Gravity Suppression
 
 [ARTIFACT_GRAVITY_SKILL_DESCRIPTION_1]
-主动使用: 超重力神器释放重力波, 在指定位置生成一个大范围的重力场, 重力场生效期间会将僵尸持续压入地下, 持续{MainField_1}秒, 冷却30秒, 每场战斗可使用{MainField_7}次, 注意: 部分植物的子弹也会受到重力效果影响！
+Active: The Hypergravity Artifact releases a gravity wave, creating a large gravity field at the specified location. During its effect, zombies are continuously pulled underground for {MainField_1} seconds. Cooldown: 30 seconds. Usable {MainField_7} times per battle. Note: Some plant projectiles are also affected by gravity!
 
 [ARTIFACT_GRAVITY_SKILL_2]
-适应重力
+Adapt to Gravity
 
 [ARTIFACT_GRAVITY_SKILL_DESCRIPTION_2]
-部分利用重力的植物攻防属性增{PassiveField1_1}%
+Plants utilizing gravity gain an attack and defense boost of {PassiveField1_1}%.
 
 [ARTIFACT_GRAVITY_SKILL_3]
-小型重力场
+Mini Gravity Field
 
 [ARTIFACT_GRAVITY_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒, 在地图右侧生成一个小范围的重力场
+Every {PassiveField2_1} seconds, generate a small gravity field on the right side of the map.
 
 [ARTIFACT_GRAVITY_SKILL_4]
-超高重力
+Extreme Gravity
 
 [ARTIFACT_GRAVITY_SKILL_DESCRIPTION_4]
-强化重力, 使得经过的僵尸会以极快的速度被压入地底
+Enhances gravity, making zombies sink underground at an accelerated speed.
 
 [ARTIFACT_HYDRAULIC]
 Hydraulic Artifact
 
 [ARTIFACT_HYDRAULIC_DESCRIPTION]
-将植物压缩成卡片, 可重新种植
+Compress plants into cards for replanting.
 
 [ARTIFACT_HYDRAULIC_SKILL_1]
-压缩植物
+Compress Plants
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_1]
-主动使用: 选择一个格子释放, 3×3范围内的所有植物会被压扁, 随后变成植物卡片, 植物卡片存在{MainField_1}秒, 可拖动植物卡片重新种植, 每场战斗可使用{MainField_3}次, 冷却时间10秒
+Active: Select a tile to release the skill. All plants in a 3×3 area are flattened and turned into plant cards. The cards last for {MainField_1} seconds and can be dragged to replant. Usable {MainField_3} times per battle. Cooldown: 10 seconds.
 
 [ARTIFACT_HYDRAULIC_SKILL_2]
-压力强化
+Pressure Enhancement
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_2]
-锤击类植物的攻防属性增加{PassiveField1_1}%
+Plants with a smashing effect gain an attack and defense boost of {PassiveField1_1}%.
 
 [ARTIFACT_HYDRAULIC_SKILL_3]
-小压一下
+Light Pressure
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒, 将最靠近的3个僵尸压进土里, 造成伤害和无法移动效果
+Every {PassiveField2_1} seconds, the three closest zombies are compressed into the ground, dealing damage and immobilizing them.
 
 [ARTIFACT_HYDRAULIC_SKILL_4]
-僵尸打包
+Zombie Packaging
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_4]
-范围内的僵尸会被变成僵尸卡片, 僵尸卡片可移动到任意位置重新变成敌方僵尸, 僵尸卡片持续15秒, 时间到后仍未使用的卡片会在原地重新变成敌方僵尸
+Zombies within range are turned into zombie cards. Zombie cards can be moved to any position to become enemy zombies again. Zombie cards last for 15 seconds. Unused cards will transform back into enemy zombies on the spot after time runs out.
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_9]
 Groundspawn Zombies
@@ -70443,79 +70441,79 @@ Zombie Wars
 Survive using allied Zombotanies.
 
 [UNCHARTED_ANNIVERSARY_HALLOWEEN_202411_LEVEL_LOCKED]
-秘境关卡每日解锁1关, 该关卡尚未到达解锁时间. 
+One secret level unlocks daily. This level is not yet available for unlocking. 
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}警告！警告！侦测到变异僵尸！
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Warning! Warning! Mutant zombies detected!
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}奇怪, 我们来到哪儿了？这还是我的后院吗？
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Strange, where are we? Is this still my backyard?
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_3]
-{NPC_ENTER:crazydave}{PLAYFUL:winnie}地点确认, 当前所在地为僵王博士的神秘实验室. 
+{NPC_ENTER:crazydave}{PLAYFUL:winnie}Location confirmed. The current location is Dr. Zomboss's mysterious laboratory.
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_4]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}哦, 你知道吗潘妮, 我还是想念我的后院, 是时候准备回去了. 
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Oh, you know what, Penny? I still miss my backyard. It's time to prepare to go back.
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_5]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [TEAM_PLANT]
-植物编队
+Plant Team
 
 [LEVEL_SCORE]
-关卡分数
+Level Score
 
 [ZOMBIE_DETAILS]
-僵尸详情
+Zombie Details
 
 [ENTRIES_DETAILS]
-词条详情
+Entry Details
 
 [INTEGRAL_NUM]
-积分 {NUM}
+Points {NUM}
 
 [NODE_ONE_SCORE]
-节点1: {NUM}
+Node 1: {NUM}
 
 [NODE_TWO_SCORE]
-节点2: {NUM}
+Node 2: {NUM}
 
 [GET_TARGET_SCORE]
-获得 {NUM} 分
+Achieve {NUM} points
 
 [LEVEL_PASS_TOGAL]
-通关目标
+Level Completion Goals
 
 [STAR_TOGAL]
-星数目标
+Star Objectives
 
 [SUGGEST_ATTRIBUTES]
-建议属性:
+Suggested Attributes:
 
 [PLANT_TEAM_NOT_ENOUGH]
-队伍植物未满
+Team Plants Not Full
 
 [PLANT_TEAM_FULL]
-队伍植物已满
+Team Plants Full
 
 [PLANT_WARS_LEADERBOARD]
-排行榜
+Leaderboard
 
 [PLANT_WARS_LEADERBOARD_BONUS]
-排行奖励
+Leaderboard Rewards
 
 [PLANT_WARS_STAR_REWARD]
-星数奖励
+Star Rewards
 
 [PLANT_WARS_CURRENT_SCORE]
-我的积分:  {NUMS}
+My Score: {NUMS}
 
 [PLANT_WARS_CURRENT_RANK]
-排名: {NUMS}
+Rank: {NUMS}
 
 [PLANT_WARS_CURRENT_HIGH_SCORE]
-本期最高: {NUMS}
+Highest Score This Period: {NUMS}
 
 [PLANT_WARS_LEADERBOARD_BONUS_RANK_DESC_0]
 0% ~ 5%
@@ -70532,39 +70530,39 @@ Survive using allied Zombotanies.
 [PLANT_WARS_LEADERBOARD_BONUS_RANK_DESC_4]
 51% ~ 100%
 
-
 [PLANT_WARS_FIRST_CARD_NOT_IMITATER]
-变身茄子不能放在队伍的第一位
+The Transform Eggplant cannot be placed in the first position of the team.
 
 [CUMULATIVE_OBTAIN]
-累计获得
+Cumulative Obtained
 
 [CUMULATIVE_SCORE_OBTAIN]
-累计获得积分
+Cumulative Score Obtained
 
 [ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_NEEDFORSPEED_202406]
-1、开启时间
+1. Opening Time
 
 [ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_NEEDFORSPEED_202406]
-本次秘境的时间为7月8号至8月16号. 
+The time for this secret realm is from July 8th to August 16th.
 
 [ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_NEEDFORSPEED_202406]
-2、普通关卡
+2. Normal Levels
 
 [ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_NEEDFORSPEED_202406]
-普通关卡在完成前一关卡后解锁. 
+Normal levels unlock after completing the previous level.
 
 [ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_NEEDFORSPEED_202406]
-3、困难关卡
+3. Hard Levels
 
 [ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_NEEDFORSPEED_202406]
-普通关卡全部通关后开放困难关卡, 消耗1把时空秘匙可解锁一关困难关卡, 困难关卡中禁用神器. 
+Hard levels unlock after clearing all normal levels. One Time-Space Key is required to unlock each hard level. Artifacts are disabled in hard levels.
 
 [ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_NEEDFORSPEED_202406]
-4、挑战目标
+4. Challenge Objectives
 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_NEEDFORSPEED_202406]
-每关困难关卡存在3个挑战目标, 完成后收集徽章, 兑换奖励. 
+Each hard level has three challenge objectives. Complete them to collect badges and exchange for rewards.
+
 
 [ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_NO42_UNIVERSE]
 1. Event Duration
@@ -73334,23 +73332,34 @@ ONLY buy this once! Maximum amount is 2,147,483,647
 Infinity Coins - Make sure your coins is <27,483,647 before buying this
 
 [HEALTH_NOTICE_CONTENT]
-^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
 
 [HEALTH_NOTICE_TITLE]
 Healthy Gaming Advice
 
 [HEALTH_NOTICE_CONTENT_2]
-^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
+This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A. Registration inquiry: https://beian.miit.gov.cn/
+Game Copyright Owner: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
+
 
 [HEALTH_NOTICE_CONTENT_3]
-^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
+This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
 
 [HEALTH_NOTICE_CONTENT_3_1]
-^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
+This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
 
 [HEALTH_NOTICE_CONTENT_4]
+Game Copyright Owner: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
 
 [HEALTH_NOTICE_CONTENT_5]
+Registration Inquiry: https://beian.miit.gov.cn/
+
 
 [PVZ2_CHINESE_END]
 [LOADING_1]
@@ -73483,5 +73492,36 @@ Healthy Gaming Advice
 
 [362_1_NOTICE_10]
 ^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_2_NOTICE_1]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_2_NOTICE_2]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_2_NOTICE_3]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_2_NOTICE_4]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_2_NOTICE_5]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_2_NOTICE_6]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_2_NOTICE_7]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_2_NOTICE_8]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_2_NOTICE_9]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
+[362_2_NOTICE_10]
+^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+
 
 [ENDURIAN_SKILL_LEVEL1]
