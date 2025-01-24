@@ -1,4 +1,4 @@
-﻿[ORIGINAL_TRANSLATION_MADE_BY_PEA_GAMEPLAY]
+[ORIGINAL_TRANSLATION_MADE_BY_PEA_GAMEPLAY]
 [COMPLAIN_CONTENT]
 Translated by Pea Gameplay (Original author) with some help from Nectarinna and evilhack28.
 
@@ -4664,41 +4664,6 @@ Bloomerang shoots boomerangs down his lane, dealing damage to up to 3 different 
 [STAR_CONVERT_SUCCESS]
 Congratulations! You got ^4FC148 {REWARD} ^oldclr^！
 
-[SPRING_TIPS_1]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ After you unlock a world, you will need more stars to unlock the next.
-
-[SPRING_TIPS_2]
-^00FF08 This is a fan-made translation so it can't be avoided from having mistakes.
-^00FF08 You can send feedback or report a bug by sending email to nvdtn19forwork@gmail.com
-
-[SPRING_TIPS_3]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ Penny's Shop offers different plant pieces every day, visit it often.
-
-[SPRING_TIPS_4]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ You get a free chest in Penny's Treasure from time to time!
-
-[SPRING_TIPS_5]
-^00FF08^ If you encounter any bugs, such as text displays as "<MISSING" or find inaccurate translations,
-^00FF08 please report them to me by sending email to nvdtn19forwork@gmail.com
-
-[SPRING_TIPS_6]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ Each use of Tactical Cuke will be more powerful than the last, but also more expensive.
-
-[SPRING_TIPS_7]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ Visit the Plant Inventory to check if any plants that needs to be unlocked or upgraded!
-
-[SPRING_TIPS_8]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ Earn stars to get more plants and enhanced rewards.
-
-[SPRING_TIPS_9]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ You can get culture medium for upgrading plants to level 5 in the Endless Challenge and Creative Courtyard shops.
 
 [ADVICE_PLANT_NOT_ON_SARRACENIA_FOSSIL]
 You can't plant on petrified zombies.
@@ -6925,9 +6890,6 @@ Delete
 
 [MAINMENU_NEW_PROFILE]
 新建存档
-
-[MAINMENU_PLAY]
-PLAY
 
 [MAINMENU_SAVE]
 SAVE
@@ -10792,8 +10754,6 @@ Waiting for Data Syncing
 [SYNCING_WAITING_TEXT]
 Waiting for data syncing, please make sure that your internet connection is stable.
 
-[NET_CONNECTING]
-Connecting to Server...
 
 [NET_CONNECTING_DOWNLOAD]
 Loading Level...
@@ -73333,6 +73293,12 @@ ONLY buy this once! Maximum amount is 2,147,483,647
 [INFINITY_COINS_DESC]
 Infinity Coins - Make sure your coins is <27,483,647 before buying this
 
+[MAINMENU_PLAY]
+Please update now
+
+[NET_CONNECTING]
+Please update now
+
 [HEALTH_NOTICE_CONTENT]
 ^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
@@ -73353,47 +73319,77 @@ Healthy Gaming Advice
 [HEALTH_NOTICE_CONTENT_5]
 
 [PVZ2_CHINESE_END]
+
+
+[SPRING_TIPS_1]
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
+
+[SPRING_TIPS_2]
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
+
+[SPRING_TIPS_3]
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
+
+[SPRING_TIPS_4]
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
+
+[SPRING_TIPS_5]
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
+
+[SPRING_TIPS_6]
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
+
+[SPRING_TIPS_7]
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
+
+[SPRING_TIPS_8]
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
+
+[SPRING_TIPS_9]
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
+
 [LOADING_1]
-^00FF08^ English Patch Plus features: You have a turbo button that allows you to speed up the game in a level.
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [LOADING_2]
-^00FF08^ English Patch Plus features: Added Mower Launch and Instant Recharge upgrades (You can get it in Star Exchange)
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [LOADING_3]
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 
 [LOADING_4]
-^00FF08^ English Patch Plus features: You could have the Octopus Artifact for free. Beat it's demo level to get it.  
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [LOADING_5]
-^00FF08^ English Patch Plus features: You can use all plants in the Memory Lane mode.  
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [LOADING_6]
-^00FF08^ English Patch Plus features: You can get up to 20000 crystal/week after beating an adventure level.
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [LOADING_7]
-^00FF08^ English Patch Plus features: Ported some extra fonts from the international version!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [LOADING_8]
-^00FF08^ English Patch Plus features: Auto Collecting Sun, Plant Food and Coins!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [LOADING_9]
-^00FF08^ English Patch Plus features: You have a locally VIP Profile Picture!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [LOADING_10]
-^00FF08^ English Patch Plus features: Plant Food and Sun now costs coins!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [LOADING_11]
-^00FF08^ English Patch Plus features: Some quests are automatically completed for you!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [LOADING_12]
-^00FF08^ English Patch Plus features: Unlocking New World with 1 stars!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [LOADING_13]
-^00FF08^ English Patch Plus features: The amount of star required for unlocking items in Star Exchange are now cheaper!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [LOADING_14]
-^00FF08^ English Patch Plus features: Some improvements to Daily Challenge!
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 [360_1_NOTICE_1]
 ^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
@@ -73455,33 +73451,33 @@ Healthy Gaming Advice
 ^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [362_1_NOTICE_1]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [362_1_NOTICE_2]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [362_1_NOTICE_3]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [362_1_NOTICE_4]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [362_1_NOTICE_5]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [362_1_NOTICE_6]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [362_1_NOTICE_7]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [362_1_NOTICE_8]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [362_1_NOTICE_9]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [362_1_NOTICE_10]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^00FF08^ A new update for the game as well as the translation patch have been released (3.6.2-2), with some bug fixes and improvements. Update now as soon as possible! Also fixed an issues where turbo button and auto collecting sun is not working.
 
 [ENDURIAN_SKILL_LEVEL1]
