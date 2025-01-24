@@ -12437,10 +12437,10 @@ Higher difficulties bring greater rewards.
 Easy
 
 [FESTIVALGAMELEVEL_HARD_TITLE]
-Medium
+Hard
 
 [FESTIVALGAMELEVEL_LEGEND_TITLE]
-Hard
+Extreme
 
 [FESTIVALGAMELEVEL_PLANTPIECE_REWARD]
 Reward: ^FFFF00 plant puzzle pieces
@@ -18421,7 +18421,7 @@ d
 资源争夺战
 
 [PVP_MENU_CONSUME]
-消耗
+Consume
 
 [PVP_MENU_KAIQI]
 开启
@@ -71945,7 +71945,7 @@ Event Ended
 活动说明
 
 [MINIGAME_COLLECTION_SHORT_DESCRIPTION]
-参与趣味竞赛小游戏, 领取丰厚奖励！
+ Participate in fun competition games and receive generous rewards! 
 
 [MINIGAME_COLLECTION_UNLOCK_DESC]
 当前关卡未解锁
