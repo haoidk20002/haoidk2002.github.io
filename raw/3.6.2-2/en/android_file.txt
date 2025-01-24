@@ -14238,7 +14238,7 @@ Reach level %d to unlock.
 The zombies here are Level {ZOMBIE_LEVEL}. It's recommend to choose Level {PLANT_LEVEL} plants. Are you sure want to continue?
  
 [FILTER_WARNING]
-The name you entered contains sensitive characters, please re-enter it.
+The name you entered contains banned characters, please re-enter it.
 
 [NOTICE_CONTENT_IOS]
 亲爱的玩家：
@@ -16737,195 +16737,195 @@ Group Purchasing
 4. Plants purchased in the group buy are 3rd or 2nd-tier plants. In the presence of the same plant, it converts to equivalent-level plant fragments. Costumes are converted to Costume fragments if duplicates exist.
 
 [REDPACK_TITLE]
-全民开红包，好礼来相送! 
+Everyone opens red envelopes, great gifts are here!
 
 [DUMPLING_TITLE]
-缤纷端午 幸运粽子
+Colorful Dragon Boat Festival, lucky rice dumplings
 
 [FESTIVAL_EVENT_TITLE_OLD]
-金秋出游
+Golden Autumn Travel
 
 [FESTIVAL_EVENT_TITLE]
 Event
 
 [REDPACK_DESCRIPTION_TITLE]
-双旦开扭蛋说明标题
+Double Festival Gacha Explanation Title
 
 [REDPACK_DESCRIPTION]
-双旦开扭蛋说明内容
+Double Festival Gacha Explanation Content
 
 [WELFARE_EVENT_TITLE]
-限时活动
+Limited Time Event
 
 [DAILY_SIGN_EVENT_TITLE]
-签到送好礼
+Sign in for great gifts
 
 [EXP_PLANT_EVENT_TITLE]
-体验卡
+Experience Card
 
 [EXP_PLANT_BUY_REWARD_TITLE]
-获得奖励
+Receive Rewards
 
 [EXP_PLANT_VIEW_OK]
 OK
 
 [EXP_PLANT_ALREADY_BOUGHT_TITLE]
-已购买
+Already Purchased
 
 [EXP_PLANT_ALREADY_BOUGHT_TEXT]
-您已购买过一次此植物的体验卡
+You have already purchased this plant's experience card once.
 
 [REDPACK_NUM_DESC]
-已购买红包
+Purchased Red Envelopes
 
 [REDPACK_ACTIVE_TIME]
-活动时间：腊月二十五起至正月初六(2/13-2/24)
+Event Duration: From the 25th day of the twelfth month to the 6th day of the first month (2/13-2/24)
 
 [REDPACK_OPEN_TOTAL]
-您已累计开启红包 {REDPACK_COUNT}
+You have opened a total of {REDPACK_COUNT} red envelopes
 
 [REDPACK_NOT_ENOUGH]
-红包数量不足，是否需要购买红包？
+Insufficient number of red envelopes, do you want to buy more?
 
 [REDPACK_BTN_BUY]
-购买红包
+Buy Red Envelopes
 
 [REDPACK_LEADERBOARD]
-富豪榜
+Wealthy List
 
 [REDPACK_DESC]
-春节限定植物，稀有橙色植物等你拿! 
+Limited edition plants for the Spring Festival, rare orange plants are waiting for you!
 
 [REDPACK_LEADERBOARD_RANK]
-排名
+Rank
 
 [REDPACK_LEADERBOARD_NAME]
-玩家
+Player
 
 [REDPACK_LEADERBOARD_SCORE]
-已开红包
+Opened Red Envelopes
 
 [REDPACK_LEADERBOARD_BACK]
-我再想想
+Let me think again
 
 [REDPACK_LEADERBOARD_PREVIEW]
-查看奖励
+View Rewards
 
 [REDPACK_LEADERBOARD_GET]
-领取奖励
+Claim Rewards
 
 [REDPACK_LEADERBOARD_PRIZE_GOT]
-您获得了
+You have received
 
 [REDPACK_LEADERBOARD_PRIZE_GOT_TITLE]
-奖励列表
+Reward List
 
 [REDPACK_LEADERBOARD_PRIZE_DESC]
-打开红包可获得春节^FF0000 限时植物^oldclr -^528000 Landlord Bamboo, ^oldclr以及海滩新植物和^FF0000 全新植物挂件! ^oldclr
-在正月初六(2.24)前开红包还可参与富豪榜竞选并获得奖励: 
-第1名                 Sap-fling投手碎片*90 四阶挂件Super Powder keg 四阶挂件Yellow Ducky Tube
-第2名                Sap-fling投手碎片*80 四阶挂件Super Powder keg 四阶挂件Yellow Ducky Tube
-第3名                Sap-fling投手碎片*70 四阶挂件Super Powder keg 四阶挂件Yellow Ducky Tube
-第4~10名          Sap-fling投手碎片*60 四阶挂件Super Powder keg 四阶挂件Yellow Ducky Tube
-第11~50名        Sap-fling投手碎片*50 三阶挂件高能火药桶
-第51~100名      Sap-fling投手碎片*40 三阶挂件高能火药桶
-第101~200名    Sap-fling投手碎片*30 三阶挂件高能火药桶
-第201~500名   Sap-fling投手碎片*20 三阶挂件高能火药桶
-第501~1000名  Sap-fling投手碎片*10 三阶挂件高能火药桶
+Opening red envelopes can get you limited-time Spring Festival ^FF0000 plants^oldclr - ^528000 Landlord Bamboo, ^oldclr as well as new beach plants and ^FF0000 new plant ornaments! ^oldclr
+Open red envelopes before the 6th day of the first month (2.24) to participate in the Wealthy List competition and receive rewards:
+1st Place: Sap-fling thrower fragments *90, Fourth-tier ornament Super Powder keg, Fourth-tier ornament Yellow Ducky Tube
+2nd Place: Sap-fling thrower fragments *80, Fourth-tier ornament Super Powder keg, Fourth-tier ornament Yellow Ducky Tube
+3rd Place: Sap-fling thrower fragments *70, Fourth-tier ornament Super Powder keg, Fourth-tier ornament Yellow Ducky Tube
+4th to 10th Place: Sap-fling thrower fragments *60, Fourth-tier ornament Super Powder keg, Fourth-tier ornament Yellow Ducky Tube
+11th to 50th Place: Sap-fling thrower fragments *50, Third-tier ornament High-Energy Powder Keg
+51st to 100th Place: Sap-fling thrower fragments *40, Third-tier ornament High-Energy Powder Keg
+101st to 200th Place: Sap-fling thrower fragments *30, Third-tier ornament High-Energy Powder Keg
+201st to 500th Place: Sap-fling thrower fragments *20, Third-tier ornament High-Energy Powder Keg
+501st to 1000th Place: Sap-fling thrower fragments *10, Third-tier ornament High-Energy Powder Keg
 
 [REDPACK_OPEN]
-欢乐开扭蛋
+Joyful Gacha Opening
 
 [REDPACK_DESCRIPTION_TITLE]
-欢乐开扭蛋说明标题
+Joyful Gacha Opening Explanation Title
 
 [REDPACK_DESCRIPTION]
-欢乐开扭蛋说明内容
+Joyful Gacha Opening Explanation Content
 
 [REDPACK_BUY]
-再来几个
+Get a few more
 
 [REDPACK_CLICK_OPEN]
-点击打开
+Click to Open
 
 [REDPACK_PURCHASE_SUCCESS]
-获得红包x{REDPACK_COUNT}
+You have received red envelopes x{REDPACK_COUNT}
 
 [LANTERN_RIDDLES_NEXT]
-下一题
+Next Question
 
 [LANTERN_RIDDLES_DESC]
-今日奖励：
+Today's Reward:
 
 [LANTERN_RIDDLES_TITLE]
-灯谜猜猜猜
+Guess the Lantern Riddles
 
 [LANTERN_RIDDLES_FINISH_TODAY]
-已完成
+Completed
 
 [LANTERN_RIDDLES_DAY]
-第{DAY}天
+Day {DAY}
 
 [LANTERN_RIDDLES_NUM_0]
-题目一
+Question One
 
 [LANTERN_RIDDLES_NUM_1]
-题目二
+Question Two
 
 [LANTERN_RIDDLES_NUM_2]
-题目三
+Question Three
 
 [LANTERN_RIDDLES_NUM_3]
-题目四
+Question Four
 
 [LANTERN_RIDDLES_NUM_4]
-题目五
+Question Five
 
 [LANTERN_RIDDLES_DAY_1]
-累计答题一天奖励
+Cumulative Answering One Day Reward
 
 [LANTERN_RIDDLES_DAY_3]
-累计答题三天奖励
+Cumulative Answering Three Days Reward
 
 [LANTERN_RIDDLES_DAY_6]
-累计答题六天奖励
+Cumulative Answering Six Days Reward
 
 [LANTERN_RIDDLES_DAY_10]
-累计答题十天奖励
+Cumulative Answering Ten Days Reward
 
 [LANTERN_RIDDLES_DAY_16]
-累计答题十六天奖励
+Cumulative Answering Sixteen Days Reward
 
 [LANTERN_RIDDLES_PRIZE]
-恭喜获得
+Congratulations! You have received
 
 [LANTERN_RIDDLES_SPECIAL_PRIZE_DESC]
-答对所有灯谜即可获得新年植物
+Answer all lantern riddles correctly to receive the New Year plant
 
 [LANTERN_RIDDLES_SPECIAL_PRIZE_GET]
-恭喜获得新年植物
+Congratulations! You have received the New Year plant
 
 [LANTERN_RIDDLES_ANSWERED]
-今日已答
+Answered Today
 
 [LANTERN_RIDDLES_RESULT]
-您已答完所有题目，共答对{CORRECT_COUNT}个，答错{WRONG_COUNT}个
-恭喜，获得{REDPACK_COUNT}个红包! 
+You have answered all questions, with {CORRECT_COUNT} correct and {WRONG_COUNT} wrong.
+Congratulations, you have received {REDPACK_COUNT} red envelopes!
 
 [LANTERN_RIDDLES_TOTAL]
-已答{DAY_GUESS}天，正确率{CORRECT_COUNT}%，错过{DAY_MISSED}天
+Answered for {DAY_GUESS} days, accuracy rate {CORRECT_COUNT}%, missed {DAY_MISSED} days
 
 [LANTERN_RIDDLES_CHEAT]
-求助小豌豌
+Ask for help from Little Pea
 
 [LANTERN_RIDDLES_EXTRA]
-补答
+Supplemental Answer
 
 [LANTERN_RIDDLES_BACK]
-返回答题
+Return to Answering
 
 [LANTERN_RIDDLES_RED_PACK]
-去开红包
+Go Open Red Envelopes
 
 [LANTERN_RIDDLES_0]
 Sunflower在能量豆的激发下，每次可以产生多少阳光？
@@ -19170,8 +19170,8 @@ All hard mode levels in this world must be completed to unlock!
 邪恶戴夫 {SON}/{MON}
 
 [EVIL_DAVID_CD_TIME]
-剩余 {TIME}
-
+ {TIME} remaining 
+ 
 [KILL_ALL_ZOMBIE]
 Defeat the zombies!
 
@@ -19272,63 +19272,64 @@ Complete Ancient Egypt to unlock Universe
 Warning: New zombie! 
 
 [BOARD_ALMANAC_RECOMMEND_PLANT]
-Recommend plant
+Recommend plants
 
 [LOTTERY_RESULT_PIECE_OWNED]
-当前拥有：{NAME}碎片 ^00FF00 {NUMBER} ^oldclr 个
+Currently owned: {NAME} fragments ^00FF00 {NUMBER} ^oldclr pieces
 
 [SUMMERY_LOTTERY_NET_ERROR]
-网络连接失败，请保持在良好的联网状态下抽奖。
-(联网失败时，抽奖道具不会被扣除)
+Network connection failed, please ensure you are in a good network state to draw lots.
+(When the network fails, lottery items will not be deducted)
 
 [SUMMERY_LOTTERY_LACK_MATERIAL]
-{ITEM}数量不足,请获得足够的数量后再试用。
+Insufficient quantity of {ITEM}, please obtain enough quantity before trying again.
 
 [SUMMERY_LOTTERY_UNKONW_BONUS]
-奖励无法识别。
+Reward cannot be recognized.
 
 [GET_CRYSTAL]
-获得{ITEM}
+Acquired {ITEM}
 
 [MAT_COIN_FIRE]
-炎晶
+Fire Crystal
 
 [MAT_COIN_ICE]
-冰晶
+Ice Crystal
 
 [MAT_EVOLUTION_FIREFLOWER]
-赤焰稀土
+Scarlet Flame Rare Earth
 
 [MAT_MEDAL]
-宝石
+Gem
 
 [MAT_REDPACKET_GOLD]
-宝开通宝
+Gold from the Red Packet
 
 [MAT_FESTIVAL_CURRENCY]
-新春碎片
+Spring Festival Fragment
 
 [MAT_REDPACKET_S]
-小红包
+Small Red Packet
 
 [MAT_REDPACKET_B]
-大红包
+Large Red Packet
+
 
 [MAT_NUTRIENT_0]
-5阶白色培养液
-
+ Level 5 white culture medium 
+ 
 [MAT_NUTRIENT_1]
-5阶绿色培养液
-
+Level 5 Green Culture Medium 
+ 
 [MAT_NUTRIENT_2]
-5阶蓝色培养液
+Level 5 Blue Culture Medium 
 
 [MAT_NUTRIENT_3]
-5阶紫色培养液
-
+Level 5 Purple Culture Medium 
+ 
 [MAT_NUTRIENT_4]
-5阶橙色培养液
-
+Level 5 Orange Culture Medium 
+ 
 [NORMAL_LOGIN_CHEST]
 Normal Chest
 
@@ -19390,7 +19391,7 @@ Legendary Chest
 购买10个送2个
 
 [CRYSTAL_COUNT]
-{NUMBER}个
+{NUMBER}
 
 [BUY_GOLD_A_MAT_MEDAL]
 一颗宝石
@@ -19412,10 +19413,10 @@ Legendary Chest
 (联网失败时，{ITEM}不会被扣除)
 
 [CHALLENGE_BONUS]
-挑战奖励
+Rewards
 
 [CHRISTMAS_CHARGE_BONUS]
-充值送大礼
+Purchase to get a gift 
 
 [OPPO_CHARGE_BONUS]
 新手充值礼
@@ -19436,7 +19437,7 @@ Legendary Chest
 很遗憾, 您在上一周的活动中未能获得成绩, 无法获得奖励, 请记得积极参加活动哟。
 
 [PERCENT]
-前{NUM}%
+{NUM}%
 
 [STEAM_FINALE_NAME]
 Steam Age - Ultimate Challenge 
@@ -24759,34 +24760,34 @@ Gems
 限购 ^FF0000 {NUMBER} ^oldclr 次
 
 [PLANTBUNDLE_EXPIRE_TIME]
-活动倒计时：
+Expire in:
 
 [PLANTBUNDLE_DESCRIPTION]
-每天都有不同橙色植物套餐等你抢购! 
-
+ There are different orange plant packages waiting for you to buy every day! 
+ 
 [PLANTBUNDLE_ACTIVITY_DATA_LOST]
-活动配置丢失
-
+Activity configuration lost 
+ 
 [PLANTBUNDLE_ACTIVITY_CLOSED]
-活动未开启
-
+The activity is not started 
+ 
 [PLANTBUNDLE_ACTIVITY_EMPTY_CONFIG]
-活动配置为空
-
+Activity configuration is empty 
+ 
 [PLANTBUNDLE_ACTIVITY_DATA_ERROR]
-活动配置出错
-
+Activity configuration error 
+ 
 [PLANTBUNDLE_PURCHASE_SUCCESS_TITLE]
-购买成功
-
+Purchase successful 
+ 
 [PLANTBUNDLE_PURCHASE_SUCCESS_DES]
-购买成功，物品已发放
-
+Purchase successful, item has been delivered 
+ 
 [PLANTBUNDLE_PLANT_PIECE_DES]
-植物碎片
+Plant pieces
 
 [PLANTBUNDLE_AVATAR_PIECE_DES]
-植物 Costume Piece
+Plant Costume Piece
 
 [DAVECLUB_ACTIVITY_10651]
 消耗钻石抽奖
@@ -24933,7 +24934,7 @@ Coins
 圣诞兑换碎片
 
 [MAT_SECRET_GACHA_TICKET]
-潘妮秘宝单抽券
+Penny Lottery Ticket
 
 [MAT_MYSTERY_CRYSTAL]
 神秘水晶
@@ -26166,39 +26167,39 @@ Spend
 第{NUM}个
 
 [LUCKBAG_SELECT]
-已选择
-
+Selected 
+ 
 [LUCKBAG_TICKET]
-用券购买
-
+Purchase with coupons 
+ 
 [LUCKBAG_TICKET_BUY]
-确认使用福袋券购买福袋？
-
+Confirm to use lucky bag coupon to purchase lucky bag? 
+ 
 [THEATER_SHOP_TITLE]
-剧院道具屋
-
+Theater prop house 
+ 
 [THEATER_REFRESH_CURRENCY]
-硬币刷新
-
+Coin refresh 
+ 
 [THEATER_REFRESH_ADS]
-看广告刷新
-
+ Watch ad and refresh 
+ 
 [THEATER_REFRESH_CURRENCY_CONFIRM]
-确定花费1硬币刷新商店？
-
+ Are you sure you want to spend 1 coin to refresh the store? 
+ 
 [REFRESH_CURRENCY_CONFIRM]
-确定花费{NUMS}代币刷新商店？
-
+ Are you sure you want to spend {NUMS} tokens to refresh the store? 
+ 
 [REFRESH_CURRENCY_CONFIRM_AD]
-确定花费{NUMS}代币或 ^FF0000 观看1次广告 ^oldclr 刷新商店（剩余{LEFT}次）？
+Are you sure you want to spend {NUMS} tokens or ^FF0000 watching an ad ^oldclr to refresh the store ({LEFT} times remaining)? 
 
 [DAILY_SIGN_CONFIRM_AD]
-^FF0000 Watch 1 ad ^oldclr to earn more 1 rewards?
+^FF0000 Watch an ad ^oldclr to earn more rewards?
 
 [THEATER_PACKETS_DESCRIPTION]
-购买^FFFF00 1000 ^oldclr 金币赠送^FFFF00 1 ^oldclr 电力豆
-电力豆可用于文艺大剧院，触发事件获得^ef7600 橙色植物 ^oldclr 与稀有道具
-
+ Buy ^FFFF00 1000 ^oldclr gold coins and get ^FFFF00 1 ^oldclr power bean for free 
+Power beans can be used in the Literary Theater. Triggering an event will give you ^ef7600 orange plants ^oldclr and rare items 
+ 
 [WINNETREASURE_AVATAR]
 Costume
 
@@ -26384,75 +26385,74 @@ Coins
 Pendant pieces
 
 [LOTTERY_CUP]
-奖杯
+Trophy
 
 [LIMITEDGACHA_LEGENDPLANTS_LEVEL2]
-2阶橙色植物碎片
+Level 2 Orange Plant Pieces
 
 [LIMITEDGACHA_LEGENDPLANTS]
-橙色植物
+Orange Plant
 
 [LIMITEDGACHA_LEGENDPLANTS_PIECE]
-橙色植物碎片
+Orange Plant Piece
 
 [LIMITEDGACHA_EPICPLANTS]
-紫色植物
+Purple Plant
 
 [LIMITEDGACHA_EPICPLANTS_PIECE]
-紫色植物碎片
+Purple Plant Piece
 
 [LIMITEDGACHA_BLUEPLANTS]
-蓝色及绿色植物
+Blue and Green Plants
 
 [LIMITEDGACHA_BLUEPLANTS_PIECE]
-蓝色及绿色植物碎片
+Blue and Green Plant Piece
 
 [CHRISTMAS2018_LOTTERY_PIECE]
-植物碎片
+Plant Piece
 
 [CHRISTMAS2018_LOTTERY_PENDANT]
-挂件碎片
+Pendant Piece
 
 [LIMITEDGACHA_PROBABILITY]
-限时宝物概率公示
+Limited-time Treasure Probability Announcement
 
 [LIMITEDLOTTERY_PROBABILITY]
-限时转盘概率公示
+Limited-time Wheel Probability Announcement
 
 [FESTIVAL_REDPACK_VIP_LABEL]
-超级特权专属
+Super Privilege Exclusive
 
 [FESTIVAL_REDPACK_NOTICE]
-活动内容：每日可免费开启三个红包，第四个红包可花费
-钻石开启，第五个红包超级特权免费开启
-活动还剩：{TIME}
+Event Content: You can open three red packets for free daily. The fourth red packet can be opened for gems, and the fifth red packet is free for super privileges.
+Time remaining for the event: {TIME}
 
 [SHOP_BUY_ERROR]
-购买出错
+Purchase Error
 
 [SHOP_SOLD_OUT]
-没有限购次数
+No purchase limit available
 
 [SHOP_NOT_ENOUGH_CURRENCY]
-没有足够的货币
+Not enough currency
 
 [SHOP_CLOSED]
-商店关闭
+Shop Closed
 
 [SHOP_UNKNOW_ERROR]
-交易未成功，请稍后再试
+Transaction failed, please try again later
 
 [SHOP_BUY_TITLE]
-购买提示
+Purchase Prompt
 
 [SHOP_BUY_INFO]
-您将购买{ITEM}x{NUM}
+You will purchase {ITEM}x{NUM} 
 
 [NOT_IN_OPEN_CONDITION]
-不满足开启条件
+ Unable to meet the opening conditions
 
 [PIGGY_BANK_LOGIN_TEXT]
-累计登录{DAY}天可领取
+Login in {DAY} days
 
 [FESTIVAL2019_REDPACLET_TITLE]
 红包概率公示
@@ -26888,13 +26888,12 @@ Battery Bundle
 
 [ARBORDAY_BUY_BUNDLE_CONFIRM]
 Would you like to spend {NUM} gems to purchase the bundle?
- 
+
 [ARBORDAY_PLANTTREE]
-预计植树：^FFFF00 {NUM} ^oldclr 棵
+Expected trees to be planted: ^FFFF00 {NUM} ^oldclr trees
 
 [ARBORDAY_PROCESS]
-全服进度：^FFFF00 {NUM} ^oldclr 次
-
+Server-wide progress: ^FFFF00 {NUM} ^oldclr times
 [ARBORDAY_NEXT_HARVEST]
 It needs to be charged ^FFFF00 {NUM} ^oldclr times before the next activation.
 
@@ -26920,77 +26919,74 @@ You got {NUM} {NAME}
 Battery
 
 [ARBORDAY_FULL]
-奖励已满，请先领取奖励
+Rewards are full, please claim your rewards first.
 
 [ARBORDAY_DESCRIPTION_TITLE]
-时空寻宝说明
+Time-Space Treasure Hunt Instructions
 
 [ARBORDAY_DESCRIPTION]
-活动内容：
+Each time you consume three batteries, you can open a treasure chest once, receiving a large amount of plant pieces, gems, coins, and other rewards. The list of possible rewards includes: ^FF8000^Artifact Blessing Ticket- Zoybean Pod - Hat Mushroom^oldclr^ ^8600FF^Nightshade - Missile Toe^oldclr^ ^2828FF^Primal Wall-nut - Asparagus - Strong Broccoli^oldclr^ ^82D900^Threepeater -  Explode-O-Nut - Dendrobium Windbreak ^oldclr^
 
-1.每消耗三个电池可以开启宝箱一次，获得大量植物碎片,钻石,金币等奖励，可获得的奖励列表: ^FF8000^神器祝福券 僵尸豆荚 疯帽菇^oldclr^ ^8600FF^夜影龙葵 槲寄冰仙子^oldclr^ ^2828FF^原始坚果 芦笋战机 大力花菜^oldclr^ ^82D900^三重射手 爆炸坚果 石斛防风网^oldclr^
+2. Batteries can be obtained through charging tasks or by purchasing diamond gift packs.
 
-2.通过充能任务可以获得电池，亦可通过钻石礼包获得。
-
-3.每消耗一个电池都会累计个人和全服的充能进度，根据个人进度和全服进度可领取奖励！
+3. Each time you consume a battery, it will accumulate personal and server-wide charging progress. Rewards can be claimed based on personal and server progress!
 
 [NEWYEAR_GOODS_DESCRIPTION_TITLE]
-超级自选活动说明
+Super Selected Event Instructions
 
 [NEWYEAR_GOODS_DESCRIPTION]
-活动规则:
-1、礼盒内预置了许多物品，玩家可自己选择若干奖励放入栏位内。购买选好内容的礼包后可以获得对应物品。
-2、每个礼包每日限购一次。
-3、礼包共有6个档位，每个档位包含的内容不同。
-4、礼包共有6个档位，每个档位包含的内容不同。
+Event Rules:
+1. The gift box is preloaded with many items, and players can choose several rewards to place in their slots. After purchasing the selected gift pack, you can receive the corresponding items.
+2. Each gift pack can only be purchased once per day.
+3. There are 6 tiers of gift packs, each containing different items.
 
 [PRODUCT_NEWYEARGOODS_6_SHORTDESC]
-超级自选小号礼包
+Super Selected Small Gift Pack
 
 [PRODUCT_NEWYEARGOODS_30_SHORTDESC]
-超级自选中号礼包
+Super Selected Medium Gift Pack
 
 [PRODUCT_NEWYEARGOODS_68_SHORTDESC]
-超级自选大号礼包
+Super Selected Large Gift Pack
 
 [PRODUCT_NEWYEARGOODS_128_SHORTDESC]
-超级自选特大礼包
+Super Selected Extra Large Gift Pack
 
 [PRODUCT_NEWYEARGOODS_328_SHORTDESC]
-超级自选巨大礼包
+Super Selected Huge Gift Pack
 
 [PRODUCT_NEWYEARGOODS_648_SHORTDESC]
-超级自选超大礼包
+Super Selected Super Large Gift Pack
 
 [NEWYEAR_GOODS]
-超级自选
+Super Selected
 
 [NEWYEAR_GOODS_BUNDLE]
-{NUM}元自选礼包
+{NUM} Yuan Selected Gift Pack
 
 [NEWYEAR_GOODS_SELECTED]
-已选中礼包内容
+Selected gift pack contents
 
 [NEWYEAR_GOODS_NOT_SELECT_ALL]
-每个位置都要选择哦! 
+You must select for each position!
 
 [MAT_GENE_FACTOR]
-基因原质
+Gene Element
 
 [MAT_GENE_FACTOR_USE]
-用来在基因编辑中提炼基因序列
+Used to refine gene sequences in gene editing
 
 [MAT_GENE_FACTOR_GOT_WAY]
-购买基因礼包、双人对决段位奖励
+Purchase gene gift packs, rewards from dual-player duel ranks
 
 [MAT_UNIVERAL_GENE_SEQUENCE]
-万能基因币
+Universal Gene Coin
 
 [MAT_UNIVERAL_GENE_SEQUENCE_USE]
-用来在基因编辑的基因序列商店中兑换
+Used to exchange in the gene sequence shop for gene editing
 
 [MAT_UNIVERAL_GENE_SEQUENCE_GOT_WAY]
-购买基因礼包
+Purchase gene gift packs
 
 [WHITE]
 White
@@ -32693,13 +32689,13 @@ round
 酸液神器礼包
 
 [ARBORDAY_PROGRESS_REWARD]
-进度奖励
+Progress Reward
 
 [ARBORDAY_PLAYER_PROGRESS_DESC]
-个人进度：^FFFF00 {NUMS} ^oldclr 次
+Personal Progress: ^FFFF00 {NUMS} ^oldclr times
 
 [ARBORDAY_SERVER_PROGRESS_DESC]
-全服进度：^FFFF00 {NUMS} ^oldclr 次
+Server Progress: ^FFFF00 {NUMS} ^oldclr times
 
 [ARBORDAY_PRESENT_PRICE_DESC]
 {NUMS}
@@ -33064,10 +33060,10 @@ Normal Coins
 Hard Coins
 
 [MAT_NO42_UNIVERSE_BASIC_SUN1]
-Enhanced Sunlight
+Sun Boost
 
 [MAT_NO42_UNIVERSE_BASIC_SUN2]
-Enhanced Sunlight
+Sun Boost
 
 [PLAYERS_TRIP_TO_SPECIAL]
 {PLAYER}'s Trip to Parkour Party!
@@ -35331,10 +35327,10 @@ Blue Plant Fragment ×2: 16.66% | Green Plant Fragment ×5: 24.99%
 5. The Cornucopia produces free Lucky Coins at intervals. Collect all available rewards by tapping any bubble. The higher the Cornucopia level, the faster it produces Lucky Coins. The interface can store up to 5 bubbles; no new bubbles will generate until the current ones are collected.
 6. Use Exchange Emblems obtained from draws to redeem rewards like upgrade books and plant fragments in the exchange shop. Different items have different purchase limits and prices; some require a specific Cornucopia level to unlock. Exchange Emblems are valid only for the current event and cannot be carried over to the next. Use them promptly.
 7. Each Cornucopia draw contributes to the server-wide prize pool. The initial pool is 10,000 Gems. For every 10 draws, the pool increases by 1 Gem. At the end of the event, the prize pool is distributed based on leaderboard rankings:
-Top 1–50: 0.5% of the total pool per player (requires at least 200 draws)
-Top 51–150: 0.25% per player (requires at least 160 draws)
-Top 151–300: 0.2% per player (requires at least 120 draws)
-Top 301–500: 0.1% per player (requires at least 80 draws)
+Top 1-50: 0.5% of the total pool per player (requires at least 200 draws)
+Top 51-150: 0.25% per player (requires at least 160 draws)
+Top 151-300: 0.2% per player (requires at least 120 draws)
+Top 301-500: 0.1% per player (requires at least 80 draws)
 (A minimum number of draws is required to qualify for the leaderboard.)
 
 [CORNUCOPIA_PROGRESS_TIPS_INFO]
@@ -35443,25 +35439,25 @@ Advanced Lucky Pack
 Super Lucky Pack
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_1]
-Rank 1–50: Gems ×{NUM}
+Rank 1-50: Gems ×{NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_1]
 Players in this range receive ^08FF20^0.5%^oldclr^ of the total prize pool each (requires at least 200 draws).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_2]
-Rank 51–150: Gems ×{NUM}
+Rank 51-150: Gems ×{NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_2]
 Players in this range receive ^08FF20^0.25%^oldclr^ of the total prize pool each (requires at least 160 draws).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_3]
-Rank 151–300: Gems ×{NUM}
+Rank 151-300: Gems ×{NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_3]
 Players in this range receive ^08FF20^0.2%^oldclr^ of the total prize pool each (requires at least 120 draws).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_4]
-Rank 301–500: Gems ×{NUM}
+Rank 301-500: Gems ×{NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_4]
 Players in this range receive ^08FF20^0.1%^oldclr^ of the total prize pool each (requires at least 80 draws).
@@ -36393,7 +36389,7 @@ Enter an invitation code
 Not eligible to enter
 
 [INVATATION_DEFAULT_TEXT3]
-Already linked
+Already entered
 
 [INVATATION_TAB1_TEXT1]
 Share now
@@ -36495,11 +36491,10 @@ Plant Cultivation Limited Gift Pack
 1. The event period is from January 21, 2025, to March 16, 2025.  
 2. Players can be recruited upon completing Ancient Egypt day 6.
 3. During the event, tokens can be earned through recruitment tasks or daily sharing. Tokens can be used in the recruitment lottery to win generous rewards.  
-   After the event ends, the store will close, and any unused tokens will be cleared and recycled.  
-4. Recruitment rules:  
-   Recruited players must meet one of the following conditions:  
-   1. A new account created during the event period and has completed Ancient Egypt day 6. 
-   2. The account has been inactive for over 30 days since the last login.  
+   After the event ends, the store will close, and any unused tokens will be recycled.  
+4. Recruited players must meet one of the following conditions:  
+   1. A new account created during the event period and has cleared Ancient Egypt day 6. 
+   2. Your account is 30 days old.  
    (Each eligible player can only be recruited once per event period.)  
    A successful recruitment occurs when the recruited player enters the invitation code, immediately earning them a reward.  
    Each player can recruit multiple players (up to 100 players).  
@@ -58087,20 +58082,20 @@ Copper
 The current season ends in {NUMBER} days left
 
 [JOUST_NETWORK_ERROR_TITLE]
-数据异常
-
+ Data anomaly 
+ 
 [JOUST_NETWORK_ERROR_TIMEOUT]
-网络连接超时, 请重新尝试. 
-
+The network connection has timed out, please try again. 
+ 
 [JOUST_NETWORK_ERROR_INVALID_MATCH]
-比赛匹配信息出错, 请重新尝试. 
-
+Match matching information is incorrect, please try again. 
+ 
 [JOUST_NETWORK_ERROR_EXPIRED]
-联赛已过期. 
+ League Expired
 
 [JOUST_NETWORK_ERROR_UNKNOWN]
-未知错误, 请重新尝试. 
-
+ Unknown error, please try again. 
+ 
 [JOUST_NO_TICKET_TITLE]
 No Gauntlet
 
@@ -58108,20 +58103,20 @@ No Gauntlet
 You don't have any Gauntlets to play
 
 [JOUST_STORE_REFRESH_AD]
-{NUMBER}或 ^FF0000 观看1次广告 ^oldclr 刷新商店？(剩余 ^FF0000 {LEFT} ^oldclr 次)
-
+{NUMBER} or ^FF0000 watch an ad ^oldclr Refresh store? (^FF0000 {LEFT} ^oldclr times remaining) 
+ 
 [MAT_ZMATCH_TICKET]
-Z联赛勋章
+Arena Medal
 
 [ZMATCHSHOP_BUYTIMES_LIMIT]
-限购 ^FF0000 1 ^oldclr 次
-
+ Purchase limit ^FF0000 1 ^oldclr times 
+ 
 [MAT_ZMATCH_TICKET_USE]
-用于在超Z联赛商店兑换物品
+Used to redeem items in the Arena Store
 
 [MAT_ZMATCH_TICKET_GOT_WAY]
-Z联赛结算奖励
-
+Arena settlement rewards 
+ 
 [ZSHOP_TITLE]
 Arena shop
 
@@ -69047,9 +69042,11 @@ Effective date: December 14, 2021
 双人对决第25赛季宗师段位奖励
 
 [SETTINGS_FPS_TITLE]
-FPS Toggle
+FPS Settings
+
 [SETTINGS_FPS_DISABLE]
 30 FPS
+
 [SETTINGS_FPS_ENABLE]
 60 FPS
 
@@ -69175,16 +69172,16 @@ Welcome to Wonderland Rabbit Hole!
 Fairytale Forest
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT3]
-该神器可在限时活动奇珍宝箱中抽奖获得
+ This artifact can be obtained by lottery in the limited-time event treasure box 
 
 [VASEBREAKER_KONGFU_LEVEL_NAME_1]
-Kung-fu Challenge: Gunpowder Gang
+Kongfu Challenge: Gunpowder Gang
 
 [VASEBREAKER_KONGFU_LEVEL_NAME_2]
-Kung-fu Challenge: Clash of Blades
+Kongfu Challenge: Clash of Blades
 
 [VASEBREAKER_KONGFU_LEVEL_NAME_3]
-Kung-fu Challenge: Master's Wish
+Kongfu Challenge: Master's Wish
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25500]
 Achieved a high ranking in Fairytale Forest's Endless Challenge.
@@ -69992,28 +69989,28 @@ Exchange Quantity
 Operating too frequently.
 
 [LEVEL_EDITOR_EVENT_ROW_START]
-区间起点行
+Interval Start Row
 
 [LEVEL_EDITOR_EVENT_ROW_END]
-区间终点行
+Interval End Row
 
 [LEVEL_EDITOR_EVENT_ZOMBIE_LEVEL]
-僵尸等级设置
+Zombie Level Setting
 
 [ARBOARDAY_SURE_WATER_GET]
-确定领取所有奖励么？
+Are you sure you want to claim all rewards?
 
 [ARBOARDAY_REWARD_NOT_ENOUGH]
-可领取奖励不足
+Insufficient rewards available to claim
 
 [WATER_GET]
-一键收获
+One-click Harvest
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SUMMER]
-1.解锁高级档位的奖励获取资格
-2.立刻升20级
-3.任务获得积分加成20%
-4.150钻石
+Unlock the reward eligibility for higher tiers
+Immediately level up to 20
+20% bonus points for tasks
+150 gems
 
 [DAVE_KITCHEN_TASK_NAME_5]
 Clear 2 levels in Creative Courtyard.
@@ -70700,7 +70697,7 @@ Millennium
 Entering the Dream
 
 [NO42_LEVEL_NAME_MUGEN]
-Infinity
+Endless
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_NEEDFORSPEED1]
 加速冲锋
@@ -71333,7 +71330,7 @@ Robe, Necklace and Hat
 Sun Wukong Costume
 
 [ACCUMULATED_LOGIN_TITLE]
-庭院记录
+Courtyard Records 
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CROWNFLOWER_3]
 Robes and Crown
@@ -72471,7 +72468,7 @@ There is a 10% chance to consecutively throw 2 random items
 The chance to consecutively throw 2 random items increases to 20%, and there's a 10% chance to consecutively throw 3 random items
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL4_DES]  
-Has a high chance to directly release the Energy Bean ultimate move when planting
+Has a high chance to directly release the Plant Food when planting
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL5_DES]  
 Adds a beacon to the item pool. After the beacon drops, bombs will randomly drop within a 5×5 area, bombing 5 times in total. Each bomb causes 3×3 range fire damage.
@@ -72552,7 +72549,7 @@ An additional figurine with a larger bomb
 42nd Sunflower
 
 [PARALLEL_SUNFLOWER_TOOLTIP]  
-Basic sunshine plant, generates 25 sunshine each time
+Basic sunshine plant, produce 25 sun each time
 
 [PARALLEL_SUNFLOWER_DESCRIPTION_HEADER]  
 A normal sunflower, whose ability seems to have been restored.
@@ -72687,7 +72684,7 @@ Advanced output plant
 Shadow series, advanced projectile range plant
 
 [PARALLEL_DUSKLOBBER_DESCRIPTION_HEADER]  
-Range-based cabbage-pult
+Range-based Cabbage-pult
 
 [PARALLEL_DUSKLOBBER_DESCRIPTION]  
 Advanced projectile range plant
@@ -72720,7 +72717,7 @@ Damage-enhancing auxiliary plant
 42nd Primal Sunflower
 
 [PARALLEL_PRIMALSUNFLOWER_TOOLTIP]  
-Ultimate sunshine plant, generates 1000 sunshine each time
+Ultimate sunshine plant, produce 1000 suns each time
 
 [PARALLEL_PRIMALSUNFLOWER_DESCRIPTION_HEADER]  
 Primal Sunflower generates large suns, not normal suns
@@ -72789,7 +72786,7 @@ Perhaps more suitable for endless mode
 Normal output with a chance to deal percentage-based damage to maximum health
 
 [PARALLEL_KERNELPULT]  
-42nd Kernelpult
+42nd Kernel-pult
 
 [PARALLEL_KERNELPULT_TOOLTIP]  
 Useless
@@ -72801,16 +72798,16 @@ Only cannon fodder for the cannon.
 Useless
 
 [PARALLEL_COBCANNON]  
-42nd Corn Cannon
+42nd Cob Cannon
 
 [PARALLEL_COBCANNON_TOOLTIP]  
-Corn cannon instantly kills small and medium-sized zombies, deals 50% max health damage to large zombies
+Cob Cannon instantly kills small and medium-sized zombies, deals 50% max health damage to large zombies
 
 [PARALLEL_COBCANNON_DESCRIPTION_HEADER]  
 Reforge glory today
 
 [PARALLEL_COBCANNON_DESCRIPTION]  
-Corn cannon instantly kills small and medium-sized zombies, deals 50% max health damage to large zombies
+Cob Cannon instantly kills small and medium-sized zombies, deals 50% max health damage to large zombies
 
 [PARALLEL_POTATOMINE]  
 42nd Potato Mine
@@ -73072,7 +73069,7 @@ Attack speed increased by 10%.
 Secret Shop
 
 [PVZ2UNCHARTED_SHOP_TIME_TITLE]  
-Shop Countdown
+Close in
 
 [PVZ2UNCHARTED_SHOP_TIPS_DESC]  
 Players can earn tokens by completing levels in the secret area and exchange them for various items in the shop.
@@ -73329,7 +73326,7 @@ Congratulations! You have been selected as today's luckiest player!
 ONLY buy this once! Maximum amount is 2,147,483,647
 
 [INFINITY_COINS_DESC]
-Infinity Coins - Make sure your coins is <27,483,647 before buying this
+Infinity Coins - Your coins must <27,483,647 before buying this
 
 [HEALTH_NOTICE_CONTENT]
 Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
