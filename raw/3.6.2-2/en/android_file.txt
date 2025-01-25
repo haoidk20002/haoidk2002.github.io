@@ -71054,65 +71054,65 @@ Toy Gluttonous Snapdragon
 Energy recovery increased by 50%.
 
 [STARCHALLENGE_PVZ1KLOTSKI_NAME]
-汽车华容道
+Car Huarong Road
 
 [PVZ1KLOTSKI_DIED_OUT_CANCELED]
-步数用尽了
+Out of steps!
 
 [PVZ1KLOTSKI_ROUNDS]
-剩余步数:{NUMBER}
+Remaining steps: {NUMBER}
 
 [NFSLINKAGE_TASK_NAME_1]
-消耗 {NUM} 钻石
+Spend {NUM} gems
 
 [NFSLINKAGE_TASK_NAME_2]
-获得 {NUM} 片植物碎片
+Earn {NUM} plant pieces
 
 [NFSLINKAGE_TASK_NAME_4]
-完成 {NUM} 次每日任务
+Complete {NUM} daily tasks
 
 [NFSLINKAGE_TASK_NAME_5]
-获得 {NUM} 片装扮/挂件碎片
+Get {NUM} costume/pendant pieces
 
 [NFSLINKAGE_TASK_NAME_6]
-获得豌豆射手飞车装扮
+Get Peashooter vehicle costume
 
 [NFSLINKAGE_TASK_NAME_8]
-每日通关1次创意庭院关卡
+Clear a creative courtyard level once daily
 
 [NFSLINKAGE_TASK_NAME_7]
-每日通关1次回忆之旅关卡
+Clear a Memory Lane level once daily
 
 [PENNY_GIFT_SHORT_DESCRIPTION]
-打开潘妮的未来礼盒, 获取超值奖励
+Open Penny's Future Gift Box to receive great rewards
 
 [PENNY_GIFT_DESCRIPTION_TITLE]
-潘妮的未来礼盒活动说明
+Penny's Future Gift Box Event Instructions
 
 [PENNY_GIFT_DESCRIPTION]
-1、在自选配置中点击左侧的潘妮头像选择未来礼盒种类后随机从已选择的配置中挑选八个礼盒组成本轮奖励(最少选择3个奖励类别). 
-2、玩家可花费潘妮金币购买未来礼盒并获取对应奖励, 在购买未来礼盒时潘妮会根据您当前轮次中已购买的礼盒数量进行折扣. 
-3、每次购买未来礼盒, 除了固定获得的商品内容外, 将会额外获得概率产出, 领取更多奖品和钻石, 点击未来礼盒右上角的"?"按钮可以查看详情. 
-4、累计购买多款未来礼盒, 可以解锁个人进度奖励, 购买未来礼盒的代币数量越多, 奖励越丰厚. 
-5、购买未来礼盒积攒全服进度, 解锁全服进度奖励. 需要至少购买1次未来礼盒才可领取全服进度奖励. 
-6、玩家花费潘妮金币购买潘妮的未来礼盒后, 根据购买的礼盒的价格总价登上榜单, 登上榜单后在结算时会额外获得丰厚奖励. 
-7、当期未消耗的潘妮金币将在活动结束后按照1:10的比例自动转化成对应的钻石奖励, 不可保留至下期. 
-8、各种类中额外产出的概率如下: ①强化材料类--33.33%   ②植物及植物装扮类--10.00%. 
+1. Click on Penny's avatar on the left in the custom configuration to select the type of future gift box, and then randomly pick eight gift boxes from the selected configurations to form this round's rewards (at least three reward categories must be selected).
+2. Players can spend Penny Coins to purchase future gift boxes and receive corresponding rewards. When purchasing future gift boxes, Penny will offer discounts based on the number of gift boxes you have purchased in the current round.
+3. Each time you purchase a future gift box, in addition to the fixed rewards, you will also receive additional probabilistic rewards, including more prizes and diamonds. Click on the "?" button in the upper right corner of the future gift box for details.
+4. Accumulating purchases of various future gift boxes can unlock personal progress rewards. The more tokens you spend on future gift boxes, the richer the rewards.
+5. Purchasing future gift boxes accumulates server-wide progress and unlocks server-wide progress rewards. You must purchase at least one future gift box to claim the server-wide progress rewards.
+6. After players spend Penny Coins to purchase Penny's future gift boxes, they will climb the leaderboard based on the total price of the purchased gift boxes, and those on the leaderboard will receive additional generous rewards during settlement.
+7. Unused Penny Coins from the current period will automatically convert to corresponding diamond rewards at a ratio of 1:10 after the event ends and cannot be carried over to the next period.
+8. The probabilities for additional outputs in various categories are as follows: 1) Strengthening materials - 33.33% 2) Plants and plant costumes - 10.00%.
 
 [PRODUCT_PENNYGIFTBOX_30_SHORTDESC]
-入门礼包盒
+Entry Gift Box
 
 [PRODUCT_PENNYGIFTBOX_68_SHORTDESC]
-初级礼包盒
+Beginner Gift Box
 
 [PRODUCT_PENNYGIFTBOX_198_SHORTDESC]
-中级礼包盒
+Intermediate Gift Box
 
 [PRODUCT_PENNYGIFTBOX_328_SHORTDESC]
-高级礼包盒
+Advanced Gift Box
 
 [PRODUCT_PENNYGIFTBOX_648_SHORTDESC]
-超级礼包盒
+Super Gift Box
 
 [MAT_PENNY_GIFT_TOKEN]
 Penny Coin
@@ -71166,10 +71166,10 @@ During the event, players can log in to claim 14 days of valuable rewards. Compl
 
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}滑动手指拖动车辆进行移动, 水平车辆左右移动, 垂直车辆上下移动
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Slide your finger to drag the vehicle to move; move the vehicle left and right horizontally, and move the vehicle up and down vertically.
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_2]
-{SAY:CRAZYDAVE}快想办法移开车辆让我回家吧, 外面的僵尸太吓人了！
+{SAY:CRAZYDAVE}Quick, let's find a way to move the vehicle so I can go home; the zombies outside are too scary!
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_3]
 {NPC_EXIT:crazydave}
@@ -73323,7 +73323,7 @@ Open the New Year Gift Pack to get lots of gems and rare decorations
 Congratulations! You have been selected as today's luckiest player!
 
 [INFINITY_COINS_HEADER]
-Infinity Coins (ONLY buy this once!)
+Infinity Coins - ONLY buy this once!
 
 [INFINITY_COINS_DESC]
 Your coins must <27,483,647 before buying this
