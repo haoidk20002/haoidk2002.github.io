@@ -8798,7 +8798,7 @@ Coins, coins, coins!
 Small Pile of Coins!
 
 [PRODUCT_COIN_40000_SHORT_DESC]
-Big Pile of Coins!
+100000 Coins
 
 [PRODUCT_PVP_COIN_1_DESC]
 500 Star Coins
@@ -73323,10 +73323,10 @@ Open the New Year Gift Pack to get lots of gems and rare decorations
 Congratulations! You have been selected as today's luckiest player!
 
 [INFINITY_COINS_HEADER]
-ONLY buy this once! Maximum amount is 2,147,483,647
+Infinity Coins (ONLY buy this once!)
 
 [INFINITY_COINS_DESC]
-Infinity Coins - Your coins must <27,483,647 before buying this
+Your coins must <27,483,647 before buying this
 
 [HEALTH_NOTICE_CONTENT]
 Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
