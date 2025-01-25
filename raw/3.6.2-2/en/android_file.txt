@@ -32692,10 +32692,10 @@ round
 Progress Reward
 
 [ARBORDAY_PLAYER_PROGRESS_DESC]
-Personal Progress: ^FFFF00 {NUMS} ^oldclr times
+Personal: ^FFFF00 {NUMS} ^oldclr times
 
 [ARBORDAY_SERVER_PROGRESS_DESC]
-Server Progress: ^FFFF00 {NUMS} ^oldclr times
+Server: ^FFFF00 {NUMS} ^oldclr times
 
 [ARBORDAY_PRESENT_PRICE_DESC]
 {NUMS}
@@ -32707,7 +32707,7 @@ Oops, you don't have enough gems for that!
 Not Yet Unlocked
 
 [ALREADY_MAX_LEVEL]
-Already at Max Level
+Max Level
 
 [BONUS_ATTRIBUTES]
 Bonus Attributes
@@ -64375,7 +64375,7 @@ Seasonal Legendary Chest
 Seasonal Legendary Chest
 
 [NEW_PVP_ZOMBIE_CARD]
-Cards
+'s Card
 
 [NEW_PVP_UPGRADE_TIP_0]
 Subsequent zombies gain 50% speed.
@@ -70004,7 +70004,7 @@ Are you sure you want to claim all rewards?
 Insufficient rewards available to claim
 
 [WATER_GET]
-One-click Harvest
+Harvest
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SUMMER]
 Unlock the reward eligibility for higher tiers
