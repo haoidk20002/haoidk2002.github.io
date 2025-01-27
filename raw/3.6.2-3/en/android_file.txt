@@ -73177,13 +73177,14 @@ After use, choose one plant costume from the box.
 Chance to obtain from purchasing welfare gift boxes in the New Year Gift Pack.
 
 [UINEWYEARREDPACKET_DES_DESCRIPTION]  
-All times mentioned in here are in China time (UTC+8).
-1. The event's fixed time for receiving red packets is from 12:00-14:00 and 18:00-21:00 daily (up to 2 times a day).  
-2. From January 27th to February 9th, a lucky player (who has claimed the red packet on the same day) will be drawn every day at 9 PM, with a chance to win the high-value grand prize.  
-3. Special dates (New Year's Eve, New Year's Day, Fifth Day of the New Year) will have an additional physical prize draw once a day. During these dates (00:00-21:59), players can use their draw tickets to participate in the physical prize draw.  
-4. Each draw ticket used will record the player's entry information, and the physical prize will be drawn from all entries on New Year's Eve, New Year's Day, and the Fifth Day of the New Year at 10 PM.  
-5. If a player does not log in to claim their daily lucky prize before the next day's draw, the prize will be forfeited.  
-6. The physical prize is ^CDBE70 5g "Plants vs Zombies 2" Customized Gold Banknote ^oldclr, the reward is subject to the physical item.
+All times are in UTC+8.
+1. The event's fixed time for receiving red packets is from 12:00-14:00 and 18:00-21:00.
+2. From January 27th - February 9th, a lucky player (who has claimed the red packet on the same day) will be drawn every day at 9 PM, with a chance to win the high-value grand prize.
+3. Special dates (New Year's Eve, New Year's Day) will have an additional physical prize draw once a day. On 00:00-21:59, you can use the draw tickets to participate in the physical prize draw.
+4. Each draw ticket used will record the info, and the physical prize will be drawn from all entries on New Year's Eve, New Year's Day, and New Year's 5th day at 10 PM.
+5. You won't get the gift if you don't log in to claim the daily lucky prize before the next day's draw.
+7. It's recommend to create a reminder or alarm on your device so you won't forget the time when you need to login to claim the gift.
+8. The physical prize is ^CDBE70 5g "Plants vs Zombies 2" Customized Gold Banknote ^oldclr, the reward is subject to the physical item.
 
 [UINEWYEARREDPACKET_DES_TITLE]  
 New Year Red Packet Activity Description
@@ -73192,7 +73193,7 @@ New Year Red Packet Activity Description
 {NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave} Congratulations on getting rich! Here's your New Year red packet.
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]  
-{SAY:NEWYEARCRAZYDAVE}Let's claim it now!
+{SAY:NEWYEARCRAZYDAVE}Let's claim the gift now!
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_3]  
 {NPC_EXIT:newyearcrazydave}
@@ -73202,6 +73203,7 @@ Sign up for the prize draw
 
 [REDPACKETWIDGET_DES_DESCRIPTION]  
 During the event, you can receive a red packet once daily between 12:00-14:00 and 18:00-21:00. (UTC+8)
+It's recommend to create a reminder or alarm on your device so you won't forget the time when you need to login to claim the gift.
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC1]  
 Player ^FFFF00 {NAME} ^oldclr
