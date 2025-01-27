@@ -58929,6 +58929,47 @@ When a plant dies, it turns into a seed that can't be planted on. After some tim
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_6]
 {NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave}I don't understand what you're saying with all this nonsense, but whatever-help me deal with Handsome Zomboss!
 
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_1]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} The plants and zombies here are so strange.
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_2]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Our universe has always been like this, and it has never changed.
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_3]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} I hope we can find user Dave quickly and figure out a way back...
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_4]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Let's go! Chase after handsome Zomboss!
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_5]
+{NPC_ENTER:no42zombossicon} Fool! You think you can catch me?
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_6]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Mr. Handsome Zomboss, how can we get back?
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_7]
+{NPC_ENTER:no42zombossicon} Idiot! I will never tell you! It was I who caused this chaos! I will not tell you! The key to going back is my brilliant wig!
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_8]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Even if you don't tell me! I will find out myself!
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_9]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} A 42% similarity isn't too low, but it's not too high either...
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_1]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} User Tough Guy Dave, where do you think Crazy Dave is right now?
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_2]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} It doesn't matter! I must find handsome Zomboss! Send the wig back to the museum!
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_3]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} ...I guess we have no choice but to follow through. Let's catch handsome Zomboss and get the wig back...
+
+[NARRATIVE_UNCHARTED_NO42_OUTRO_ZOMBOSS_END_1]
+{NPC_ENTER:no42zombossicon} You all wait for me! Even without my wig, I am still so glamorous and beautiful!
+
+[NARRATIVE_UNCHARTED_NO42_OUTRO_ZOMBOSS_END_2]
+{NPC_ENTER:no42zombossicon} I will come back to teach you fools a lesson!
 
 [NARRATIVE_TUTORIAL_FIRST_RECHARGE_INTRO_1]
 {NPC_ENTER:evilcrazydave}Hey punk, wanna see some cool offers?
@@ -71136,33 +71177,33 @@ Available through the Lucky Treasure event or purchased with weekly special offe
 Spring Sign-In
 
 [NFS_LINKAGE_TAB2]
-Had Gears Tasks
+Sycee Tasks
 
 [NFS_LINKAGE_TAB3]
 Exchange Shop
 
 [NFSLINKAGE_DESCRIPTION_TITLE]
-Had Gears Battle Event Description
+Sycee Battle Event Description
 
 [NFSLINKAGE_DESCRIPTION]
 Event Rules:
 1. Players can log in daily during the event period to receive valuable rewards, with a total of 14 days of sign-in rewards.
-2. Had Gears tasks are divided into daily tasks and event tasks. Daily tasks refresh at midnight and can be completed once each day.
+2. Sycee tasks are divided into daily tasks and event tasks. Daily tasks refresh at midnight and can be completed once each day.
 3. Event tasks have multiple stages, and only after completing a previous stage will the next stage appear.
-4. Completing Had Gears tasks rewards Had Gears, which can be used in the exchange shop for item rewards.
+4. Completing Sycee tasks rewards Sycee, which can be used in the exchange shop for item rewards.
 5. The exchange shop can be accessed during the event period. Don't forget to redeem your rewards in time!
 
 [MAT_NFSLINKAGE_INTEGRAL]
-Had Gears
+Sycee
 
 [NFSLINKAGE_TITLE]
-Had Gears Battle
+Sycee Battle
 
 [MAT_NFSLINKAGE_TICKET]
-Had Gears
+Sycee
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION]
-During the event, players can log in to claim 14 days of valuable rewards. Completing event tasks will earn Had Gears, which can be used in the exchange shop to redeem valuable rewards!
+During the event, players can log in to claim 14 days of valuable rewards. Completing event tasks will earn Sycee, which can be used in the exchange shop to redeem valuable rewards!
 
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
