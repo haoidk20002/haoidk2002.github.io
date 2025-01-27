@@ -25449,22 +25449,22 @@ Refresh in
 Refresh in
 
 [SECRET_MIDDLE_STR]
-可获得
-
+ Available 
+ 
 [SECRET_MIDDLE_STR]
-可获得
-
+Available 
+ 
 [SECRET_BUY_STR]
 {NUMBER} CNY
 
 [SECRET_BUY_STR_FREE]
-免费
+Free
 
 [SECRET_BUY_LEFT_STR]
-限购{NUMBER}次
+Purchase limit: {NUMBER}
 
 [PLANT_SPECIAL_OFFER_TITLE]
-植物套餐感恩礼包
+Plant meal thanksgiving gift pack 
 
 [PLANT_LIMIT_LOTTERY]
 限时转盘
@@ -25628,7 +25628,7 @@ Small blessing gift pack
 比赛结果
 
 [PVZ_WORLDCUP_VICTORY]
-胜利
+You won!
 
 [PVZ_WORLDCUP_DEFEATED]
 失败
@@ -26554,10 +26554,10 @@ Plant Challenge - Level 6
 Plant Challenge - Level 7
 
 [ACCUMULATE_RECHARGE_REWARD]
-累计{NUM}天，每日充值30元即可领取
+Accumulate {NUM} days, recharge 30 CNY per day to receive 
 
 [DAVE_TREASURE]
-戴夫的神秘宝藏
+ Dave's Secret Treasure 
 
 [DAVE_TAB_AWARD]
 Reward
@@ -26572,20 +26572,20 @@ Normal
 Premium
 
 [DAVE_INTGETRAL]
-宝藏线索数量：
-
+ Number of treasure clues: 
+ 
 [DAVE_DISPLAY_BANNER_1]
-^FFFF00 高级权益 ^oldclr 
-购买后可以直接获得宝藏限定植物 并激活高级宝藏奖励
-
+^FFFF00 Advanced Benefits ^oldclr 
+After purchase, you can directly obtain treasure-limited plants and activate premium treasure rewards
+ 
 [DAVE_DISPLAY_BANNER_2]
-^FFFF00 宝藏限定植物 ^oldclr 
-可以获得1阶限定植物X1
-
+ ^FFFF00 Treasure limited plants ^oldclr 
+ You can get a limited plant
+ 
 [DAVE_DISPLAY_BANNER_3]
-^FFFF00 宝藏限定植物装扮 ^oldclr 
-获得160个宝藏线索即可领取宝藏限定植物装扮X1
-
+ ^FFFF00 Treasure Limited Plant Costume ^oldclr 
+Get 160 treasure clues to receive a treasure-limited plant costume x1
+ 
 [DAVE_TREASURE_DESCRIPTION]
 每充值^FFFF00 1 ^oldclr 元可获得^FFFF00 5 ^oldclr 宝藏线索（购买高级权益不计入宝藏线索）
 
@@ -26599,59 +26599,59 @@ Premium
 Premium required
 
 [STORE_CATEGORY_NAME_SECRET_TREASURE]
-购买高级权益
-
+ Purchase premium benefits 
+ 
 [STORE_CATEGORY_NAME_SECRET_TREASURE_SHORT_DESC_6]
-高级宝藏奖励权限和限定植物
-
+Advanced treasure reward privileges and limited plants
+ 
 [MAT_LIMITLOTTERY_CRYSTAL]
-紫金币
+Purple Gold Coin 
 
 [MAT_LIMITLOTTERY_CUP]
-限时夺宝奖杯
-
+ Limited time treasure hunting trophy 
+ 
 [MAT_RIFT_COIN]
-时空币
+Space-time coin 
 
 [MAT_RIFT_COIN_NOT_ENOUGH]
-时空币不足
-
+Oops, you don't have enough space-time coins for that!
+ 
 [MAT_PLANT_LEVELUP_BOOK]
-植物进阶书
+ Advanced Plant Book 
 
 [STORE_CATEGORY_NAME_PENNYSHANDBOOK]
-购买高级潘妮指南
+Purchasing Guide for Premium Penny 
 
 [STORE_CATEGORY_NAME_PENNYSHANDBOOK_SHORT_DES]
-高级指南奖励权限
-
+Advanced Guide Reward Permissions 
+ 
 [MAT_CARNIVAL_TICKET]
-兑换券
-
+Exchange voucher 
+ 
 [MAT_CARNIVAL_TICKET_USE]
-在狂欢嘉年华活动中购买超值礼包
+Purchase great value gift packages during the Carnival event
 
 [MAT_CARNIVAL_TICKET_GOT_WAY]
-购买获得
-
+ Purchase to obtain 
+ 
 [DAILY_ALREADY_LOGIN]
-你已^3AAD14 累计 ^oldclr 登录
-
+You have logged in ^3AAD14 times ^oldclr 
+ 
 [DAVE_TREASURE_CHECK_PRIVILEGE]
-请检查是否有特权或刷新活动界面
-
+Please check if you have privileges or refresh the event interface 
+ 
 [DAVE_TREASURE_BUY_1]
-^FFFF00 60 ^oldclr 元购买
+Buy now for ^FFFF00 60 CNY ^oldclr
 
 [DAVE_TREASURE_BUY_2]
-激活领取
-
+Activate and receive 
+ 
 [DAVE_TREASURE_BUY_3]
-收集线索领取
-
+Collect clues and receive them 
+ 
 [DAVE_TREASURE_BOUGHT]
-已购买
-
+ Purchased 
+ 
 [PLANT_LEVEL_UP_BOOK]
 Upgrade using rare book
 
@@ -27782,49 +27782,49 @@ VIP剩余时间
 累计召唤{NUM}次
 
 [DAILY_LIST]
-日榜
-
+ Daily Ranking 
+ 
 [TOTALY_LIST]
-总榜
+Overall Ranking 
 
 [RANKING]
-排名
+Ranking 
 
 [PLAYER_NAME]
-玩家名称
-
+ Player Name 
+ 
 [SUMMON_TIMES]
-召唤次数
+Summon Times
 
 [MY_RANKING]
-我的排名
-
+ My ranking 
+ 
 [SUMMON_NOW]
-立即召唤
-
+Summon now 
+ 
 [ENTRANCE_CLOSED]
-入口关闭
+ Entrance closed 
 
 [RANK_NEED_TIMES]
-上榜需满足一定召唤次数
-
+To be on the list, you need to meet a certain number of summons 
+ 
 [RANK_4_TO_10]
-第4-10名
-
+4th-10th 
+ 
 [RANK_11_TO_50]
-第11-50名
-
+ 11th-50th 
+ 
 [RANK_51_TO_100]
-第51-100名
-
+51st-100th 
+ 
 [RANK_AFTER_100]
-第100名之后
-
+After #100 
+ 
 [NOT_ON_RANK]
-未上榜
-
+ Not on the list 
+ 
 [ON_RANK]
-已上榜
+Listed 
 
 [GENERAL_PLANT_CHIPS_EXCHANGE_TIPS]
 请在以下列表中选择万能/定向碎片要兑换成的植物碎片
@@ -72034,12 +72034,7 @@ Record
 Jingle Bells Description
 
 [GINGLEBELL_DESCRIPTION]
-Activity rules:
-1. All damage caused to the snowmen within a limited time is your total score.
-2. The points obtained through the latest unlocked levels are used to complete daily bonus missions, which are refreshed every day.
-3. During the activity time, three themes (firepower test, accuracy test, and tactical test) will be unlocked in turn, and there are three levels under each theme. A new level unlocks every two days and a new theme every six days.
-4. The leaderboard will be sorted according to the sum of the scores of the three levels under the latest theme. After unlocking the new theme, the list will be closed for anti-cheating detection from 0:00 to 10:00. During the detection period, the levels under the latest theme cannot be played. Playing non-up-to-date themed levels or playing within the closing time will not be counted in the leaderboard score.
-5. After the ranking is over, the ranking rewards will be automatically issued. For players whose abnormal scores are detected when the ranking is closed, the scores played during the event will no longer be counted in the ranking. The leaderboard will be displayed for one day on January 11'th, and the level cannot be challenged during this period.
+Your total score is based on the damage done to snowmen within a limited time. Points earned from the latest levels contribute to daily bonus missions that refresh every day. Three themes-firepower test, accuracy test, and tactical test-are unlocked in sequence, each with three levels, every two days for levels and six days for themes. The leaderboard ranks players based on the total scores from the three latest theme levels. After a new theme unlocks, there's an anti cheat detection period from 0:00 to 10:00 when players cannot access the new levels; only scores from up-to-date levels are counted. Rewards are automatically issued post-ranking, and any detected abnormal scores will be excluded. The leaderboard will be visible for one day on January 11th, during which no level challenges are allowed.
 
 [GINGLEBELL_RANK]
 Your ranking: {NUMBER}
@@ -73199,7 +73194,7 @@ New Year Red Packet Activity Description
 {NPC_EXIT:newyearcrazydave}
 
 [UINEWYEARREDPACKET_GACHA]  
-Sign up for the prize draw
+Sign up for
 
 [REDPACKETWIDGET_DES_DESCRIPTION]  
 During the event, you can receive a red packet once daily between 12:00-14:00 and 18:00-21:00. (UTC+8)
