@@ -12695,7 +12695,7 @@ Pendant
 盛夏狂欢限时宝物
 
 [TO_BE_AWAIT]
-敬请期待
+Stay tuned!
 
 [GEM_RECHARGE]
 充值奖励
@@ -14466,19 +14466,19 @@ This event is not during activity time
 This event has ended
 
 [ACTIVITY_NOT_OPEN]
-暂未开放
+This feature is not available yet.
 
 [OBTAINED_TODAY]
-今日已领
+Obtained today
 
 [TOMORROW_OPEN]
-明日可领取
-
+Available tomorrow 
+ 
 [HAS_OBTAINED_ALL]
-全部领完
-
+ All received 
+ 
 [NOT_CONNECTED]
-尚未联网
+No Internet Connection
 
 [ACTIVITY_CLOSED]
 活动结束
@@ -15573,7 +15573,7 @@ Cancel
 OK
 
 [HINT_DEFAULT_UNCONNECTED_TITLE]
-No Internet Connection
+Network Error
 
 [HINT_DEFAULT_UNCONNECTED]
 Your resources are abnormal or your connection is unstable, please try again later.
@@ -25109,8 +25109,8 @@ Real-name authentication rewards
 宝石:{COUNT}
 
 [CHARGEDOUBLE_FESTIVAL_NOUSE]
-没有合适数据
-
+No suitable data 
+ 
 [PLANTDEFENCEGAMEMODE_DAYS]
 双旦保卫战守护你的植物吧
 
@@ -26228,16 +26228,16 @@ Experience the powerful effects of Hoya Heart! You can also get statues and exch
 Experience the powerful attack of Pistol Pinecone! You can also get statues and exchange them for rare gifts in the statue shop.
 
 [RENAISSANCE_CHALLENGE_ACTIVITY_DESCRIPTION_3]
-快来体验热辣海枣的火焰攻击，还能获得雕像，在雕像商店中兑换稀有好礼。
-
+ Come and experience the fire attack of Hot Date, and you can also get statues and exchange them for rare gifts in the statue shop. 
+ 
 [RENAISSANCE_CHALLENGE_UNLOCK]
-{NUM1} 月 {NUM2} 日解锁
-
+Unlock on {NUM1}m{NUM2}d
+ 
 [MAT_BOSSRUSH_CRYSTAL]
-蓝水晶
+Blue crystal 
 
 [MAT_BOSSRUSH_CRYSTAL_BLUE]
-蓝水晶
+Blue crystal 
 
 [MAT_RENAISSANCE_CHALLENGE_STATUE]
 Statue
@@ -71057,7 +71057,7 @@ Energy recovery increased by 50%.
 Car Huarong Road
 
 [PVZ1KLOTSKI_DIED_OUT_CANCELED]
-Out of steps!
+You've ran out of steps!
 
 [PVZ1KLOTSKI_ROUNDS]
 Remaining steps: {NUMBER}
@@ -72792,10 +72792,10 @@ Normal output with a chance to deal percentage-based damage to maximum health
 Useless
 
 [PARALLEL_KERNELPULT_DESCRIPTION_HEADER]  
-Only cannon fodder for the cannon.
+Only needed for the cannon fodder of Cob Cannon.
 
 [PARALLEL_KERNELPULT_DESCRIPTION]  
-Useless
+Does no effects
 
 [PARALLEL_COBCANNON]  
 42nd Cob Cannon
@@ -73136,6 +73136,7 @@ After use, choose one plant costume from the box.
 Chance to obtain from purchasing welfare gift boxes in the New Year Gift Pack.
 
 [UINEWYEARREDPACKET_DES_DESCRIPTION]  
+All times mentioned in here are in China time (UTC+8).
 1. The event's fixed time for receiving red packets is from 12:00-14:00 and 18:00-21:00 daily (up to 2 times a day).  
 2. From January 27th to February 9th, a lucky player (who has claimed the red packet on the same day) will be drawn every day at 9 PM, with a chance to win the high-value grand prize.  
 3. Special dates (New Year's Eve, New Year's Day, Fifth Day of the New Year) will have an additional physical prize draw once a day. During these dates (00:00-21:59), players can use their draw tickets to participate in the physical prize draw.  
@@ -73150,7 +73151,7 @@ New Year Red Packet Activity Description
 {NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave} Congratulations on getting rich! Here's your New Year red packet.
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]  
-{SAY:NEWYEARCRAZYDAVE} New Year Red Packet
+{SAY:NEWYEARCRAZYDAVE}Let's claim it now!
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_3]  
 {NPC_EXIT:newyearcrazydave}
@@ -73159,7 +73160,7 @@ New Year Red Packet Activity Description
 Sign up for the prize draw
 
 [REDPACKETWIDGET_DES_DESCRIPTION]  
-During the event, you can receive a red packet once daily between 12:00-14:00 and 18:00-21:00.
+During the event, you can receive a red packet once daily between 12:00-14:00 and 18:00-21:00. (UTC+8)
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC1]  
 Player ^FFFF00 {NAME} ^oldclr
