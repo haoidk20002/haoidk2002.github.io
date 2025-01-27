@@ -58929,6 +58929,47 @@ When a plant dies, it turns into a seed that can't be planted on. After some tim
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_6]
 {NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave}I don't understand what you're saying with all this nonsense, but whatever-help me deal with Handsome Zomboss!
 
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_1]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} The plants and zombies here are so strange.
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_2]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Our universe has always been like this, and it has never changed.
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_3]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} I hope we can find user Dave quickly and figure out a way back...
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_4]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Let's go! Chase after handsome Zomboss!
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_5]
+{NPC_ENTER:no42zombossicon} Fool! You think you can catch me?
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_6]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Mr. Handsome Zomboss, how can we get back?
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_7]
+{NPC_ENTER:no42zombossicon} Idiot! I will never tell you! It was I who caused this chaos! I will not tell you! The key to going back is my brilliant wig!
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_8]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Even if you don't tell me! I will find out myself!
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_9]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} A 42% similarity isn't too low, but it's not too high either...
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_1]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} User Tough Guy Dave, where do you think Crazy Dave is right now?
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_2]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} It doesn't matter! I must find handsome Zomboss! Send the wig back to the museum!
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_3]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} ...I guess we have no choice but to follow through. Let's catch handsome Zomboss and get the wig back...
+
+[NARRATIVE_UNCHARTED_NO42_OUTRO_ZOMBOSS_END_1]
+{NPC_ENTER:no42zombossicon} You all wait for me! Even without my wig, I am still so glamorous and beautiful!
+
+[NARRATIVE_UNCHARTED_NO42_OUTRO_ZOMBOSS_END_2]
+{NPC_ENTER:no42zombossicon} I will come back to teach you fools a lesson!
 
 [NARRATIVE_TUTORIAL_FIRST_RECHARGE_INTRO_1]
 {NPC_ENTER:evilcrazydave}Hey punk, wanna see some cool offers?
@@ -71136,33 +71177,33 @@ Available through the Lucky Treasure event or purchased with weekly special offe
 Spring Sign-In
 
 [NFS_LINKAGE_TAB2]
-Had Gears Tasks
+Sycee Tasks
 
 [NFS_LINKAGE_TAB3]
 Exchange Shop
 
 [NFSLINKAGE_DESCRIPTION_TITLE]
-Had Gears Battle Event Description
+Sycee Battle Event Description
 
 [NFSLINKAGE_DESCRIPTION]
 Event Rules:
 1. Players can log in daily during the event period to receive valuable rewards, with a total of 14 days of sign-in rewards.
-2. Had Gears tasks are divided into daily tasks and event tasks. Daily tasks refresh at midnight and can be completed once each day.
+2. Sycee tasks are divided into daily tasks and event tasks. Daily tasks refresh at midnight and can be completed once each day.
 3. Event tasks have multiple stages, and only after completing a previous stage will the next stage appear.
-4. Completing Had Gears tasks rewards Had Gears, which can be used in the exchange shop for item rewards.
+4. Completing Sycee tasks rewards Sycee, which can be used in the exchange shop for item rewards.
 5. The exchange shop can be accessed during the event period. Don't forget to redeem your rewards in time!
 
 [MAT_NFSLINKAGE_INTEGRAL]
-Had Gears
+Sycee
 
 [NFSLINKAGE_TITLE]
-Had Gears Battle
+Sycee Battle
 
 [MAT_NFSLINKAGE_TICKET]
-Had Gears
+Sycee
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION]
-During the event, players can log in to claim 14 days of valuable rewards. Completing event tasks will earn Had Gears, which can be used in the exchange shop to redeem valuable rewards!
+During the event, players can log in to claim 14 days of valuable rewards. Completing event tasks will earn Sycee, which can be used in the exchange shop to redeem valuable rewards!
 
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
@@ -73136,13 +73177,14 @@ After use, choose one plant costume from the box.
 Chance to obtain from purchasing welfare gift boxes in the New Year Gift Pack.
 
 [UINEWYEARREDPACKET_DES_DESCRIPTION]  
-All times mentioned in here are in China time (UTC+8).
-1. The event's fixed time for receiving red packets is from 12:00-14:00 and 18:00-21:00 daily (up to 2 times a day).  
-2. From January 27th to February 9th, a lucky player (who has claimed the red packet on the same day) will be drawn every day at 9 PM, with a chance to win the high-value grand prize.  
-3. Special dates (New Year's Eve, New Year's Day, Fifth Day of the New Year) will have an additional physical prize draw once a day. During these dates (00:00-21:59), players can use their draw tickets to participate in the physical prize draw.  
-4. Each draw ticket used will record the player's entry information, and the physical prize will be drawn from all entries on New Year's Eve, New Year's Day, and the Fifth Day of the New Year at 10 PM.  
-5. If a player does not log in to claim their daily lucky prize before the next day's draw, the prize will be forfeited.  
-6. The physical prize is ^CDBE70 5g "Plants vs Zombies 2" Customized Gold Banknote ^oldclr, the reward is subject to the physical item.
+All times are in UTC+8.
+1. The event's fixed time for receiving red packets is from 12:00-14:00 and 18:00-21:00.
+2. From January 27th - February 9th, a lucky player (who has claimed the red packet on the same day) will be drawn every day at 9 PM, with a chance to win the high-value grand prize.
+3. Special dates (New Year's Eve, New Year's Day) will have an additional physical prize draw once a day. On 00:00-21:59, you can use the draw tickets to participate in the physical prize draw.
+4. Each draw ticket used will record the info, and the physical prize will be drawn from all entries on New Year's Eve, New Year's Day, and New Year's 5th day at 10 PM.
+5. You won't get the gift if you don't log in to claim the daily lucky prize before the next day's draw.
+7. It's recommend to create a reminder or alarm on your device so you won't forget the time when you need to login to claim the gift.
+8. The physical prize is ^CDBE70 5g "Plants vs Zombies 2" Customized Gold Banknote ^oldclr, the reward is subject to the physical item.
 
 [UINEWYEARREDPACKET_DES_TITLE]  
 New Year Red Packet Activity Description
@@ -73151,7 +73193,7 @@ New Year Red Packet Activity Description
 {NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave} Congratulations on getting rich! Here's your New Year red packet.
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]  
-{SAY:NEWYEARCRAZYDAVE}Let's claim it now!
+{SAY:NEWYEARCRAZYDAVE}Let's claim the gift now!
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_3]  
 {NPC_EXIT:newyearcrazydave}
@@ -73161,6 +73203,7 @@ Sign up for the prize draw
 
 [REDPACKETWIDGET_DES_DESCRIPTION]  
 During the event, you can receive a red packet once daily between 12:00-14:00 and 18:00-21:00. (UTC+8)
+It's recommend to create a reminder or alarm on your device so you won't forget the time when you need to login to claim the gift.
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC1]  
 Player ^FFFF00 {NAME} ^oldclr
