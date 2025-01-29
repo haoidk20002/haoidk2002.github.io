@@ -6565,7 +6565,7 @@ PLAY THROUGH
 SKIP OVER
 
 [RANK_AVATAR_SELECT_TITLE]
-Choose an Avatar
+Choose a banner
 
 [RANK_AVATAR_CONTENT_TITLE]
 First Season
@@ -16458,44 +16458,44 @@ Sell Price: {PRICE}
 This world is very difficult, you may need to level 3 plants to unlock.
 
 [BUTTON_ACCESSORY_LINK]
-获取
+Get
 
 [SALE_SUCCESS_TITLE]
-出售成功
+Sale Successful
 
 [SALE_SUCCESS_MESSAGE]
-出售成功，获得{GOLD_COUNT}金币
+Sale successful, you received {GOLD_COUNT} coins
 
 [RESET_SUCCESS_REWARD]
-返还奖励
+Return Reward
 
 [RESET_SUCCESS_TITLE]
-重置成功
+Reset Successful
 
 [RESET_SUCCESS_MESSAGE]
-重置成功，已返还相应材料
+Reset successful, corresponding materials have been returned
 
 [RESET_FAILED_MESSAGE]
-重置失败，{CODE}
+Reset failed, {CODE}
 
 [STEADY_FAILED_MESSAGE]
-强化失败，{CODE}
+Upgrading failed: {CODE}
 
 [SUPER_ACCESSORY_STEADY_DES_TITLE]
-强化说明
+Note
 
 [SUPER_ACCESSORY_STEADY_DES_DESCRIPTION]
-1.挂件强化对象只能是新的超级挂件
-2.超级挂件需要特定材料进行进一步强化
-3.强化消耗如下：
-          初始强化到1级：20个粉尘    1000金币
-           1级强化到2级：30个粉尘    1500金币
-           2级强化到3级：50个粉尘    2000金币   5个时空水晶
-           3级强化到4级：70个粉尘    2000金币  15个时空水晶
-           4级强化到5级：100个粉尘  2000金币  30个时空水晶
+1. The upgrading target for pendant must be a new super pendant.
+2. Super pendants require specific materials for further enhancement.
+3. Enhancement costs are as follows:
+Initial upgrading to level 1: 20 dust, 1000 coins
+Level 1 to level 2: 30 dust, 1500 coins
+Level 2 to level 3: 50 dust, 2000 coins, 5 space crystals
+Level 3 to level 4: 70 dust, 2000 coins, 15 space crystals
+Level 4 to level 5: 100 dust, 2000 coins, 30 space crystals
 
 [NUM_OWNED_ACCESSORY]
-Number of pendant: {OWNED_COUNT}/{TOTAL_COUNT}
+Number of pendants: {OWNED_COUNT}/{TOTAL_COUNT}
 
 [NOT_BIND_ACCESSORY]
 No Pendant in Use
@@ -27632,28 +27632,28 @@ SS
 
 
 [FIGHT_ZODIAC_TITLE]
-Christmas Offering
+New Year Offering
 
 [FIGHT_ZODIAC_TAB_1]
-Christmas Offering
+New Year Offering
 
 [FIGHT_ZODIAC_TAB_2]
-Christmas Bundle
+New Year Bundle
 
 [FIGHT_ZODIAC_INDEX]
-Christmas Bundle #{NUM}
+New Year Bundle #{NUM}
 
 [FIGHT_ZODIAC_OBTAIN]
-Claim Free Stocking
+Claim Free Fireworks
 
 [FIGHT_ZODIAC_ONE]
-Send 1 Stocking
+Send 1 Fireworks
 
 [FIGHT_ZODIAC_TEN]
-Send 10 Stockings
+Send 10 Fireworkss
 
 [FIGHT_ZODIAC_NOT_ENOUGH]
-You don't have enough Stockings!
+Oops, you don't have enough Fireworkss!
 
 [FIGHT_ZODIAC_BEAT]
 Beat Rewards
@@ -27662,19 +27662,19 @@ Beat Rewards
 You have reached today's purchase limit.
 
 [FIGHT_ZODIAC_BEAT_DES]
-For each Stocking, you can receive 1~2 gift points from Dave and an item piece from the prize pool.
+For each Fireworks, you can receive 1~2 gift points from Dave and an item piece from the prize pool.
 
 [FIGHT_ZODIAC_REWARD]
-Get free Stockings!
+Get free Fireworkss!
 
 [FIGHT_ZODIAC_REWARD_PENNY]
-Play {TYPE} once to receive a Stocking.
+Play {TYPE} once to receive a Fireworks.
 
 [FIGHT_ZODIAC_REWARD_MONTHLY_CARD]
-Having a Monthly Card active gives free Stockings.
+Having a Monthly Card active gives free Fireworkss.
 
 [FIGHT_ZODIAC_REWARD_FREE]
-Receive free Stockings every day.
+Receive free Fireworkss every day.
 
 [GACHA_TIME_COUNT_DOWN]
 Package Refresh Countdown
@@ -27686,12 +27686,12 @@ Penny's Pursuit
 Purchase Monthly Card
 
 [FIGHT_ZODIAC_DESCRIPTION_TITLE]
-Christmas Offering Explanation
+New Year Offering Explanation
 
 [FIGHT_ZODIAC_DESCRIPTION]
 Event Details:
-1. Players spend Stockings to earn gift points from Dave, receiving one reward for each consumed stocking.
-2. There's a chance to get double points when consuming Stockings.
+1. Players spend Fireworkss to earn gift points from Dave, receiving one reward for each consumed Fireworks.
+2. There's a chance to get double points when consuming Fireworkss.
 3. Upon reaching a certain point threshold, you will recieve the bundle on the top right.
 4. The remaining points needed for the next bundle will be shown above Dave's head.
 5. After obtaining said bundle, a new bundle will automatically reset.
@@ -29499,10 +29499,10 @@ ca=对我通关很有帮助|娱乐性大于实用性|整体偏弱或有副作用
 ca=对我通关很有帮助|娱乐性大于实用性|整体偏弱或有副作用|尚未获得该植物|
 
 [REFRESH_CURRENCY_CONFIRM_FREE]
-是否免费刷新商店？每天只能使用一次商店刷新哦
+Are you sure to refresh the store for free once?
 
 [REFRESH_CURRENCY_CONFIRM_NOTFREE]
-是否刷新商店？
+Are you sure to refresh the store? 
 
 [MODE_PREVIEW]
 Preview
@@ -33614,7 +33614,7 @@ Complete 6 levels/matches of Endless Challenge or Two-Player Mode.
 幸运许愿池礼包
  
 [THE_MATERIAL_NOT_ENOUGH]
-{NAME}不足
+Oops, you don't have enough {NAME}!
  
 [WISHING_POOL_GRAND]
 累计许愿{NUMBER}次
@@ -34201,31 +34201,31 @@ Flower Pot和稀有挂件碎片:Speed-Up Flower Pot、Sun-Concentrating Flower P
 造雪神器礼包
 
 [PLANT_CLASSIFY]
-植物分类
-
+Plant classification 
+ 
 [NEW_ADDITION_GENE]
-新增基因序列
-
+ New gene sequence 
+ 
 [BATTLE_ORDER_SUMMER]
-夏日庆典
-
+Summer Celebration 
+ 
 [BATTLE_ORDER_TAB5_SUMMER]
-夏日庆典
-
+Summer Celebration 
+ 
 [DRAW_TEN]
-抽取十次
-
+Try 10 times 
+ 
 [BATTLE_ORDER_DESCRIPTION_TITLE_SUMMER]
-立夏庆典活动说明
-
+ Description of the Beginning of Summer Celebration 
+ 
 [ACCESSORY_PACKAGE]
-挂件背包
+Pendants
 
 [ACCESSORY_USE_BY_PLANT]
-正在被{PLANT}使用
+Currently using in {PLANT} 
 
 [NEW_AVATAR_EFFECT]
-装扮效果
+Costume effects
 
 [SUMMER_MEMORIES_HEAD_ID_25385]
 Peach Blossoms
@@ -48571,7 +48571,7 @@ Shoot green, toxic water droplets and shoots a large, green bubble at the end th
 
 [PASSIONFLOWER]
 Maypop Mechanic
-Lotus Shooter
+
 [PASSIONFLOWER_DESCRIPTION_HEADER]
 Can deal continuous damage to the lanes above and below.
 
@@ -57962,7 +57962,7 @@ Jade League
 Jade
 
 [JOUST_LEAGUE_NAME_NONPLAYER]
-New Player
+Overall Ranking
 
 [JOUST_LEAGUE_NAME_SILVER]
 Silver League
@@ -61884,7 +61884,7 @@ When a plant dies, it turns into a seed that can't be planted on. After some tim
 {NPC_ENTER:winnie}{SAY}These levels can be tough nuts to crack.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_A_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}We must protect that walnut. I want to use it as a bowling ball!
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}We must protect that Wall-nut. I want to use it as a bowling ball!
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_A_3]
 {TIRED:winnie}We need to make sure it doesn't get eaten by zombies.
@@ -69159,52 +69159,52 @@ Lucky Chests
 Sun Gear
 
 [SUN_GEAR_1_DES]
-不知从哪辆车上掉下的齿轮, 竟然还有阳光的图案. 
+A gear that fell from an unknown vehicle, surprisingly decorated with a sun pattern.
 
 [SUN_GEAR_1_BOOST_DES]
-效果: 1.阳光产出增加20点并略微提升防护能力. ^FF0000 仅限四阶阳光系植物使用^oldclr 2.种植冷却时间缩短15% 3.未解锁
+Effect: 1. Increases sunlight output by 20 points and slightly enhances defense capability. ^FF0000 Limited to fourth-tier sunlight plants^oldclr 2. Reduces planting cooldown by 15% 3. Not unlocked
 
 [SUN_GEAR_1_BOOST_DES_1]
-效果: 1.阳光产出增加20点并略微提升防护能力. ^FF0000 仅限四阶阳光系植物使用^oldclr 2.种植冷却时间缩短18% 3.未解锁
+Effect: 1. Increases sunlight output by 20 points and slightly enhances defense capability. ^FF0000 Limited to fourth-tier sunlight plants^oldclr 2. Reduces planting cooldown by 18% 3. Not unlocked
 
 [SUN_GEAR_1_BOOST_DES_2]
-效果: 1.阳光产出增加20点并略微提升防护能力. ^FF0000 仅限四阶阳光系植物使用^oldclr 2.种植冷却时间缩短21% 3.未解锁
+Effect: 1. Increases sunlight output by 20 points and slightly enhances defense capability. ^FF0000 Limited to fourth-tier sunlight plants^oldclr 2. Reduces planting cooldown by 21% 3. Not unlocked
 
 [SUN_GEAR_1_BOOST_DES_3]
-效果: 1.阳光产出增加25点并略微提升防护能力. ^FF0000 仅限四阶阳光系植物使用^oldclr 2.种植冷却时间缩短24% 3.种植时返回15%消耗阳光
+Effect: 1. Increases sunlight output by 25 points and slightly enhances defense capability. ^FF0000 Limited to fourth-tier sunlight plants^oldclr 2. Reduces planting cooldown by 24% 3. Returns 15% of sunlight cost when planting
 
 [SUN_GEAR_1_BOOST_DES_4]
-效果: 1.阳光产出增加25点并略微提升防护能力. ^FF0000 仅限四阶阳光系植物使用^oldclr 2.种植冷却时间缩短27% 3.种植时返回20%消耗阳光
+Effect: 1. Increases sunlight output by 25 points and slightly enhances defense capability. ^FF0000 Limited to fourth-tier sunlight plants^oldclr 2. Reduces planting cooldown by 27% 3. Returns 20% of sunlight cost when planting
 
 [SUN_GEAR_1_BOOST_DES_5]
-效果: 1.阳光产出增加25点并略微提升防护能力. ^FF0000 仅限四阶阳光系植物使用^oldclr 2.种植冷却时间缩短30% 3.种植时返回25%消耗阳光
+Effect: 1. Increases sunlight output by 25 points and slightly enhances defense capability. ^FF0000 Limited to fourth-tier sunlight plants^oldclr 2. Reduces planting cooldown by 30% 3. Returns 25% of sunlight cost when planting
 
 [TRAVEL_TOGETHER_1]
 Chronocapsule
 
 [TRAVEL_TOGETHER_1_DES]
-埋入地下的时光胶囊, 里面装着和玩伴之间的欢乐回忆, 长大再打开吧！
+A time capsule buried underground, filled with joyful memories shared with companions, open it when you grow up!
 
 [TRAVEL_TOGETHER_1_BOOST_DES]
-效果: 1.种植冷却时间缩短15%   2.休息时间缩短10%    3.未解锁
+Effect: 1. Reduces planting cooldown by 15% 2. Reduces rest time by 10% 3. Not unlocked
 
 [TRAVEL_TOGETHER_1_BOOST_DES_1]
-效果: 1.种植冷却时间缩短20%   2.休息时间缩短15%    3.未解锁
+Effect: 1. Reduces planting cooldown by 20% 2. Reduces rest time by 15% 3. Not unlocked
 
 [TRAVEL_TOGETHER_1_BOOST_DES_2]
-效果: 1.种植冷却时间缩短25%   2.休息时间缩短20%    3.未解锁
+Effect: 1. Reduces planting cooldown by 25% 2. Reduces rest time by 20% 3. Not unlocked
 
 [TRAVEL_TOGETHER_1_BOOST_DES_3]
-效果: 1.种植冷却时间缩短30%   2.休息时间缩短25%    3. 种植时返回15%消耗阳光
+Effect: 1. Reduces planting cooldown by 30% 2. Reduces rest time by 25% 3. Returns 15% of sunlight cost when planting
 
 [TRAVEL_TOGETHER_1_BOOST_DES_4]
-效果: 1.种植冷却时间缩短35%   2.休息时间缩短30%    3. 种植时返回20%消耗阳光
+Effect: 1. Reduces planting cooldown by 35% 2. Reduces rest time by 30% 3. Returns 20% of sunlight cost when planting
 
 [TRAVEL_TOGETHER_1_BOOST_DES_5]
-效果: 1.种植冷却时间缩短40%   2.休息时间缩短35%    3. 种植时返回25%消耗阳光
+Effect: 1. Reduces planting cooldown by 40% 2. Reduces rest time by 35% 3. Returns 25% of sunlight cost when planting
 
 [DANGER_ROOM_TALE_LEVEL_NAME]
-兔子洞仙境-第 {LEVEL_NUMBER} 关
+Rabbit Hole Wonderland - Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_TALE_TITLE_WELCOME]
 Welcome to Wonderland Rabbit Hole!
@@ -71683,11 +71683,11 @@ Glacial Nian Beast
 超级玉米
 
 [AUTUMN_HARVEST_GACHA_RECORD_TITLE]
-抽取记录
-
+ Extract records 
+ 
 [AUTUMN_HARVEST_REWARD_PLAYER_TITLE]
-中奖名单
-
+Winners List 
+ 
 [PRODUCT_AUTUMN_HARVEST_6_SHORTDESC]
 农场大作战初级礼包
 
@@ -71752,7 +71752,7 @@ Glacial Nian Beast
 是否花费 {NUMS} 农场金币？
 
 [AUTUMN_HARVEST_REWARD_PLAYER_DESC]
-^FFFF00 {NAME} ^oldclr 抽取了 ^0000FF {ITEM} ^oldclr
+Congratulations ^FFFF00 {NAME}! ^oldclr You got ^0000FF {ITEM} ^oldclr
 
 [AUTUMN_HARVEST_REWARD_PLAYER_WITH_ITEMCOUNT_DESC]
 ^FFFF00 {NAME} ^oldclr 抽取了 ^0775F7 {ITEM} ^oldclr x {NUMS} 
@@ -71849,32 +71849,32 @@ Wicked Empress Zombie
 魔镜皇后僵尸每天花大量的时间沉醉在魔镜中的自己. 她幻想魔镜中的自己比现在更强大, 更美丽. 某一天, 魔镜终于回应了皇后的愿望. 
 
 [NIGHTTHETOY_TIP]
-黑洞商店
+Black Hole Store 
 
 [NIGHTTHETOY_SHOP]
-黑洞商店
+ Black Hole Store 
 
 [NIGHTTHETOY_TASK]
-活动任务
+Event tasks 
 
 [NIGHTTHETOY_GACHA]
-抽取记录
-
+Records 
+ 
 [NIGHTTHETOY_TIP_FAILED]
-奖券数量不足
+ Insufficient number of coupons 
 
 [NIGHTTHETOY_GUARANTEE]
-再抽取 {NUMS} 次必得大奖
-
+ Draw {NUMS} more times to win the grand prize 
+ 
 [NIGHT_THE_TOY_REWARD_PLAYER_WITH_ITEMCOUNT_DESC]
-^FFFF00 {NAME} ^oldclr 抽取了 ^0775F7 {ITEM} ^oldclr x {NUMS} 
+Congratulations to ^FFFF00 {NAME}! ^oldclr You got ^0775F7 {ITEM} ^oldclr x {NUMS} 
 
 [NIGHT_THE_TOY_REWARD_PLAYER_DESC]
-^FFFF00 {NAME} ^oldclr 抽取了 ^0000FF {ITEM} ^oldclr
+Congratulations to ^FFFF00 {NAME}! ^oldclr You got ^0000FF {ITEM} ^oldclr
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-黑洞奇妙旅
-
+ Black Hole Fantastic Journey 
+ 
 [TOYNIGHT_TITLE]
 Black Hole Fantastic Journey
 
@@ -71983,13 +71983,13 @@ Hard Mode
 Event Ended
 
 [MINIGAME_COLLECTION_TIPS_INFO]
-活动说明
+Event Description 
 
 [MINIGAME_COLLECTION_SHORT_DESCRIPTION]
  Participate in fun competition games and receive generous rewards! 
 
 [MINIGAME_COLLECTION_UNLOCK_DESC]
-当前关卡未解锁
+The current level is not unlocked 
 
 [ACTIVITY_NEW_MINIGAME_CAMELCARD]
 Mummy Memory
@@ -72804,7 +72804,7 @@ Produces 2 additional mines upon landing, instant-kills small to medium-sized zo
 Activates upon landing, can block 3 giant hammer hits
 
 [PARALLEL_PUMPKIN_DESCRIPTION_HEADER]  
-Not as strong as the original walnut wall, but stronger than the walnut wall
+Not as strong as the original Wall-nut, but better
 
 [PARALLEL_PUMPKIN_DESCRIPTION]  
 Activates upon landing, can block 3 giant hammer hits
