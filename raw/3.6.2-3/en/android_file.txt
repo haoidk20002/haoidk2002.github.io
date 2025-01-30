@@ -64461,25 +64461,25 @@ Host
 Guest
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE]
-Your lineup^oldclr ^00FF00 Preparing ^oldclr
+Your Status: ^oldclr ^00FF00 Preparing ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY]
-Your lineup^oldclr ^00FF00 Ready ^oldclr
+Your Status: ^oldclr ^00FF00 Ready ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_WAITING]
 ^oldclr ^00FF00 Waiting to enter ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE_OPPONENT]
-Guest^oldclr ^00FF00 Preparing ^oldclr
+Guest Status: ^oldclr ^00FF00 Preparing ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY_OPPONENT]
-Guest^oldclr ^00FF00 Ready ^oldclr
+Guest Status: ^oldclr ^00FF00 Ready ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE_HOST]
-Host^oldclr ^00FF00 Preparing ^oldclr
+Host Status: ^oldclr ^00FF00 Preparing ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY_HOST]
-Host^oldclr ^00FF00 Ready ^oldclr
+Host Status: ^oldclr ^00FF00 Ready ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_KICK_BTN]
 Kick Out
@@ -64491,10 +64491,10 @@ Room Code: {NUMBER}
 Copy
 
 [NEW_PVP_FREE_TO_PLAY_MATCHING_SCREEN_BTN_READY]
-Ready
+Start/Cancel
 
 [NEW_PVP_FREE_TO_PLAY_MATCHING_SCREEN_BTN_IS_READY]
-Ready
+Is ready!
 
 [NEW_PVP_FREE_TO_PLAY_PLANT_EDIT_CONFIRM]
 Save Lineup
