@@ -12413,7 +12413,7 @@ Buy
 Check monthly card
 
 [LET_ME_THINK]
-让我想想
+Cancel
 
 [FESTIVALGAMEMODE_CANNONGAME_TITLE]
 Coconut Cannon
@@ -14681,31 +14681,31 @@ Upgrade Pendant
 The following resources are required to upgrade this pendant: {NUM1} {MAT1}, {NUM2} {MAT2} and {NUM3} {MAT3}. Would you like to upgrade?
 
 [ACCESSORY_STEADY_SUCCESS_INFO]
-恭喜您获得 ^FF0000 {LEVEL}阶{NAME} ^oldclr 
+ Congratulations! You have upgraded ^FF0000 {NAME} to level {LEVEL}! ^oldclr 
 
 [ACCESSORY_STEADY_SUCCESS_TITLE]
 Successful!
 
 [MAT_SPACE_TIME_CRYSTAL]
-时空水晶
+Space-time Crystal
 
 [MAT_SPACE_TIME_CRYSTAL2]
-时空水晶
+Space-time Crystal
 
 [MAT_SPACE_TIME_CRYSTAL3]
-时空水晶
+Space-time Crystal
 
 [MAT_SPACE_TIME_DUST]
-时空粉尘
+Space-time Dust
 
 [MAT_SPACE_TIME_DUST2]
-时空粉尘
+Space-time Dust
 
 [MAT_SPACE_TIME_DUST3]
-时空粉尘
+Space-time Dust
 
 [MAT_SPACE_TIME_DUST4]
-时空粉尘
+Space-time Dust
 
 [CONFIRM_RESET_TITLE]
 挂件重置
@@ -15594,7 +15594,7 @@ Your resources are abnormal or your connection is unstable, please try again lat
 三周年限量抱枕
 
 [GEILIVABLE_LOTTERY_BONUS_TITLE]
-You got these rewards!
+You Got These Rewards!
 
 [UNIQUE_FERTILIZER]
 Rare Fertilizer
@@ -25951,7 +25951,7 @@ Spin
 vivo游戏中心特权
 
 [PACKETS_DETAILS]
-礼包详情
+Packet Details
 
 [LIMIT_LOTTERY_PACKETS_DESCRIPTION]
 购买^FFFF00 6000 ^oldclr 金币赠送^FFFF00 60 ^oldclr 紫金币
@@ -28002,7 +28002,7 @@ A、优选橙色植物礼包：购买礼包获得^FF0000^ 植物碎片*10^oldclr
 B、橙色植物礼包：购买礼包获得^FF0000^ 植物碎片*10^oldclr^和10-450钻石，25%的概率获得^FF0000^ 植物碎片*30^oldclr^；
 C、紫色植物礼包：购买礼包获得^FF0000^ 植物碎片*10^oldclr^和10-270钻石，20%的概率获得^FF0000^ 植物碎片*30^oldclr^；
 D、定向植物碎片礼包：购买礼包获得^FF0000^ 定向植物碎片*10^oldclr^和10-900钻石，15%的概率获得^FF0000^ 万能碎片*30^oldclr^；
-E、挂件礼包：购买礼包获得^FF0000^ 时空粉尘*150^oldclr^和10-450钻石，30%的概率获得^FF0000^ 紫手套碎片*15^oldclr^；
+E、挂件礼包：购买礼包获得^FF0000^ Space-time Dust*150^oldclr^和10-450钻石，30%的概率获得^FF0000^ 紫手套碎片*15^oldclr^；
 F、戴夫秘宝券礼包：购买礼包获得^FF0000^ 秘宝券*8^oldclr^和10-1500钻石，15%的概率获得^FF0000^ 秘宝券*22^oldclr^；
 G、营养液礼包：购买礼包获得^FF0000^ 橙色营养液*10^oldclr^和10-450钻石，20%的概率获得^FF0000^ 进阶书*1^oldclr^；
 H、钻石礼包：购买礼包获得^FF0000^ 钻石*300^oldclr^和10-450钻石，35%的概率获得^FF0000^ 钻石*1000^oldclr^；
@@ -28011,102 +28011,102 @@ J、秒杀礼包：购买礼包获得^FF0000^ 植物碎片*10^oldclr^和10-1000�
 K、神器材料礼包：购买礼包获得^FF0000^ 时空能量罐*20^oldclr^和10-180钻石，35%的概率获得时空立方*10；
 
 [CARNIVAL]
-狂欢嘉年华
-
+ Carnival 
+ 
 [LIMIT_GIFT]
-限时礼遇
-
+ Limited time offer 
+ 
 [ACCUMU_GIFT]
-累计好礼
-
+Accumulated gifts 
+ 
 [DAILY_GIFT_REFRESH]
-每日礼包刷新
-
+ Daily gift pack refresh 
+ 
 [NEXT_FLASH_SALE]
-距离下一次秒杀
+Next flash sale
 
 [FLASH_SALE_NOTICE]
-秒杀预告
+Flash sale notice
 
 [FLASH_SALE_LIMITED]
-秒杀剩余
+Flash sale limited
 
 [ACTIVITY_LEFT]
-活动仅剩
-
+Activities left 
+ 
 [SERVER_LIMIT]
-全服剩余：{NUM}份
+Server's remaining: {NUM}
 
 [TICKET_BUY]
-兑换券购买
-
+Buy redemption vouchers 
+ 
 [TICKET_NUMBER]
-兑换券x{NUM}
-
+ Redemption voucher x{NUM} 
+ 
 [ITEM_SOLD_OUT]
-商品已售完
-
+The product is sold out 
+ 
 [GET_RANDOM_BUNDLE_OFFER]
-随机获得一款
-当天在售礼包
+Get a random one 
+Gift packs on sale today 
 
 [LIMITED_BUNDLE_OFFER]
-限时秒杀特惠包
-
+Limited time flash sale special package 
+ 
 [DAILY_BUNDLE_OFFER]
-礼遇超值礼包
-
+Gift value package 
+ 
 [START_SALE_TIME]
-开售时间
-
+Sale time 
+ 
 [SMALL_PACKET_TICKET]
-小包兑换券
-
+Small packet exchange voucher 
+ 
 [MID_PACKET_TICKET]
-中包兑换券
+Mid redemption voucher 
 
 [BIG_PACKET_TICKET]
-大包兑换券
+ Big bag exchange voucher 
 
 [SMALL_BAG_TICKET]
-小袋兑换券
-
+Small bag redemption voucher 
+ 
 [MID_BAG_TICKET]
-中袋兑换券
-
+Medium bag exchange voucher 
+ 
 [BIG_BAG_TICKET]
-大袋兑换券
-
+Big Bag Exchange Voucher 
+ 
 [LIMITED_FLASH_SALE_PACKET]
-{ITEM}限时秒杀特惠包
-
+{ITEM} Limited time flash sale special package 
+ 
 [SUPER_LUCKY_PACKET]
-超级福袋
-
+Super Lucky Bag 
+ 
 [DAILY_SALE_PACKET]
-{ITEM}礼遇超值礼包
-
+ {ITEM} Value-for-money gift package 
+ 
 [BUY_MUST_GET]
-购买必得：
-
+You will get: 
+ 
 [BUY_MAY_GET]
-概率获得：
-
+Probability of obtaining: 
+ 
 [TOTAL_SERVER_BUY_TIMES]
-全服购买次数
-
+Number of purchases in the entire server
+ 
 [TOTAL_SERVER_BUY_TIMES_REWARD]
-达成{NUM}次奖励
-
+Achieve {NUM} rewards 
+ 
 [TOTAL_SERVER_BUY_REWARD_TIPS]
-小贴士：领取全服进度奖励，需要至少购买1次礼包哦~
-
+Tips: To receive the full server progress reward, you need to purchase at least one gift package~ 
+ 
 [PERSON_ACCUMU_PROGRESS]
-个人累计进度
-
+Personal cumulative progress 
+ 
 [PACKET_BUY_TIMES]
-购买礼包次数：
-
+Number of gift pack purchases: 
+ 
 [CARNIVAL_MARQUEE_TEMPLATE]
 Congratulations to player {NAME} who got the bonus reward in the Carnival event and recieved {INFO}!
  
@@ -28144,11 +28144,11 @@ Remaining Zombies: {NUMBER}
 Remaining: {NUMBER}
 
 [CARD_GAME_CHALLENGE_NAME]
-牌面纷争
-
+ Card Clash
+ 
 [CARD_GAME_CHALLENGE]
-合理利用卡牌，战胜敌人
-
+Use cards reasonably to defeat the enemy 
+ 
 [MAZE_STATUE_DIED_TIP]
 You ran out of hammers. Would you like to spend ^00e46e {GEM_COUNT} gems ^oldclr to buy more?
 
@@ -28294,23 +28294,22 @@ Event 14 Title
 Event 14 Description
 
 [DICE_NOT_ENOUGH_DIALOG_TITLE]
-电力豆不足
-
+Not enough power beans 
+ 
 [DICE_NOT_ENOUGH_DIALOG_TEXT]
-购买更多电力豆吗？
-
+Oops, you don't have enough Power Beans for that! Would you like to buy more?
+ 
 [DICE_WILL_CLEAR_DIALOG_TITLE]
-系统提示
 
 [DICE_WILL_CLEAR_DIALOG_TEXT]
-您的电力豆当前剩余{NUMBER}个，将在明天重置，是否继续玩下去？
-
+ You currently have {NUMBER} power beans remaining, which will be reset tomorrow. Do you want to continue playing? 
+ 
 [DICE_WILL_CLEAR_DIALOG_OK]
-退出
+Quit
 
 [DICE_WILL_CLEAR_DIALOG_CANCEL]
-玩下去
-
+ Keep playing 
+ 
 [OVERVIEW_LABEL]
 Overview
 
@@ -33466,7 +33465,7 @@ Gluttonous Snapdragon *10
 小小心愿3：基因原质*15 ；万能基因币*450 ；钻石*300
 普通梦愿1：火龙草碎片碎片*10 ；强酸柠檬碎片*10 ；仙人掌碎片*10
 普通梦愿2：炸裂葡萄彩气球装扮 ；强酸柠檬圣诞装扮 ；装扮券*300
-普通梦愿3：时空水晶*30 ；时空粉尘*150 ；金属弹弓碎片*15
+普通梦愿3：Space-time Crystal*30 ；Space-time Dust*150 ；金属弹弓碎片*15
 远大宏愿1：时空立方*30 ；时空能量罐*200 ；棱镜神器*1
 远大宏愿2：暗影豌豆碎片*30 ；杜英投手碎片*30 ；潜行开口箭碎片*30
 远大宏愿3：蛮族大黄碎片*100 ；日月金银花碎片*100 ；定向碎片*100
@@ -33503,7 +33502,7 @@ Rafflesia碎片*10     6.00%    Chomper碎片*10     4.50%
 小小心愿3：基因原质*15 ；万能基因币*450 ；钻石*300
 普通梦愿1：猫尾草碎片*10 ；尖刺秋葵碎片*10 ；吸血牛肝菌碎片*10
 普通梦愿2：炸裂葡萄彩气球装扮 ；强酸柠檬圣诞装扮 ；装扮券*300
-普通梦愿3：时空水晶*30 ；时空粉尘*150 ；金属弹弓碎片*15
+普通梦愿3：Space-time Crystal*30 ；Space-time Dust*150 ；金属弹弓碎片*15
 远大宏愿1：时空立方*30 ；时空能量罐*200 ；棱镜神器*1
 远大宏愿2：暗影豌豆碎片*30 ；杜英投手碎片*30 ；潜行开口箭碎片*30
 远大宏愿3：蛮族大黄碎片*100 ；日月金银花碎片*100 ；定向碎片*100
@@ -33913,21 +33912,33 @@ Customer service will contact you within 3-5 working days.
 http://canvas.popcap.com/games/plants-vs-zombies-2/ios/{DEVICETYPE}
 
 [SETTINGS_PRIVACY_TITLE]
+Download/Update the translation patch
+
+[SETTINGS_PRIVACY_TITLE_ORIGINAL]
 Privacy Policy
 
 [SETTINGS_PRIVACY_URL]
-http://filead.talkyun.com.cn/tw/twys.htm
+https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch
 
 [SETTINGS_PRIVACY_URL_ANDROID]
+https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch
+
+[SETTINGS_PRIVACY_URL_ORIGINAL]
 http://filead.talkyun.com.cn/tw/twys.htm
 
 [SETTINGS_TERMS_TITLE]
+Donate to me!
+
+[SETTINGS_TERMS_TITLE_ORIGINAL]
 Terms of Service Agreement
 
 [SETTINGS_TERMSOFSERVICE_URL]
-http://filead.talkyun.com.cn/tw/twyh.htm
+https://buymeacoffee.com/nvdtn19
 
 [SETTINGS_TERMSOFSERVICE_URL_ANDROID]
+https://buymeacoffee.com/nvdtn19
+
+[SETTINGS_TERMSOFSERVICE_URL_ORIGINAL]
 http://filead.talkyun.com.cn/tw/twyh.htm
 
 [ACCOUNT_REMOVE_CONTENT_1]
@@ -41015,8 +41026,8 @@ Event Rules:
 自选奖励3（桑葚爆破手碎片*10  神器祝福券*30  虎头菇碎片*10）1.89%
 基因原质*4      11.50%            万能基因币*60   11.50%
 时空能量罐*10   5.00%            时空立方*2      3.70%
-时空粉尘*10     13.00%           时空粉尘*20     5.00%
-时空水晶*5      3.20%              时空水晶*1      16.00%
+Space-time Dust*10     13.00%           Space-time Dust*20     5.00%
+Space-time Crystal*5      3.20%              Space-time Crystal*1      16.00%
 神秘水晶*6000   8.00%           神秘水晶*18000  2.50%
 钻石*200        2.50%              钻石*50         13.00%
 
@@ -47100,16 +47111,16 @@ Shadow Vanilla
 First place in the plant design competition: Ricky Kim
 
 [SHADOWVANILLA_DESCRIPTION_HEADER]
-Shadow Vanilla can put zombies in a "vulnerable" state by charging its leaves while in its shadow form.
+Shadow Vanilla can put zombies in a "vulnerable" state by charging its leaves while in its shadow state.
 
 [SHADOWVANILLA_TOOLTIP]
-Put zombies in a "vulnerable" state by charging its leaves while in its shadow form.
+Put zombies in a "vulnerable" state by charging its leaves while in its shadow state.
 
 [SHADOWVANILLA_PRODUCT_SHORT_DESC]
-Put zombies in a "vulnerable" state by charging its leaves while in its shadow form.
+Put zombies in a "vulnerable" state by charging its leaves while in its shadow state.
 
 [SHADOWVANILLA_AVATAR_NAME]
-Put zombies in a "vulnerable" state by charging its leaves while in its shadow form.
+Put zombies in a "vulnerable" state by charging its leaves while in its shadow state.
 
 [STORE_PRODUCT_AVATAR_SHADOWVANILLA]
 When powered it will shoot another tornado after the main three that splits in a "+" pattern if it hits a zombie. When not powered at the end of the nine tornadoes, a small explosion will spawn in the middle.
@@ -54466,7 +54477,7 @@ You have unlocked 3 stars of Pirate Seas!
 Earn more stars in Pirate Seas levels to unlock new plants and unlock Wild West!
 
 [AWARD_SCREEN_NEW_BONUS]
-You got new BONUS!
+You got a new BONUS!
 
 [AWARD_SCREEN_WORLDTROPHY_KONGFU]
 You unlocked 3 stars in the lower half of the Kong-fu World!
@@ -56588,7 +56599,7 @@ OK
 Banned plants
 
 [LEVEL_EDITOR_BAN_PLANT_SET]
-Disable plant settings
+Banned plants settings
 
 [LEVEL_EDITOR_BAN_PRODUCT_PLANT]
 Ban production plants
@@ -69490,68 +69501,68 @@ Heartshock Grass Costume
 Dragon Bruit
 
 [DRAGONBRUIT_DESCRIPTION]
-{KEYWORD}范围: {STAT}自身所在的上中下三行
-{KEYWORD}特点: {STAT}当面前存在僵尸时对僵尸进行抛投攻击, 周围存在月光花时会进入暗影形态
-{KEYWORD}植物特征: {STAT}红色植物, 暗影系植物
+{KEYWORD}Range: {STAT} The upper, middle and lower rows
+ {KEYWORD}Special: {STAT} When there are zombies in front of it, it will throw and attack the zombies. When there are Moonflowers around, it will enter the shadow state. 
+{KEYWORD}Plant characteristics: {STAT}Red plants, shadow plants 
+ 
 {FLAVOR} While each head of Dragon Bruit doesn't have their own name, they do each have their own unique personality. The Center head is the calm, rational one. While Lefty is a bit reserved and shiy. Righty is... well... always right.
 
 [DRAGONBRUIT_DESCRIPTION_HEADER]
-对上中下三行的僵尸攻击, 周围存在月光花时会进入暗影形态
+Launches 3 explosive seed pod projectiles at zombies across 3 adjacent lanes. When destroyed, Dragon Bruit will split into 3 smaller plants.
 
 [DRAGONBRUIT_TOOLTIP]
-对上中下三行的僵尸攻击, 周围存在月光花时会进入暗影形态
+Lobs 3 projectiles down 3 lanes.
 
 [DRAGONBRUIT_PRODUCT_SHORT_DESC]
-对上中下三行的僵尸攻击, 周围存在月光花时会进入暗影形态
+Lobs 3 projectiles down 3 lanes.
 
 [DRAGONBRUIT_SKILL_LEVEL1]
-暗影之力
+Shadow Power
 
 [DRAGONBRUIT_SKILL_LEVEL1_DES]
-当自身处于普通暴君火龙果状态时, 每次攻击有30%的概率使自身进入持续10s的暗影形态；已处于暗影状态时每次攻击有30%的概率使本次攻击对本格区域内的所有僵尸造成攻击
+When in the normal state, each attack has a 30% chance to enter the shadow state for 10s; when already in shadow state, each attack has a 30% chance to deal damage to all zombies in the current grid area.
 
 [DRAGONBRUIT_SKILL_LEVEL2]
-暗影融合
+Shadow Fusion
 
 [DRAGONBRUIT_SKILL_LEVEL2_DES]
-当自身处于普通暴君火龙果状态时, 每次攻击有50%的概率使自身进入持续15s的暗影形态；已处于暗影状态时每次攻击有50%的概率使本次攻击对本格区域内的所有僵尸造成攻击
+When in the normal state, each attack has a 50% chance to enter the shadow state for 15s; when already in shadow state, each attack has a 50% chance to deal damage to all zombies in the current grid area.
 
 [DRAGONBRUIT_SKILL_LEVEL5]
-未知突变
+Unknown Mutation
 
 [DRAGONBRUIT_SKILL_LEVEL5_DES]
-每隔20s暴君火龙果中间头随机转变为特殊属性的火龙果头, 攻击时, 暴君火龙果会抛出特殊属性的头颅；特殊属性的火龙果头死亡后将会产生一次爆炸. 
+Every 20s, the middle head randomly transforms into a special attribute Pitaya head. When attacking, it will throw a special attribute head; when the special attribute Pitaya head dies, it will cause an explosion.
 
 [STORE_PRODUCT_AVATAR_DRAGONBRUIT_TITLE]
 Dragon Bruit Costume
 
 [DRAGONBRUIT_AVATAR_NAME]
-暴君火龙果装扮
+Dragon Bruit Costume
 
 [STORE_PRODUCT_AVATAR_DRAGONBRUIT]
-非暗影状态下立即对场上所有的单位发动一次暗影状态下的抛射攻击；若当前已处于暗影状态下, 则提高本次大招的伤害. 
+In non-shadow state, immediately launch a shadow state projectile attack on all units on the field; if already in shadow state, increase the damage of this ultimate attack.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在暴君火龙果右侧上中下三行时, 暴君火龙果会向前方投掷攻击. 暴君火龙果死亡后将会分裂重生, 重新在场上随机生成3个小火龙果. 在暗影状态下, 暴君火龙果的攻击将会使僵尸受到中毒伤害
+When zombies appear in the top, middle, or bottom rows to the right, it will throw an attack forward. Upon death, it will split and respawn, randomly generating 3 small Pitayas on the field. In shadow state, the attacks will inflict poison damage on zombies.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL2_DES]
-当自身处于普通暴君火龙果状态时, 每次攻击有30%的概率使自身进入持续10s的暗影形态；已处于暗影状态时每次攻击有30%的概率使本次攻击对本格区域内的所有僵尸造成攻击效果
+When in the normal state, each attack has a 30% chance to enter the shadow state for 10s; when already in shadow state, each attack has a 30% chance to deal damage to all zombies in the current grid area.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL3_DES]
-当自身处于普通暴君火龙果状态时, 每次攻击有50%的概率使自身进入持续15s的暗影形态；已处于暗影状态时每次攻击有50%的概率使本次攻击对本格区域内的所有僵尸造成攻击效果
+When in the normal state, each attack has a 50% chance to enter the shadow state for 15s; when already in shadow state, each attack has a 50% chance to deal damage to all zombies in the current grid area.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+When planted, there is a medium chance to immediately release an ultimate ability when fed Plant Food.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL5_DES]
-每隔20s暴君火龙果随机产生一个冰/火/雷属性的火龙果, 当存在可以攻击的目标时, 暴君火龙果会向僵尸抛射冰/火/雷属性的火龙果并在僵尸面前一格立即生成一个对应属性的火龙果, 生成的特殊属性的火龙果攻击时造成属性伤害. 特殊属性的火龙果死亡后产生一次爆炸, 对僵尸造成对应属性的爆炸伤害. 
+Every 20s, randomly generates an ice/fire/thunder attribute. When there is a target to attack, throw an ice/fire/thunder attribute at the zombies, and a corresponding attribute will immediately spawn in the grid in front of the zombies. The special attribute  deals elemental damage when attacking. Upon death, the special attribute  causes an explosion, dealing elemental explosion damage to zombies.
 
 [DRAGONBRUIT_PLANTFOOD_DESCRIPTION]
-立即对当前场上所有可攻击的单位发动一次抛射攻击(暗影形态下抛射两轮)抛射的子弹对单格内的所有僵尸都会造成攻击效果；对小火龙果施加能量豆时, 小火龙果会立即成长为暴君火龙果
+Immediately launch a projectile attack on all attackable units on the field (two rounds of projectiles in shadow state). The projectiles deal damage to all zombies in the targeted grid; when a Plant Food is applied to a small Pitaya, it will immediately grow into a Dragon Bruit.
 
 [DRAGONBRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
-非暗影状态下立即对场上所有的单位发动一次暗影状态下的抛射攻击, 并立即进入持续10s的暗影形态；若当前已处于暗影状态下, 则提高本次大招的伤害. 
-
+In non-shadow state, immediately launch a shadow state projectile attack on all units on the field and enter shadow state for 10s; if already in shadow state, increase the damage of this ultimate attack.
 
 [gloomvine]
 Gloom Vine
@@ -70168,6 +70179,7 @@ Immediately refresh the cooldown of card slots. For the next 10 seconds, only pl
 
 [MINIGAME_PERK_TIME_BACK]
 Revert to the game screen from 5 steps ago, restoring consumed moves (cannot exceed the initial move limit). Usable {NUMBER} times.
+
 
 [MINI_GAME_PERK_NAME_ZOMBIE_SPEED_REDUCED]
 Zombie Movement Speed Reduced
@@ -71715,10 +71727,10 @@ Winners List
 其他奖励: 
 	基因原质*4(12.50%)
 	万能基因币*60(12.50%)
-	时空粉尘*10(14.00%)
-	时空粉尘*20(7.00%)
-	时空水晶*5(5.20%)
-	时空水晶*1(18.00%)
+	Space-time Dust*10(14.00%)
+	Space-time Dust*20(7.00%)
+	Space-time Crystal*5(5.20%)
+	Space-time Crystal*1(18.00%)
 	神秘水晶*6000(16.00%)
 	神秘水晶*18000(6.00%)
 	秘宝券*1(5.14%)
@@ -73245,7 +73257,7 @@ Congratulations ^FFFF00 {NAME} ^oldclr on winning the Eleventh Day of the New Ye
 Congratulations ^FFFF00 {NAME} ^oldclr on winning the Twelfth Day of the New Year Grand Prize!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC3_1]  
-^0775F7 {ITEM} ^oldclr x {NUMS}
+You got ^0775F7 {ITEM} ^oldclr x {NUMS}!
 
 [REDPACKETWIDGET_DES_TITLE]  
 New Year Red Packet
