@@ -2115,10 +2115,10 @@ Bloomerang shoots boomerangs down his lane, dealing damage to up to 3 different 
 攻击发射速度更快伤害更高的超级豌豆。
 
 [GATLINGPEA_PLANTFOOD_DESCRIPTION]
-火力全开拿出很多把机枪射击右侧三行敌人。
-
+ Open fire and take out many machine guns to shoot the three rows of enemies on the right. 
+ 
 [GATLINGPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-火力全开拿出很多把机枪射击右侧三行敌人，^ff0000^使用包括冰弹火弹鬼火弹在内的一切弹药。^oldclr^
+ Gatling Pea now fire at full power and use multiple machine guns to shoot at the three rows of enemies on the right. ^ff0000^Utilize all types of ammunition, including ice bullets, fire bullets, and ghost fire bullets.^oldclr^
 
 [PHATBEET_NEW_SKILL_LEVEL1_DES]
 当有僵尸出现在以魔音甜菜为中心的3×3区域内时，魔音甜菜敲打手中的鼓制造震波，并对范围内的僵尸造成伤害。每震动4－6次，魔音甜菜会发动一次双倍伤害的重音击。
@@ -11977,7 +11977,7 @@ Report! We ran into a merchant while we were adventuring and Penny said he had w
 No thanks
 
 [PLANT_ADVENTURE_SURPRISE_BUTTON_OPEN]
-Buy for {GEMS} Gems
+{GEMS}
 
 [PLANT_ADVENTURE_SURPRISE_BUTTON_FREE]
 Free
@@ -18956,7 +18956,7 @@ Spend
 {NUMBER}刷新商店？
 
 [PVP_EXCHANGE_CONFIRM_END_AD]
-{NUMBER} Arena coins or ^FF0000 watch an ad ^oldclr to refresh shop? ({LEFT} ads )
+{NUMBER} or ^FF0000 watch an ad ^oldclr to refresh the shop? ({LEFT} ads left)
 
 [PVP_EXCHANGE_CONFIRM_BUY_END]
 {NUMBER} to buy {NAME}?
@@ -27827,17 +27827,17 @@ After #100
 Listed 
 
 [GENERAL_PLANT_CHIPS_EXCHANGE_TIPS]
-请在以下列表中选择万能/定向碎片要兑换成的植物碎片
-
+ Please select the plant pieces you want to exchange for universal/directional pices
+ 
 [INPUT_VALUE]
-输入
-
+ Input 
+ 
 [SELECT_GENERAL_PLANT_CHIPS_EXCHANGE]
-输入兑换数量
-
+Enter the exchange quantity 
+ 
 [GENERAL_PLANT_CHIPS_EXCHANGE_NUMBER]
-兑换{NUM}个碎片
-
+Exchange {NUM} pieces 
+ 
 [LEVEL_UP_HINT]
 Upgrade
 
@@ -27866,43 +27866,42 @@ Universal Pieces
 Orientational Pieces can be converted into Pieces for specific, valuable Orange Quality plants.
 
 [MAT_GENERAL_PLANT_CHIPS_GOT_WAY]
-Obtained from events.
+Get from events.
 
 [GENERAL_PLANT_CHIPS_EXCHANGE]
-确定要花费{NUM1}个{NAME1}兑换{NUM2}个{NAME2}吗？
-
+ Are you sure you want to spend {NUM1} {NAME1} to exchange for {NUM2} {NAME2}? 
+ 
 [SELECT_PLANT_FIRST]
-请先选择植物
-
+ Please select a plant first 
+ 
 [ENTER_VALID_VALUE]
-输入有效值
-
+Enter a valid value 
+ 
 [ONLY_SUPPORT_UNLOCKED_PLANT]
-只允许兑换已经解锁的植物的碎片
-
+Only unlocked plant pieces can be exchanged. 
 [RANK_LIST]
-榜单
-
+ List 
+ 
 [NUM_PAGE]
-第{NUM}页
-
+ Page {NUM} 
+ 
 [FIRST_PRIZE]
-一等奖
-
+First Prize 
+ 
 [SECOND_PRIZE]
-二等奖
-
+ Second Prize 
+ 
 [THIRD_PRIZE]
-三等奖
-
+Third Prize 
+ 
 [LUCKY_PRIZE]
-幸运奖
-
+Lucky Prize 
+ 
 [MAT_UNIVERSAL_PLANT_CHIPS_USE]
 Universal Pieces can be used as a substitute for a plant's usual pieces for upgrading. They can't be used to unlock plants.
 
 [MAT_UNIVERSAL_PLANT_CHIPS_GOT_WAY]
-Obtained from events.
+Get from events.
 
 [LIMITED_SUMMON_DESCRIPTION_TITLE]
 限时召唤说明
@@ -28313,7 +28312,7 @@ Event 14 Description
 玩下去
 
 [OVERVIEW_LABEL]
-活动说明
+Overview
 
 [OVERVIEW_TITLE]
 Overview
@@ -34598,7 +34597,7 @@ Control
 Level
 
 [NEW_PLANT_UI_TAB_VALUE_DETAIL_TEXT]
-Detail
+Details
  
 [NEW_PLANT_UI_TAB_VALUE_DETAIL_DES_TEXT]
 Attributes
@@ -34614,7 +34613,7 @@ Damage
  
 [NEW_PLANT_UI_PLANT_VALUE_HP_LABEL]
 Toughness
- 
+
 [NEW_PLANT_UI_PLANT_VALUE_ATTACK_LABEL]
 Attack
  
@@ -34622,7 +34621,7 @@ Attack
 Range
  
 [NEW_PLANT_UI_PLANT_VALUE_PLANT_LABEL]
-Plant
+Planting
 
 [NEW_PLANT_UI_PLANT_VALUE_SUPPORT_LABEL]
 Support
@@ -34760,196 +34759,196 @@ Survive the zombie attack by planting whole columns of plants at once.
 Two levels are unlocked daily. This level has not reached the unlock time yet, come back tomorrow!
 
 [MEMORY_LEVEL_NAME_01]
-Memory Lane - Day 1
+Memory Lane - Level 1
 
 [MEMORY_LEVEL_NAME_02]
-Memory Lane - Day 2
+Memory Lane - Level 2
 
 [MEMORY_LEVEL_NAME_03]
-Memory Lane - Day 3
+Memory Lane - Level 3
 
 [MEMORY_LEVEL_NAME_04]
-Memory Lane - Day 4
+Memory Lane - Level 4
 
 [MEMORY_LEVEL_NAME_05]
-Memory Lane - Day 5
+Memory Lane - Level 5
 
 [MEMORY_LEVEL_NAME_06]
-Memory Lane - Day 6
+Memory Lane - Level 6
 
 [MEMORY_LEVEL_NAME_07]
-Memory Lane - Day 7
+Memory Lane - Level 7
 
 [MEMORY_LEVEL_NAME_08]
-Memory Lane - Day 8
+Memory Lane - Level 8
 
 [MEMORY_LEVEL_NAME_09]
-Memory Lane - Day 1
+Memory Lane - Level 1
 
 [MEMORY_LEVEL_NAME_10]
-Memory Lane - Day 2
+Memory Lane - Level 2
 
 [MEMORY_LEVEL_NAME_11]
-Memory Lane - Day 3
+Memory Lane - Level 3
 
 [MEMORY_LEVEL_NAME_12]
-Memory Lane - Day 4
+Memory Lane - Level 4
 
 [MEMORY_LEVEL_NAME_13]
-Memory Lane - Day 5
+Memory Lane - Level 5
 
 [MEMORY_LEVEL_NAME_14]
-Memory Lane - Day 6
+Memory Lane - Level 6
 
 [MEMORY_LEVEL_NAME_15]
-Memory Lane - Day 7
+Memory Lane - Level 7
 
 [MEMORY_LEVEL_NAME_16]
-Memory Lane - Day 8
+Memory Lane - Level 8
 
 [MEMORY_LEVEL_NAME_17]
-Memory Lane - Day 1
+Memory Lane - Level 1
 
 [MEMORY_LEVEL_NAME_18]
-Memory Lane - Day 2
+Memory Lane - Level 2
 
 [MEMORY_LEVEL_NAME_19]
-Memory Lane - Day 3
+Memory Lane - Level 3
 
 [MEMORY_LEVEL_NAME_20]
-Memory Lane - Day 4
+Memory Lane - Level 4
 
 [MEMORY_LEVEL_NAME_21]
-Memory Lane - Day 5
+Memory Lane - Level 5
 
 [MEMORY_LEVEL_NAME_22]
-Memory Lane - Day 6
+Memory Lane - Level 6
 
 [MEMORY_LEVEL_NAME_23]
-Memory Lane - Day 7
+Memory Lane - Level 7
 
 [MEMORY_LEVEL_NAME_24]
-Memory Lane - Day 8
+Memory Lane - Level 8
 
 [MEMORY_LEVEL_NAME_25]
-Memory Lane - Day 1
+Memory Lane - Level 1
 
 [MEMORY_LEVEL_NAME_26]
-Memory Lane - Day 2
+Memory Lane - Level 2
 
 [MEMORY_LEVEL_NAME_27]
-Memory Lane - Day 3
+Memory Lane - Level 3
 
 [MEMORY_LEVEL_NAME_28]
-Memory Lane - Day 4
+Memory Lane - Level 4
 
 [MEMORY_LEVEL_NAME_29]
-Memory Lane - Day 5
+Memory Lane - Level 5
 
 [MEMORY_LEVEL_NAME_30]
-Memory Lane - Day 6
+Memory Lane - Level 6
 
 [MEMORY_LEVEL_NAME_31]
-Memory Lane - Day 7
+Memory Lane - Level 7
 
 [MEMORY_LEVEL_NAME_32]
-Memory Lane - Day 8
+Memory Lane - Level 8
 
 [MEMORY_LEVEL_NAME_33]
-Memory Lane - Day 1
+Memory Lane - Level 1
 
 [MEMORY_LEVEL_NAME_34]
-Memory Lane - Day 2
+Memory Lane - Level 2
 
 [MEMORY_LEVEL_NAME_35]
-Memory Lane - Day 3
+Memory Lane - Level 3
 
 [MEMORY_LEVEL_NAME_36]
-Memory Lane - Day 4
+Memory Lane - Level 4
 
 [MEMORY_LEVEL_NAME_37]
-Memory Lane - Day 5
+Memory Lane - Level 5
 
 [MEMORY_LEVEL_NAME_38]
-Memory Lane - Day 6
+Memory Lane - Level 6
 
 [MEMORY_LEVEL_NAME_39]
-Memory Lane - Day 7
+Memory Lane - Level 7
 
 [MEMORY_LEVEL_NAME_40]
-Memory Lane - Day 8
+Memory Lane - Level 8
 
 [MEMORY_LEVEL_NAME_41]
-Memory Lane - Day 1
+Memory Lane - Level 1
 
 [MEMORY_LEVEL_NAME_42]
-Memory Lane - Day 2
+Memory Lane - Level 2
 
 [MEMORY_LEVEL_NAME_43]
-Memory Lane - Day 3
+Memory Lane - Level 3
 
 [MEMORY_LEVEL_NAME_44]
-Memory Lane - Day 4
+Memory Lane - Level 4
 
 [MEMORY_LEVEL_NAME_45]
-Memory Lane - Day 5
+Memory Lane - Level 5
 
 [MEMORY_LEVEL_NAME_46]
-Memory Lane - Day 6
+Memory Lane - Level 6
 
 [MEMORY_LEVEL_NAME_47]
-Memory Lane - Day 7
+Memory Lane - Level 7
 
 [MEMORY_LEVEL_NAME_48]
-Memory Lane - Day 8
+Memory Lane - Level 8
 
 [MEMORY_LEVEL_NAME_49]
-Memory Lane - Day 1
+Memory Lane - Level 1
 
 [MEMORY_LEVEL_NAME_50]
-Memory Lane - Day 2
+Memory Lane - Level 2
 
 [MEMORY_LEVEL_NAME_51]
-Memory Lane - Day 3
+Memory Lane - Level 3
 
 [MEMORY_LEVEL_NAME_52]
-Memory Lane - Day 4
+Memory Lane - Level 4
 
 [MEMORY_LEVEL_NAME_53]
-Memory Lane - Day 5
+Memory Lane - Level 5
 
 [MEMORY_LEVEL_NAME_54]
-Memory Lane - Day 6
+Memory Lane - Level 6
 
 [MEMORY_LEVEL_NAME_55]
-Memory Lane - Day 7
+Memory Lane - Level 7
 
 [MEMORY_LEVEL_NAME_56]
-Memory Lane - Day 8
+Memory Lane - Level 8
 
 [MEMORY_LEVEL_NAME_57]
-Memory Lane - Day 1
+Memory Lane - Level 1
 
 [MEMORY_LEVEL_NAME_58]
-Memory Lane - Day 2
+Memory Lane - Level 2
 
 [MEMORY_LEVEL_NAME_59]
-Memory Lane - Day 3
+Memory Lane - Level 3
 
 [MEMORY_LEVEL_NAME_60]
-Memory Lane - Day 4
+Memory Lane - Level 4
 
 [MEMORY_LEVEL_NAME_61]
-Memory Lane - Day 5
+Memory Lane - Level 5
 
 [MEMORY_LEVEL_NAME_62]
-Memory Lane - Day 6
+Memory Lane - Level 6
 
 [MEMORY_LEVEL_NAME_63]
-Memory Lane - Day 7
+Memory Lane - Level 7
 
 [MEMORY_LEVEL_NAME_64]
-Memory Lane - Day 8
+Memory Lane - Level 8
 
 [MEMORY_LEVEL_NAME_MINIGAME_OVERWHELM]
 Column Like You See 'Em
@@ -58103,13 +58102,13 @@ No Gauntlet
 You don't have any Gauntlets to play
 
 [JOUST_STORE_REFRESH_AD]
-{NUMBER} or ^FF0000 watch an ad ^oldclr Refresh store? (^FF0000 {LEFT} ^oldclr times remaining) 
+{NUMBER} or ^FF0000 watch an ad ^oldclr to refresh the store? (^FF0000 {LEFT} ^oldclr ads remaining) 
  
 [MAT_ZMATCH_TICKET]
 Arena Medal
 
 [ZMATCHSHOP_BUYTIMES_LIMIT]
- Purchase limit ^FF0000 1 ^oldclr times 
+ Purchase limit: ^FF0000 1 ^oldclr times 
  
 [MAT_ZMATCH_TICKET_USE]
 Used to redeem items in the Arena Store
@@ -69494,7 +69493,7 @@ Dragon Bruit
 {KEYWORD}范围: {STAT}自身所在的上中下三行
 {KEYWORD}特点: {STAT}当面前存在僵尸时对僵尸进行抛投攻击, 周围存在月光花时会进入暗影形态
 {KEYWORD}植物特征: {STAT}红色植物, 暗影系植物
-{FLAVOR}   暴君火龙果的每一个头之间没有名字的区分, 但他们都有着自己的个性, 中间的头冷静、理性；左边的头则有点矜持和害羞；至于右边的头......它总是对的
+{FLAVOR} While each head of Dragon Bruit doesn't have their own name, they do each have their own unique personality. The Center head is the calm, rational one. While Lefty is a bit reserved and shiy. Righty is... well... always right.
 
 [DRAGONBRUIT_DESCRIPTION_HEADER]
 对上中下三行的僵尸攻击, 周围存在月光花时会进入暗影形态
@@ -72016,7 +72015,7 @@ Anime-style Outfit
 Attack power increased by 30%.
 
 [GINGLEBELL_TITLE]
-Double Eleven's Jingle Bells
+Springs's Jingle Bells
 
 [GINGLEBELL_RANK_DAMAGE_TEXT]
 Cumulative Damage
@@ -72052,16 +72051,16 @@ Theme Challenge
 Daily Rewards
 
 [PVZ2TRAINING_DPSDAMAGETEXT]
-DPS: {NUMBER}  
+DPS: {NUMBER}
 
 [PVZ2TRAINING_TOTALDAMAGETEXT]
-Total Damage: {NUMBER}
+; Total Damage: {NUMBER}
 
 [PVZ2TRAINING_DAMAGE1]
 Damage: {NUMBER}
 
 [PVZ2TRAINING_DAMAGE2]
-Total Damage: {NUMBER}  
+; Total Damage: {NUMBER}  
 
 [STARCHALLENGE_TRAINING]
 Deal as much damage in 30 seconds!
@@ -72070,7 +72069,7 @@ Deal as much damage in 30 seconds!
 Double Eleven's Jingle Bells
 
 [GINGLEBELL_TASKDESCRIPTION]
-The latest damage to the Money tree was {NUMBER}.
+Deal {NUMBER} damage to the Money Tree
 
 [A_PILE_SNOWMEN1_TITLE]
 Firepower Test - I
@@ -72396,58 +72395,58 @@ Bubble Coral
 Bubble Corals fire bubbles of varying sizes at zombies. Which size of bubble they fire can be changed by tapping on them.
 
 [BUBBLECORAL_TOOLTIP]
-可以发射不同功能的泡泡进行攻击，对前方僵尸造成伤害
+Fire bubbles of varying sizes at zombies
 
 [BUBBLECORAL_PRODUCT_SHORT_DESC]
-可以发射不同功能的泡泡进行攻击，对前方僵尸造成伤害
+Fire bubbles of varying sizes at zombies
 
 [BUBBLECORAL_SKILL_LEVEL1]
-更多泡泡
+More Bubbles
 
 [BUBBLECORAL_SKILL_LEVEL1_DES]
-大泡泡造成伤害提升25%，中泡泡攻击速度增加25%，小泡泡发射数量增加至20颗
+Large bubbles deal 25% more damage, medium bubbles attack 25% faster, and the number of small bubbles fired increases to 20.
 
 [BUBBLECORAL_SKILL_LEVEL2]
-超多泡泡
+Lots More Bubbles
 
 [BUBBLECORAL_SKILL_LEVEL2_DES]
-大泡泡造成伤害提升50%，中泡泡攻击速度增加50%，小泡泡发射数量增加至25颗
+Large bubbles deal 50% more damage, medium bubbles attack 50% faster, and the number of small bubbles fired increases to 25.
 
 [BUBBLECORAL_SKILL_LEVEL5]
-酸液泡泡
+Acid Bubbles
 
 [BUBBLECORAL_SKILL_LEVEL5_DES]
-发射的泡泡50%的概率为酸液泡泡。酸液泡泡对防具伤害增加，中泡泡和大泡泡爆炸后还会在地上留下酸液地表持续对僵尸造成伤害。
+50% chance to fire acid bubbles. Acid bubbles deal increased damage to armor. Medium and large bubbles leave behind acid pools after exploding, dealing continuous damage to zombies.
 
 [BUBBLECORAL_AVATAR_NAME]
-泡泡姬珊瑚装扮
+Bubble Coral Costume
 
 [STORE_PRODUCT_AVATAR_BUBBLECORAL]
-炸开生成更多的泡泡
+Explodes to generate more bubbles
 
 [STORE_PRODUCT_AVATAR_BUBBLECORAL_TITLE]
 Bubble Coral Costume
 
 [BUBBLECORAL_NEW_SKILL_LEVEL1_DES]
-泡泡姬珊瑚可以发射三种不同功能的泡泡进行攻击，发射的泡泡可以对僵尸造成伤害。点击泡泡姬珊瑚即可切换不同攻击形态。
+Bubble Coral can fire three types of bubbles with different functions to attack zombies. Click on the plant to switch between attack modes.
 
 [BUBBLECORAL_NEW_SKILL_LEVEL2_DES]
-大泡泡造成伤害提升25%，中泡泡攻击速度增加25%，小泡泡发射数量增加至20颗
+Large bubbles deal 25% more damage, medium bubbles attack 25% faster, and the number of small bubbles fired increases to 20.
 
 [BUBBLECORAL_NEW_SKILL_LEVEL3_DES]
-大泡泡造成伤害提升50%，中泡泡攻击速度增加50%，小泡泡发射数量增加至25颗
+Large bubbles deal 50% more damage, medium bubbles attack 50% faster, and the number of small bubbles fired increases to 25.
 
 [BUBBLECORAL_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招
+When planted, has a moderate chance to instantly activate the Plant Food ability.
 
 [BUBBLECORAL_NEW_SKILL_LEVEL5_DES]
-发射的泡泡50%的概率为酸液泡泡。酸液泡泡对防具伤害增加，中泡泡和大泡泡爆炸后还会在地上留下酸液地表持续对僵尸造成伤害。
+50% chance to fire acid bubbles. Acid bubbles deal increased damage to armor. Medium and large bubbles leave behind acid pools after exploding, dealing continuous damage to zombies.
 
 [BUBBLECORAL_PLANTFOOD_DESCRIPTION]
-吹出一个超大的泡泡，炸开后分散出超多泡泡
+Blows out a giant bubble that explodes into a large number of smaller bubbles.
 
 [BUBBLECORAL_AVATAR_PLANTFOOD_DESCRIPTION]
-大招产生更多的泡泡
+Plant Food ability generates even more bubbles.
 
 [PAPHIOPEDILUM]
 Pocket Paph
@@ -73327,7 +73326,7 @@ New Year's Grand Prize
 Physical Prize
 
 [NEWYEARREDPACKETE_TAB1_BUTTON1]  
-Sign up for the lottery
+Sign up for
 
 [NEWYEARREDPACKETE_TAB1_BUTTON2]  
 Get a free lottery ticket
