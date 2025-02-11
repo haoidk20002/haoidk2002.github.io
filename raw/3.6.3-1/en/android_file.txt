@@ -1,4 +1,4 @@
-﻿[ORIGINAL_TRANSLATION_MADE_BY_PEA_GAMEPLAY]
+[ORIGINAL_TRANSLATION_MADE_BY_PEA_GAMEPLAY]
 [COMPLAIN_CONTENT]
 Translated by Pea Gameplay (Original author) with some help from Nectarinna and evilhack28.
 
@@ -35337,10 +35337,10 @@ Blue Plant Fragment ×2: 16.66% | Green Plant Fragment ×5: 24.99%
 5. The Cornucopia produces free Lucky Coins at intervals. Collect all available rewards by tapping any bubble. The higher the Cornucopia level, the faster it produces Lucky Coins. The interface can store up to 5 bubbles; no new bubbles will generate until the current ones are collected.
 6. Use Exchange Emblems obtained from draws to redeem rewards like upgrade books and plant fragments in the exchange shop. Different items have different purchase limits and prices; some require a specific Cornucopia level to unlock. Exchange Emblems are valid only for the current event and cannot be carried over to the next. Use them promptly.
 7. Each Cornucopia draw contributes to the server-wide prize pool. The initial pool is 10,000 Gems. For every 10 draws, the pool increases by 1 Gem. At the end of the event, the prize pool is distributed based on leaderboard rankings:
-Top 1-50: 0.5% of the total pool per player (requires at least 200 draws)
-Top 51-150: 0.25% per player (requires at least 160 draws)
-Top 151-300: 0.2% per player (requires at least 120 draws)
-Top 301-500: 0.1% per player (requires at least 80 draws)
+Top 1–50: 0.5% of the total pool per player (requires at least 200 draws)
+Top 51–150: 0.25% per player (requires at least 160 draws)
+Top 151–300: 0.2% per player (requires at least 120 draws)
+Top 301–500: 0.1% per player (requires at least 80 draws)
 (A minimum number of draws is required to qualify for the leaderboard.)
 
 [CORNUCOPIA_PROGRESS_TIPS_INFO]
@@ -35449,25 +35449,25 @@ Advanced Lucky Pack
 Super Lucky Pack
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_1]
-Rank 1-50: Gems ×{NUM}
+Rank 1–50: Gems ×{NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_1]
 Players in this range receive ^08FF20^0.5%^oldclr^ of the total prize pool each (requires at least 200 draws).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_2]
-Rank 51-150: Gems ×{NUM}
+Rank 51–150: Gems ×{NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_2]
 Players in this range receive ^08FF20^0.25%^oldclr^ of the total prize pool each (requires at least 160 draws).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_3]
-Rank 151-300: Gems ×{NUM}
+Rank 151–300: Gems ×{NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_3]
 Players in this range receive ^08FF20^0.2%^oldclr^ of the total prize pool each (requires at least 120 draws).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_4]
-Rank 301-500: Gems ×{NUM}
+Rank 301–500: Gems ×{NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_4]
 Players in this range receive ^08FF20^0.1%^oldclr^ of the total prize pool each (requires at least 80 draws).
@@ -37376,71 +37376,6 @@ Bloom and Wealth
 [NARRATIVE_ARBORDAY_UNCHARTED_EVENT_TUTORIAL_4]
 {NPC_ENTER:crazydave}{EXCITED:crazydave}Don't ruin my spring!
 
-[HELICONIAGUNNER]
-Heliconia Gunner
-
-[HELICONIAGUNNER_DESCRIPTION]
-{KEYWORD}Range: {STAT}Row and diagonal
-{KEYWORD}Trait: {STAT}Use machine guns to target zombies from all directions, needs to reload after shooting
-{KEYWORD}Characteristicss: {STAT}Yellow plant, red plant
-{FLAVOR}Despite usually being fierce, Heliconia Gunner becomes cute when it rains.
-
-[HELICONIAGUNNER_DESCRIPTION_HEADER]
-Use machine guns to target zombies from all directions, needs to reload after shooting
-
-[HELICONIAGUNNER_TOOLTIP]
-Use machine guns to target zombies from all directions, needs to reload after shooting
-
-[HELICONIAGUNNER_PRODUCT_SHORT_DESC]
-Use machine guns to target zombies from all directions, needs to reload after shooting
-
-[HELICONIAGUNNER_SKILL_LEVEL1]
-Improved Magazine
-
-[HELICONIAGUNNER_SKILL_LEVEL1_DES]
-Increases magazine capacity and fire rate by 20%
-
-[HELICONIAGUNNER_SKILL_LEVEL2]
-Advanced Magazine
-
-[HELICONIAGUNNER_SKILL_LEVEL2_DES]
-Increases magazine capacity and fire rate by 40%
-
-[HELICONIAGUNNER_SKILL_LEVEL5]
-Ultimate Weapon
-
-[HELICONIAGUNNER_SKILL_LEVEL5_DES]
-Every magazine fired causes the barrel to turn into a rocket launcher, releasing 3 homing rockets, which will explode and damage in a 3x3 area when they hit a zombie.
-
-[STORE_PRODUCT_AVATAR_HELICONIAGUNNER_TITLE]
-Heliconia Gunner Costume
-
-[HELICONIAGUNNER_AVATAR_NAME]
-Heliconia Gunner Costume
-
-[STORE_PRODUCT_AVATAR_HELICONIAGUNNER]
-One armor-piercing bullet will be fired every 6 bullets from the rotation, which penetrate zombies and deal more damage.
-
-[HELICONIAGUNNER_NEW_SKILL_LEVEL1_DES]
-Every time there is a zombie in range of Heliconia Gunner, it will shoot rapid at the zombie, targetting zombies closest to the left rather than the plant itself, each having 30 rounds of ammunition, takes a while to reload after shooting. Also has 3 capture net guns on its back, which fires at the zombie closest to the left. Zombies trapped by the net are stunned, captured net gun bullets cannot be recovered.
-
-[HELICONIAGUNNER_NEW_SKILL_LEVEL2_DES]
-Increases magazine capacity and fire rate by 20%
-
-[HELICONIAGUNNER_NEW_SKILL_LEVEL3_DES]
-Increases magazine capacity and fire rate by 40%
-
-[HELICONIAGUNNER_NEW_SKILL_LEVEL4_DES]
-Has a chance to activate its plant food upon plating!
-
-[HELICONIAGUNNER_NEW_SKILL_LEVEL5_DES]
-Every magazine fired causes the barrel to turn into a rocket launcher, releasing 3 homing rockets, which will explode and damage in a 3x3 area when they hit a zombie.
-
-[HELICONIAGUNNER_PLANTFOOD_DESCRIPTION]
-Heliconia Gunner rotates the machine guns and fire bullets wildly, rotating 3 times in total.
-
-[HELICONIAGUNNER_AVATAR_PLANTFOOD_DESCRIPTION]
-One armor-piercing bullet will be fired every 6 bullets from the rotation, which penetrate zombies and deal more damage.
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_24]
 Trident Artifact Gift Pack
@@ -37884,269 +37819,6 @@ Gathering of Divinations
 [NARRATIVE_CHILDRENSDAY_UNCHARTED_EVENT_TUTORIAL_4]
 {NPC_ENTER:crazydave}{EXCITED:crazydave}Oh? Then we have to know them well.
 
-[ELECTRICPEEL]
-Electric Peel
-
-[ELECTRICPEEL_DESCRIPTION]
-{KEYWORD}Range:{STAT}4 tiles
-{KEYWORD}Special:{STAT}when planted in water, attack damage is increased and peels create electric tiles that passively damage zombies
-{KEYWORD}Plant features:{STAT}yellow plant
-{FLAVOR}Electric Peel is calm and composed, it will not let anyone come near its Peel, for good reasons. Turns out it is protecting those around it from the peel. When asked, Electric Peel said, "Don't touch my Peel, you won't like what happens next!", in a cautious tone, while emitting a buzzing electric sound.
-
-[ELECTRICPEEL_DESCRIPTION_HEADER]
-An amphibious plant which spawns a Peel that slithers down the lane to attack zombies and returns back, dealing damage again to all zombies on its way back.
-
-[ELECTRICPEEL_TOOLTIP]
-Spawns a peel that slithers along the lane to attack zombies
-
-[ELECTRICPEEL_PRODUCT_SHORT_DESC]
-Spawns a peel that slithers along the lane to attack zombies.
-
-[ELECTRICPEEL_SKILL_LEVEL1]
-Eel Enhancement
-
-[ELECTRICPEEL_SKILL_LEVEL1_DES]
-Attack range increased by 1 tile. Eel movement speed increased by 20%.
-
-[ELECTRICPEEL_SKILL_LEVEL2]
-Eel Upgrade
-
-[ELECTRICPEEL_SKILL_LEVEL2_DES]
-Attack range increased by 1 tile again. Eel movement speed increased by 20% again.
-
-[ELECTRICPEEL_SKILL_LEVEL5]
-Lightning Eel
-
-[ELECTRICPEEL_SKILL_LEVEL5_DES]
-When attacking, Electric Peel has a 20% chance to throw a lightning eel which moves forwards, binding the first bindable zombie it encounters. It will then electrocute every 3 seconds, dealing damage within the tile, paralyzing the zombie bound for 1.5 seconds, and splash damage that is half of the original damage to zombies in a 3*3 area. The electric eel can last for at most 10 seconds, dealing damage that is 150% of the original damage to the zombie it binds to or non-bindable zombies it passed through.
-
-[STORE_PRODUCT_AVATAR_ELECTRICPEEL_TITLE]
-Electric Peel Costume
-
-[ELECTRICPEEL_AVATAR_NAME]
-Electric Peel Costume
-
-[STORE_PRODUCT_AVATAR_ELECTRICPEEL]
-The Super Peel's damage is increased.
-
-[ELECTRICPEEL_NEW_SKILL_LEVEL1_DES]
-Electric Peel throws a peel at zombies in a 4 tile range, damaging them along the way, before it rebounds back to the plant. Electric Peel can also be planted on water, which increases his damage output and makes the peels create electric tiles that passively damage zombies.
-
-[ELECTRICPEEL_NEW_SKILL_LEVEL2_DES]
-Attack range increased by 1 tile. Eel movement speed increased by 20%.
-
-[ELECTRICPEEL_NEW_SKILL_LEVEL3_DES]
-Attack range increased by 1 tile again. Eel movement speed increased by 20% again.
-
-[ELECTRICPEEL_NEW_SKILL_LEVEL4_DES]
-Electric Peel may be boosted when planted.
-
-[ELECTRICPEEL_NEW_SKILL_LEVEL5_DES]
-When attacking, Electric Peel has a 20% chance to throw a lightning eel which moves forwards, binding the first bindable zombie it encounters. It will then electrocute every 3 seconds, dealing damage within the tile, ^ff9600^paralyzing^oldclr^ the zombie bound for 1.5 seconds, and splash damage that is half of the original damage to zombies in a 3*3 area. The electric eel can last for at most 10 seconds, dealing damage that is 150% of the original damage to the zombie it binds to or non-bindable zombies it passed through.
-
-[ELECTRICPEEL_PLANTFOOD_DESCRIPTION]
-Releases a giant Super Peel down the lane to that instantly kills all zombies in its path, dealing heavy damage to those it can't.
-
-[ELECTRICPEEL_AVATAR_PLANTFOOD_DESCRIPTION]
-Releases a giant Super Peel down the lane to that instantly kills all zombies in its path, dealing ^ff0000^heavier^oldclr^ damage to those it can't.
-
-[WIZARDTHORNS]
-Thorn Wizard
-
-[WIZARDTHORNS_DESCRIPTION]
-{KEYWORD}Range:{STAT}1 row ahead
-{KEYWORD}Special:{STAT}thorns damage other zombies in contact
-{KEYWORD}Plant features:{STAT}Green plant, mysterious mage
-{FLAVOR}Thorn Wizard can use his unique magical power to control thorns to entangle zombies. The sharp and poisonous thorns can make it difficult for zombies to move. But no one knows that he is just more timid than his younger brother, Timid Thorn. He doesn't want to face the zombies and has to learn the spell to keep the zombies away from him.
-
-[WIZARDTHORNS_DESCRIPTION_HEADER]
-Thorn Wizards summon thorns to wrap around and stab zombies. These thorns also serve as a wall, keeping the zombie in place as they eat it, and poisoning other zombies who bite them.
-
-[WIZARDTHORNS_TOOLTIP]
-Releases thorns that entangle zombies, weakening and poisoning them
-
-[WIZARDTHORNS_PRODUCT_SHORT_DESC]
-Uses thorns to wrap around or stab zombies, which can poison zombies after attacking.
-
-[WIZARDTHORNS_SKILL_LEVEL1]
-Fast Recovery
-
-[WIZARDTHORNS_SKILL_LEVEL1_DES]
-Attack cooldown is reduced to 8 seconds and the health of the thorns is increased.
-
-[WIZARDTHORNS_SKILL_LEVEL2]
-Double Thorns
-
-[WIZARDTHORNS_SKILL_LEVEL2_DES]
-Attack cooldown is lowered by an additional second, and the thorns have even more health and can target two zombies at a time.
-
-[WIZARDTHORNS_SKILL_LEVEL5]
-Poisonous Thorns
-
-[WIZARDTHORNS_SKILL_LEVEL5_DES]
-The poison effect now does percentile damage. The thorns are once again even stronger and last longer.
-
-[STORE_PRODUCT_AVATAR_WIZARDTHORNS_TITLE]
-Thorn Wizard Costume
-
-[WIZARDTHORNS_AVATAR_NAME]
-Thorn Wizard Costume
-
-[STORE_PRODUCT_AVATAR_WIZARDTHORNS]
-The number of large thorns is increased to 5.
-
-[WIZARDTHORNS_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side, a spell will be cast to make thorns wrap around the zombie on the ground. The entangled zombie's attack power will be reduced by 50%. After being released, the plant will rest for 10 seconds. Thorns have 2.5 times the health of the body and will cause 2 damage per second to all zombies it comes into contact with. If the zombie is a flying zombie or has been entangled, Thorn Wizard uses a lunge attack that does 40 damage to the zombie. All attacks will ^701edf^poison the zombie^oldclr^, taking 10 points of damage per second.
-
-[WIZARDTHORNS_NEW_SKILL_LEVEL2_DES]
-Attack cooldown is reduced to 8 seconds and the health of the thorns is increased.
-
-[WIZARDTHORNS_NEW_SKILL_LEVEL3_DES]
-Attack cooldown is lowered by an additional second, and the thorns have even more health and can target two zombies at a time.
-
-[WIZARDTHORNS_NEW_SKILL_LEVEL4_DES]
-Thorn Wizard may be boosted when planted.
-
-[WIZARDTHORNS_NEW_SKILL_LEVEL5_DES]
-The poison effect now does percentile damage. The thorns are once again even stronger and last longer.
-
-[WIZARDTHORNS_PLANTFOOD_DESCRIPTION]
-Thorn Wizard casts a thorn array, summoning 3 spiky large thorns on three tiles, on 4 spaces on tiles, penetrating zombies and dealing damage. Each large thorn can entangle zombies up to 2 times. The Plant Food effect will cause Thorn Wizard to enter his usual 10 second cooldown afterwards.
-
-[WIZARDTHORNS_AVATAR_PLANTFOOD_DESCRIPTION]
-Thorn Wizard casts a thorn array, summoning ^ff0000^5 spiky large thorns on three tiles^oldclr^, on 4 spaces on tiles, penetrating zombies and dealing damage. Each large thorn can entangle zombies up to 2 times. The Plant Food effect will cause Thorn Wizard to enter his usual 10 second cooldown afterwards.
-
-[TRISTERIXAPHYLLUS]
-Cactus Mistletoe
-
-[TRISTERIXAPHYLLUS_DESCRIPTION]
-{KEYWORD}Range:{STAT}full board
-{KEYWORD}Special:{STAT}hypnotizes the target zombie and stuns other surrounding zombies
-{KEYWORD}Plant features:{STAT}Red plant
-{FLAVOR}The plants never know what kind of plant they are talking to when they're with her. Cactus Mistletoe is often frustrated about this. "Why can't they figure out what I am? I am a plant, and a plant I am. My whole self is a plant, and the whole plant is my whole self." And thus Cactus Mistletoe created her perfect private philosophy of her life, and perhaps she has forgotten if she has ever had a "real identity".
-
-[TRISTERIXAPHYLLUS_DESCRIPTION_HEADER]
-With the help of migratory birds, drops seeds on zombies' heads that bloom afterwards, hypnotizing them.
-
-[TRISTERIXAPHYLLUS_TOOLTIP]
-Hypnotizes random zombies and stuns any others that are nearby
-
-[TRISTERIXAPHYLLUS_PRODUCT_SHORT_DESC]
-With the help of migratory birds, drops seeds on zombies' heads that bloom afterwards, hypnotizing them.
-
-[TRISTERIXAPHYLLUS_SKILL_LEVEL1]
-Fast Recovery
-
-[TRISTERIXAPHYLLUS_SKILL_LEVEL1_DES]
-Rest time is decreased by 2.5 seconds, duration of the clouds is increased by 1 seconds, is able to hypnotize Level 3 zombies.
-
-[TRISTERIXAPHYLLUS_SKILL_LEVEL2]
-Wild Growth
-
-[TRISTERIXAPHYLLUS_SKILL_LEVEL2_DES]
-Rest time is decreased by 5 seconds, duration of the clouds is increased by 2 seconds, is able to hypnotize Level 5 zombies.
-
-[TRISTERIXAPHYLLUS_SKILL_LEVEL5]
-Hypnotizing Flower Seeds
-
-[TRISTERIXAPHYLLUS_SKILL_LEVEL5_DES]
-There's a chance of growing a more gorgeous flower, and the effect from the pollen will change from stunning to making them walk backwards. Cactus Mistletoe can now affect zombies of any level.
-
-[STORE_PRODUCT_AVATAR_TRISTERIXAPHYLLUS_TITLE]
-Cactus Mistletoe Costume
-
-[TRISTERIXAPHYLLUS_AVATAR_NAME]
-Cactus Mistletoe Costume
-
-[STORE_PRODUCT_AVATAR_TRISTERIXAPHYLLUS]
-The number of birds attracted is increased to 6.
-
-[TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL1_DES]
-When there is a zombie in the field, the petals will open to reveal the flower core. Then a bird will fly up and carry the exposed gynoecia. It will fly to the zombie's head and spit out the flower core to cover the zombie's face. The zombie will be unable to move, until the gynoecia on the zombie's head blooms. When it does, pollen will be sprayed out, which will charm the zombie with flowers on its head and temporarily stun other zombies in the cross grid for 3 seconds. Afterwards, it withers away.
-
-[TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL2_DES]
-Rest time is decreased by 2.5 seconds, duration of the clouds is increased by 1 seconds, is able to hypnotize Level 3 zombies.
-
-[TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL3_DES]
-Rest time is decreased by 5 seconds, duration of the clouds is increased by 2 seconds, is able to hypnotize Level 5 zombies.
-
-[TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL4_DES]
-Cactus Mistletoe may be boosted when planted.
-
-[TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL5_DES]
-There's a chance of growing a more gorgeous flower, and the effect from the pollen will change from stunning to making them walk backwards. Cactus Mistletoe can now affect zombies of any level.
-
-[TRISTERIXAPHYLLUS_PLANTFOOD_DESCRIPTION]
-Cactus Mistletoe grows a large flower which attracts up to 5 birds, hypnotizing up to 5 zombies.
-
-[TRISTERIXAPHYLLUS_AVATAR_PLANTFOOD_DESCRIPTION]
-Cactus Mistletoe grows a large flower which attracts up to 6 birds, hypnotizing up to 6 zombies.
-
-[CHAINSAWBURMANNII]
-Sawblade Sundew
-
-[CHAINSAWBURMANNII_DESCRIPTION]
-{KEYWORD}Range:{STAT}surrounding tiles
-{KEYWORD}Special:{STAT}sawblades spin continuously until the plant needs to recharge
-{KEYWORD}Plant features:{STAT}green plant
-{FLAVOR}Since he was small, Sawblade Sundew has been very good at circular motions. He naively thought that it would help him become a genius in physics. In actuality, it brought him several winning streaks in yo-yo world championships.
-
-[CHAINSAWBURMANNII_DESCRIPTION_HEADER]
-Throws a sawblade that spins around itself and continuously attacks surrounding zombies.
-
-[CHAINSAWBURMANNII_TOOLTIP]
-Releases 3 sawblades around him that damage nearby zombies continuously
-
-[CHAINSAWBURMANNII_PRODUCT_SHORT_DESC]
-Throws a sawblade that spins around itself and continuously attacks surrounding zombies.
-
-[CHAINSAWBURMANNII_SKILL_LEVEL1]
-Flame Amplification
-
-[CHAINSAWBURMANNII_SKILL_LEVEL1_DES]
-1 of the 3 sawblades turns into blue flames, the damage is doubled, and the rest time is shortened by 2.5 seconds.
-
-[CHAINSAWBURMANNII_SKILL_LEVEL2]
-Blazing Fire
-
-[CHAINSAWBURMANNII_SKILL_LEVEL2_DES]
-2 of the 3 sawblades turn into blue flames, the damage is doubled, and the rest time is shortened by another 2.5 seconds.
-
-[CHAINSAWBURMANNII_SKILL_LEVEL5]
-Backup Weapon
-
-[CHAINSAWBURMANNII_SKILL_LEVEL5_DES]
-One of the 2 blue flame sawblades turns into purple flames, the damage is tripled, and the attack range is expanded to 5×5 around them. Each attack throws 6 sawblades.
-
-[STORE_PRODUCT_AVATAR_CHAINSAWBURMANNII_TITLE]
-Sawblade Sundew Costume
-
-[CHAINSAWBURMANNII_AVATAR_NAME]
-Sawblade Sundew Costume
-
-[STORE_PRODUCT_AVATAR_CHAINSAWBURMANNII]
-As part of his attack, he will release larger and more damaging sawblades.
-
-[CHAINSAWBURMANNII_NEW_SKILL_LEVEL1_DES]
-When there are zombies within a 3×3 range, 3 sawblades will be thrown out to penetrate all zombies. Each sawblade will cause fire damage every time it hits a zombie. The sawblade will continue to rotate around itself and return after continuing to revolve for a period of time. After returning, the plant enters a resting state and recovers after 5 seconds.
-
-[CHAINSAWBURMANNII_NEW_SKILL_LEVEL2_DES]
-1 of the 3 sawblades turns into blue flames, the damage is doubled, and the rest time is shortened by 2.5 seconds.
-
-[CHAINSAWBURMANNII_NEW_SKILL_LEVEL3_DES]
-2 of the 3 sawblades turn into blue flames, the damage is doubled, and the rest time is shortened by another 2.5 seconds.
-
-[CHAINSAWBURMANNII_NEW_SKILL_LEVEL4_DES]
-Sawblade Sundew may be boosted when planted.
-
-[CHAINSAWBURMANNII_NEW_SKILL_LEVEL5_DES]
-One of the 2 blue flame sawblades turns into purple flames, the damage is tripled, and the attack range is expanded to 5×5 around them. Each attack throws 6 sawblades.
-
-[CHAINSAWBURMANNII_PLANTFOOD_DESCRIPTION]
-Sawblade Sundew releases a series of piercing sawblades of fire outwards.
-
-[CHAINSAWBURMANNII_AVATAR_PLANTFOOD_DESCRIPTION]
-Sawblade Sundew releases a series of piercing sawblades of fire outwards, some being larger and more damaging.
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_25]
 Hologram Artifact Gift Pack
@@ -41352,6 +41024,1005 @@ I've prepared a New Year's gift for you. Open it and take a look!
 
 
 [SECTION_PLANTS]
+[DAZEYCHAIN_SKILL_LEVEL5]
+Scientific Warm-Up
+
+[DAZEYCHAIN_SKILL_LEVEL5_DES]
+The number of attacks required to bloom is reduced to 8. The fog can ^848484^StunⅠ^oldclr^ zombie tiers up to level 10. At its highest form, the fog accumulates at the backline of the lawn, intermittently stunning zombies within the fog.
+
+[gloomvine]
+Gloom Vine
+
+[gloomvine_DESCRIPTION]
+{KEYWORD}Range: {STAT}3*3 around itself
+{KEYWORD}Traits: {STAT}Attacks zombies within range and puts shadow plants planted on it into shadow form
+{KEYWORD}Plant Characteristics: {STAT}Blue plant, Shadow family plant
+{FLAVOR}Gloom Vine's gloomy exterior shouldn't be seen as implying a gloomy interior. His interior is gloomy, but for complicated personal reasons that go way back.
+
+[gloomvine_DESCRIPTION_HEADER]
+Gloom Vines power individual shadow plants and shoot zombie-damaging gloom in eight directions.
+
+[gloomvine_TOOLTIP]
+Shoots in 8 directions
+
+[gloomvine_PRODUCT_SHORT_DESC]
+Shoots in 8 directions
+
+[gloomvine_SKILL_LEVEL1]
+Shadow Amplification
+
+[gloomvine_SKILL_LEVEL1_DES]
+When a shadow family plant is planted above, increases the attack power of shadow family plants by 15%; zombies hit by Gloom Vine are slowed by 30%.
+
+[gloomvine_SKILL_LEVEL2]
+Shadow Enhancement
+
+[gloomvine_SKILL_LEVEL2_DES]
+When a shadow family plant is planted above, increases the attack power of shadow family plants by 30%; zombies hit by Gloom Vine are slowed by 50%.
+
+[gloomvine_SKILL_LEVEL5]
+Shadow Form
+
+[gloomvine_SKILL_LEVEL5_DES]
+Gloom Vine's attack range is expanded; if Gloom Vine is within the moonlight field generated by Moonflower, it enters Super Shadow Form. On its fifth attack, Gloom Vine releases additional smoke in four directions, dealing damage to zombies hit and applying a 15% vulnerability effect.
+
+[STORE_PRODUCT_AVATAR_gloomvine_TITLE]
+Gloom Vine Costume
+
+[gloomvine_AVATAR_NAME]
+Gloom Vine Costume
+
+[STORE_PRODUCT_AVATAR_gloomvine]
+Gloom Vine continuously releases bubbles, dealing damage to zombies within its attack range.
+
+[gloomvine_NEW_SKILL_LEVEL1_DES]
+When zombies appear within Gloom Vine's attack range, Gloom Vine will attack them. Additionally, if a shadow family plant is planted on it, that plant will immediately enter shadow form.
+
+[gloomvine_NEW_SKILL_LEVEL2_DES]
+When a shadow family plant is planted above, increases the attack power of shadow family plants by 15%; zombies hit by Gloom Vine are slowed by 30%.
+
+[gloomvine_NEW_SKILL_LEVEL3_DES]
+When a shadow family plant is planted above, increases the attack power of shadow family plants by 30%; zombies hit by Gloom Vine are slowed by 50%.
+
+[gloomvine_NEW_SKILL_LEVEL4_DES]
+When planted, has a medium chance to instantly activate a Plant Food effect!
+
+[gloomvine_NEW_SKILL_LEVEL5_DES]
+Gloom Vine's attack range is expanded; if Gloom Vine is within the moonlight field generated by Moonflower, it enters Super Shadow Form. On its fifth attack, Gloom Vine releases additional smoke in four directions, dealing damage to zombies hit and applying a 15% vulnerability effect.
+
+[gloomvine_PLANTFOOD_DESCRIPTION]
+Gloom Vine continuously releases bubbles, dealing damage to zombies within its attack range.
+
+[gloomvine_AVATAR_PLANTFOOD_DESCRIPTION]
+Zombies hit by the Plant Food effect within the range are slowed by 50%.
+
+
+[EAGLECLAW]
+Electric Tailgrape
+
+[EAGLECLAW_DESCRIPTION]
+{KEYWORD}Range: {STAT}Full lane
+{KEYWORD}Special: {STAT}Condenses balls of lightning to continuously shock zombies
+{KEYWORD}Plant characteristics: {STAT}Green plant
+{FLAVOR}"Zap... zap... zap..." Electric Tailgrape's entire body exudes electric light: "Let zombies taste the shock."
+
+[EAGLECLAW_DESCRIPTION_HEADER]
+Condenses balls of lightning to continuously shock zombies.
+
+[EAGLECLAW_TOOLTIP]
+Condenses balls of lightning to continuously shock zombies.
+
+[EAGLECLAW_PRODUCT_SHORT_DESC]
+Condenses balls of lightning to continuously shock zombies.
+
+[EAGLECLAW_SKILL_LEVEL1]
+Tracking Upgrade
+
+[EAGLECLAW_SKILL_LEVEL1_DES]
+The plant's targeting range expands to 3 lanes, and its cooldown time is reduced.
+
+[EAGLECLAW_SKILL_LEVEL2]
+Condensation Acceleration
+
+[EAGLECLAW_SKILL_LEVEL2_DES]
+The plant's targeting range expands to the entire screen, and its cooldown time is further reduced.
+
+[EAGLECLAW_SKILL_LEVEL5]
+Lightning Burst
+
+[EAGLECLAW_SKILL_LEVEL5_DES]
+Attacks have a chance to summon additional purple lightning, which deals cross-shaped area damage.
+
+[STORE_PRODUCT_AVATAR_EAGLECLAW_TITLE]
+Electric Tailgrape Costume
+
+[EAGLECLAW_AVATAR_NAME]
+Electric Tailgrape Costume
+
+[STORE_PRODUCT_AVATAR_EAGLECLAW]
+The lightning from the Plant Food ability can paralyze zombies.
+
+[EAGLECLAW_NEW_SKILL_LEVEL1_DES]
+When zombies appear in the plant's lane, Electric Tailgrape condenses a lightning ball that flies above the zombie and emits a beam every 0.5 seconds, dealing damage for 7 seconds. If the zombie moves more than 1 tile away or dies, the lightning ball will select a new target.
+
+[EAGLECLAW_NEW_SKILL_LEVEL2_DES]
+The plant's targeting range expands to 3 lanes, and its cooldown time is reduced by 1.5 seconds.
+
+[EAGLECLAW_NEW_SKILL_LEVEL3_DES]
+The plant's targeting range expands to the entire screen, and its cooldown time is further reduced by 1.5 seconds.
+
+[EAGLECLAW_NEW_SKILL_LEVEL4_DES]
+When planted, has a high chance to instantly activate a Plant Food effect!
+
+[EAGLECLAW_NEW_SKILL_LEVEL5_DES]
+When condensing a lightning ball, there is an 80% chance to summon additional purple lightning. The purple lightning follows the lightning ball, moves to the attack position, and releases a lightning strike in a cross-shaped area, dealing 5 times the current attack damage. There is also a 50% chance to ^ff9600^ParalyzeⅠ^oldclr^ zombies for 1 second. The lightning ball's beam is upgraded, pulling target zombies back to their original position if they move 0.5 tiles away.
+
+[EAGLECLAW_PLANTFOOD_DESCRIPTION]
+Electric Tailgrape condenses a massive lightning ball, dealing damage every 0.5 seconds to zombies in a 3x3 area.
+
+[EAGLECLAW_AVATAR_PLANTFOOD_DESCRIPTION]
+The Plant Food ability can ^ff9600^ParalyzeⅠ^oldclr^ zombies for 1 second.
+
+[HEAVENDATURA]
+Gramophone Datura
+
+[HEAVENDATURA_DESCRIPTION]
+{KEYWORD}Range: {STAT}One tile ahead to 5×5
+{KEYWORD}Special: {STAT}Projectiles produce resonant sound waves as they pass by
+{KEYWORD}Plant features: {STAT}Yellow plant
+{FLAVOR}Gramophone Datura's ability to re-create the sounds it hears in its head has made it a fanatic of many bands.
+
+[HEAVENDATURA_DESCRIPTION_HEADER]
+When a projectile passes by, it generates resonance sound waves to attack surrounding zombies.
+
+[HEAVENDATURA_TOOLTIP]
+When a projectile passes by, it generates resonance sound waves to attack surrounding zombies.
+
+[HEAVENDATURA_PRODUCT_SHORT_DESC]
+When a projectile passes by, it generates resonance sound waves to attack surrounding zombies.
+
+[HEAVENDATURA_SKILL_LEVEL1]
+强烈共鸣
+
+[HEAVENDATURA_SKILL_LEVEL1_DES]
+触发音符击中僵尸时会将僵尸短暂眩晕0.1秒, 从第2个音符开始范围就变为3×3
+
+[HEAVENDATURA_SKILL_LEVEL2]
+灵魂共鸣
+
+[HEAVENDATURA_SKILL_LEVEL2_DES]
+触发音符击中僵尸时会将僵尸短暂眩晕0.2秒, 从第4个音符开始范围就变为5×5
+
+[HEAVENDATURA_SKILL_LEVEL5]
+渐强音浪
+
+[HEAVENDATURA_SKILL_LEVEL5_DES]
+连续的音符伤害会逐渐递增, 每经过一个音符伤害增加0.5倍, 最高增强到3倍伤害
+
+[STORE_PRODUCT_AVATAR_HEAVENDATURA_TITLE]
+Gramophone Datura Costume
+
+[HEAVENDATURA_AVATAR_NAME]
+留声曼陀罗装扮
+
+[STORE_PRODUCT_AVATAR_HEAVENDATURA]
+声波可以额外将僵尸震离地面
+
+[HEAVENDATURA_NEW_SKILL_LEVEL1_DES]
+点击曼陀罗可以发出单音, 滑动可切换单音的音阶, 有子弹经过时可发出声波对前方1格范围内的僵尸造成伤害, 并根据音阶播放不同的音效, 连续种植曼陀罗时从第3个音符开始, 音符触发的伤害范围变为3×3,第5个音符开始范围变为5×5
+
+[HEAVENDATURA_NEW_SKILL_LEVEL2_DES]
+触发音符击中僵尸时会将僵尸短暂眩晕0.1秒, 从第2个音符开始范围就变为3×3
+
+[HEAVENDATURA_NEW_SKILL_LEVEL3_DES]
+触发音符击中僵尸时会将僵尸短暂眩晕0.2秒, 从第4个音符开始范围就变为5×5
+
+[HEAVENDATURA_NEW_SKILL_LEVEL4_DES]
+种植时有高概率直接释放能量豆大招！
+
+[HEAVENDATURA_NEW_SKILL_LEVEL5_DES]
+连续的音符伤害会逐渐递增, 每经过一个音符伤害增加0.5倍, 最高增强到3倍伤害
+
+[HEAVENDATURA_PLANTFOOD_DESCRIPTION]
+释放1道大范围的声波, 对5×5范围内僵尸造成1次伤害
+
+[HEAVENDATURA_AVATAR_PLANTFOOD_DESCRIPTION]
+声波可以额外将僵尸震离地面
+
+[TWINSHONEYSUCKLE]
+Lunisolar Honeysuckle
+
+[TWINSHONEYSUCKLE_DESCRIPTION]
+{KEYWORD}范围: {STAT}金花前方一行, 银花全屏
+{KEYWORD}特点: {STAT}金花召唤太阳造成火伤, 银花召唤月亮造成冰伤
+{KEYWORD}植物特征: {STAT}黄色植物, 蓝色植物
+{FLAVOR}金银花是一对双胞胎姐妹, 在成长过程中分别获得了太阳和月亮之力. 
+
+[TWINSHONEYSUCKLE_DESCRIPTION_HEADER]
+金花召唤太阳造成火伤, 银花召唤月亮造成冰伤
+
+[TWINSHONEYSUCKLE_TOOLTIP]
+金花召唤太阳造成火伤, 银花召唤月亮造成冰伤
+
+[TWINSHONEYSUCKLE_PRODUCT_SHORT_DESC]
+金花召唤太阳造成火伤, 银花召唤月亮造成冰伤
+
+[TWINSHONEYSUCKLE_SKILL_LEVEL1]
+澎湃法力
+
+[TWINSHONEYSUCKLE_SKILL_LEVEL1_DES]
+金花和银花的休息时间减少2.5秒, 月亮和太阳爆炸后产生的蓝色星星数量增加2颗, 红色星星数量增加1颗
+
+[TWINSHONEYSUCKLE_SKILL_LEVEL2]
+法力高涨
+
+[TWINSHONEYSUCKLE_SKILL_LEVEL2_DES]
+金花和银花的休息时间减少5秒, 月亮和太阳爆炸后产生的蓝色星星数量增加4颗, 红色星星数量增加2颗
+
+[TWINSHONEYSUCKLE_SKILL_LEVEL5]
+辅助射击
+
+[TWINSHONEYSUCKLE_SKILL_LEVEL5_DES]
+金花和银花在后方时会射出造成伤害的小星星, 金花射出红色星星, 向前飞出造成火焰伤害, 银花射出蓝色星星, 全屏追踪造成冰伤害
+
+[STORE_PRODUCT_AVATAR_TWINSHONEYSUCKLE_TITLE]
+Lunisolar Honeysuckle Costume
+
+[TWINSHONEYSUCKLE_AVATAR_NAME]
+日月金银花装扮
+
+[STORE_PRODUCT_AVATAR_TWINSHONEYSUCKLE]
+爆炸后产生与普攻时数量相同的红蓝星星
+
+[TWINSHONEYSUCKLE_NEW_SKILL_LEVEL1_DES]
+日月金银花种下后, 在前方的银花会定期发射月亮追踪全屏最近的僵尸造成冰伤, 月亮爆炸后会爆出蓝色星星造成冰伤, 点击可将金花切换到前方, 金花会对前方一行的僵尸发射太阳造成范围火伤, 太阳爆炸后会爆出红色星星造成火伤, 金花和银花的攻击冷却分别计算. 
+
+[TWINSHONEYSUCKLE_NEW_SKILL_LEVEL2_DES]
+金花和银花的休息时间减少2.5秒, 月亮和太阳爆炸后产生的蓝色星星数量增加2颗, 红色星星数量增加1颗
+
+[TWINSHONEYSUCKLE_NEW_SKILL_LEVEL3_DES]
+金花和银花的休息时间减少5秒, 月亮和太阳爆炸后产生的蓝色星星数量增加4颗, 红色星星数量增加2颗
+
+[TWINSHONEYSUCKLE_NEW_SKILL_LEVEL4_DES]
+种植时有高概率直接释放能量豆大招！
+
+[TWINSHONEYSUCKLE_NEW_SKILL_LEVEL5_DES]
+金花和银花在后方时会射出造成伤害的小星星, 金花射出红色星星, 向前飞出造成火焰伤害, 银花射出蓝色星星, 全屏追踪造成冰伤害
+
+[TWINSHONEYSUCKLE_PLANTFOOD_DESCRIPTION]
+召唤大型太阳和月亮向前飞出3格后相撞对5×5范围内僵尸造成1次伤害
+
+[TWINSHONEYSUCKLE_AVATAR_PLANTFOOD_DESCRIPTION]
+爆炸后产生与普攻时数量相同的红蓝星星
+
+[RHUBARBARIAN]
+Rhubarbarian
+
+[RHUBARBARIAN_DESCRIPTION]
+{KEYWORD}范围: {STAT}普攻前方一格, 跳跃前方三格至五格
+{KEYWORD}特点: {STAT}近战植物, 可向前跳跃, 造成眩晕并留在落点攻击
+{KEYWORD}植物特征: {STAT}红色植物
+{FLAVOR}"我打东西的动力？无法抑制！"蛮族大黄兴奋地说道. "那边的那棵树？打它！那个邮箱？碎裂！你的咖啡俱乐部集点卡？让我去打那个东西！. "
+
+[RHUBARBARIAN_DESCRIPTION_HEADER]
+攻击前方1格的僵尸, 可向前跳跃, 造成眩晕并留在落点攻击
+
+[RHUBARBARIAN_TOOLTIP]
+攻击前方1格的僵尸, 可向前跳跃, 造成眩晕并留在落点攻击
+
+[RHUBARBARIAN_PRODUCT_SHORT_DESC]
+攻击前方1格的僵尸, 可向前跳跃, 造成眩晕并留在落点攻击
+
+[RHUBARBARIAN_SKILL_LEVEL1]
+借势
+
+[RHUBARBARIAN_SKILL_LEVEL1_DES]
+跳跃的极限距离增加1格, 眩晕时长和攻击时长都增加1秒
+
+[RHUBARBARIAN_SKILL_LEVEL2]
+超重
+
+[RHUBARBARIAN_SKILL_LEVEL2_DES]
+跳跃的极限距离增加2格, 眩晕时长和攻击时长都增加2秒
+
+[RHUBARBARIAN_SKILL_LEVEL5]
+蛮族之力
+
+[RHUBARBARIAN_SKILL_LEVEL5_DES]
+跳跃后概率进入狂暴模式, 狂暴模式下的攻击有概率秒杀中小型僵尸, 或对机械和巨人僵尸造成高额伤害和晕眩效果, 狂暴模式在跳回原地后结束
+
+[STORE_PRODUCT_AVATAR_RHUBARBARIAN_TITLE]
+Rhubarbarian Costume
+
+[RHUBARBARIAN_AVATAR_NAME]
+蛮族大黄装扮
+
+[STORE_PRODUCT_AVATAR_RHUBARBARIAN]
+额外跳跃1次
+
+[RHUBARBARIAN_NEW_SKILL_LEVEL1_DES]
+蛮族大黄拥有基础的近战攻击能力, 能攻击前方1格内的单个僵尸, 同时额外拥有一个跳跃技能, 在其前方3格内有僵尸时, 会跳跃到其前方1格并开始攻击, 如果僵尸过近则会原地跳跃, 跳跃的落地会震晕自身所在格和前方1格的所有僵尸, 如果大黄向前跳跃了则眩晕结束后大黄会跳回所种的格子内, 跳跃技能有数秒的内置CD
+
+[RHUBARBARIAN_NEW_SKILL_LEVEL2_DES]
+跳跃的极限距离增加1格, 眩晕时长和攻击时长都增加1秒
+
+[RHUBARBARIAN_NEW_SKILL_LEVEL3_DES]
+跳跃的极限距离增加2格, 眩晕时长和攻击时长都增加2秒
+
+[RHUBARBARIAN_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招！
+
+[RHUBARBARIAN_NEW_SKILL_LEVEL5_DES]
+跳跃后概率进入狂暴模式, 狂暴模式下的攻击有概率秒杀中小型僵尸, 或对机械和巨人僵尸造成高额伤害和晕眩效果, 狂暴模式在跳回原地后结束
+
+[RHUBARBARIAN_PLANTFOOD_DESCRIPTION]
+大黄会向右侧开始跳跃, 至多跳跃3次, 先从距离自身最近的存在僵尸的格子开始, 对以该格为中心点的3×3范围内的僵尸造成伤害和晕眩效果, 如果该格内仍然存在僵尸, 那么会继续在该格内跳跃, 直至该格内没有僵尸后才会继续跳向右侧距离自身最近的存在僵尸的格子
+
+[RHUBARBARIAN_AVATAR_PLANTFOOD_DESCRIPTION]
+跳跃次数增加1次
+
+[AQUAVINE]
+Aqua Vine
+
+[AQUAVINE_DESCRIPTION]
+{KEYWORD}特殊: {STAT}根据其上种植植物种类的不同选择不同的攻击模式
+{KEYWORD}植物特征: {STAT}绿色植物
+{FLAVOR}在某一次晨练时, 水生藤蔓将一份玉米卷绑在绳子的末端以此来帮助戴夫锻炼身体. 谁知道戴夫居然能跑这么快？
+
+[AQUAVINE_DESCRIPTION_HEADER]
+发射水弹或水柱进行攻击, 低概率发射特殊水弹击退僵尸. 
+
+[AQUAVINE_TOOLTIP]
+发射水弹或水柱进行攻击, 低概率发射特殊水弹击退僵尸. 
+
+[AQUAVINE_PRODUCT_SHORT_DESC]
+发射水弹或水柱进行攻击, 低概率发射特殊水弹击退僵尸. 
+
+[AQUAVINE_SKILL_LEVEL1]
+强化水弹
+
+[AQUAVINE_SKILL_LEVEL1_DES]
+每次攻击时有20%的概率发射一枚可以击退中小体型僵尸的水弹. 
+
+[AQUAVINE_SKILL_LEVEL2]
+超级水弹
+
+[AQUAVINE_SKILL_LEVEL2_DES]
+每次攻击时有25%的概率发射一枚可以击退中小体型僵尸的水弹. 
+
+[AQUAVINE_SKILL_LEVEL5]
+水龙卷！
+
+[AQUAVINE_SKILL_LEVEL5_DES]
+每5次攻击后, 下一次攻击会吹出一个水龙卷, 造成伤害并将一个中小体型僵尸向右侧携带2格距离, 随后水龙卷继续向右移动. 
+
+[STORE_PRODUCT_AVATAR_AQUAVINE_TITLE]
+Aqua Vine Costume
+
+[AQUAVINE_AVATAR_NAME]
+水生藤蔓装扮
+
+[STORE_PRODUCT_AVATAR_AQUAVINE]
+大招变为发射水龙卷, 命中僵尸后会对僵尸造成3s的眩晕效果
+
+[AQUAVINE_NEW_SKILL_LEVEL1_DES]
+水生藤蔓根据种植植物种类选择攻击模式, 每次攻击时有15%的概率发射一枚可以击退中小体型僵尸的水弹. 
+
+[AQUAVINE_NEW_SKILL_LEVEL2_DES]
+每次攻击时有20%的概率发射一枚可以击退中小体型僵尸的水弹. 
+
+[AQUAVINE_NEW_SKILL_LEVEL3_DES]
+每次攻击时有25%的概率发射一枚可以击退中小体型僵尸的水弹. 
+
+[AQUAVINE_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招！
+
+[AQUAVINE_NEW_SKILL_LEVEL5_DES]
+每5次攻击后, 下一次攻击会吹出一个水龙卷, 造成伤害并将一个中小体型僵尸向右侧携带2格距离, 随后水龙卷继续向右移动. 
+
+[AQUAVINE_PLANTFOOD_DESCRIPTION]
+水生藤蔓喷吐水浪, 陆生形态时对本行的僵尸造成伤害, 水生形态时会对僵尸造成伤害, 并将所有中小体型僵尸击退至最后一格
+
+[AQUAVINE_AVATAR_PLANTFOOD_DESCRIPTION]
+大招变为发射水龙卷, 命中僵尸后会额外对僵尸造成3s的眩晕效果
+
+[ADVICE_PLANT_NOT_WITH_AQUAVINE]
+不能种植在水藤蔓上
+
+[ADVICE_PLANT_AQUAVINE_ON_LILYPAD]
+不能在Lily Pad上种植水藤蔓
+
+[WINTERRAMBUTAN]
+Frost Rambutan
+
+[WINTERRAMBUTAN_DESCRIPTION]
+{KEYWORD}植物特征: {STAT}白色植物
+{FLAVOR}寒霜白毛丹喜欢玩雪, 为此他专门移居到了北方
+
+[WINTERRAMBUTAN_DESCRIPTION_HEADER]
+吐出雪球攻击, 概率冰封被攻击的僵尸, 并通过撞击直接击碎冰块
+
+[WINTERRAMBUTAN_TOOLTIP]
+吐出雪球攻击, 概率冰封被攻击的僵尸, 并通过撞击直接击碎冰块
+
+[WINTERRAMBUTAN_PRODUCT_SHORT_DESC]
+吐出雪球攻击, 概率冰封被攻击的僵尸, 并通过撞击直接击碎冰块
+
+[WINTERRAMBUTAN_SKILL_LEVEL1]
+强力冰封
+
+[WINTERRAMBUTAN_SKILL_LEVEL1_DES]
+攻击时冰封僵尸的概率提升至10%, 攻击被冰封或冻结的僵尸进入冰封状态的概率提升至20%
+
+[WINTERRAMBUTAN_SKILL_LEVEL2]
+超强冰封
+
+[WINTERRAMBUTAN_SKILL_LEVEL2_DES]
+攻击时冰封僵尸的概率提升至15%, 攻击被冰封或冻结的僵尸进入冰封状态的概率提升至30%
+
+[WINTERRAMBUTAN_SKILL_LEVEL5]
+冰雾袭来
+
+[WINTERRAMBUTAN_SKILL_LEVEL5_DES]
+雪球命中后3*3冰雾范围内的所有僵尸都有15%的概率被冰封
+
+[STORE_PRODUCT_AVATAR_WINTERRAMBUTAN_TITLE]
+Frost Rambutan Costume
+
+[WINTERRAMBUTAN_AVATAR_NAME]
+寒霜白毛丹装扮
+
+[STORE_PRODUCT_AVATAR_WINTERRAMBUTAN]
+大招撞击后生成冰地块, 踏上冰地块的僵尸都会被减速
+
+[WINTERRAMBUTAN_NEW_SKILL_LEVEL1_DES]
+当自身右侧出现僵尸时, 吐出雪球对僵尸造成攻击, 对命中的僵尸及其3*3范围内的所有僵尸都造成伤害, 同时直接被雪球命中的中小体型僵尸有一定的概率进入冰封状态；当攻击次数达到7次或右侧存在被冰封的僵尸时会向右滚出, 命中的僵尸会造成击退或直接击碎冰封形成的冰块. 
+
+[WINTERRAMBUTAN_NEW_SKILL_LEVEL2_DES]
+攻击时冰封僵尸的概率提升至10%, 攻击被冰封或冻结的僵尸进入冰封状态的概率提升至20%
+
+[WINTERRAMBUTAN_NEW_SKILL_LEVEL3_DES]
+攻击时冰封僵尸的概率提升至15%, 攻击被冰封或冻结的僵尸进入冰封状态的概率提升至30%
+
+[WINTERRAMBUTAN_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招
+
+[WINTERRAMBUTAN_NEW_SKILL_LEVEL5_DES]
+雪球命中后3*3冰雾范围内的所有僵尸都有20%的概率被冰封
+
+[WINTERRAMBUTAN_PLANTFOOD_DESCRIPTION]
+深吸一口气并向右滚出, 对碰撞到的僵尸及其周围的僵尸都造成伤害
+
+[WINTERRAMBUTAN_AVATAR_PLANTFOOD_DESCRIPTION]
+在大招撞击的地点生成冰地块, 踏上冰地块的僵尸都会被减速
+
+
+[WIREGELSEMIUM]
+Heartshock Grass
+
+[WIREGELSEMIUM_DESCRIPTION]
+{KEYWORD}用法: {STAT} 点击或点住钩吻, 拖动到目标上
+{KEYWORD}范围: {STAT}草坪全范围
+{KEYWORD}特点: {STAT}影响范围造成电属性伤害
+{KEYWORD}植物特征: {STAT}绿色植物
+{FLAVOR}电击钩吻体内有一半植拉夫血统, 也许这就是它放弃下毒而转修电学的原因
+
+[WIREGELSEMIUM_DESCRIPTION_HEADER]
+电击钩吻可以发射雷针到草坪任意格子上
+
+[WIREGELSEMIUM_TOOLTIP]
+点击钩吻, 然后点一个格子, 就会发射雷针
+
+[WIREGELSEMIUM_PRODUCT_SHORT_DESC]
+钩吻可以手动瞄准指定目标. 
+
+[WIREGELSEMIUM_SKILL_LEVEL1]
+快速通电
+
+[WIREGELSEMIUM_SKILL_LEVEL1_DES]
+攻击间隔减少0.25, 伤害倍增上限增加1倍
+
+[WIREGELSEMIUM_SKILL_LEVEL2]
+超导增幅
+
+[WIREGELSEMIUM_SKILL_LEVEL2_DES]
+攻击间隔减少0.5, 伤害倍增上限增加2倍
+
+[WIREGELSEMIUM_SKILL_LEVEL5]
+电能转化
+
+[WIREGELSEMIUM_SKILL_LEVEL5_DES]
+电线的终点可以以其他电系植物为目标, 以其他电系植物为目标时, 会根据当前电线的强度, 增强目标植物的攻击力
+
+[WIREGELSEMIUM_AVATAR_NAME]
+电击钩吻装扮
+
+[STORE_PRODUCT_AVATAR_WIREGELSEMIUM]
+大招伤害增强50%. 
+
+[STORE_PRODUCT_AVATAR_WIREGELSEMIUM_TITLE]
+Heartshock Grass Costume
+
+[WIREGELSEMIUM_NEW_SKILL_LEVEL1_DES]
+点击电击钩吻后获得准星, 再点击场内任意一格, 电击钩吻会发射雷针, 持续对碰到电线和落点3×3范围内的僵尸造成伤害, 雷针如果连接到其他钩吻上则会强化其伤害
+
+[WIREGELSEMIUM_NEW_SKILL_LEVEL2_DES]
+攻击间隔减少0.25, 伤害倍增上限增加1倍
+
+[WIREGELSEMIUM_NEW_SKILL_LEVEL3_DES]
+攻击间隔减少0.5, 伤害倍增上限增加2倍
+
+[WIREGELSEMIUM_NEW_SKILL_LEVEL4_DES]
+种植时有高概率直接释放能量豆大招！
+
+[WIREGELSEMIUM_NEW_SKILL_LEVEL5_DES]
+电线的终点可以以其他电系植物为目标, 以其他电系植物为目标时, 会根据当前电线的强度, 增强目标植物的攻击力
+
+[WIREGELSEMIUM_PLANTFOOD_DESCRIPTION]
+向全屏发射电线, 对全屏僵尸造成1次伤害
+
+[WIREGELSEMIUM_AVATAR_PLANTFOOD_DESCRIPTION]
+大招伤害增强50%
+
+[DRAGONBRUIT]
+Dragon Bruit
+
+[DRAGONBRUIT_DESCRIPTION]
+{KEYWORD}Range: {STAT} The upper, middle and lower rows
+ {KEYWORD}Special: {STAT} When there are zombies in front of it, it will throw and attack the zombies. When there are Moonflowers around, it will enter the shadow state. 
+{KEYWORD}Plant characteristics: {STAT}Red plants, shadow plants 
+ 
+{FLAVOR} While each head of Dragon Bruit doesn't have their own name, they do each have their own unique personality. The Center head is the calm, rational one. While Lefty is a bit reserved and shiy. Righty is... well... always right.
+
+[DRAGONBRUIT_DESCRIPTION_HEADER]
+Launches 3 explosive seed pod projectiles at zombies across 3 adjacent lanes. When destroyed, Dragon Bruit will split into 3 smaller plants.
+
+[DRAGONBRUIT_TOOLTIP]
+Lobs 3 projectiles down 3 lanes.
+
+[DRAGONBRUIT_PRODUCT_SHORT_DESC]
+Lobs 3 projectiles down 3 lanes.
+
+[DRAGONBRUIT_SKILL_LEVEL1]
+Shadow Power
+
+[DRAGONBRUIT_SKILL_LEVEL1_DES]
+When in the normal state, each attack has a 30% chance to enter the shadow state for 10s; when already in shadow state, each attack has a 30% chance to deal damage to all zombies in the current grid area.
+
+[DRAGONBRUIT_SKILL_LEVEL2]
+Shadow Fusion
+
+[DRAGONBRUIT_SKILL_LEVEL2_DES]
+When in the normal state, each attack has a 50% chance to enter the shadow state for 15s; when already in shadow state, each attack has a 50% chance to deal damage to all zombies in the current grid area.
+
+[DRAGONBRUIT_SKILL_LEVEL5]
+Unknown Mutation
+
+[DRAGONBRUIT_SKILL_LEVEL5_DES]
+Every 20s, the middle head randomly transforms into a special attribute Pitaya head. When attacking, it will throw a special attribute head; when the special attribute Pitaya head dies, it will cause an explosion.
+
+[STORE_PRODUCT_AVATAR_DRAGONBRUIT_TITLE]
+Dragon Bruit Costume
+
+[DRAGONBRUIT_AVATAR_NAME]
+Dragon Bruit Costume
+
+[STORE_PRODUCT_AVATAR_DRAGONBRUIT]
+In non-shadow state, immediately launch a shadow state projectile attack on all units on the field; if already in shadow state, increase the damage of this ultimate attack.
+
+[DRAGONBRUIT_NEW_SKILL_LEVEL1_DES]
+When zombies appear in the top, middle, or bottom rows to the right, it will throw an attack forward. Upon death, it will split and respawn, randomly generating 3 small Pitayas on the field. In shadow state, the attacks will inflict poison damage on zombies.
+
+[DRAGONBRUIT_NEW_SKILL_LEVEL2_DES]
+When in the normal state, each attack has a 30% chance to enter the shadow state for 10s; when already in shadow state, each attack has a 30% chance to deal damage to all zombies in the current grid area.
+
+[DRAGONBRUIT_NEW_SKILL_LEVEL3_DES]
+When in the normal state, each attack has a 50% chance to enter the shadow state for 15s; when already in shadow state, each attack has a 50% chance to deal damage to all zombies in the current grid area.
+
+[DRAGONBRUIT_NEW_SKILL_LEVEL4_DES]
+When planted, there is a medium chance to immediately release an ultimate ability when fed Plant Food.
+
+[DRAGONBRUIT_NEW_SKILL_LEVEL5_DES]
+Every 20s, randomly generates an ice/fire/thunder attribute. When there is a target to attack, throw an ice/fire/thunder attribute at the zombies, and a corresponding attribute will immediately spawn in the grid in front of the zombies. The special attribute  deals elemental damage when attacking. Upon death, the special attribute  causes an explosion, dealing elemental explosion damage to zombies.
+
+[DRAGONBRUIT_PLANTFOOD_DESCRIPTION]
+Immediately launch a projectile attack on all attackable units on the field (two rounds of projectiles in shadow state). The projectiles deal damage to all zombies in the targeted grid; when a Plant Food is applied to a small Pitaya, it will immediately grow into a Dragon Bruit.
+
+[DRAGONBRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
+In non-shadow state, immediately launch a shadow state projectile attack on all units on the field and enter shadow state for 10s; if already in shadow state, increase the damage of this ultimate attack.
+
+[FIRECRACKERFLOWER]
+Bloomfire Blaster
+
+[FIRECRACKERFLOWER_DESCRIPTION]
+{KEYWORD}范围:  {STAT}邻近三行
+{KEYWORD}特点:  {STAT}对僵尸造成短暂的眩晕状态
+{KEYWORD}植物特征: {STAT}红色植物、武器家族
+
+{FLAVOR}我有两串炮仗, 左手那串叫"嘣", 右手那串叫"啪". 
+
+[FIRECRACKERFLOWER_DESCRIPTION_HEADER]
+疯狂炮仗花可以攻击邻近三行的僵尸, 并对僵尸造成短暂的眩晕. 
+
+[FIRECRACKERFLOWER_TOOLTIP]
+可以攻击邻近三行的僵尸, 并对僵尸造成短暂的眩晕. 
+
+[FIRECRACKERFLOWER_SKILL_LEVEL1]
+加长炮仗
+
+[FIRECRACKERFLOWER_SKILL_LEVEL1_DES]
+炮仗的持续时间延长0.25秒. 
+
+[FIRECRACKERFLOWER_SKILL_LEVEL2]
+超长炮仗
+
+[FIRECRACKERFLOWER_SKILL_LEVEL2_DES]
+炮仗的持续时间延长0.5秒. 
+
+[FIRECRACKERFLOWER_SKILL_LEVEL5]
+炮仗精通
+
+[FIRECRACKERFLOWER_SKILL_LEVEL5_DES]
+攻击时会顶出一箱烟花, 对目标所在格内的僵尸造成眩晕效果, 持续1.5秒, 同时每0.25秒造成45点伤害, 后续进入该格中的僵尸也会受该效果影响. 
+
+[STORE_PRODUCT_AVATAR_FIRECRACKERFLOWER_TITLE]
+Bloomfire Blaster Costume
+
+[STORE_PRODUCT_AVATAR_FIRECRACKERFLOWER]
+发射强化炮仗, 对僵尸造成灼烧效果. 
+
+[FIRECRACKERFLOWER_NEW_SKILL_LEVEL1_DES]
+当邻近3行出现僵尸时, 疯狂炮仗花会对其投掷炮仗串, 炮仗串持续1.5秒, 每0.25秒对僵尸造成1次伤害, 炮仗串持续期间僵尸会受到^848484^眩晕Ⅰ^oldclr^效果影响. 
+
+[FIRECRACKERFLOWER_NEW_SKILL_LEVEL2_DES]
+炮仗的持续时间延长0.25秒. 
+
+[FIRECRACKERFLOWER_NEW_SKILL_LEVEL3_DES]
+炮仗的持续时间延长0.5秒. 
+
+[FIRECRACKERFLOWER_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招！
+
+[FIRECRACKERFLOWER_NEW_SKILL_LEVEL5_DES]
+攻击时会顶出一箱烟花, 对目标所在格内的僵尸造成^848484^眩晕Ⅰ^oldclr^效果, 持续1.5秒, 同时每0.25秒造成45点伤害, 后续进入该格中的僵尸也会受该效果影响. 
+
+[FIRECRACKERFLOWER_PLANTFOOD_DESCRIPTION]
+朝每个僵尸投掷1串炮仗串, 对单格内的僵尸造成伤害. 
+
+[FIRECRACKERFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
+朝每个僵尸投掷1串炮仗串, 对单格内的僵尸造成伤害, 之后还会对僵尸造成灼烧效果, 持续6秒. 
+
+[HELICONIAGUNNER]
+Heliconia Gunner
+
+[HELICONIAGUNNER_DESCRIPTION]
+{KEYWORD}Range: {STAT}Row and diagonal
+{KEYWORD}Trait: {STAT}Use machine guns to target zombies from all directions, needs to reload after shooting
+{KEYWORD}Characteristicss: {STAT}Yellow plant, red plant
+{FLAVOR}Despite usually being fierce, Heliconia Gunner becomes cute when it rains.
+
+[HELICONIAGUNNER_DESCRIPTION_HEADER]
+Use machine guns to target zombies from all directions, needs to reload after shooting
+
+[HELICONIAGUNNER_TOOLTIP]
+Use machine guns to target zombies from all directions, needs to reload after shooting
+
+[HELICONIAGUNNER_PRODUCT_SHORT_DESC]
+Use machine guns to target zombies from all directions, needs to reload after shooting
+
+[HELICONIAGUNNER_SKILL_LEVEL1]
+Improved Magazine
+
+[HELICONIAGUNNER_SKILL_LEVEL1_DES]
+Increases magazine capacity and fire rate by 20%
+
+[HELICONIAGUNNER_SKILL_LEVEL2]
+Advanced Magazine
+
+[HELICONIAGUNNER_SKILL_LEVEL2_DES]
+Increases magazine capacity and fire rate by 40%
+
+[HELICONIAGUNNER_SKILL_LEVEL5]
+Ultimate Weapon
+
+[HELICONIAGUNNER_SKILL_LEVEL5_DES]
+Every magazine fired causes the barrel to turn into a rocket launcher, releasing 3 homing rockets, which will explode and damage in a 3x3 area when they hit a zombie.
+
+[STORE_PRODUCT_AVATAR_HELICONIAGUNNER_TITLE]
+Heliconia Gunner Costume
+
+[HELICONIAGUNNER_AVATAR_NAME]
+Heliconia Gunner Costume
+
+[STORE_PRODUCT_AVATAR_HELICONIAGUNNER]
+One armor-piercing bullet will be fired every 6 bullets from the rotation, which penetrate zombies and deal more damage.
+
+[HELICONIAGUNNER_NEW_SKILL_LEVEL1_DES]
+Every time there is a zombie in range of Heliconia Gunner, it will shoot rapid at the zombie, targetting zombies closest to the left rather than the plant itself, each having 30 rounds of ammunition, takes a while to reload after shooting. Also has 3 capture net guns on its back, which fires at the zombie closest to the left. Zombies trapped by the net are stunned, captured net gun bullets cannot be recovered.
+
+[HELICONIAGUNNER_NEW_SKILL_LEVEL2_DES]
+Increases magazine capacity and fire rate by 20%
+
+[HELICONIAGUNNER_NEW_SKILL_LEVEL3_DES]
+Increases magazine capacity and fire rate by 40%
+
+[HELICONIAGUNNER_NEW_SKILL_LEVEL4_DES]
+Has a chance to activate its plant food upon plating!
+
+[HELICONIAGUNNER_NEW_SKILL_LEVEL5_DES]
+Every magazine fired causes the barrel to turn into a rocket launcher, releasing 3 homing rockets, which will explode and damage in a 3x3 area when they hit a zombie.
+
+[HELICONIAGUNNER_PLANTFOOD_DESCRIPTION]
+Heliconia Gunner rotates the machine guns and fire bullets wildly, rotating 3 times in total.
+
+[HELICONIAGUNNER_AVATAR_PLANTFOOD_DESCRIPTION]
+One armor-piercing bullet will be fired every 6 bullets from the rotation, which penetrate zombies and deal more damage.
+
+[ELECTRICPEEL]
+Electric Peel
+
+[ELECTRICPEEL_DESCRIPTION]
+{KEYWORD}Range:{STAT}4 tiles
+{KEYWORD}Special:{STAT}when planted in water, attack damage is increased and peels create electric tiles that passively damage zombies
+{KEYWORD}Plant features:{STAT}yellow plant
+{FLAVOR}Electric Peel is calm and composed, it will not let anyone come near its Peel, for good reasons. Turns out it is protecting those around it from the peel. When asked, Electric Peel said, "Don't touch my Peel, you won't like what happens next!", in a cautious tone, while emitting a buzzing electric sound.
+
+[ELECTRICPEEL_DESCRIPTION_HEADER]
+An amphibious plant which spawns a Peel that slithers down the lane to attack zombies and returns back, dealing damage again to all zombies on its way back.
+
+[ELECTRICPEEL_TOOLTIP]
+Spawns a peel that slithers along the lane to attack zombies
+
+[ELECTRICPEEL_PRODUCT_SHORT_DESC]
+Spawns a peel that slithers along the lane to attack zombies.
+
+[ELECTRICPEEL_SKILL_LEVEL1]
+Eel Enhancement
+
+[ELECTRICPEEL_SKILL_LEVEL1_DES]
+Attack range increased by 1 tile. Eel movement speed increased by 20%.
+
+[ELECTRICPEEL_SKILL_LEVEL2]
+Eel Upgrade
+
+[ELECTRICPEEL_SKILL_LEVEL2_DES]
+Attack range increased by 1 tile again. Eel movement speed increased by 20% again.
+
+[ELECTRICPEEL_SKILL_LEVEL5]
+Lightning Eel
+
+[ELECTRICPEEL_SKILL_LEVEL5_DES]
+When attacking, Electric Peel has a 20% chance to throw a lightning eel which moves forwards, binding the first bindable zombie it encounters. It will then electrocute every 3 seconds, dealing damage within the tile, paralyzing the zombie bound for 1.5 seconds, and splash damage that is half of the original damage to zombies in a 3*3 area. The electric eel can last for at most 10 seconds, dealing damage that is 150% of the original damage to the zombie it binds to or non-bindable zombies it passed through.
+
+[STORE_PRODUCT_AVATAR_ELECTRICPEEL_TITLE]
+Electric Peel Costume
+
+[ELECTRICPEEL_AVATAR_NAME]
+Electric Peel Costume
+
+[STORE_PRODUCT_AVATAR_ELECTRICPEEL]
+The Super Peel's damage is increased.
+
+[ELECTRICPEEL_NEW_SKILL_LEVEL1_DES]
+Electric Peel throws a peel at zombies in a 4 tile range, damaging them along the way, before it rebounds back to the plant. Electric Peel can also be planted on water, which increases his damage output and makes the peels create electric tiles that passively damage zombies.
+
+[ELECTRICPEEL_NEW_SKILL_LEVEL2_DES]
+Attack range increased by 1 tile. Eel movement speed increased by 20%.
+
+[ELECTRICPEEL_NEW_SKILL_LEVEL3_DES]
+Attack range increased by 1 tile again. Eel movement speed increased by 20% again.
+
+[ELECTRICPEEL_NEW_SKILL_LEVEL4_DES]
+Electric Peel may be boosted when planted.
+
+[ELECTRICPEEL_NEW_SKILL_LEVEL5_DES]
+When attacking, Electric Peel has a 20% chance to throw a lightning eel which moves forwards, binding the first bindable zombie it encounters. It will then electrocute every 3 seconds, dealing damage within the tile, ^ff9600^paralyzing^oldclr^ the zombie bound for 1.5 seconds, and splash damage that is half of the original damage to zombies in a 3*3 area. The electric eel can last for at most 10 seconds, dealing damage that is 150% of the original damage to the zombie it binds to or non-bindable zombies it passed through.
+
+[ELECTRICPEEL_PLANTFOOD_DESCRIPTION]
+Releases a giant Super Peel down the lane to that instantly kills all zombies in its path, dealing heavy damage to those it can't.
+
+[ELECTRICPEEL_AVATAR_PLANTFOOD_DESCRIPTION]
+Releases a giant Super Peel down the lane to that instantly kills all zombies in its path, dealing ^ff0000^heavier^oldclr^ damage to those it can't.
+
+[WIZARDTHORNS]
+Thorn Wizard
+
+[WIZARDTHORNS_DESCRIPTION]
+{KEYWORD}Range:{STAT}1 row ahead
+{KEYWORD}Special:{STAT}thorns damage other zombies in contact
+{KEYWORD}Plant features:{STAT}Green plant, mysterious mage
+{FLAVOR}Thorn Wizard can use his unique magical power to control thorns to entangle zombies. The sharp and poisonous thorns can make it difficult for zombies to move. But no one knows that he is just more timid than his younger brother, Timid Thorn. He doesn't want to face the zombies and has to learn the spell to keep the zombies away from him.
+
+[WIZARDTHORNS_DESCRIPTION_HEADER]
+Thorn Wizards summon thorns to wrap around and stab zombies. These thorns also serve as a wall, keeping the zombie in place as they eat it, and poisoning other zombies who bite them.
+
+[WIZARDTHORNS_TOOLTIP]
+Releases thorns that entangle zombies, weakening and poisoning them
+
+[WIZARDTHORNS_PRODUCT_SHORT_DESC]
+Uses thorns to wrap around or stab zombies, which can poison zombies after attacking.
+
+[WIZARDTHORNS_SKILL_LEVEL1]
+Fast Recovery
+
+[WIZARDTHORNS_SKILL_LEVEL1_DES]
+Attack cooldown is reduced to 8 seconds and the health of the thorns is increased.
+
+[WIZARDTHORNS_SKILL_LEVEL2]
+Double Thorns
+
+[WIZARDTHORNS_SKILL_LEVEL2_DES]
+Attack cooldown is lowered by an additional second, and the thorns have even more health and can target two zombies at a time.
+
+[WIZARDTHORNS_SKILL_LEVEL5]
+Poisonous Thorns
+
+[WIZARDTHORNS_SKILL_LEVEL5_DES]
+The poison effect now does percentile damage. The thorns are once again even stronger and last longer.
+
+[STORE_PRODUCT_AVATAR_WIZARDTHORNS_TITLE]
+Thorn Wizard Costume
+
+[WIZARDTHORNS_AVATAR_NAME]
+Thorn Wizard Costume
+
+[STORE_PRODUCT_AVATAR_WIZARDTHORNS]
+The number of large thorns is increased to 5.
+
+[WIZARDTHORNS_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the right side, a spell will be cast to make thorns wrap around the zombie on the ground. The entangled zombie's attack power will be reduced by 50%. After being released, the plant will rest for 10 seconds. Thorns have 2.5 times the health of the body and will cause 2 damage per second to all zombies it comes into contact with. If the zombie is a flying zombie or has been entangled, Thorn Wizard uses a lunge attack that does 40 damage to the zombie. All attacks will ^701edf^poison the zombie^oldclr^, taking 10 points of damage per second.
+
+[WIZARDTHORNS_NEW_SKILL_LEVEL2_DES]
+Attack cooldown is reduced to 8 seconds and the health of the thorns is increased.
+
+[WIZARDTHORNS_NEW_SKILL_LEVEL3_DES]
+Attack cooldown is lowered by an additional second, and the thorns have even more health and can target two zombies at a time.
+
+[WIZARDTHORNS_NEW_SKILL_LEVEL4_DES]
+Thorn Wizard may be boosted when planted.
+
+[WIZARDTHORNS_NEW_SKILL_LEVEL5_DES]
+The poison effect now does percentile damage. The thorns are once again even stronger and last longer.
+
+[WIZARDTHORNS_PLANTFOOD_DESCRIPTION]
+Thorn Wizard casts a thorn array, summoning 3 spiky large thorns on three tiles, on 4 spaces on tiles, penetrating zombies and dealing damage. Each large thorn can entangle zombies up to 2 times. The Plant Food effect will cause Thorn Wizard to enter his usual 10 second cooldown afterwards.
+
+[WIZARDTHORNS_AVATAR_PLANTFOOD_DESCRIPTION]
+Thorn Wizard casts a thorn array, summoning ^ff0000^5 spiky large thorns on three tiles^oldclr^, on 4 spaces on tiles, penetrating zombies and dealing damage. Each large thorn can entangle zombies up to 2 times. The Plant Food effect will cause Thorn Wizard to enter his usual 10 second cooldown afterwards.
+
+[TRISTERIXAPHYLLUS]
+Cactus Mistletoe
+
+[TRISTERIXAPHYLLUS_DESCRIPTION]
+{KEYWORD}Range:{STAT}full board
+{KEYWORD}Special:{STAT}hypnotizes the target zombie and stuns other surrounding zombies
+{KEYWORD}Plant features:{STAT}Red plant
+{FLAVOR}The plants never know what kind of plant they are talking to when they're with her. Cactus Mistletoe is often frustrated about this. "Why can't they figure out what I am? I am a plant, and a plant I am. My whole self is a plant, and the whole plant is my whole self." And thus Cactus Mistletoe created her perfect private philosophy of her life, and perhaps she has forgotten if she has ever had a "real identity".
+
+[TRISTERIXAPHYLLUS_DESCRIPTION_HEADER]
+With the help of migratory birds, drops seeds on zombies' heads that bloom afterwards, hypnotizing them.
+
+[TRISTERIXAPHYLLUS_TOOLTIP]
+Hypnotizes random zombies and stuns any others that are nearby
+
+[TRISTERIXAPHYLLUS_PRODUCT_SHORT_DESC]
+With the help of migratory birds, drops seeds on zombies' heads that bloom afterwards, hypnotizing them.
+
+[TRISTERIXAPHYLLUS_SKILL_LEVEL1]
+Fast Recovery
+
+[TRISTERIXAPHYLLUS_SKILL_LEVEL1_DES]
+Rest time is decreased by 2.5 seconds, duration of the clouds is increased by 1 seconds, is able to hypnotize Level 3 zombies.
+
+[TRISTERIXAPHYLLUS_SKILL_LEVEL2]
+Wild Growth
+
+[TRISTERIXAPHYLLUS_SKILL_LEVEL2_DES]
+Rest time is decreased by 5 seconds, duration of the clouds is increased by 2 seconds, is able to hypnotize Level 5 zombies.
+
+[TRISTERIXAPHYLLUS_SKILL_LEVEL5]
+Hypnotizing Flower Seeds
+
+[TRISTERIXAPHYLLUS_SKILL_LEVEL5_DES]
+There's a chance of growing a more gorgeous flower, and the effect from the pollen will change from stunning to making them walk backwards. Cactus Mistletoe can now affect zombies of any level.
+
+[STORE_PRODUCT_AVATAR_TRISTERIXAPHYLLUS_TITLE]
+Cactus Mistletoe Costume
+
+[TRISTERIXAPHYLLUS_AVATAR_NAME]
+Cactus Mistletoe Costume
+
+[STORE_PRODUCT_AVATAR_TRISTERIXAPHYLLUS]
+The number of birds attracted is increased to 6.
+
+[TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL1_DES]
+When there is a zombie in the field, the petals will open to reveal the flower core. Then a bird will fly up and carry the exposed gynoecia. It will fly to the zombie's head and spit out the flower core to cover the zombie's face. The zombie will be unable to move, until the gynoecia on the zombie's head blooms. When it does, pollen will be sprayed out, which will charm the zombie with flowers on its head and temporarily stun other zombies in the cross grid for 3 seconds. Afterwards, it withers away.
+
+[TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL2_DES]
+Rest time is decreased by 2.5 seconds, duration of the clouds is increased by 1 seconds, is able to hypnotize Level 3 zombies.
+
+[TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL3_DES]
+Rest time is decreased by 5 seconds, duration of the clouds is increased by 2 seconds, is able to hypnotize Level 5 zombies.
+
+[TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL4_DES]
+Cactus Mistletoe may be boosted when planted.
+
+[TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL5_DES]
+There's a chance of growing a more gorgeous flower, and the effect from the pollen will change from stunning to making them walk backwards. Cactus Mistletoe can now affect zombies of any level.
+
+[TRISTERIXAPHYLLUS_PLANTFOOD_DESCRIPTION]
+Cactus Mistletoe grows a large flower which attracts up to 5 birds, hypnotizing up to 5 zombies.
+
+[TRISTERIXAPHYLLUS_AVATAR_PLANTFOOD_DESCRIPTION]
+Cactus Mistletoe grows a large flower which attracts up to 6 birds, hypnotizing up to 6 zombies.
+
+[CHAINSAWBURMANNII]
+Sawblade Sundew
+
+[CHAINSAWBURMANNII_DESCRIPTION]
+{KEYWORD}Range:{STAT}surrounding tiles
+{KEYWORD}Special:{STAT}sawblades spin continuously until the plant needs to recharge
+{KEYWORD}Plant features:{STAT}green plant
+{FLAVOR}Since he was small, Sawblade Sundew has been very good at circular motions. He naively thought that it would help him become a genius in physics. In actuality, it brought him several winning streaks in yo-yo world championships.
+
+[CHAINSAWBURMANNII_DESCRIPTION_HEADER]
+Throws a sawblade that spins around itself and continuously attacks surrounding zombies.
+
+[CHAINSAWBURMANNII_TOOLTIP]
+Releases 3 sawblades around him that damage nearby zombies continuously
+
+[CHAINSAWBURMANNII_PRODUCT_SHORT_DESC]
+Throws a sawblade that spins around itself and continuously attacks surrounding zombies.
+
+[CHAINSAWBURMANNII_SKILL_LEVEL1]
+Flame Amplification
+
+[CHAINSAWBURMANNII_SKILL_LEVEL1_DES]
+1 of the 3 sawblades turns into blue flames, the damage is doubled, and the rest time is shortened by 2.5 seconds.
+
+[CHAINSAWBURMANNII_SKILL_LEVEL2]
+Blazing Fire
+
+[CHAINSAWBURMANNII_SKILL_LEVEL2_DES]
+2 of the 3 sawblades turn into blue flames, the damage is doubled, and the rest time is shortened by another 2.5 seconds.
+
+[CHAINSAWBURMANNII_SKILL_LEVEL5]
+Backup Weapon
+
+[CHAINSAWBURMANNII_SKILL_LEVEL5_DES]
+One of the 2 blue flame sawblades turns into purple flames, the damage is tripled, and the attack range is expanded to 5×5 around them. Each attack throws 6 sawblades.
+
+[STORE_PRODUCT_AVATAR_CHAINSAWBURMANNII_TITLE]
+Sawblade Sundew Costume
+
+[CHAINSAWBURMANNII_AVATAR_NAME]
+Sawblade Sundew Costume
+
+[STORE_PRODUCT_AVATAR_CHAINSAWBURMANNII]
+As part of his attack, he will release larger and more damaging sawblades.
+
+[CHAINSAWBURMANNII_NEW_SKILL_LEVEL1_DES]
+When there are zombies within a 3×3 range, 3 sawblades will be thrown out to penetrate all zombies. Each sawblade will cause fire damage every time it hits a zombie. The sawblade will continue to rotate around itself and return after continuing to revolve for a period of time. After returning, the plant enters a resting state and recovers after 5 seconds.
+
+[CHAINSAWBURMANNII_NEW_SKILL_LEVEL2_DES]
+1 of the 3 sawblades turns into blue flames, the damage is doubled, and the rest time is shortened by 2.5 seconds.
+
+[CHAINSAWBURMANNII_NEW_SKILL_LEVEL3_DES]
+2 of the 3 sawblades turn into blue flames, the damage is doubled, and the rest time is shortened by another 2.5 seconds.
+
+[CHAINSAWBURMANNII_NEW_SKILL_LEVEL4_DES]
+Sawblade Sundew may be boosted when planted.
+
+[CHAINSAWBURMANNII_NEW_SKILL_LEVEL5_DES]
+One of the 2 blue flame sawblades turns into purple flames, the damage is tripled, and the attack range is expanded to 5×5 around them. Each attack throws 6 sawblades.
+
+[CHAINSAWBURMANNII_PLANTFOOD_DESCRIPTION]
+Sawblade Sundew releases a series of piercing sawblades of fire outwards.
+
+[CHAINSAWBURMANNII_AVATAR_PLANTFOOD_DESCRIPTION]
+Sawblade Sundew releases a series of piercing sawblades of fire outwards, some being larger and more damaging.
+
+
 [PYREVINE]
 Pyre Vine
 
@@ -69250,66 +69921,6 @@ Fast Fusion will automatically fuse all pieces that cannot be used anymore. The 
 [NOT_REMIND_TODAY]
 Don't Remind Me Today
 
-[FIRECRACKERFLOWER]
-Bloomfire Blaster
-
-[FIRECRACKERFLOWER_DESCRIPTION]
-{KEYWORD}范围:  {STAT}邻近三行
-{KEYWORD}特点:  {STAT}对僵尸造成短暂的眩晕状态
-{KEYWORD}植物特征: {STAT}红色植物、武器家族
-
-{FLAVOR}我有两串炮仗, 左手那串叫"嘣", 右手那串叫"啪". 
-
-[FIRECRACKERFLOWER_DESCRIPTION_HEADER]
-疯狂炮仗花可以攻击邻近三行的僵尸, 并对僵尸造成短暂的眩晕. 
-
-[FIRECRACKERFLOWER_TOOLTIP]
-可以攻击邻近三行的僵尸, 并对僵尸造成短暂的眩晕. 
-
-[FIRECRACKERFLOWER_SKILL_LEVEL1]
-加长炮仗
-
-[FIRECRACKERFLOWER_SKILL_LEVEL1_DES]
-炮仗的持续时间延长0.25秒. 
-
-[FIRECRACKERFLOWER_SKILL_LEVEL2]
-超长炮仗
-
-[FIRECRACKERFLOWER_SKILL_LEVEL2_DES]
-炮仗的持续时间延长0.5秒. 
-
-[FIRECRACKERFLOWER_SKILL_LEVEL5]
-炮仗精通
-
-[FIRECRACKERFLOWER_SKILL_LEVEL5_DES]
-攻击时会顶出一箱烟花, 对目标所在格内的僵尸造成眩晕效果, 持续1.5秒, 同时每0.25秒造成45点伤害, 后续进入该格中的僵尸也会受该效果影响. 
-
-[STORE_PRODUCT_AVATAR_FIRECRACKERFLOWER_TITLE]
-Bloomfire Blaster Costume
-
-[STORE_PRODUCT_AVATAR_FIRECRACKERFLOWER]
-发射强化炮仗, 对僵尸造成灼烧效果. 
-
-[FIRECRACKERFLOWER_NEW_SKILL_LEVEL1_DES]
-当邻近3行出现僵尸时, 疯狂炮仗花会对其投掷炮仗串, 炮仗串持续1.5秒, 每0.25秒对僵尸造成1次伤害, 炮仗串持续期间僵尸会受到^848484^眩晕Ⅰ^oldclr^效果影响. 
-
-[FIRECRACKERFLOWER_NEW_SKILL_LEVEL2_DES]
-炮仗的持续时间延长0.25秒. 
-
-[FIRECRACKERFLOWER_NEW_SKILL_LEVEL3_DES]
-炮仗的持续时间延长0.5秒. 
-
-[FIRECRACKERFLOWER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
-
-[FIRECRACKERFLOWER_NEW_SKILL_LEVEL5_DES]
-攻击时会顶出一箱烟花, 对目标所在格内的僵尸造成^848484^眩晕Ⅰ^oldclr^效果, 持续1.5秒, 同时每0.25秒造成45点伤害, 后续进入该格中的僵尸也会受该效果影响. 
-
-[FIRECRACKERFLOWER_PLANTFOOD_DESCRIPTION]
-朝每个僵尸投掷1串炮仗串, 对单格内的僵尸造成伤害. 
-
-[FIRECRACKERFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-朝每个僵尸投掷1串炮仗串, 对单格内的僵尸造成伤害, 之后还会对僵尸造成灼烧效果, 持续6秒. 
 
 [WIREGELSEMIUM_FAMILY]
 钩吻科
@@ -69424,611 +70035,6 @@ Plant Encyclopedia
 [PLANT_PEDIA_REWARD]
 Plant Encyclopedia Reward
 
-[DAZEYCHAIN_SKILL_LEVEL5]
-科学热身
-
-[DAZEYCHAIN_SKILL_LEVEL5_DES]
-开花所需的攻击次数减少至8次. 雾气可^848484^眩晕Ⅰ^oldclr^的僵尸阶数提升至10阶, 最高形态时, 雾气会在草坪底线堆积, 对雾中的僵尸间断性造成眩晕. 
-
-[WIREGELSEMIUM]
-Heartshock Grass
-
-[WIREGELSEMIUM_DESCRIPTION]
-{KEYWORD}用法: {STAT} 点击或点住钩吻, 拖动到目标上
-{KEYWORD}范围: {STAT}草坪全范围
-{KEYWORD}特点: {STAT}影响范围造成电属性伤害
-{KEYWORD}植物特征: {STAT}绿色植物
-{FLAVOR}电击钩吻体内有一半植拉夫血统, 也许这就是它放弃下毒而转修电学的原因
-
-[WIREGELSEMIUM_DESCRIPTION_HEADER]
-电击钩吻可以发射雷针到草坪任意格子上
-
-[WIREGELSEMIUM_TOOLTIP]
-点击钩吻, 然后点一个格子, 就会发射雷针
-
-[WIREGELSEMIUM_PRODUCT_SHORT_DESC]
-钩吻可以手动瞄准指定目标. 
-
-[WIREGELSEMIUM_SKILL_LEVEL1]
-快速通电
-
-[WIREGELSEMIUM_SKILL_LEVEL1_DES]
-攻击间隔减少0.25, 伤害倍增上限增加1倍
-
-[WIREGELSEMIUM_SKILL_LEVEL2]
-超导增幅
-
-[WIREGELSEMIUM_SKILL_LEVEL2_DES]
-攻击间隔减少0.5, 伤害倍增上限增加2倍
-
-[WIREGELSEMIUM_SKILL_LEVEL5]
-电能转化
-
-[WIREGELSEMIUM_SKILL_LEVEL5_DES]
-电线的终点可以以其他电系植物为目标, 以其他电系植物为目标时, 会根据当前电线的强度, 增强目标植物的攻击力
-
-[WIREGELSEMIUM_AVATAR_NAME]
-电击钩吻装扮
-
-[STORE_PRODUCT_AVATAR_WIREGELSEMIUM]
-大招伤害增强50%. 
-
-[STORE_PRODUCT_AVATAR_WIREGELSEMIUM_TITLE]
-Heartshock Grass Costume
-
-[WIREGELSEMIUM_NEW_SKILL_LEVEL1_DES]
-点击电击钩吻后获得准星, 再点击场内任意一格, 电击钩吻会发射雷针, 持续对碰到电线和落点3×3范围内的僵尸造成伤害, 雷针如果连接到其他钩吻上则会强化其伤害
-
-[WIREGELSEMIUM_NEW_SKILL_LEVEL2_DES]
-攻击间隔减少0.25, 伤害倍增上限增加1倍
-
-[WIREGELSEMIUM_NEW_SKILL_LEVEL3_DES]
-攻击间隔减少0.5, 伤害倍增上限增加2倍
-
-[WIREGELSEMIUM_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
-
-[WIREGELSEMIUM_NEW_SKILL_LEVEL5_DES]
-电线的终点可以以其他电系植物为目标, 以其他电系植物为目标时, 会根据当前电线的强度, 增强目标植物的攻击力
-
-[WIREGELSEMIUM_PLANTFOOD_DESCRIPTION]
-向全屏发射电线, 对全屏僵尸造成1次伤害
-
-[WIREGELSEMIUM_AVATAR_PLANTFOOD_DESCRIPTION]
-大招伤害增强50%
-
-[DRAGONBRUIT]
-Dragon Bruit
-
-[DRAGONBRUIT_DESCRIPTION]
-{KEYWORD}Range: {STAT} The upper, middle and lower rows
- {KEYWORD}Special: {STAT} When there are zombies in front of it, it will throw and attack the zombies. When there are Moonflowers around, it will enter the shadow state. 
-{KEYWORD}Plant characteristics: {STAT}Red plants, shadow plants 
- 
-{FLAVOR} While each head of Dragon Bruit doesn't have their own name, they do each have their own unique personality. The Center head is the calm, rational one. While Lefty is a bit reserved and shiy. Righty is... well... always right.
-
-[DRAGONBRUIT_DESCRIPTION_HEADER]
-Launches 3 explosive seed pod projectiles at zombies across 3 adjacent lanes. When destroyed, Dragon Bruit will split into 3 smaller plants.
-
-[DRAGONBRUIT_TOOLTIP]
-Lobs 3 projectiles down 3 lanes.
-
-[DRAGONBRUIT_PRODUCT_SHORT_DESC]
-Lobs 3 projectiles down 3 lanes.
-
-[DRAGONBRUIT_SKILL_LEVEL1]
-Shadow Power
-
-[DRAGONBRUIT_SKILL_LEVEL1_DES]
-When in the normal state, each attack has a 30% chance to enter the shadow state for 10s; when already in shadow state, each attack has a 30% chance to deal damage to all zombies in the current grid area.
-
-[DRAGONBRUIT_SKILL_LEVEL2]
-Shadow Fusion
-
-[DRAGONBRUIT_SKILL_LEVEL2_DES]
-When in the normal state, each attack has a 50% chance to enter the shadow state for 15s; when already in shadow state, each attack has a 50% chance to deal damage to all zombies in the current grid area.
-
-[DRAGONBRUIT_SKILL_LEVEL5]
-Unknown Mutation
-
-[DRAGONBRUIT_SKILL_LEVEL5_DES]
-Every 20s, the middle head randomly transforms into a special attribute Pitaya head. When attacking, it will throw a special attribute head; when the special attribute Pitaya head dies, it will cause an explosion.
-
-[STORE_PRODUCT_AVATAR_DRAGONBRUIT_TITLE]
-Dragon Bruit Costume
-
-[DRAGONBRUIT_AVATAR_NAME]
-Dragon Bruit Costume
-
-[STORE_PRODUCT_AVATAR_DRAGONBRUIT]
-In non-shadow state, immediately launch a shadow state projectile attack on all units on the field; if already in shadow state, increase the damage of this ultimate attack.
-
-[DRAGONBRUIT_NEW_SKILL_LEVEL1_DES]
-When zombies appear in the top, middle, or bottom rows to the right, it will throw an attack forward. Upon death, it will split and respawn, randomly generating 3 small Pitayas on the field. In shadow state, the attacks will inflict poison damage on zombies.
-
-[DRAGONBRUIT_NEW_SKILL_LEVEL2_DES]
-When in the normal state, each attack has a 30% chance to enter the shadow state for 10s; when already in shadow state, each attack has a 30% chance to deal damage to all zombies in the current grid area.
-
-[DRAGONBRUIT_NEW_SKILL_LEVEL3_DES]
-When in the normal state, each attack has a 50% chance to enter the shadow state for 15s; when already in shadow state, each attack has a 50% chance to deal damage to all zombies in the current grid area.
-
-[DRAGONBRUIT_NEW_SKILL_LEVEL4_DES]
-When planted, there is a medium chance to immediately release an ultimate ability when fed Plant Food.
-
-[DRAGONBRUIT_NEW_SKILL_LEVEL5_DES]
-Every 20s, randomly generates an ice/fire/thunder attribute. When there is a target to attack, throw an ice/fire/thunder attribute at the zombies, and a corresponding attribute will immediately spawn in the grid in front of the zombies. The special attribute  deals elemental damage when attacking. Upon death, the special attribute  causes an explosion, dealing elemental explosion damage to zombies.
-
-[DRAGONBRUIT_PLANTFOOD_DESCRIPTION]
-Immediately launch a projectile attack on all attackable units on the field (two rounds of projectiles in shadow state). The projectiles deal damage to all zombies in the targeted grid; when a Plant Food is applied to a small Pitaya, it will immediately grow into a Dragon Bruit.
-
-[DRAGONBRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
-In non-shadow state, immediately launch a shadow state projectile attack on all units on the field and enter shadow state for 10s; if already in shadow state, increase the damage of this ultimate attack.
-
-[gloomvine]
-Gloom Vine
-
-[gloomvine_DESCRIPTION]
-{KEYWORD}范围: {STAT}自身周围3*3
-{KEYWORD}特点: {STAT}对范围内的僵尸攻击, 使种植在其上的暗影植物进入暗影形态
-{KEYWORD}植物特征: {STAT}蓝色植物, 暗影系植物
-{FLAVOR}   不应该因为忧郁藤蔓的外表而将其认为内心忧郁, 虽然它的内心确实是忧郁的, 但这需要追溯到很久很久以前. 
-
-[gloomvine_DESCRIPTION_HEADER]
-对范围内的僵尸攻击, 使种植在其上的暗影植物进入暗影形态
-
-[gloomvine_TOOLTIP]
-对范围内的僵尸攻击, 使种植在其上的暗影植物进入暗影形态
-
-[gloomvine_PRODUCT_SHORT_DESC]
-对范围内的僵尸攻击, 使种植在其上的暗影植物进入暗影形态
-
-[gloomvine_SKILL_LEVEL1]
-暗影增幅
-
-[gloomvine_SKILL_LEVEL1_DES]
-当上方种植的植物为暗影系植物时, 增加暗影系植物15%的攻击力；受到忧郁藤蔓攻击的僵尸减速30%
-
-[gloomvine_SKILL_LEVEL2]
-暗影强化
-
-[gloomvine_SKILL_LEVEL2_DES]
-当上方种植的植物为暗影系植物时, 增加暗影系植物30%的攻击力；受到忧郁藤蔓攻击的僵尸减速50%
-
-[gloomvine_SKILL_LEVEL5]
-暗影姿态
-
-[gloomvine_SKILL_LEVEL5_DES]
-忧郁藤蔓的攻击范围扩大；忧郁藤蔓如果在月光花所生成的月光领域中时会进入超暗影形态, 忧郁藤蔓第五次攻击时会向四个方向额外喷吐烟雾, 烟雾对命中的僵尸造成伤害, 同时对僵尸造成15%的易伤效果
-
-[STORE_PRODUCT_AVATAR_gloomvine_TITLE]
-Gloom Vine Costume
-
-[gloomvine_AVATAR_NAME]
-忧郁藤蔓装扮
-
-[STORE_PRODUCT_AVATAR_gloomvine]
-忧郁藤蔓持续喷吐出气泡, 对攻击范围内的僵尸造成伤害
-
-[gloomvine_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在忧郁藤蔓的攻击范围内时, 忧郁藤蔓将会对僵尸发起攻击；同时如果种植其上的植物为暗影家族植物, 则该暗影家族植物将会直接进入暗影形态
-
-[gloomvine_NEW_SKILL_LEVEL2_DES]
-当上方种植的植物为暗影系植物时, 增加暗影系植物15%的攻击力；受到忧郁藤蔓攻击的僵尸减速30%
-
-[gloomvine_NEW_SKILL_LEVEL3_DES]
-当上方种植的植物为暗影系植物时, 增加暗影系植物30%的攻击力；受到忧郁藤蔓攻击的僵尸减速50%
-
-[gloomvine_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
-
-[gloomvine_NEW_SKILL_LEVEL5_DES]
-忧郁藤蔓的攻击范围扩大；忧郁藤蔓如果在月光花所生成的月光领域中时会进入超暗影形态, 忧郁藤蔓第五次攻击时会向四个方向额外喷吐烟雾, 烟雾对命中的僵尸造成伤害, 同时对僵尸造成15%的易伤效果
-
-[gloomvine_PLANTFOOD_DESCRIPTION]
-忧郁藤蔓持续喷吐出气泡, 对攻击范围内的僵尸造成伤害
-
-[gloomvine_AVATAR_PLANTFOOD_DESCRIPTION]
-大招范围内被攻击到的僵尸会减速50%
-
-
-[EAGLECLAW]
-Electric Tailgrape
-
-[EAGLECLAW_DESCRIPTION]
-{KEYWORD}范围: {STAT}一行
-{KEYWORD}特点: {STAT}凝聚雷电球, 持续电击僵尸
-{KEYWORD}植物特征: {STAT}绿色植物
-{FLAVOR}"滋...滋...滋..."鹰爪花全身散发着电光: "让僵尸尝尝电击的滋味"
-
-[EAGLECLAW_DESCRIPTION_HEADER]
-凝聚雷电球, 持续电击僵尸
-
-[EAGLECLAW_TOOLTIP]
-凝聚雷电球, 持续电击僵尸
-
-[EAGLECLAW_PRODUCT_SHORT_DESC]
-凝聚雷电球, 持续电击僵尸
-
-[EAGLECLAW_SKILL_LEVEL1]
-追踪升级
-
-[EAGLECLAW_SKILL_LEVEL1_DES]
-植物的索敌范围扩大到3行, 休息时间减少
-
-[EAGLECLAW_SKILL_LEVEL2]
-凝聚加速
-
-[EAGLECLAW_SKILL_LEVEL2_DES]
-植物的索敌范围扩大到全屏, 休息时间再次减少
-
-[EAGLECLAW_SKILL_LEVEL5]
-雷电爆发
-
-[EAGLECLAW_SKILL_LEVEL5_DES]
-攻击有概率额外召唤出紫色雷电, 紫色雷电造成一次十字型的范围伤害
-
-[STORE_PRODUCT_AVATAR_EAGLECLAW_TITLE]
-Electric Tailgrape Costume
-
-[EAGLECLAW_AVATAR_NAME]
-电击鹰爪花装扮
-
-[STORE_PRODUCT_AVATAR_EAGLECLAW]
-大招劈下的雷电可以麻痹僵尸
-
-[EAGLECLAW_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在植物所在行时, 鹰爪花凝聚出雷电球飞到僵尸头上位置, 随后发出牵引光束每间隔0.5秒对僵尸造成伤害, 雷电球持续存在7秒. 当僵尸离开雷电球1格以上或死亡后, 雷电球将重新选择目标进行攻击
-
-[EAGLECLAW_NEW_SKILL_LEVEL2_DES]
-植物的索敌范围扩大到3行, 休息时间减少1.5秒
-
-[EAGLECLAW_NEW_SKILL_LEVEL3_DES]
-植物的索敌范围扩大到全屏, 休息时间再次减少1.5秒
-
-[EAGLECLAW_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
-
-[EAGLECLAW_NEW_SKILL_LEVEL5_DES]
-鹰爪花在凝聚雷电球时, 有80%概率额外召唤出紫色雷电, 紫色雷电跟随雷电球移动, 达到攻击位置, 朝下方十字范围内的僵尸释放一次雷电攻击, 伤害为当前攻击力的5倍, 并且有50%概率对僵尸^ff9600^麻痹Ⅰ^oldclr^1秒；雷电球的牵引光束升级, 当目标僵尸走出0.5格距离后将被拉扯在原地
-
-[EAGLECLAW_PLANTFOOD_DESCRIPTION]
-鹰爪花凝聚出一个巨大的雷电球, 对3*3范围内的僵尸每隔0.5秒造成1次伤害
-
-[EAGLECLAW_AVATAR_PLANTFOOD_DESCRIPTION]
-大招的攻击可以^ff9600^麻痹Ⅰ^oldclr^僵尸, 麻痹时间为1秒
-
-[HEAVENDATURA]
-Gramophone Datura
-
-[HEAVENDATURA_DESCRIPTION]
-{KEYWORD}范围: {STAT}前方一格至5×5
-{KEYWORD}特点: {STAT}子弹经过时产生共鸣音波
-{KEYWORD}植物特征: {STAT}黄色植物
-{FLAVOR}留声曼陀罗可以将听过的声音记在脑子里重现出来, 因此它成为了许多乐队的核心粉丝. 
-
-[HEAVENDATURA_DESCRIPTION_HEADER]
-子弹经过时产生共鸣音波攻击周围僵尸
-
-[HEAVENDATURA_TOOLTIP]
-子弹经过时产生共鸣音波攻击周围僵尸
-
-[HEAVENDATURA_PRODUCT_SHORT_DESC]
-子弹经过时产生共鸣音波攻击周围僵尸
-
-[HEAVENDATURA_SKILL_LEVEL1]
-强烈共鸣
-
-[HEAVENDATURA_SKILL_LEVEL1_DES]
-触发音符击中僵尸时会将僵尸短暂眩晕0.1秒, 从第2个音符开始范围就变为3×3
-
-[HEAVENDATURA_SKILL_LEVEL2]
-灵魂共鸣
-
-[HEAVENDATURA_SKILL_LEVEL2_DES]
-触发音符击中僵尸时会将僵尸短暂眩晕0.2秒, 从第4个音符开始范围就变为5×5
-
-[HEAVENDATURA_SKILL_LEVEL5]
-渐强音浪
-
-[HEAVENDATURA_SKILL_LEVEL5_DES]
-连续的音符伤害会逐渐递增, 每经过一个音符伤害增加0.5倍, 最高增强到3倍伤害
-
-[STORE_PRODUCT_AVATAR_HEAVENDATURA_TITLE]
-Gramophone Datura Costume
-
-[HEAVENDATURA_AVATAR_NAME]
-留声曼陀罗装扮
-
-[STORE_PRODUCT_AVATAR_HEAVENDATURA]
-声波可以额外将僵尸震离地面
-
-[HEAVENDATURA_NEW_SKILL_LEVEL1_DES]
-点击曼陀罗可以发出单音, 滑动可切换单音的音阶, 有子弹经过时可发出声波对前方1格范围内的僵尸造成伤害, 并根据音阶播放不同的音效, 连续种植曼陀罗时从第3个音符开始, 音符触发的伤害范围变为3×3,第5个音符开始范围变为5×5
-
-[HEAVENDATURA_NEW_SKILL_LEVEL2_DES]
-触发音符击中僵尸时会将僵尸短暂眩晕0.1秒, 从第2个音符开始范围就变为3×3
-
-[HEAVENDATURA_NEW_SKILL_LEVEL3_DES]
-触发音符击中僵尸时会将僵尸短暂眩晕0.2秒, 从第4个音符开始范围就变为5×5
-
-[HEAVENDATURA_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
-
-[HEAVENDATURA_NEW_SKILL_LEVEL5_DES]
-连续的音符伤害会逐渐递增, 每经过一个音符伤害增加0.5倍, 最高增强到3倍伤害
-
-[HEAVENDATURA_PLANTFOOD_DESCRIPTION]
-释放1道大范围的声波, 对5×5范围内僵尸造成1次伤害
-
-[HEAVENDATURA_AVATAR_PLANTFOOD_DESCRIPTION]
-声波可以额外将僵尸震离地面
-
-[TWINSHONEYSUCKLE]
-Lunisolar Honeysuckle
-
-[TWINSHONEYSUCKLE_DESCRIPTION]
-{KEYWORD}范围: {STAT}金花前方一行, 银花全屏
-{KEYWORD}特点: {STAT}金花召唤太阳造成火伤, 银花召唤月亮造成冰伤
-{KEYWORD}植物特征: {STAT}黄色植物, 蓝色植物
-{FLAVOR}金银花是一对双胞胎姐妹, 在成长过程中分别获得了太阳和月亮之力. 
-
-[TWINSHONEYSUCKLE_DESCRIPTION_HEADER]
-金花召唤太阳造成火伤, 银花召唤月亮造成冰伤
-
-[TWINSHONEYSUCKLE_TOOLTIP]
-金花召唤太阳造成火伤, 银花召唤月亮造成冰伤
-
-[TWINSHONEYSUCKLE_PRODUCT_SHORT_DESC]
-金花召唤太阳造成火伤, 银花召唤月亮造成冰伤
-
-[TWINSHONEYSUCKLE_SKILL_LEVEL1]
-澎湃法力
-
-[TWINSHONEYSUCKLE_SKILL_LEVEL1_DES]
-金花和银花的休息时间减少2.5秒, 月亮和太阳爆炸后产生的蓝色星星数量增加2颗, 红色星星数量增加1颗
-
-[TWINSHONEYSUCKLE_SKILL_LEVEL2]
-法力高涨
-
-[TWINSHONEYSUCKLE_SKILL_LEVEL2_DES]
-金花和银花的休息时间减少5秒, 月亮和太阳爆炸后产生的蓝色星星数量增加4颗, 红色星星数量增加2颗
-
-[TWINSHONEYSUCKLE_SKILL_LEVEL5]
-辅助射击
-
-[TWINSHONEYSUCKLE_SKILL_LEVEL5_DES]
-金花和银花在后方时会射出造成伤害的小星星, 金花射出红色星星, 向前飞出造成火焰伤害, 银花射出蓝色星星, 全屏追踪造成冰伤害
-
-[STORE_PRODUCT_AVATAR_TWINSHONEYSUCKLE_TITLE]
-Lunisolar Honeysuckle Costume
-
-[TWINSHONEYSUCKLE_AVATAR_NAME]
-日月金银花装扮
-
-[STORE_PRODUCT_AVATAR_TWINSHONEYSUCKLE]
-爆炸后产生与普攻时数量相同的红蓝星星
-
-[TWINSHONEYSUCKLE_NEW_SKILL_LEVEL1_DES]
-日月金银花种下后, 在前方的银花会定期发射月亮追踪全屏最近的僵尸造成冰伤, 月亮爆炸后会爆出蓝色星星造成冰伤, 点击可将金花切换到前方, 金花会对前方一行的僵尸发射太阳造成范围火伤, 太阳爆炸后会爆出红色星星造成火伤, 金花和银花的攻击冷却分别计算. 
-
-[TWINSHONEYSUCKLE_NEW_SKILL_LEVEL2_DES]
-金花和银花的休息时间减少2.5秒, 月亮和太阳爆炸后产生的蓝色星星数量增加2颗, 红色星星数量增加1颗
-
-[TWINSHONEYSUCKLE_NEW_SKILL_LEVEL3_DES]
-金花和银花的休息时间减少5秒, 月亮和太阳爆炸后产生的蓝色星星数量增加4颗, 红色星星数量增加2颗
-
-[TWINSHONEYSUCKLE_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
-
-[TWINSHONEYSUCKLE_NEW_SKILL_LEVEL5_DES]
-金花和银花在后方时会射出造成伤害的小星星, 金花射出红色星星, 向前飞出造成火焰伤害, 银花射出蓝色星星, 全屏追踪造成冰伤害
-
-[TWINSHONEYSUCKLE_PLANTFOOD_DESCRIPTION]
-召唤大型太阳和月亮向前飞出3格后相撞对5×5范围内僵尸造成1次伤害
-
-[TWINSHONEYSUCKLE_AVATAR_PLANTFOOD_DESCRIPTION]
-爆炸后产生与普攻时数量相同的红蓝星星
-
-[RHUBARBARIAN]
-Rhubarbarian
-
-[RHUBARBARIAN_DESCRIPTION]
-{KEYWORD}范围: {STAT}普攻前方一格, 跳跃前方三格至五格
-{KEYWORD}特点: {STAT}近战植物, 可向前跳跃, 造成眩晕并留在落点攻击
-{KEYWORD}植物特征: {STAT}红色植物
-{FLAVOR}"我打东西的动力？无法抑制！"蛮族大黄兴奋地说道. "那边的那棵树？打它！那个邮箱？碎裂！你的咖啡俱乐部集点卡？让我去打那个东西！. "
-
-[RHUBARBARIAN_DESCRIPTION_HEADER]
-攻击前方1格的僵尸, 可向前跳跃, 造成眩晕并留在落点攻击
-
-[RHUBARBARIAN_TOOLTIP]
-攻击前方1格的僵尸, 可向前跳跃, 造成眩晕并留在落点攻击
-
-[RHUBARBARIAN_PRODUCT_SHORT_DESC]
-攻击前方1格的僵尸, 可向前跳跃, 造成眩晕并留在落点攻击
-
-[RHUBARBARIAN_SKILL_LEVEL1]
-借势
-
-[RHUBARBARIAN_SKILL_LEVEL1_DES]
-跳跃的极限距离增加1格, 眩晕时长和攻击时长都增加1秒
-
-[RHUBARBARIAN_SKILL_LEVEL2]
-超重
-
-[RHUBARBARIAN_SKILL_LEVEL2_DES]
-跳跃的极限距离增加2格, 眩晕时长和攻击时长都增加2秒
-
-[RHUBARBARIAN_SKILL_LEVEL5]
-蛮族之力
-
-[RHUBARBARIAN_SKILL_LEVEL5_DES]
-跳跃后概率进入狂暴模式, 狂暴模式下的攻击有概率秒杀中小型僵尸, 或对机械和巨人僵尸造成高额伤害和晕眩效果, 狂暴模式在跳回原地后结束
-
-[STORE_PRODUCT_AVATAR_RHUBARBARIAN_TITLE]
-Rhubarbarian Costume
-
-[RHUBARBARIAN_AVATAR_NAME]
-蛮族大黄装扮
-
-[STORE_PRODUCT_AVATAR_RHUBARBARIAN]
-额外跳跃1次
-
-[RHUBARBARIAN_NEW_SKILL_LEVEL1_DES]
-蛮族大黄拥有基础的近战攻击能力, 能攻击前方1格内的单个僵尸, 同时额外拥有一个跳跃技能, 在其前方3格内有僵尸时, 会跳跃到其前方1格并开始攻击, 如果僵尸过近则会原地跳跃, 跳跃的落地会震晕自身所在格和前方1格的所有僵尸, 如果大黄向前跳跃了则眩晕结束后大黄会跳回所种的格子内, 跳跃技能有数秒的内置CD
-
-[RHUBARBARIAN_NEW_SKILL_LEVEL2_DES]
-跳跃的极限距离增加1格, 眩晕时长和攻击时长都增加1秒
-
-[RHUBARBARIAN_NEW_SKILL_LEVEL3_DES]
-跳跃的极限距离增加2格, 眩晕时长和攻击时长都增加2秒
-
-[RHUBARBARIAN_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
-
-[RHUBARBARIAN_NEW_SKILL_LEVEL5_DES]
-跳跃后概率进入狂暴模式, 狂暴模式下的攻击有概率秒杀中小型僵尸, 或对机械和巨人僵尸造成高额伤害和晕眩效果, 狂暴模式在跳回原地后结束
-
-[RHUBARBARIAN_PLANTFOOD_DESCRIPTION]
-大黄会向右侧开始跳跃, 至多跳跃3次, 先从距离自身最近的存在僵尸的格子开始, 对以该格为中心点的3×3范围内的僵尸造成伤害和晕眩效果, 如果该格内仍然存在僵尸, 那么会继续在该格内跳跃, 直至该格内没有僵尸后才会继续跳向右侧距离自身最近的存在僵尸的格子
-
-[RHUBARBARIAN_AVATAR_PLANTFOOD_DESCRIPTION]
-跳跃次数增加1次
-
-[AQUAVINE]
-Aqua Vine
-
-[AQUAVINE_DESCRIPTION]
-{KEYWORD}特殊: {STAT}根据其上种植植物种类的不同选择不同的攻击模式
-{KEYWORD}植物特征: {STAT}绿色植物
-{FLAVOR}在某一次晨练时, 水生藤蔓将一份玉米卷绑在绳子的末端以此来帮助戴夫锻炼身体. 谁知道戴夫居然能跑这么快？
-
-[AQUAVINE_DESCRIPTION_HEADER]
-发射水弹或水柱进行攻击, 低概率发射特殊水弹击退僵尸. 
-
-[AQUAVINE_TOOLTIP]
-发射水弹或水柱进行攻击, 低概率发射特殊水弹击退僵尸. 
-
-[AQUAVINE_PRODUCT_SHORT_DESC]
-发射水弹或水柱进行攻击, 低概率发射特殊水弹击退僵尸. 
-
-[AQUAVINE_SKILL_LEVEL1]
-强化水弹
-
-[AQUAVINE_SKILL_LEVEL1_DES]
-每次攻击时有20%的概率发射一枚可以击退中小体型僵尸的水弹. 
-
-[AQUAVINE_SKILL_LEVEL2]
-超级水弹
-
-[AQUAVINE_SKILL_LEVEL2_DES]
-每次攻击时有25%的概率发射一枚可以击退中小体型僵尸的水弹. 
-
-[AQUAVINE_SKILL_LEVEL5]
-水龙卷！
-
-[AQUAVINE_SKILL_LEVEL5_DES]
-每5次攻击后, 下一次攻击会吹出一个水龙卷, 造成伤害并将一个中小体型僵尸向右侧携带2格距离, 随后水龙卷继续向右移动. 
-
-[STORE_PRODUCT_AVATAR_AQUAVINE_TITLE]
-Aqua Vine Costume
-
-[AQUAVINE_AVATAR_NAME]
-水生藤蔓装扮
-
-[STORE_PRODUCT_AVATAR_AQUAVINE]
-大招变为发射水龙卷, 命中僵尸后会对僵尸造成3s的眩晕效果
-
-[AQUAVINE_NEW_SKILL_LEVEL1_DES]
-水生藤蔓根据种植植物种类选择攻击模式, 每次攻击时有15%的概率发射一枚可以击退中小体型僵尸的水弹. 
-
-[AQUAVINE_NEW_SKILL_LEVEL2_DES]
-每次攻击时有20%的概率发射一枚可以击退中小体型僵尸的水弹. 
-
-[AQUAVINE_NEW_SKILL_LEVEL3_DES]
-每次攻击时有25%的概率发射一枚可以击退中小体型僵尸的水弹. 
-
-[AQUAVINE_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
-
-[AQUAVINE_NEW_SKILL_LEVEL5_DES]
-每5次攻击后, 下一次攻击会吹出一个水龙卷, 造成伤害并将一个中小体型僵尸向右侧携带2格距离, 随后水龙卷继续向右移动. 
-
-[AQUAVINE_PLANTFOOD_DESCRIPTION]
-水生藤蔓喷吐水浪, 陆生形态时对本行的僵尸造成伤害, 水生形态时会对僵尸造成伤害, 并将所有中小体型僵尸击退至最后一格
-
-[AQUAVINE_AVATAR_PLANTFOOD_DESCRIPTION]
-大招变为发射水龙卷, 命中僵尸后会额外对僵尸造成3s的眩晕效果
-
-[ADVICE_PLANT_NOT_WITH_AQUAVINE]
-不能种植在水藤蔓上
-
-[ADVICE_PLANT_AQUAVINE_ON_LILYPAD]
-不能在Lily Pad上种植水藤蔓
-
-[WINTERRAMBUTAN]
-Frost Rambutan
-
-[WINTERRAMBUTAN_DESCRIPTION]
-{KEYWORD}植物特征: {STAT}白色植物
-{FLAVOR}寒霜白毛丹喜欢玩雪, 为此他专门移居到了北方
-
-[WINTERRAMBUTAN_DESCRIPTION_HEADER]
-吐出雪球攻击, 概率冰封被攻击的僵尸, 并通过撞击直接击碎冰块
-
-[WINTERRAMBUTAN_TOOLTIP]
-吐出雪球攻击, 概率冰封被攻击的僵尸, 并通过撞击直接击碎冰块
-
-[WINTERRAMBUTAN_PRODUCT_SHORT_DESC]
-吐出雪球攻击, 概率冰封被攻击的僵尸, 并通过撞击直接击碎冰块
-
-[WINTERRAMBUTAN_SKILL_LEVEL1]
-强力冰封
-
-[WINTERRAMBUTAN_SKILL_LEVEL1_DES]
-攻击时冰封僵尸的概率提升至10%, 攻击被冰封或冻结的僵尸进入冰封状态的概率提升至20%
-
-[WINTERRAMBUTAN_SKILL_LEVEL2]
-超强冰封
-
-[WINTERRAMBUTAN_SKILL_LEVEL2_DES]
-攻击时冰封僵尸的概率提升至15%, 攻击被冰封或冻结的僵尸进入冰封状态的概率提升至30%
-
-[WINTERRAMBUTAN_SKILL_LEVEL5]
-冰雾袭来
-
-[WINTERRAMBUTAN_SKILL_LEVEL5_DES]
-雪球命中后3*3冰雾范围内的所有僵尸都有15%的概率被冰封
-
-[STORE_PRODUCT_AVATAR_WINTERRAMBUTAN_TITLE]
-Frost Rambutan Costume
-
-[WINTERRAMBUTAN_AVATAR_NAME]
-寒霜白毛丹装扮
-
-[STORE_PRODUCT_AVATAR_WINTERRAMBUTAN]
-大招撞击后生成冰地块, 踏上冰地块的僵尸都会被减速
-
-[WINTERRAMBUTAN_NEW_SKILL_LEVEL1_DES]
-当自身右侧出现僵尸时, 吐出雪球对僵尸造成攻击, 对命中的僵尸及其3*3范围内的所有僵尸都造成伤害, 同时直接被雪球命中的中小体型僵尸有一定的概率进入冰封状态；当攻击次数达到7次或右侧存在被冰封的僵尸时会向右滚出, 命中的僵尸会造成击退或直接击碎冰封形成的冰块. 
-
-[WINTERRAMBUTAN_NEW_SKILL_LEVEL2_DES]
-攻击时冰封僵尸的概率提升至10%, 攻击被冰封或冻结的僵尸进入冰封状态的概率提升至20%
-
-[WINTERRAMBUTAN_NEW_SKILL_LEVEL3_DES]
-攻击时冰封僵尸的概率提升至15%, 攻击被冰封或冻结的僵尸进入冰封状态的概率提升至30%
-
-[WINTERRAMBUTAN_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招
-
-[WINTERRAMBUTAN_NEW_SKILL_LEVEL5_DES]
-雪球命中后3*3冰雾范围内的所有僵尸都有20%的概率被冰封
-
-[WINTERRAMBUTAN_PLANTFOOD_DESCRIPTION]
-深吸一口气并向右滚出, 对碰撞到的僵尸及其周围的僵尸都造成伤害
-
-[WINTERRAMBUTAN_AVATAR_PLANTFOOD_DESCRIPTION]
-在大招撞击的地点生成冰地块, 踏上冰地块的僵尸都会被减速
 
 [CONFIRM_BUY_3]
 Purchase {ITEM}
@@ -71149,7 +71155,7 @@ Penny's Future Gift Box Event Instructions
 5. Purchasing future gift boxes accumulates server-wide progress and unlocks server-wide progress rewards. You must purchase at least one future gift box to claim the server-wide progress rewards.
 6. After players spend Penny Coins to purchase Penny's future gift boxes, they will climb the leaderboard based on the total price of the purchased gift boxes, and those on the leaderboard will receive additional generous rewards during settlement.
 7. Unused Penny Coins from the current period will automatically convert to corresponding diamond rewards at a ratio of 1:10 after the event ends and cannot be carried over to the next period.
-8. The probabilities for additional outputs in various categories are as follows: 1) Strengthening materials - 33.33% 2) Plants and plant costumes - 10.00%.
+8. The probabilities for additional outputs in various categories are as follows: 1) Strengthening materials – 33.33% 2) Plants and plant costumes – 10.00%.
 
 [PRODUCT_PENNYGIFTBOX_30_SHORTDESC]
 Entry Gift Box
@@ -72045,7 +72051,7 @@ Record
 Jingle Bells Description
 
 [GINGLEBELL_DESCRIPTION]
-Your total score is based on the damage done to snowmen within a limited time. Points earned from the latest levels contribute to daily bonus missions that refresh every day. Three themes-firepower test, accuracy test, and tactical test-are unlocked in sequence, each with three levels, every two days for levels and six days for themes. The leaderboard ranks players based on the total scores from the three latest theme levels. After a new theme unlocks, there's an anti cheat detection period from 0:00 to 10:00 when players cannot access the new levels; only scores from up-to-date levels are counted. Rewards are automatically issued post-ranking, and any detected abnormal scores will be excluded. The leaderboard will be visible for one day on January 11th, during which no level challenges are allowed.
+Your total score is based on the damage done to snowmen within a limited time. Points earned from the latest levels contribute to daily bonus missions that refresh every day. Three themes—firepower test, accuracy test, and tactical test—are unlocked in sequence, each with three levels, every two days for levels and six days for themes. The leaderboard ranks players based on the total scores from the three latest theme levels. After a new theme unlocks, there’s an anti cheat detection period from 0:00 to 10:00 when players cannot access the new levels; only scores from up-to-date levels are counted. Rewards are automatically issued post-ranking, and any detected abnormal scores will be excluded. The leaderboard will be visible for one day on January 11th, during which no level challenges are allowed.
 
 [GINGLEBELL_RANK]
 Your ranking: {NUMBER}
@@ -73373,10 +73379,10 @@ Open the New Year Gift Pack to get lots of gems and rare decorations
 Congratulations! You have been selected as today's luckiest player!
 
 [INFINITY_COINS_HEADER]
-Infinity Coins - ONLY buy this once!
+Fix negative coins
 
 [INFINITY_COINS_DESC]
-Your coins must <27,483,647 before buying this
+For who having negative coins or <27 millions
 
 [HEALTH_NOTICE_CONTENT]
 Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
