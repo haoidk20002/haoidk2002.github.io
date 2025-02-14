@@ -71210,6 +71210,649 @@ Event Rules:
 4. Completing Sycee tasks rewards Sycee, which can be used in the exchange shop for item rewards.
 5. The exchange shop can be accessed during the event period. Don't forget to redeem your rewards in time!
 
+[DAVE_SHOP_TITLE]
+Penny's Shop
+
+[DAVE_SHOP_ITEM_LEFT]
+Available for purchase
+
+[DAVE_SHOP_BUY]
+Buy
+
+[DAVE_SHOP_ITEM_UNIT]
+Sheet
+
+[EXTRA_MSG_ERROR_DESC_UNKNOWN]
+Game data anomaly, please try again.
+<Error Code: {NUMBER}>
+
+[EXTRA_MSG_ERROR_DESC_20701]
+No player information
+
+[EXTRA_MSG_ERROR_DESC_29001]
+Incorrect event type
+
+[EXTRA_MSG_ERROR_DESC_29002]
+Player Dave Shop information not initialized
+
+[EXTRA_MSG_ERROR_DESC_29003]
+This item is sold out
+
+[EXTRA_MSG_ERROR_DESC_29004]
+Item ID does not exist
+
+[EXTRA_MSG_ERROR_DESC_29006]
+User is not eligible for trial
+
+[EXTRA_MSG_ERROR_DESC_29007]
+User is not a monthly VIP card holder
+
+[EXTRA_MSG_ERROR_DESC_29008]
+User has already claimed free diamonds today
+
+[EXTRA_MSG_ERROR_DESC_29009]
+Recharge anomaly
+
+[EXTRA_MSG_ERROR_DESC_29010]
+User has used up today's free cucumber bombs
+
+[EXTRA_MSG_ERROR_DESC_40022]
+Event has ended
+
+[EXTRA_MSG_ERROR_DESC_40033]
+This event is not open or has ended
+
+[EXTRA_MSG_ERROR_DESC_40034]
+Challenge attempts have been used up
+
+[MONTHLY_CARD_TITLE]
+30 Yuan Monthly Play Card
+
+[MONTHLY_CARD_BUY]
+{NUMBER} Yuan Purchase
+
+[MONTHLY_CARD_RENEW]
+{NUMBER} Yuan Subscription
+
+[MONTHLY_CARD_DRAW]
+Claim
+
+[MONTHLY_CARD_DRAW_ALREADY]
+Already Claimed
+
+[MONTHLY_CARD_CONTINUE_PAY]
+Renew Now
+
+[MONTHLY_CARD_TRY]
+Free Trial
+
+[MONTHLY_CARD_TIP_NONE]
+You have not purchased the Monthly Play Card,
+Purchase now to get the following privileges for less than 30 days:
+
+[MONTHLY_CARD_MAKE_UP_TIP_NONE]
+You have not purchased the Cool Dude Card,
+Purchase now to get the following privileges for less than 30 days:
+
+[MONTHLY_CARD_SUPER_TIP_NONE]
+You have not purchased the Super Privilege Card,
+Purchase now to get the following privileges for less than 30 days:
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_NONE]
+You have not purchased the VIP Monthly Card,
+Purchase now to get the following privileges:
+
+[MONTHLY_CARD_TIP_CAN_TRY]
+You can now try the Monthly Play Card for free for {NUMBER} days
+
+[MONTHLY_CARD_MAKE_UP_TIP_CAN_TRY]
+You can now try the Cool Dude Card for free for {NUMBER} days
+
+[MONTHLY_CARD_SUPER_TIP_CAN_TRY]
+You can now try the Super Privilege Card for free for {NUMBER} days
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_CAN_TRY]
+You can now try the VIP Monthly Card for free for {NUMBER} days
+
+[MONTHLY_CARD_MAKE_UP_TIP_NORMAL]
+You have purchased the Cool Dude Card, remaining time: {NUMBER} days
+
+[MONTHLY_CARD_SUPER_TIP_NORMAL]
+You have purchased the Super Privilege Card, remaining time: {NUMBER} days
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_NORMAL]
+You have purchased the VIP Monthly Card, remaining time: {NUMBER} days
+
+[MONTHLY_CARD_TIP_NORMAL]
+You have purchased the Monthly Play Card, remaining time: {NUMBER} days
+
+[MONTHLY_CARD_TIP_NORMAL_TEL]
+You have purchased this product this month, you can purchase again next month
+Your Monthly Play Card remaining days: {NUMBER} days
+
+[MONTHLY_CARD_MAKE_UP_TIP_NORMAL_TEL]
+You have purchased this product this month, you can purchase again next month
+Your Cool Dude Card remaining days: {NUMBER} days
+
+[MONTHLY_CARD_SUPER_TIP_NORMAL_TEL]
+You have purchased this product this month, you can purchase again next month
+Your Super Privilege Card remaining days: {NUMBER} days
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_NORMAL_CM]
+You have purchased this product this month, you can purchase again next month
+Your VIP Monthly Card remaining days: {NUMBER} days
+
+[MONTHLY_CARD_TIP_TRY]
+You are trialing the Monthly Play Card, remaining time: {NUMBER} days
+
+[MONTHLY_CARD_MAKE_UP_TIP_TRY]
+You are trialing the Cool Dude Card, remaining time: {NUMBER} days
+
+[MONTHLY_CARD_SUPER_TIP_TRY]
+You are trialing the Super Privilege Card, remaining time: {NUMBER} days
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_TRY]
+You are trialing the VIP Monthly Card, remaining time: {NUMBER} days
+
+[MONTHLY_VIP_INFO_GOLD]
+Can claim ^cc0000^ {NUMBER} ^oldclr^ gold for free daily
+
+[MONTHLY_CARD_INFO_GEMS]
+Can claim ^cc0000^ {NUMBER} ^oldclr^ diamonds for free daily
+
+[MONTHLY_CARD_INFO_BOMB]
+Can use ^cc0000^ {NUMBER} ^oldclr^ tactical cucumbers for free daily
+
+[MONTHLY_CARD_INFO_SUM]
+Initial sunlight increased by ^cc0000^ {NUMBER} ^oldclr^
+
+[MONTHLY_CARD_INFO_AUTO_SUM]
+Auto-collect sunlight function
+
+[MONTHLY_CARD_INFO_AUTO_EN]
+Auto-collect energy beans function
+
+[MONTHLY_CARD_INFO_STAGE]
+Giant Crisis and Evil Invasion challenge attempts increased by ^cc0000^ 1 ^oldclr^
+
+[MONTHLY_CARD_BUY_TITLE]
+Monthly Play Card Purchase
+
+[MONTHLY_CARD_BUY_CANCEL]
+Purchase Next Time
+
+[ANNIVERSARY_TITLE]
+Recharge Gifts
+
+[ANNIVERSARY_AND_TITLE]
+Recharge Gifts
+
+[COUNTDOWN_LABEL]
+Event Countdown:
+
+[COUNTDOWN_FORMAT_D_H]
+{DAYS} days {HOURS} hours
+
+[COUNTDOWN_FORMAT_HH_MM_SS]
+{HH} hours {MM} minutes {SS} seconds
+
+[RECHARGE_LABEL]
+You have recharged:
+
+[REAL_MONEY_FORMAT]
+{NUMBER} yuan
+
+[ANNIVERSARY_DESC]
+^FFFFFF 【Recharge 300 diamonds】Originally gave 30, now gives 60
+【Recharge 680 diamonds】Originally gave 100, now gives 200
+【Recharge 1280 diamonds】Originally gave 250, now gives 500
+^FDEE01 【Recharge 3280 diamonds】Originally gave 828, now gives 1288
+【Recharge 6480 diamonds】Originally gave 1988, now gives 2588
+
+[QUARE_BRACKET_LEFT]
+【
+
+[QUARE_BRACKET_RIGHT]
+】
+
+[RECHARGE]
+Recharge
+
+[RECHARGE_TOTAL]
+Total Recharge
+
+[RECHARGE_CLOSED]
+Event has ended,
+Come and claim your rewards!
+
+[ANNIVERSARY_PIECE_AMOUNT]
+Congratulations on getting {PIECES}
+
+[ANNIVERSARY_REWARD_TIP]
+Three-tier rewards can be claimed simultaneously, automatically synthesized or upgraded when claimed.
+
+[ANNIVERSARY_REWARD_TITLE]
+Claim Successful
+
+[ANNIVERSARY_REWARD_TIP_PLANT_UNLOCK]
+You have obtained ^4FC148 {PLANT} !
+
+[ANNIVERSARY_REWARD_TIP_PLANT_AUTO_LEVELUP]
+^4FC148 {PLANT} ^oldclr^ automatically upgraded successfully!
+
+[ANNIVERSARY_REWARD_TIP_PLANT_LEVELUP_NEED]
+Purchase ^ff0000^ {PIECES} ^oldclr^ more fragments to automatically upgrade to the next level
+
+[ANNIVERSARY_REWARD_TIP_PIECE_GET]
+You have obtained ^ff0000^ {PIECES} ^oldclr^ fragments
+
+[WORLD_UNLOCK_PACK_TITLE]
+Play Pack
+
+[WORLD_UNLOCK_PACK_RETURN_GEM_TIP]
+Purchasing a pack for an unlocked world will return ^ff0000 {NUMBER} gold
+
+[WORLD_UNLOCK_PACK_LUXURY_TITLE]
+Luxury World Pack
+
+[WORLD_UNLOCK_PACK_NORMAL_TITLE]
+Classic World Pack
+
+[WORLD_UNLOCK_PACK_STANDARD_TITLE]
+Play World Pack
+
+[WORLD_UNLOCK_PACK_BUY_LABEL]
+{PRICE} Purchase
+
+[WORLD_UNLOCK_PACK_BUY_CONFIRM_TITLE]
+Purchase Pack
+
+[WORLD_UNLOCK_PACK_BUY_CONFIRM_MSG]
+Spend ^009900 {PRICE}^oldclr diamonds to purchase ^009900 {ITEM_NAME}^oldclr, start a new world journey immediately.
+
+[WORLD_UNLOCK_PACK_UNLOCK_TITLE]
+Unlock Successful
+
+[WORLD_UNLOCK_PACK_UNLOCK_WORLD_INFO]
+Unlocked ^ff0000 {WORLD_NAME} ^oldclr successfully!
+
+[WORLD_UNLOCK_PACK_UNLOCK_PACK_INFO]
+You have purchased ^ff0000 {ITEM_NAME} ^oldclr, a batch of powerful plants have joined your army:
+
+[WORLD_UNLOCK_PACK_UNLOCK_PIECE_TIP]
+(Plants already obtained will be automatically exchanged for ^ff0000 10 ^oldclr fragments)
+
+[WORLD_UNLOCK_PACK_UNLOCK_OK]
+OK
+
+[ENDLESS_EXCHANGE_SHOP_TITLE]
+Endless Shop
+
+[ENDLESS_RECOMMENDED_SHOP_TITLE]
+Endless Recommended Plant Shop
+
+[ENDLESS_SHOP_NUTRIENT_TIP]
+Nutrient solution is used for upgrading plants from tier 4 to tier 5 of corresponding quality
+
+[ENDLESS_BOOST_SUN]
+Extra Sunlight
+
+[ENDLESS_BOOST_ENERGY]
+Energy Beans
+
+[ENDLESS_BOOST_PLANT_ALL]
+All Plants
+
+[ENDLESS_BOOST_PLANT_LEV_1]
+White Plants
+
+[ENDLESS_BOOST_PLANT_LEV_2]
+Green Plants
+
+[ENDLESS_BOOST_PLANT_LEV_3]
+Blue Plants
+
+[ENDLESS_BOOST_PLANT_LEV_4]
+Purple Plants
+
+[ENDLESS_BOOST_PLANT_LEV_5]
+Orange Plants
+
+[ENDLESS_BOOST_BUY_DESC]
+Are you sure to spend ^00e46e {NUMBER} diamonds ^oldclr to purchase {ITEM}?
+
+[ENDLESS_BOOST_LIMIT]
+{ITEM} will exceed the limit, are you sure to choose this ability?
+
+[SPRING_SHOP_TITLE]
+Spring Merchant
+
+[SPRING_SHOP_BUY_LIMIT]
+Event limited purchase {NUMBER} pieces
+
+[SPRING_SHOP_MEDAL_NOT_ENOUGH]
+Insufficient treasure coins
+
+[BOSSCHALLENGE_TAB_BOSS]
+Extreme Speed Race
+
+[BOSSCHALLENGE_TAB_DRAW]
+Lucky Spin
+
+[BOSSCHALLENGE_TAB_DESC]
+Challenge Description
+
+[BOSSCHALLENGE_TAB_RANK]
+Leaderboard
+
+[BOSSCHALLENGE_BOSS_TITLE]
+^FFB400 Quickly defeat Dr. Zomboss to get crystals, draw ^27A800 rare plants
+
+[BOSSCHALLENGE_BOSS_TYPE1_PLANT]
+Plant feature: Blue plants +50% attack, others -50% attack
+
+[BOSSCHALLENGE_BOSS_TYPE2_PLANT]
+Plant feature: Red plants +50% attack, others -50% attack
+
+[BOSSCHALLENGE_BOSS_TYPE3_PLANT]
+Plant feature: 100,000 volts +50% attack, others -50% attack
+
+[BOSSCHALLENGE_BOSS_TYPE4_PLANT]
+Plant feature: Purple plants +50% attack, others -50% attack
+
+[BOSSCHALLENGE_BOSS_TYPE5_PLANT]
+Plant feature: Dragon bloodline +50% attack, others -50% attack
+
+[BOSSCHALLENGE_BUYCHALLENGE_TIPS1]
+Need to spend ^00e46e {COST} diamonds ^oldclr to open another challenge?
+(Remaining purchase times: {NUMBER})
+
+[BOSSCHALLENGE_BUYCHALLENGE_TIPS2]
+Today's purchase times have been used up, please come back tomorrow!
+
+[BOSSCHALLENGE_RANK_TITLE_DAY]
+Today's Ranking
+
+[BOSSCHALLENGE_RANK_TITLE_MONTH]
+Current Ranking
+
+[BOSSCHALLENGE_RANK_USER]
+My Score
+
+[BOSSCHALLENGE_RANK_USER_DESC]
+Rank: {N}
+
+[MINIGAME_RANK_NOORDER]
+Currently no ranking
+
+[BOSSCHALLENGE_RANK_DAY_DESC]
+Today's Best: {N} points
+
+[BOSSCHALLENGE_RANK_MONTH_DESC]
+Current Best: {N} points
+
+[BOSSCHALLENGE_END_TIPS]
+^000000 Time until the end of this event: ^FF3000 {NUMBER}^000000 days
+
+[BOSSCHALLENGE_END_HOUR_TIPS]
+^000000 Time until the end of this event: ^FF3000 {NUMBER}^000000 hours
+
+[DINOSAURDANGER_TITLE]
+Dinosaur Danger
+
+[DINOSAURDANGER_TITLE1]
+Today's Theme:
+
+[DINOSAURDANGER_DAY_TIMES]
+Today you can still challenge ^ff0000^ {NUMBER} ^oldclr^ times
+
+[DINOSAURDANGER_INFO1]
+Gameplay Description
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER1]
+Chicken Stampede
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER1]
+Use Sweet Potato to attract the chicken's attack, use Coconut Cannon to eliminate the chickens.
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER2]
+Giant Chicken
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER2]
+Use Hurricane Kale to block the giant's advance, use Corn Cannon to eliminate the giant.
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER3]
+Dragon Zombie
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER3]
+Use Pulse Peach to paralyze future zombies, use Sugar Cane Master to block future zombie attacks.
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER4]
+Farewell to the Old, Welcome the New
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER4]
+Use King Flower and Primordial King Flower to block Kung Fu Zombie attacks.
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER5]
+Colonel Fried Chicken
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER5]
+Use Corn Thrower and Corn Cannon to block Pirate Zombie attacks.
+
+[DINOSAURDANGER_END]
+Time until event ends: ^ff0000^ {PIECES} ^oldclr^ days
+
+[DINOSAURDANGER_END_HOURS]
+Time until event ends: ^ff0000^ {PIECES} ^oldclr^ hours
+
+[DINOSAURDANGER_RESETCHALLENGE_TIPS]
+Spend ^00e46e {COST} diamonds ^oldclr to buy 1 more attempt?
+
+[DINOSAURDANGER_BTN]
+Challenge Now
+
+[PLANT_TREE_HINTGET2]
+Watering times can be obtained from growth tasks
+
+[PLANT_TREE_HINTGET3]
+Complete growth tasks to get watering times
+
+[PLANT_TREE_HINTGET]
+Every 3 waterings can produce fruits, which can harvest a large number of plant fragments and gold
+
+[PLANT_TREE_TITLE1]
+Happy Tree Planting
+
+[PLANT_TREE_TITLE2]
+Growth Tasks
+
+[PLANT_TREE_BTN_GET]
+Harvest
+
+[PLANT_TREE_REFRESHFRUIT]
+Refresh Fruits
+
+[PLANT_TREE_BUY_WATER]
+Spend {COST}
+
+[PLANT_TREE_BUY_WATER1]
+Purchase {NUM}
+
+[PLANT_TREE_FRUITFULL]
+Fruits are full, please harvest first
+
+[PLANTTREE_COUNTDOWN_FORMAT_D_H]
+Event end countdown: {DAYS} days {HOURS} hours
+
+[PLANTTREE_COUNTDOWN_FORMAT_HH_MM_SS]
+Event end countdown: {HH} hours {MM} minutes {SS} seconds
+
+[PLANT_TREE_ACTIVITY_OVER]
+Tree Planting Event has ended
+
+[MONTHLY_CARD_TELECOM_CANCEL_ORDER]
+This product is a monthly subscription, effective immediately upon successful order, automatically renewed next month
+To unsubscribe, please send SMS qdb0010 to 1180719 and follow the instructions to unsubscribe. Unsubscription takes effect immediately, no renewal next month.
+Customer Service QQ: 4008932088
+
+[MONTHLY_CARD_CHINA_MOBILE_CANCEL_ORDER]
+Note: After ordering, it will be automatically renewed every month upon expiration, please call 10086 to unsubscribe.
+
+[MINIGAME_SHOP_TITLE]
+Mini Shop
+
+[MINIGAME_UI_TITLE_DESC1]
+Today's Challenge: Egypt Match
+
+[MINIGAME_UI_TITLE_DESC2]
+Today's Challenge: Cannon Pirate Zombies
+
+[MINIGAME_UI_TITLE_DESC3]
+Today's Challenge: Sky Chaos
+
+[MINIGAME_UI_TITLE_DESC4]
+Today's Challenge: Swap Future Positions
+
+[MINIGAME_UI_TITLE_DESC5]
+Today's Challenge: Dark Pig House
+
+[MINIGAME_UI_TITLE_DESC6]
+Today's Challenge: Giant Wave Snake
+
+[MINIGAME_UI_TITLE_DESC7]
+Today's Challenge: Can Guess
+
+[MONTHLY_CARD_TAB_1]
+50 Yuan Super Privilege Card
+
+[MONTHLY_CARD_TAB_2]
+30 Yuan Monthly Play Card
+
+[MONTHLY_CARD_TAB_3]
+6 Yuan Cool Dude Card
+
+[MONTHLY_CARD_TAB_4]
+VIP Monthly Card
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_1]
+Player avatar shows VIP effect
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_2]
+Endless leaderboard avatar shows VIP effect
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_3]
+Super Z League leaderboard avatar shows VIP effect
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_4]
+Penny's Pursuit leaderboard avatar shows VIP effect
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_5]
+Custom color
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_6]
+Extra name change opportunity
+
+[MONTHLY_CARD_SUPER_1]
+Includes Monthly Play Card content
+
+[MONTHLY_CARD_SUPER_2]
+Includes Cool Dude Card content
+
+[MONTHLY_CARD_SUPER_3]
+Double check-in rewards
+
+[MONTHLY_CARD_SUPER_4]
+In-level speed boost
+
+[MONTHLY_CARD_SUPER_5]
+Auto-collect gold and silver coins
+
+[MONTHLY_CARD_SUPER_6]
+Daily battery claim
+
+[MONTHLY_CARD_SUPER_7]
+Daily time stabilizer claim
+
+[MONTHLY_CARD_30_1]
+Can claim ^cc0000^ 30 ^oldclr^ diamonds for free daily
+
+[MONTHLY_CARD_30_2]
+Can use ^cc0000^ 2 ^oldclr^ tactical cucumbers for free daily
+
+[MONTHLY_CARD_30_3]
+Initial sunlight increased by ^cc0000^ 50 ^oldclr^
+
+[MONTHLY_CARD_30_4]
+Auto-collect sunlight function
+
+[MONTHLY_CARD_30_5]
+Auto-collect energy beans function
+
+[MONTHLY_CARD_30_6]
+Can claim ^cc0000^ 1000 ^oldclr^ mystery crystals for free daily
+
+[MONTHLY_CARD_30_7]
+Giant Crisis and Evil Invasion challenge attempts increased by ^cc0000^ 1 ^oldclr^
+
+[MONTHLY_CARD_TIP_SUPER_GOT_CLASSIC]
+You already have the Super Privilege Card, which includes all functions of the Monthly Play Card
+
+[MONTHLY_CARD_TIP_SUPER_GOT_MAKEUP]
+You already have the Super Privilege Card, which includes all functions of the Cool Dude Card
+
+[MONTHLY_CARD_TIP_CLASS_GOT_MAKEUP]
+You already have the Play Card, which includes all functions of the Cool Dude Card
+
+[MONTHLY_CARD_EVENT_TRY]
+Free activation
+
+[MONTHLY_CARD_SUPER_TIP_EVENT_SUPER_CAN_TRY]
+Congratulations on getting a {NUMBER}-day trial of the Super Privilege Monthly Card, effective upon activation!
+
+[MONTHLY_CARD_ENENT_TRY_MAKEUP_TIPS]
+Super Privilege Card trial card has been activated, your Cool Dude Card remaining time increased by 3 days
+(Remaining time: {NUMBER} days)
+
+[MONTHLY_CARD_ENENT_TRY_CLASSIC_TIPS]
+Super Privilege Card trial card has been activated, your Monthly Play Card remaining time increased by 3 days
+(Remaining time: {NUMBER} days)
+
+[MONTHLY_CARD_REMIND_TITLE]
+Monthly Card Reminder
+
+[MONTHLY_CARD_FIRST_REMIND_DESC]
+Your privilege trial card will expire tomorrow, purchase the Super Privilege Card to continue enjoying super privileges!
+
+[MONTHLY_CARD_FIRST_REMIND_GO]
+Go to purchase
+
+[MONTHLY_CARD_FIRST_REMIND_LEAVE]
+Consider it
+
+[MONTHLY_CARD_SECOND_REMIND_DESC]
+Your Super Privilege trial card has expired, you can go to purchase a privilege card, three types of privilege cards are available for you to choose from, starting from just 6 yuan.
+
+[MONTHLY_CARD_SECOND_REMIND_GO]
+I'll take a look
+
+[MONTHLY_CARD_SECOND_REMIND_LEAVE]
+Maybe later
+
+[DAVE_SHOP_BUY_CONFIRM_TITLE]
+Confirm Purchase
+
+[BUTTON_OK]
+Confirm
+
+[BUTTON_CANCEL]
+Cancel
+
+[DAVE_SHOP_BUY_CONFIRM_COIN]
+Spend {NUMS} gold to purchase?
+
+[DAVE_SHOP_BUY_CONFIRM_GEM]
+Spend {NUMS} diamonds to purchase?
+
 [MAT_NFSLINKAGE_INTEGRAL]
 Sycee
 
