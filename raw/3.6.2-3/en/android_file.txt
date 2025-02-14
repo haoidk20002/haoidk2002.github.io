@@ -11039,10 +11039,10 @@ Local Progress
 (Recommended Newer Progress)
 
 [SUMMARY_USE_CLOUD]
-PLAY
+^f21133^New version is available!
 
 [SUMMARY_USE_LOCAL]
-PLAY
+^f21133^Please update now!
 
 [SUMMARY_START]
 Start the game
@@ -73312,19 +73312,19 @@ NEW VERSION IS AVAILABLE!
 ^f21133^ NEW VERSION IS AVAILABLE!
 
 [HEALTH_NOTICE_CONTENT]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [HEALTH_NOTICE_TITLE]
 Healthy Gaming Advice
 
 [HEALTH_NOTICE_CONTENT_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [HEALTH_NOTICE_CONTENT_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [HEALTH_NOTICE_CONTENT_3_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [HEALTH_NOTICE_CONTENT_4]
 
@@ -73334,253 +73334,253 @@ Healthy Gaming Advice
 
 
 [SPRING_TIPS_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [SPRING_TIPS_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [SPRING_TIPS_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [SPRING_TIPS_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [SPRING_TIPS_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [SPRING_TIPS_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [SPRING_TIPS_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [SPRING_TIPS_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [SPRING_TIPS_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [LOADING_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [LOADING_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [LOADING_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 
 [LOADING_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [LOADING_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [LOADING_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [LOADING_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [LOADING_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [LOADING_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [LOADING_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [LOADING_11]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [LOADING_12]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [LOADING_13]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [LOADING_14]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 [360_1_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_1_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_1_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_1_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_1_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_1_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_1_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_1_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_1_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_1_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_2_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_2_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_2_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_2_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_2_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_2_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_2_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_2_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_2_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [360_2_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_1_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_2_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_2_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_2_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_2_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_2_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_2_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_2_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_2_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_2_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_2_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_3_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_3_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_3_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_3_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_3_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_3_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_3_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_3_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_3_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 [362_3_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! This outdated version may got shutting down soon. You can update the patch through game settings and follow the installation instructions.
+^f21133^You're using an outdated version of English patch and it may got shutting down soon in 17th February. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
 
 
 [ENDURIAN_SKILL_LEVEL1]
