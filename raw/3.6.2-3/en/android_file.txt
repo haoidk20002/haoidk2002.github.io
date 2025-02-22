@@ -1,4 +1,4 @@
-﻿[ACHIEVE_BROADSIDE_DESC]
+[ACHIEVE_BROADSIDE_DESC]
 使用椰子加农炮消灭小鬼僵尸炮
 
 [ACHIEVE_BROADSIDE_TITLE]
@@ -2236,9 +2236,6 @@ Chinese_China
 [MAINMENU_NEW_PROFILE]
 新建存档
 
-[MAINMENU_PLAY]
-开始游戏
-
 [MAINMENU_SAVE]
 确定
 
@@ -2383,33 +2380,6 @@ Chinese_China
 [FREE_GEM_GET_TEXT]
 获取免费钻石
 
-[HEALTH_NOTICE_CONTENT]
-抵制不良游戏，拒绝盗版游戏 注意自我保护，谨防受骗上当 适度游戏益脑，沉迷游戏伤身 合理安排时间，享受健康生活
-
-[HEALTH_NOTICE_TITLE]
-健康游戏忠告
-
-[HEALTH_NOTICE_CONTENT_2]
-本网络游戏适合年满12周岁以上的用户使用。为了您的健康，请合理控制游戏时间。抵制不良游戏，拒绝盗版游戏。
-注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。
-批准文号：新出审字\[2013]1509号；出版物号：ISBN978-7-89989-834-5；ICP备案号：湘B2-20100081-55A  备案查询：https://beian.miit.gov.cn/
-游戏著作权人：Electronic Arts Inc.；出版服务单位：拓维信息系统股份有限公司
-
-[HEALTH_NOTICE_CONTENT_3]
-本网络游戏适合年满12周岁以上的用户使用。为了您的健康，请合理控制游戏时间。抵制不良游戏，拒绝盗版游戏。
-注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。
-批准文号：新出审字\[2013]1509号；出版物号：ISBN978-7-89989-834-5；ICP备案号：湘B2-20100081-55A
-
-[HEALTH_NOTICE_CONTENT_4]
-游戏著作权人：Electronic Arts Inc.；出版服务单位：拓维信息系统股份有限公司
-
-[HEALTH_NOTICE_CONTENT_5]
-备案查询：https://beian.miit.gov.cn/
-
-[HEALTH_NOTICE_CONTENT_3_1]
-本网络游戏适合年满12周岁以上的用户使用。为了您的健康，请合理控制游戏时间。抵制不良游戏，拒绝盗版游戏。
-注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。
-批准文号：新出审字\[2013]1509号；出版物号：ISBN978-7-89989-834-5；ICP备案号：视听备【2023】B4327
 
 [MARIGOLD]
 金盏花
@@ -4528,32 +4498,7 @@ http://www.pvzstore.com/?utm_source={DEVICETYPE}&utm_medium={OPENEDFROM}&utm_cam
 [SETTINGS_MOREGAMES_URL]
 http://canvas.popcap.com/games/plants-vs-zombies-2/ios/{DEVICETYPE}
 
-[SETTINGS_PRIVACY_TITLE]
-隐私政策
 
-[SETTINGS_PRIVACY_URL]
-http://filead.talkyun.com.cn/tw/twys.htm
-
-[SETTINGS_PRIVACY_URL_ANDROID]
-http://filead.talkyun.com.cn/tw/twys.htm
-
-[SETTINGS_TERMS_TITLE]
-服务条款协议
-
-[SETTINGS_TERMSOFSERVICE_URL]
-http://filead.talkyun.com.cn/tw/twyh.htm
-
-[SETTINGS_TERMSOFSERVICE_URL_ANDROID]
-http://filead.talkyun.com.cn/tw/twyh.htm
-
-[SETTINGS_PERSONAL_TITLE]
-已收集得个人信息清单
-
-[SETTINGS_PERSONAL_URL]
-http://filead.talkyun.com.cn/tw/geren.htm
-
-[SETTINGS_PERSONAL_URL_ANDROID]
-http://filead.talkyun.com.cn/tw/geren.htm
 
 [SETTINGS_INVENTORY_TITLE]
 sdk共享清单
@@ -9521,9 +9466,6 @@ UC至尊大礼包
 [SYNCING_WAITING_TEXT]
 等待同步存档中，请确保网络连接正常。
 
-[NET_CONNECTING]
-服务器通讯中...
-
 [NET_CONNECTING_DOWNLOAD]
 关卡下载中...
 
@@ -9839,12 +9781,6 @@ UC至尊大礼包
 
 [SUMMARY_NEWER_DATA_RECOMMENDATION]
 （进度较新推荐）
-
-[SUMMARY_USE_CLOUD]
-使用云端进度
-
-[SUMMARY_USE_LOCAL]
-使用本地进度
 
 [SUMMARY_START]
 开始游戏
@@ -12600,33 +12536,6 @@ BOSS登场！大刀魔王和火药魔头来势汹汹，你能击败他们最终�
 
 [ZOMBIE_KONGFU_MAGIC_BRONZE_DESCRIPTION]
 {FLAVOR}仿佛来自于别的星球。
-
-[SPRING_TIPS_1]
-解锁的世界越多，所需达到的星星数也会越多哟。
-
-[SPRING_TIPS_2]
-挑战世界的顺序越靠后，那个世界困难模式的难度越高。
-
-[SPRING_TIPS_3]
-潘妮小店每天都会提供不一样的植物碎片，记得经常去看看~
-
-[SPRING_TIPS_4]
-不要错过宝物中的免费抽奖机会，记得联网哟~
-
-[SPRING_TIPS_5]
-竞技菜单中有很多有趣的玩法，体验不一样的玩法策略吧！
-
-[SPRING_TIPS_6]
-在同一场战斗中，战术黄瓜会越用越厉害哟~
-
-[SPRING_TIPS_7]
-请经常光顾进阶功能，查看可以领取和进阶的植物！
-
-[SPRING_TIPS_8]
-在星系中收集星星可以兑换各种植物和强化奖励。
-
-[SPRING_TIPS_9]
-植物进阶到5阶需要的培养液可以在无尽商店中获得
 
 
 [NARRATIVE_ZOMBOSS_BLADE_1]
@@ -34283,8 +34192,6 @@ x500更改名字
 [WARNING_DINO_RUN]
 丛林深处传来了某种恐怖的吼声
 
-[RECHARGEBUNDLE_TITLE]
-限时礼包
 
 [RECHARGEBUNDLE_VALUE]
 超值
@@ -41657,7 +41564,7 @@ SDK初始化失败
 去更新
 
 [PVZ_LOGIN_LOW_VERSION]
-您的当前版本过低，请使用最新版本进行游戏！
+A new update has been released for the game. Please update the game to the latest version now to continue playing.
 
 [PVZ_LOGIN_LOW_VERSION_WWAN]
 您当前不是wifi网络下，确定使用流量下载更新？
@@ -72890,3 +72797,321 @@ FPS：{NUM}
 恭喜您被选中成为今日最幸运玩家
 
 [PVZ2_CHINESE_END]
+[SETTINGS_PRIVACY_TITLE]
+Download/Update the translation patch
+
+[SETTINGS_PRIVACY_TITLE_ORIGINAL]
+Privacy Policy
+
+[SETTINGS_PRIVACY_URL]
+https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch
+
+[SETTINGS_PRIVACY_URL_ANDROID]
+https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch
+
+[SETTINGS_PRIVACY_URL_ORIGINAL]
+http://filead.talkyun.com.cn/tw/twys.htm
+
+[SETTINGS_TERMS_TITLE]
+My discord server!
+
+[SETTINGS_TERMS_TITLE_ORIGINAL]
+Terms of Service Agreement
+
+[SETTINGS_TERMSOFSERVICE_URL]
+https://discord.gg/9dNbcJRvyb
+
+[SETTINGS_TERMSOFSERVICE_URL_ANDROID]
+https://discord.gg/9dNbcJRvyb
+
+[SETTINGS_TERMSOFSERVICE_URL_ORIGINAL]
+http://filead.talkyun.com.cn/tw/twyh.htm
+
+[SUMMARY_USE_CLOUD]
+^f21133^New version is available!
+
+[SUMMARY_USE_LOCAL]
+^f21133^Please update now!
+
+[MAINMENU_PLAY]
+^f21133^ Please update now!
+
+[RECHARGEBUNDLE_TITLE]
+NEW VERSION IS AVAILABLE!
+
+[NET_CONNECTING]
+^f21133^ NEW VERSION IS AVAILABLE!
+
+[HEALTH_NOTICE_CONTENT]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[HEALTH_NOTICE_TITLE]
+Healthy Gaming Advice
+
+[HEALTH_NOTICE_CONTENT_2]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[HEALTH_NOTICE_CONTENT_3]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[HEALTH_NOTICE_CONTENT_3_1]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[HEALTH_NOTICE_CONTENT_4]
+
+[HEALTH_NOTICE_CONTENT_5]
+
+[PVZ2_CHINESE_END]
+
+
+[SPRING_TIPS_1]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[SPRING_TIPS_2]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[SPRING_TIPS_3]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[SPRING_TIPS_4]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[SPRING_TIPS_5]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[SPRING_TIPS_6]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[SPRING_TIPS_7]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[SPRING_TIPS_8]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[SPRING_TIPS_9]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[LOADING_1]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[LOADING_2]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[LOADING_3]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+
+[LOADING_4]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[LOADING_5]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[LOADING_6]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[LOADING_7]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[LOADING_8]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[LOADING_9]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[LOADING_10]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[LOADING_11]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[LOADING_12]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[LOADING_13]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[LOADING_14]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+[360_1_NOTICE_1]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_1_NOTICE_2]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_1_NOTICE_3]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_1_NOTICE_4]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_1_NOTICE_5]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_1_NOTICE_6]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_1_NOTICE_7]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_1_NOTICE_8]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_1_NOTICE_9]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_1_NOTICE_10]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_2_NOTICE_1]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_2_NOTICE_2]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_2_NOTICE_3]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_2_NOTICE_4]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_2_NOTICE_5]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_2_NOTICE_6]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_2_NOTICE_7]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_2_NOTICE_8]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_2_NOTICE_9]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[360_2_NOTICE_10]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_1]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_2]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_3]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_4]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_5]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_6]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_7]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_8]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_9]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_10]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_1]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_2]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_3]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_4]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_5]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_6]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_7]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_8]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_9]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_1_NOTICE_10]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_2_NOTICE_1]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_2_NOTICE_2]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_2_NOTICE_3]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_2_NOTICE_4]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_2_NOTICE_5]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_2_NOTICE_6]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_2_NOTICE_7]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_2_NOTICE_8]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_2_NOTICE_9]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_2_NOTICE_10]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_3_NOTICE_1]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_3_NOTICE_2]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_3_NOTICE_3]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_3_NOTICE_4]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_3_NOTICE_5]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_3_NOTICE_6]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_3_NOTICE_7]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_3_NOTICE_8]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_3_NOTICE_9]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+[362_3_NOTICE_10]
+^f21133^You're using an outdated version of English patch and it's no longer supported. It's recommend to update now for fixes and improvements. You can update the patch through game settings and follow the installation instructions.
+
+
+
