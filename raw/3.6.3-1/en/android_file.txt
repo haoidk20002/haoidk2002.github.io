@@ -71431,7 +71431,7 @@ This event has ended
 Earn 3000 coins
 
 [TOURISMOCTOBER_MEMBER_TEXT]
-Number of team members
+Team members
 
 [TOURISMOCTOBER_TASK_NAME_2]
 Play 3 Adventure levels!
