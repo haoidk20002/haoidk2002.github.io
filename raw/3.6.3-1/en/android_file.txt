@@ -70624,7 +70624,7 @@ Already in a team, does not meet the conditions for filling out
 Friendship Coins
 
 [TOURISM_OCTOBER_TIME]
-Remaining Event Time
+Ends in
 
 [MAT_TOURISM_OCTOBER_USE]
 Used to exchange rewards in the March Travel Together event store
@@ -70639,7 +70639,7 @@ Already agreed to join the team
 Already refused to join the team
 
 [TOURISM_OCTOBER_TAB_NAME1]
-Travel Squad
+Travel Team
 
 [RANK_AVATAR_CONTENT_TITLE_61030]
 Autumn Fishing
@@ -71431,7 +71431,7 @@ This event has ended
 Earn 3000 coins
 
 [TOURISMOCTOBER_MEMBER_TEXT]
-Number of squad members
+Number of team members
 
 [TOURISMOCTOBER_TASK_NAME_2]
 Play 3 Adventure levels!
@@ -71476,8 +71476,8 @@ This month's mission runs until October 31
 1. You can earn tokens by completing missions.
 2. Event tokens can be exchanged for great rewards in the exchange shop, and the tokens will not be carried over to the next period.
 3. Daily tasks are refreshed every day, and this month's tasks can only be completed once if they are not refreshed.
-4. The maximum number of squad members is three, and the first player who agrees to other players to join the team becomes the captain!
-5. After joining the squad, only the captain decides whether other players will join the squad, and those who have already joined the squad, can no longer fill in the invitation code
+4. The maximum number of team members is three, and the first player who agrees to other players to join the team becomes the captain!
+5. After joining the team, only the captain decides whether other players will join the team, and those who have already joined the team, can no longer fill in the invitation code
 6. After the team members complete the mission, other team members can also receive the same number of rewards.
 
 
