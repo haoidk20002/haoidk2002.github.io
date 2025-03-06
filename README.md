@@ -1,4 +1,6 @@
-## This is a repo for PvZ2C lawnstrings server, used to host the translation file, simplified to just pushing raw file to the directory.
+## About
+This is a repo for Nvdtn19's PvZ2C English translation server, used to host the translation file, simplified to just pushing raw file to the directory.
+
 Note: If you want to download the translation patch, this is not a place to do that. Instead, please go to https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch
 
 ## Credits:
@@ -12,18 +14,6 @@ Note: If you want to download the translation patch, this is not a place to do t
 ## How to build my own one?
 You can refer to [CyberSteve's tutorial](https://github.com/CyberSteve777/cybersteve777.github.io) on how to create your own one.
 
-## Adding to Serverconfig
-```
-{
-   "objclass": "LawnStringServerConfig",
-   "aliases": [
-                 "LawnStringServerConfig"
-              ],
-   "objdata": {
-                 "ReleaseFileInfoURL": "https://nvdtn19.github.io/3.6.2-2/en/ad/res_release",
-                 "ShippingFileInfoURL": "https://nvdtn19.github.io/3.6.2-2/en/ad/res_shipping",
-                 "ReleaseFileURL": "https://nvdtn19.github.io/3.6.2-2/en/ad/res_release",
-	         "ShippingFileURL": "https://nvdtn19.github.io/3.6.2-2/en/ad/res_shipping"
-              }
-},
-```
+## Adding to Serverconfig.json
+ReleaseFileInfoURL:  https://nvdtn19.github.io/```version```/en/ad/res_release/
+                 ShippingFileInfoURL: https://nvdtn19.github.io/```version```/en/ad/res_shipping/
