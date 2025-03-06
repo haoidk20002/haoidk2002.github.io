@@ -15,5 +15,6 @@ Note: If you want to download the translation patch, this is not a place to do t
 You can refer to [CyberSteve's tutorial](https://github.com/CyberSteve777/cybersteve777.github.io) on how to create your own one.
 
 ## Adding to Serverconfig.json
-ReleaseFileInfoURL:  https://nvdtn19.github.io/```version```/en/ad/res_release/
-                 ShippingFileInfoURL: https://nvdtn19.github.io/```version```/en/ad/res_shipping/
+ReleaseFileInfoURL:  https://nvdtn19.github.io/replace_this_with_version/en/ad/res_release/
+                 ShippingFileInfoURL: https://nvdtn19.github.io/replace_this_with_version/en/ad/res_shipping/
+
