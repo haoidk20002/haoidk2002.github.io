@@ -73921,10 +73921,10 @@ Open the New Year Gift Pack to get lots of gems and rare decorations
 Congratulations! You have been selected as today's luckiest player!
 
 [INFINITY_COINS_HEADER]
-Fix negative coins
+Fix Negative Coins
 
 [INFINITY_COINS_DESC]
-For who having negative coins or <27 millions
+For who is having negative coins or <27M coins
 
 [HEALTH_NOTICE_CONTENT]
 Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
@@ -74010,156 +74010,187 @@ Registration Inquiry: https://beian.miit.gov.cn/
 
 
 [360_1_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_1_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_1_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_1_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_1_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_1_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_1_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_1_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_1_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_1_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_2_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_2_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_2_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_2_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_2_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_2_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_2_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_2_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_2_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [360_2_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_1_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_1_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_1_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_1_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_1_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_1_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_1_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_1_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_1_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_1_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 
 [362_2_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_2_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_2_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_2_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_2_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_2_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_2_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_2_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_2_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [362_2_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.3-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 
 [363_1_NOTICE_1]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [363_1_NOTICE_2]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [363_1_NOTICE_3]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [363_1_NOTICE_4]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [363_1_NOTICE_5]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [363_1_NOTICE_6]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [363_1_NOTICE_7]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [363_1_NOTICE_8]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [363_1_NOTICE_9]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [363_1_NOTICE_10]
-^00FF08^ Happy New Year 2025! Wishing you and your family a joyful, prosperous and happiest new year! 
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[364_1_NOTICE_1]
+
+
+[364_1_NOTICE_2]
+
+
+[364_1_NOTICE_3]
+
+
+[364_1_NOTICE_4]
+
+
+[364_1_NOTICE_5]
+
+
+[364_1_NOTICE_6]
+
+
+[364_1_NOTICE_7]
+
+
+[364_1_NOTICE_8]
+
+
+[364_1_NOTICE_9]
+
+
+[364_1_NOTICE_10]
+
+
 
 
 [ENDURIAN_SKILL_LEVEL1_unreviewed]
