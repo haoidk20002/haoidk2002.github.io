@@ -78,272 +78,217 @@ List of the currently sections:
 
 [SECTION_VERSION_364_NEW_TEXT]
 
-[PRODUCT_NEW_PVP_CHEST_5]
-Regular Legendary Chest
+[RANK_AVATAR_CONTENT_TITLE_61039]  
+Revival of All Things  
 
-[PRODUCT_NEW_PVP_CHEST_5_SHORTDESC] 
-Regular Legendary Chest
+[RANK_AVATAR_CONTENT_CONTENT_61039]  
+Grandmaster rank reward for the 29th season of Two-Player Battle  
 
-[UI_BAG_TITLE]
-道 具
+[RANK_AVATAR_CONTENT_TITLE_61038]  
+Merry Christmas
 
-[RANK_AVATAR_CONTENT_TITLE_61039]
-万物复苏
+[RANK_AVATAR_CONTENT_CONTENT_61038]  
+Warm hearth, cozy everyone  
 
-[RANK_AVATAR_CONTENT_CONTENT_61039]
-双人对决第29赛季宗师段位奖励
+[RANK_AVATAR_CONTENT_TITLE_61037]  
+Don't Forget the Gentleman  
 
-[RANK_AVATAR_CONTENT_TITLE_61038]
-圣诞快乐
+[RANK_AVATAR_CONTENT_CONTENT_61037]  
+Elegance in heart, gentleman in action  
 
-[RANK_AVATAR_CONTENT_CONTENT_61038]
-温暖的火炉，温馨的大家
+[RANK_AVATAR_CONTENT_TITLE_61500]  
+Spooky Halloween Night  
 
-[RANK_AVATAR_CONTENT_TITLE_61037]
-别忘了绅士
+[RANK_AVATAR_CONTENT_CONTENT_61500]  
+Trick or treat!  
 
-[RANK_AVATAR_CONTENT_CONTENT_61037]
-优雅于心，绅士于行
+[rank_avatar_diy_38]  
+Spooky Halloween Night  
 
-[RANK_AVATAR_CONTENT_TITLE_61500]
-惊魂万圣夜
+[rank_avatar_diy_39]  
+Don't Forget the Gentleman  
 
-[RANK_AVATAR_CONTENT_CONTENT_61500]
-不给糖，就捣蛋！
+[rank_avatar_diy_40]  
+Merry Christmas  
 
-[rank_avatar_diy_38]
-惊魂万圣夜
+[rank_avatar_diy_41]  
+Revival of All Things  
 
-[rank_avatar_diy_39]
-别忘了绅士
+[ZOMBIE_SLIMES]  
+Slime Zombie  
 
-[rank_avatar_diy_40]
-圣诞快乐
+[ZOMBIE_SLIMES_DESCRIPTION]  
+Never use hair gel in front of a Slime Zombie. Whether it makes it easier for them to bite your head, creates more Slime Zombies, or triggers their fragile sympathy—it could be all of the above.  
 
-[rank_avatar_diy_41]
-万物复苏
+[ZOMBIE_SLIMES_DESCRIPTION_HEADER]  
+Splits upon being defeated  
 
-[ZOMBIE_SLIMES]
-史莱姆僵尸
+[ZOMBIE_SLIMES_GARGANTUAR]  
+Slime Gargantuar  
 
-[ZOMBIE_SLIMES_DESCRIPTION]
-千万别在史莱姆僵尸面前洗发胶。至于是洗完后更有利于他咬你的脑袋，还是这会产生更多的史莱姆僵尸，还是这会让史莱姆僵尸脆弱的同情心泛滥？可能都是。
+[ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION]  
+Never use hair gel in front of a Slime Gargantuar. Whether it makes it easier for them to bite your head, creates more Slime Gargantuar, or triggers their fragile sympathy—it could be all of the above.  
 
-[ZOMBIE_SLIMES_DESCRIPTION_HEADER]
-被击杀后会分裂
+[ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION_HEADER]  
+Splits upon being defeated  
 
-[ZOMBIE_SLIMES_GARGANTUAR]
-史莱姆僵尸
+[BIRTHSUNFLOWER_SKILL_LEVEL5]  
+Enchanting Notes  
 
-[ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION]
-千万别在史莱姆僵尸面前洗发胶。至于是洗完后更有利于他咬你的脑袋，还是这会产生更多的史莱姆僵尸，还是这会让史莱姆僵尸脆弱的同情心泛滥？可能都是。
+[BIRTHSUNFLOWER_SKILL_LEVEL5_DES]  
+After producing sunlight, the Sunflower Singer emits notes that can stun zombies.  
 
-[ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION_HEADER]
-被击杀后会分裂
+[DANGER_ROOM_RENAI_LEVEL_NAME]  
+Revival Grand Theater - Level {LEVEL_NUMBER}  
 
-[BIRTHSUNFLOWER_SKILL_LEVEL5]
-沉醉音符
+[DANGER_ROOM_RENAI_TITLE_WELCOME]  
+Welcome to the Revival Grand Theater!  
 
-[BIRTHSUNFLOWER_SKILL_LEVEL5_DES]
-向日葵歌手在生产阳光后，会发出可以眩晕僵尸的音
+[BOSS_CHALLENGE_HEAD_ID_25650]  
+Revival Endless Challenger  
 
-[DANGER_ROOM_RENAI_LEVEL_NAME]
-复兴大剧院-第 {LEVEL_NUMBER} 关
+[BOSS_CHALLENGE_HEAD_DES_ID_25650]  
+For players who have achieved results in the Revival Endless Challenge.  
 
-[DANGER_ROOM_RENAI_TITLE_WELCOME]
-欢迎来到复兴大剧院！
+[IMPPEAR_SKILL_LEVEL5]  
+Weakness Gas  
 
-[BOSS_CHALLENGE_HEAD_ID_25650]
-复兴无尽挑战者
+[IMPPEAR_SKILL_LEVEL5_DES]  
+The gas released by zombies has an expanded range and increases the damage they receive.  
 
-[BOSS_CHALLENGE_HEAD_DES_ID_25650]
-致在复兴无尽挑战中获得成绩的玩家。 
+[MAPLEBLADE]  
+Maple Swordsman  
 
-[IMPPEAR_SKILL_LEVEL5]
-虚弱气体
+[MAPLEBLADE_DESCRIPTION]  
+{KEYWORD}Range: {STAT}2 tiles ahead  
+{KEYWORD}Special: {STAT}Coordinated attacks with clones  
+{KEYWORD}Plant characteristics: {STAT}Red plant  
+{FLAVOR}The Maple Swordsman's leaves are always waiting for an autumn breeze—but don't be mistaken, it's not for falling. He just wants to show off his flowing hair.  
 
-[IMPPEAR_SKILL_LEVEL5_DES]
-僵尸放出的气体范围扩大，且会让僵尸受到的伤害增加
+[MAPLEBLADE_DESCRIPTION_HEADER]  
+Uses sword slashes to attack zombies  
 
-[MAPLEBLADE]
-枫影剑客
+[MAPLEBLADE_TOOLTIP]  
+Uses sword slashes to attack zombies  
 
-[MAPLEBLADE_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方2格
-{KEYWORD}特点：{STAT}与分身协同攻击
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR}枫影剑客的叶片总在等待一场秋风 —— 但别误会，那可不是为了飘落，他只是想展示自己飘逸的长发。
+[MAPLEBLADE_PRODUCT_SHORT_DESC]  
+Uses sword slashes to attack zombies  
 
-[MAPLEBLADE_DESCRIPTION_HEADER]
-使用刀剑斩击僵尸
+[MAPLEBLADE_SKILL_LEVEL1]  
+Maple Shadow: Twin Slash  
 
-[MAPLEBLADE_TOOLTIP]
-使用刀剑斩击僵尸
+[MAPLEBLADE_SKILL_LEVEL1_DES]  
+Reduces clone cooldown. The next attack after recalling the clone becomes a powered-up attack, dealing additional damage.  
 
-[MAPLEBLADE_PRODUCT_SHORT_DESC]
-使用刀剑斩击僵尸
+[MAPLEBLADE_SKILL_LEVEL2]  
+Maple Shadow: Thousand Blades Wave  
 
-[MAPLEBLADE_SKILL_LEVEL1]
-枫影·双生溯斩
+[MAPLEBLADE_SKILL_LEVEL2_DES]  
+Further reduces clone cooldown, and increases the damage of ^FF0000 aple Shadow: Shattered Shadow^oldclr^.  
 
-[MAPLEBLADE_SKILL_LEVEL1_DES]
-分身冷却时间减少。收回分身后的下次攻击将变为^FF0000^枫影・碎影^oldclr^
-^FF0000^枫影・碎影^oldclr^：下次普通攻击变为强化攻击造成额外伤害。
+[MAPLEBLADE_SKILL_LEVEL5]  
+Maple Shadow: Swallow's Final Strike Formation  
 
-[MAPLEBLADE_SKILL_LEVEL2]
-枫影·千刃叠潮
+[MAPLEBLADE_SKILL_LEVEL5_DES]  
+The Maple Swordsman has a chance to release ^FF0000 aple Shadow: Swallow Return^oldclr^. Maple Shadow: Shattered Shadow additionally generates a sword aura that attacks the entire row.  
+^FF0000 aple Shadow: Swallow Return^oldclr^: The Maple Swordsman dashes forward and returns, damaging zombies along the way, and the next attack becomes ^FF0000 aple Shadow: Shattered Shadow^oldclr^.  
 
-[MAPLEBLADE_SKILL_LEVEL2_DES]
-分身冷却时间继续减少，^FF0000^枫影・碎影^oldclr^造成的伤害提升。
+[MAPLEBLADE_AVATAR_NAME]  
+Maple Swordsman Costume  
 
-[MAPLEBLADE_SKILL_LEVEL5]
-枫影·燕行绝杀阵
+[STORE_PRODUCT_AVATAR_MAPLEBLADE]  
+After the ultimate skill deals damage, it will also deal 3 delayed damage instances to the hit zombies.  
 
-[MAPLEBLADE_SKILL_LEVEL5_DES]
-枫影剑客有概率释放^FF0000^枫影・燕返^oldclr^。枫影・碎影额外产生一个攻击整行的剑气。
-^FF0000^枫影・燕返^oldclr^：枫影剑客冲刺折返，对途径的僵尸造成伤害，下次攻击变为^FF0000^枫影・碎影^oldclr^。
+[STORE_PRODUCT_AVATAR_MAPLEBLADE_TITLE]  
+Maple Swordsman Costume  
 
-[MAPLEBLADE_AVATAR_NAME]
-枫影剑客装扮
+[MAPLEBLADE_NEW_SKILL_LEVEL1_DES]  
+Uses sword slashes to attack zombies ahead. Can also release the skill Maple Shadow: Moon in Water. When the skill is ready, a clone is generated when a zombie enters the tile in front of the Maple Swordsman. The clone dashes forward to the third tile ahead, knocking back zombies along the way for 0.5 seconds and dealing damage.  
 
-[STORE_PRODUCT_AVATAR_MAPLEBLADE]
-大招造成伤害后，还会对命中的僵尸延后造成3段伤害。
+[MAPLEBLADE_NEW_SKILL_LEVEL2_DES]  
+Reduces clone cooldown. The next attack after recalling the clone becomes Maple Shadow: Shattered Shadow. The next normal attack becomes a powered-up attack and deals additional damage.  
 
-[STORE_PRODUCT_AVATAR_MAPLEBLADE_TITLE]
-枫影剑客装扮
+[MAPLEBLADE_NEW_SKILL_LEVEL3_DES]  
+Further reduces clone cooldown, and increases the damage of Maple Shadow: Shattered Shadow.  
 
-[MAPLEBLADE_NEW_SKILL_LEVEL1_DES]
-使用刀剑斩击前方僵尸。并可以释放技能枫影・水中月
-枫影・水中月：技能准备完毕时，直到有僵尸进入枫影剑客前方一格范围内时，生成一个分身向前冲刺至枫叶前方第三格，并击飞途径的僵尸0.5秒并造成伤害。
+[MAPLEBLADE_NEW_SKILL_LEVEL4_DES]  
+High chance to directly release the Plant Food ultimate skill when planted.  
 
-[MAPLEBLADE_NEW_SKILL_LEVEL2_DES]
-分身冷却时间减少。收回分身后的下次攻击将变为枫影・碎影
-枫影・碎影：下次普通攻击变为强化攻击并造成额外伤害。
+[MAPLEBLADE_NEW_SKILL_LEVEL5_DES]  
+The Maple Swordsman has a chance to release ^FF0000 aple Shadow: Swallow Return^oldclr^. Maple Shadow: Shattered Shadow additionally generates a sword aura that attacks the entire row. Zombies hit by both the main body and clone's sword auras will be instantly defeated.  
+^FF0000 aple Shadow: Swallow Return^oldclr^: The Maple Swordsman dashes forward three tiles and returns, damaging zombies along the way and pushing them toward the center, making the next attack become ^FF0000 aple Shadow: Shattered Shadow^oldclr^.  
 
-[MAPLEBLADE_NEW_SKILL_LEVEL3_DES]
-分身冷却时间继续减少，枫影・碎影造成的伤害提升。
+[MAPLEBLADE_PLANTFOOD_DESCRIPTION]  
+The Maple Swordsman charges up and releases a circular sword aura, dealing damage to zombies it touches.  
 
-[MAPLEBLADE_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招
+[MAPLEBLADE_AVATAR_PLANTFOOD_DESCRIPTION]  
+After the ultimate skill deals damage, it will also deal 3 delayed damage instances to the hit zombies.  
 
-[MAPLEBLADE_NEW_SKILL_LEVEL5_DES]
-枫影剑客有概率释放^FF0000^枫影・燕返^oldclr^。枫影・碎影额外产生一个攻击整行的剑气，本体剑气与分身剑气同时命中的僵尸将被秒杀。
-^FF0000^枫影・燕返^oldclr^：枫影剑客发起冲刺三格并折返，对途径的僵尸造成伤害并向中点击退，使下次攻击变为^FF0000^枫影・碎影^oldclr^。 
+[BUDUHBOOM]  
+Bud'uh Boom  
 
-[MAPLEBLADE_PLANTFOOD_DESCRIPTION]
-枫影剑客蓄力后斩出圆型的剑气，剑气对接触到的僵尸造成X点伤害。
+[BUDUHBOOM_DESCRIPTION]  
+{KEYWORD}Range: {STAT}3×3  
+{KEYWORD}Special: {STAT}Butter explosion causes 3×3 area explosion and control  
+{KEYWORD}Plant characteristics: {STAT}Yellow plant  
+{FLAVOR}Bud'uh Boom's obsession with butter always makes him explode at the slightest touch. When he sees Dr. Zomboss eating a knockoff brand of butter, the lawn instantly turns into chaos! Now, he's ready to coat zombies in butter and explode with boiling butter!  
 
-[MAPLEBLADE_AVATAR_PLANTFOOD_DESCRIPTION]
-大招造成伤害后，还会对命中的僵尸延后造成3段伤害。
+[BUDUHBOOM_DESCRIPTION_HEADER]  
+Butter explosion causes 3×3 area explosion and control, can freeze Slime Zombies to prevent splitting  
 
-[BUDUHBOOM]
-爆浆玉露
+[BUDUHBOOM_TOOLTIP]  
+Butter explosion causes 3×3 area explosion and control, can freeze Slime Zombies to prevent splitting  
 
-[BUDUHBOOM_DESCRIPTION]
-{KEYWORD}范围：{STAT}3×3
-{KEYWORD}特点：{STAT}黄油爆炸造成3×3范围的爆炸和控制
-{KEYWORD}植物特征：{STAT}黄色植物
-{FLAVOR} 爆浆玉露对黄油的痴迷总是让他一触即发，当它看到僵尸博士正在食用山寨品牌的黄油时，草坪上瞬间炸开了锅！现在，他准备给僵尸涂上黄油，然后随着沸腾的黄油，砰然爆炸！
+[BUDUHBOOM_PRODUCT_SHORT_DESC]  
+Butter explosion causes 3×3 area explosion and control, can freeze Slime Zombies to prevent splitting  
 
-[BUDUHBOOM_DESCRIPTION_HEADER]
-黄油爆炸造成3×3范围的爆炸和控制，可以凝住史莱姆僵尸使其不再分裂
+[BUDUHBOOM_SKILL1_LEVEL1]  
+More Butter  
 
-[BUDUHBOOM_TOOLTIP]
-黄油爆炸造成3×3范围的爆炸和控制，可以凝住史莱姆僵尸使其不再分裂
+[BUDUHBOOM_SKILL_LEVEL1]  
+More Butter  
 
-[BUDUHBOOM_PRODUCT_SHORT_DESC]
-黄油爆炸造成3×3范围的爆炸和控制，可以凝住史莱姆僵尸使其不再分裂
+[BUDUHBOOM_SKILL_LEVEL1_DES]  
+Increases the number of butter puddles thrown after explosion by 1  
 
-[BUDUHBOOM_PRODUCT_SHORT_DESC]
-黄油爆炸造成3×3范围的爆炸和控制，可以凝住史莱姆僵尸使其不再分裂
+[BUDUHBOOM_SKILL1_LEVEL1_DES]  
+Increases the number of butter puddles thrown after explosion by 1  
 
-[BUDUHBOOM_SKILL1_LEVEL1]
-更多黄油
+[BUDUHBOOM_SKILL1_LEVEL2]  
+Butter Hell  
 
-[BUDUHBOOM_SKILL_LEVEL1]
-更多黄油
+[BUDUHBOOM_SKILL_LEVEL2]  
+Butter Hell  
 
-[BUDUHBOOM_SKILL_LEVEL1_DES]
-爆炸结束后的黄油坑投掷数量+1
+[BUDUHBOOM_SKILL_LEVEL2_DES]  
+Increases the number of butter puddles thrown after explosion by 2  
 
-[BUDUHBOOM_SKILL1_LEVEL1_DES]
-爆炸结束后的黄油坑投掷数量+1
+[BUDUHBOOM_SKILL1_LEVEL2_DES]  
+Increases the number of butter puddles thrown after explosion by 2  
 
-[BUDUHBOOM_SKILL1_LEVEL2]
-黄油地狱
+[BUDUHBOOM_NEW_SKILL_LEVEL1_DES]  
+Explodes immediately upon planting, causing 3×3 area explosion damage and butter control, can freeze Slime Zombies to prevent splitting  
 
-[BUDUHBOOM_SKILL_LEVEL2]
-黄油地狱
+[BUDUHBOOM_NEW_SKILL_LEVEL2_DES]  
+Increases the number of butter puddles thrown after explosion by 1  
 
-[BUDUHBOOM_SKILL_LEVEL2_DES]
-爆炸结束后的黄油坑投掷数量+2
+[BUDUHBOOM_NEW_SKILL_LEVEL3_DES]  
+Increases the number of butter puddles thrown after explosion by 2  
 
-[BUDUHBOOM_SKILL1_LEVEL2_DES]
-爆炸结束后的黄油坑投掷数量+2
+[BUDUHBOOM_PLANTFOOD_DESCRIPTION]  
+This plant has no Plant Food ultimate skill.  
 
-[BUDUHBOOM_NEW_SKILL_LEVEL1_DES]
-种植后直接爆炸造成3×3范围的爆炸伤害和黄油控制，可以凝住史莱姆僵尸使其不再分裂
+[BUDUHBOOM_AVATAR_PLANTFOOD_DESCRIPTION]  
+This plant has no Plant Food ultimate skill.  
 
-[BUDUHBOOM_NEW_SKILL_LEVEL2_DES]
-爆炸结束后的黄油坑投掷数量+1
+[STORE_PRODUCT_AVATAR_BUDUHBOOM_TITLE]  
+Bud'uh Boom Costume  
 
-[BUDUHBOOM_NEW_SKILL_LEVEL3_DES]
-爆炸结束后的黄油坑投掷数量+2
-
-[BUDUHBOOM_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
-
-[BUDUHBOOM_AVATAR_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
-
-[STORE_PRODUCT_AVATAR_BUDUHBOOM_TITLE]
-爆浆玉露装扮
-
-[STORE_PRODUCT_AVATAR_BUDUHBOOM]
-降低种植冷却20%
-
-
-[ARBORDAY] ////////IS NOW A WATER STUFF WITH TREE
-快乐植树
-
-[GROWING_TASK]
-浇灌任务
-
-[ARBORDAY_BUNDDLE]
-水壶礼包
-
-[ARBORDAY_TOTAL_SERVER_BUY_REWARD_TIPS]
-小贴士：领取全服进度奖励需要至少浇灌10次~
-
-[ARBORDAY_NEXT_HARVEST]
-距下次开启还需要浇灌 ^FFFF00 {NUM} ^oldclr 次
-
-[ARBOARDAY_SURE_WATER]
-确定花费{NUM}水壶浇灌么？
-
-[ARBOARDAY_KETTLE_NOT_ENOUGH]
-水壶不足
-
-[WATER]
-一键浇灌
-
-[MAT_ARBORDAY_KETTLE]
-水壶
-
-[ARBORDAY_DESCRIPTION_TITLE]
-快乐植树说明
-
-[ARBORDAY_DESCRIPTION]
-活动内容：
-
-1.每消耗三个水壶可以开启宝箱一次，获得大量植物碎片,钻石,金币等奖励，可获得的奖励列表: ^FF8000^神器祝福券 突击竹兵 眩晕雏菊^oldclr^ ^8600FF^夜影龙葵 槲寄冰仙子^oldclr^ ^2828FF^原始坚果 芦笋战机 大力花菜^oldclr^ ^82D900^三重射手 爆炸坚果 石斛防风网^oldclr^
-
-2.通过浇灌任务可以获得水壶，亦可通过钻石礼包获得。
-
-3.每消耗一个水壶都会累计个人和全服的浇灌进度，根据个人进度和全服进度可领取奖励！
+[STORE_PRODUCT_AVATAR_BUDUHBOOM]  
+Reduces planting cooldown by 20%  
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CONVALLARIACHEMIST_2]  
-Lily Pharmacist Super Outfit  
+Lily of Alchemy Super Costume
 
 [NEW_AVATAR_DESCRIPTION_CONVALLARIACHEMIST_2]  
 Increases the trigger probability of Tier 2, 3, and 5 skills by 10%  
@@ -402,213 +347,241 @@ Unlocks a new Aerial Warfare Plant Squad
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_TEAM_SKY]  
 Aerial Squad  
 
+
+
+
 [S23_MEMORY_LEVEL_NAME_01]
-复仇者联盟
+The Avengers
 
 [S23_MEMORY_LEVEL_NAME_02]
-后院豪劫
+Backyard Heist
 
 [S23_MEMORY_LEVEL_NAME_03]
-植物大战动物
+Plants vs. Animals
 
 [S23_MEMORY_LEVEL_NAME_05]
-小鬼当家
+Home Alone
 
 [S23_MEMORY_LEVEL_NAME_06]
-火力优势学
+Firepower Superiority Studies
 
 [S23_MEMORY_LEVEL_NAME_07]
-1号宇宙
+Universe No. 1
 
 [S23_MEMORY_LEVEL_NAME_08]
-起飞！但是逆风
+Takeoff! But Against the Wind
 
 [S23_MEMORY_LEVEL_NAME_09]
-不讲武德
+No Martial Virtue
 
 [S23_MEMORY_LEVEL_NAME_10]
-车轮滚滚
+Rolling Wheels
 
 [S23_MEMORY_LEVEL_NAME_11]
-闪电战
+Blitzkrieg
 
 [S23_MEMORY_LEVEL_NAME_13]
-PVZ：英雄无归
+PVZ: No Way Home
 
 [S23_MEMORY_LEVEL_NAME_14]
-劳动僵尸最光荣
+Labor Zombies Are the Most Glorious
 
 [S23_MEMORY_LEVEL_NAME_15]
-不止骆驼牌可以拼手速
+Not Just Camel Brand Can Test Your Speed
 
 [S23_MEMORY_LEVEL_NAME_16]
-碰瓷夫妇
+The Scamming Couple
+
+
 
 [GINGLEBELL_DESCRIPTION]
-活动规则：
-    1.在限定时间内对肥鼬造成的所有伤害即为通关分数。
-    2.通过最新解锁关卡获得的分数用于完成每日奖励任务，任务每天刷新。
-    3.活动时间内将会依次解锁三个主题（动静结合、来去自如、成群结队），每个主题下有三个关卡。每两天解锁一个新关卡，每六天解锁新主题。
-    4.排行榜会依据最新主题下三关分数之和排序，解锁新主题后0点至10点期间封榜进行排行榜公示，公示期间活动关卡不可游玩。游玩非最新主题关卡不会计入排行榜分数。
-    5.10点排行榜公示结束后，自动发放排行榜奖励。3月30日排行榜公示延长至一天，期间不能挑战关卡。
-    6.检测到分数异常的玩家，活动期间打出的分数不再计入排行榜。
+Damage to the Fat Raccoon within the time limit counts as your score. Scores from the latest unlocked levels complete daily reward tasks, which refresh daily. Three themes (Combination of Movement and Stillness, Free Movement, Group Formation) unlock sequentially, each with three levels. A new level unlocks every two days, and a new theme every six days. The leaderboard ranks based on the latest theme’s total score. After a new theme unlocks, the leaderboard freezes from 0:00 to 10:00 for display, during which event levels are unplayable. Non-latest theme levels don’t count. Rewards are distributed after 10:00. On March 30, the display extends to a full day, and no levels can be challenged. Players with abnormal scores are excluded from the leaderboard.
+
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-踏春响叮当
+Springtime Jingle
 
 [GINGLEBELL_TASKDESCRIPTION]
-最新关卡对肥鼬僵尸造成伤害达 {NUMBER}  
+Deal {NUMBER} damage to Fat Raccoon Zombies in the latest level.
+
+
 
 [A_PILE_SNOWMEN1_TITLE]
-动静结合-关卡一
+Combination of Movement and Stillness - Level 1
 
 [A_PILE_SNOWMEN2_TITLE]
-动静结合-关卡二
+Combination of Movement and Stillness - Level 2
 
 [A_PILE_SNOWMEN3_TITLE]
-动静结合-关卡三
+Combination of Movement and Stillness - Level 3
 
 [CONVEYER_BELT1_TITLE]
-来去自如-关卡一
+Free Movement - Level 1
 
 [CONVEYER_BELT2_TITLE]
-来去自如-关卡二
+Free Movement - Level 2
 
 [CONVEYER_BELT3_TITLE]
-来去自如-关卡三
+Free Movement - Level 3
 
 [RANDOM_SNOWMEN1_TITLE]
-成群结队-关卡一
+Group Formation - Level 1
 
 [RANDOM_SNOWMEN2_TITLE]
-成群结队-关卡二
+Group Formation - Level 2
 
 [RANDOM_SNOWMEN3_TITLE]
-成群结队-关卡三
+Group Formation - Level 3
 
 [GINGLEBELL_S1_1_TITLE]
-动静结合-关卡一
+Combination of Movement and Stillness - Level 1
 
 [GINGLEBELL_S1_2_TITLE]
-动静结合-关卡二
+Combination of Movement and Stillness - Level 2
 
 [GINGLEBELL_S1_3_TITLE]
-动静结合-关卡三
+Combination of Movement and Stillness - Level 3
 
 [GINGLEBELL_S2_1_TITLE]
-来去自如-关卡一
+Free Movement - Level 1
 
 [GINGLEBELL_S2_2_TITLE]
-来去自如-关卡二
+Free Movement - Level 2
 
 [GINGLEBELL_S2_3_TITLE]
-来去自如-关卡三
+Free Movement - Level 3
 
 [GINGLEBELL_S3_1_TITLE]
-成群结队-关卡一
+Group Formation - Level 1
 
 [GINGLEBELL_S3_2_TITLE]
-成群结队-关卡二
+Group Formation - Level 2
 
 [GINGLEBELL_S3_3_TITLE]
-成群结队-关卡三
+Group Formation - Level 3
+
+
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
-挑战在30秒内打出最高的伤害！
+Challenge: Deal the highest damage within 30 seconds!
+
+
 
 [SNOWNIGHTSTAGE2_LEVEL_NAME]
-来去自如 - 第 {LEVEL_NUMBER} 关
+Free Movement - Level {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-动静结合 - 第 {LEVEL_NUMBER} 关
+Combination of Movement and Stillness - Level {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
-成群结队 - 第 {LEVEL_NUMBER} 关
+Group Formation - Level {LEVEL_NUMBER}
+
+
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}的肥鼬僵尸测试之旅
+{PLAYER}'s Fat Raccoon Zombie Testing Journey
+
 
 
 [AVATARCOLLECTIONS_TITLE]
-收藏册
+Collection Album
 
 [AVATARCOLLECTION_DESCRIPTION_TITLE]
-功能说明
+Function Description
 
 [AVATARCOLLECTION_DESCRIPTION]
-1、收藏册中拥有不同的主题内容，每一个主题内容下都会有若干个符合主题且需要收藏的物品，玩家可以查看所需收藏品的详细信息。
-2、目前的主题内容有：
-圣诞快乐！    新年到    童心未泯    惊魂万圣夜    现代科技    别忘了绅士
-3、当玩家将某一主题下需要收藏的物品都收集完毕后，会获得一个符合主题的超级奖励。
+1. The Collection Album contains different themed content. Under each theme, there are several items that need to be collected. Players can view detailed information about the required collectibles.
+2. Current themes include:
+- Merry Christmas!
+- New Year Arrives
+- Childlike Innocence
+- Spooky Halloween Night
+- Modern Technology
+- Don't Forget the Gentleman
+3. When players collect all items required under a theme, they will receive a super reward that matches the theme.
+
+
 
 [AVATARCOLLECTIONS_PROGRESS]
-收集进度:{NUMBER1}/{NUMBER2}
+Collection Progress: {NUMBER1}/{NUMBER2}
+
+
 
 [AVATARCOLLECTIONS_THEME_TITLE0]
-圣诞快乐！
+Merry Christmas!
 
 [AVATARCOLLECTIONS_THEME_DES0]
-缤纷圣诞，心愿闪亮！
+Colorful Christmas, shining wishes!
 
 [AVATARCOLLECTIONS_THEME_TITLE1]
-新年到
+New Year Arrives
 
 [AVATARCOLLECTIONS_THEME_DES1]
-新年福到，福星高照！
+New Year blessings, good fortune shines!
 
 [AVATARCOLLECTIONS_THEME_TITLE2]
-童心未泯
+Childlike Innocence
 
 [AVATARCOLLECTIONS_THEME_DES2]
-纯真如初，梦想依旧！
+Pure as ever, dreams remain!
 
 [AVATARCOLLECTIONS_HEAD_ID_25657]
-童心未泯
+Childlike Innocence
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25657]
-纯真如初，梦想依旧！
+Pure as ever, dreams remain!
 
 [AVATARCOLLECTIONS_THEME_TITLE3]
-惊魂万圣夜
+Spooky Halloween Night
 
 [AVATARCOLLECTIONS_THEME_DES3]
-南瓜灯亮，惊魂夜魅！
+Pumpkin lights, spooky night charm!
 
 [AVATARCOLLECTIONS_THEME_TITLE4]
-现代科技
+Modern Technology
 
 [AVATARCOLLECTIONS_THEME_DES4]
-科技赋能，火力无限！
+Empowered by technology, infinite firepower!
 
 [AVATARCOLLECTIONS_HEAD_ID_25658]
-现代科技
+Modern Technology
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25658]
-科技赋能，火力无限！
+Empowered by technology, infinite firepower!
 
 [AVATARCOLLECTIONS_THEME_TITLE5]
-别忘了绅士
+Don't Forget the Gentleman
 
 [AVATARCOLLECTIONS_THEME_DES5]
-风度翩翩，优雅永存！
+Graceful and elegant, forever stylish!
+
+
 
 [AVATARCOLLECTIONS_NOT_EXIST]
-未拥有
+Not Owned
+
+
 
 [PLANTING_NOT_ON_SNOWMAN]
-不能种在雪人上
+Cannot plant on a snowman.
+
+
 
 [HARVEST_BATTLE_HEAD_ID_25647]
-风声鹤唳
+Wind and Crane Calls
 
 [HARVEST_BATTLE_HEAD_DES_ID_25647]
-在农场大作战活动中，通过超级玉米兑换
+Exchangeable through Super Corn in the Farm Battle event.
+
+
 
 [TOYS_HEAD_ID_25648]
-九色降临
+Descent of the Nine Colors
 
 [TOYS_HEAD_DES_ID_25648]
-参与活动国风怀古行获得
+Obtained by participating in the Ancient Traditions event.
+
+
 
 
 
@@ -14908,7 +14881,7 @@ Dear Players:
 2. Sweet Potato碎片x10
 
 感谢大家对《植物大战僵尸2》的支持，祝大家在植物大战僵尸2中度过一个愉快的假期! 
---------小豌豌
+--小豌豌
 
 [DAILY_REWARD_COMPENSATION_CONTENT_SPECIAL]
 亲爱的各位玩家：
@@ -14920,7 +14893,7 @@ Dear Players:
 Big Wave Beach版本上线后，甜薯、莲叶、大嘴花、保龄泡泡4个植物由于数据错乱导致的消失或多出情况，我们已经按照出错前的碎片和阶数进行恢复，并给予玩家50钻石的补偿。
 
 感谢大家对《植物大战僵尸2》的支持，祝大家在植物大战僵尸2中度过一个愉快的假期! 
---------小豌豌
+--小豌豌
 
 [COMPEN_OBTAIN]
 Recieve
@@ -27421,13 +27394,14 @@ Tasks
 四等奖励：18.87%      五等奖励：22.64%
 
 [ARBORDAY]
-Temporal Treasure Hunt
+Happy Tree Planting
+
 
 [GROWING_TASK]
-Charging Task
+Watering Task
 
 [ARBORDAY_BUNDDLE]
-Battery Bundle
+Watering Bundle
 
 [ARBORDAY_BUY_BUNDLE_CONFIRM]
 Would you like to spend {NUM} gems to purchase the bundle?
@@ -27438,16 +27412,16 @@ Expected trees to be planted: ^FFFF00 {NUM} ^oldclr trees
 [ARBORDAY_PROCESS]
 Server-wide progress: ^FFFF00 {NUM} ^oldclr times
 [ARBORDAY_NEXT_HARVEST]
-It needs to be charged ^FFFF00 {NUM} ^oldclr times before the next activation.
+Next opening requires ^FFFF00 {NUM} ^oldclr more waterings
 
 [ARBOARDAY_SURE_WATER]
-Would you like to spend {NUM} to charge the battery?
- 
+Are you sure you want to spend {NUM} watering cans?
+
 [ARBOARDAY_KETTLE_NOT_ENOUGH]
-Oops, you don't have enough resources for that!
+Oops, you don't have enough watering cans!
 
 [WATER]
-Charge
+Watering
 
 [HARVEST]
 Achieve
@@ -27459,20 +27433,20 @@ x{NUM} Refresh
 You got {NUM} {NAME}
 
 [MAT_ARBORDAY_KETTLE]
-Battery
+Watering Can
 
 [ARBORDAY_FULL]
 Rewards are full, please claim your rewards first.
 
 [ARBORDAY_DESCRIPTION_TITLE]
-Time-Space Treasure Hunt Instructions
+Happy Tree Planting Event
 
 [ARBORDAY_DESCRIPTION]
-Each time you consume three batteries, you can open a treasure chest once, receiving a large amount of plant pieces, gems, coins, and other rewards. The list of possible rewards includes: ^FF8000^Artifact Blessing Ticket- Zoybean Pod - Hat Mushroom^oldclr^ ^8600FF^Nightshade - Missile Toe^oldclr^ ^2828FF^Primal Wall-nut - Asparagus - Strong Broccoli^oldclr^ ^82D900^Threepeater -  Explode-O-Nut - Dendrobium Windbreak ^oldclr^
+1. Every 3 watering cans spent can open a treasure chest once, rewarding a large number of plant pieces, gems, coins, and more. Possible rewards include: ^FF8000^Artifact Blessing Voucher, Bamboo Trooper, Dazey Chain^oldclr^ - ^8600FF^Nightshade, Mistle Toe^oldclr^ ^2828FF^Primal Wall-nut, Asparagus, Strong Broccoli^oldclr^ ^82D900^Threepeater, Explode-o-nut, Dendrobium Windbreak^oldclr^
 
-2. Batteries can be obtained through charging tasks or by purchasing diamond gift packs.
+2. Watering tasks reward watering cans, which can also be obtained through diamond bundles.
 
-3. Each time you consume a battery, it will accumulate personal and server-wide charging progress. Rewards can be claimed based on personal and server progress!
+3. Each watering can spent contributes to both personal and server-wide watering progress. Rewards can be claimed based on personal and server progress!
 
 [NEWYEAR_GOODS_DESCRIPTION_TITLE]
 Super Selected Event Instructions
@@ -29142,11 +29116,11 @@ Tactical Cuke
 Claimed
 
 [DISCOUNT_SHOP_ACTIVITY_DESC]
-活动期间，6月1日----6月10日，每天充值任意数量钻石，即可
+活动期间，6月1日-6月10日，每天充值任意数量钻石，即可
 购买当日折扣奖池内道具。
 
 [DISCOUNT_SHOP_ACTIVITY_DESC_PARAM]
-活动期间，{MONTH}月{START}日----{MONTH}月{END}日，每天充值任意数量钻石，即可
+活动期间，{MONTH}月{START}日-{MONTH}月{END}日，每天充值任意数量钻石，即可
 购买当日折扣奖池内道具。
 
 [DISCOUNT_SHOP_ACTIVITY_DIAMOND]
@@ -29435,7 +29409,7 @@ DISAGREE
 ^FF0000^ 150 CNY^oldclr^
 
 [MONTHLY_CARD_LINE]
-^FF0000^ --- ^oldclr^
+^FF0000^  ^oldclr^
 
 [PRODUCT_MONTHLY_CARD_SPECIAL_01]
 购买7天体验权
@@ -37035,7 +37009,7 @@ In 2023, the Two-player mode was launched!
     Congratulations on receiving the anniversary deluxe reward. Click to claim it now!
 
 [TENYEAR_RECORD_INDEX4_3]
-    ---- Dear, Dave
+    - Dear, Dave
 
 [PRODUCT_PLANT_CULTIVATE_20_SHORTDESC]
 Plant Cultivation Limited Gift Pack
@@ -38326,7 +38300,7 @@ Happy Slide
 Fairytale Zombot
 
 [ZOMBIE_ZOMBOSSMECH_HYDRA_DESCRIPTION]
-{FLAVOR}Dr. Zomboss wanted to start the invasion in a more efficient way, he used three production lines, three times the steel, three times the staff----even when digitizing those black magic, he used three binary systems. Some people praised him for saying one or two, but he said three.
+{FLAVOR}Dr. Zomboss wanted to start the invasion in a more efficient way, he used three production lines, three times the steel, three times the staff-even when digitizing those black magic, he used three binary systems. Some people praised him for saying one or two, but he said three.
 
 [ZOMBIE_ZOMBOSSMECH_HYDRA_DESCRIPTION_HEADER]
 An evil work that combines technology and fantasy.
@@ -62129,7 +62103,7 @@ When a plant dies, it turns into a seed that can't be planted on. After some tim
 {NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}If you don't listen to me, you will be destroyed!
 
 [NARRATIVE_MODERN_27_INTRO_2]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}You're completely untrustworthy! taco---!!!
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}You're completely untrustworthy! taco!!!
 
 [NARRATIVE_MODERN_27_OUTRO_1]
 {NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}User Dave, I'm begging you! You must let go of your obsession with the old taco!
