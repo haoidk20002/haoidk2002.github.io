@@ -124,10 +124,10 @@ Never use hair gel in front of a Slime Zombie. Whether it makes it easier for th
 Splits upon being defeated  
 
 [ZOMBIE_SLIMES_GARGANTUAR]  
-Slime Gargantuar  
+Big Slime Zombie
 
 [ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION]  
-Never use hair gel in front of a Slime Gargantuar. Whether it makes it easier for them to bite your head, creates more Slime Gargantuar, or triggers their fragile sympathy—it could be all of the above.  
+Never use hair gel in front of a Slime Zombie. Whether it makes it easier for them to bite your head, creates more Slime Zombie, or triggers their fragile sympathy—it could be all of the above.  
 
 [ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION_HEADER]  
 Splits upon being defeated  
@@ -75168,6 +75168,35 @@ Registration Inquiry: https://beian.miit.gov.cn/
 
 
 [364_1_NOTICE_10]
+
+[364_2_NOTICE_1]
+
+
+[364_2_NOTICE_2]
+
+
+[364_2_NOTICE_3]
+
+
+[364_2_NOTICE_4]
+
+
+[364_2_NOTICE_5]
+
+
+[364_2_NOTICE_6]
+
+
+[364_2_NOTICE_7]
+
+
+[364_2_NOTICE_8]
+
+
+[364_2_NOTICE_9]
+
+
+[364_2_NOTICE_10]
 
 
 
