@@ -231,16 +231,18 @@ Bud'uh Boom
 {KEYWORD}Range: {STAT}3×3  
 {KEYWORD}Special: {STAT}Butter explosion causes 3×3 area explosion and control  
 {KEYWORD}Plant characteristics: {STAT}Yellow plant  
-{FLAVOR}Bud'uh Boom's obsession with butter always makes him explode at the slightest touch. When he sees Dr. Zomboss eating a knockoff brand of butter, the lawn instantly turns into chaos! Now, he's ready to coat zombies in butter and explode with boiling butter!  
+{FLAVOR}Bud'uh Boom's buttery obsession always had him on a hair trigger, but when Zomboss served up "You-can't-believe-it's-not-butter!" – it was poppin' pandemonium on the lawn! Now, he's ready to butter up zombies and explode with boiling, buttery, BOOM!"
+
+"
 
 [BUDUHBOOM_DESCRIPTION_HEADER]  
-Butter explosion causes 3×3 area explosion and control, can freeze Slime Zombies to prevent splitting  
+An over-pressurized bulb of boiling butter, this instant plant will go BOOM! Burning away zombies around it and flinging blobs of butter across the lawn, stunning any zombie unfortunate to be caught in its shower of buttery goop.
 
 [BUDUHBOOM_TOOLTIP]  
-Butter explosion causes 3×3 area explosion and control, can freeze Slime Zombies to prevent splitting  
+Deals massive damage in an area and leaves behind butter trap tiles.
 
 [BUDUHBOOM_PRODUCT_SHORT_DESC]  
-Butter explosion causes 3×3 area explosion and control, can freeze Slime Zombies to prevent splitting  
+Deals massive damage in an area and leaves behind butter trap tiles.
 
 [BUDUHBOOM_SKILL1_LEVEL1]  
 More Butter  
@@ -49038,10 +49040,10 @@ Buttercup
 {KEYWORD}Range: {STAT}1 tile ahead
 {KEYWORD}Special: {STAT}creates buttering butter splats
 {KEYWORD}Plant feature: {STAT}yellow plant
-{FLAVOR}Every day Buttercup waits for her fairytale Prince Charming, but if we assume they would be a perfect match, that prince would probably just be a breadfruit dressed as one.
+{FLAVOR}Buttercup's sweet as can be, but she packs a wallop! "I'm not cheap", she says, referring to her flat 25 sun cost. "I'm reasonable." Every day Buttercup waits for her fairytale Prince Charming, but if we assume they would be a perfect match, that prince would probably just be a breadfruit dressed as one.
 
 [BUTTERCUP_DESCRIPTION_HEADER]
-Throws butter at zombies to stun them and leaves a splat of butter on the ground
+Buttercup butters butter onto attacking zombies, stunning them with butter. Butter!
 
 [BUTTERCUP_TOOLTIP]
 Butters attacking zombies
@@ -73521,10 +73523,10 @@ Huarong Road
 Aerial Warfare  
 
 [PLAYERS_TRIP_TO_MINIGAME]
-{PLAYER}'s puzzling peril!
+{PLAYER}'s Fun Competition!
 
 [MAT_MINIGAME_COIN]
-强化能量
+Enhanced energy 
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EGGPLANTNINJA_3]
 Anime-style Outfit
@@ -75141,33 +75143,43 @@ Registration Inquiry: https://beian.miit.gov.cn/
 ^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
 
 [364_1_NOTICE_1]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
 
 
 [364_1_NOTICE_2]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
 
 
 [364_1_NOTICE_3]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
 
 
 [364_1_NOTICE_4]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
 
 
 [364_1_NOTICE_5]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
 
 
 [364_1_NOTICE_6]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
 
 
 [364_1_NOTICE_7]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
 
 
 [364_1_NOTICE_8]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
 
 
 [364_1_NOTICE_9]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
 
 
 [364_1_NOTICE_10]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
 
 [364_2_NOTICE_1]
 
