@@ -1,40 +1,40 @@
 [ORIGINAL_TRANSLATION_MADE_BY_PEA_GAMEPLAY]
-[COMPLAIN_CONTENT]
-Translated by Pea Gameplay (Original author) with some help from Nectarinna and evilhack28.
+Note: All the translation in this lawnstrings must not exceed 1021 characters or the game will just can't handle it.
 
-This translation is not a fully completed product. However, it's worth noting that this mod has successfully translated the most important aspects such as plants and quests, enhancing your understanding of the game.
+[COMPLAIN_CONTENT]
+Welcome! You're using English patch for PvZ2 Chinese version. Made by Pea Gameplay with some helps from other people.
+
+This translation is not a fully completed product. However, it's worth noting that it has successfully translated the most important aspects, enhancing your understanding of the game.
 
 You must agree to this license agreement when using this translation:
 1. This translation mod is an independent, community-created project and is not affiliated with, endorsed by, or associated with the original game developers in any way.
-2. This notice must remain intact and unaltered in all distributions of the translation mod.
-3. This translation mod is intended for non-commercial, personal, or community use only. It may not be used for any commercial purposes. It means that this translation mod is free to use by anyone, and you can't sell, monetize, or earn moneys from this mod.
-4. And more... See the full license agreement of this translation mod in Settings > Credits
+2. Some of the translations in-game: the plant, zombie names, and flavor texts are not official. As said in above, they are not endorsed by the official developer team in any way, shape, or form. Everything presented here, aside from the plants and zombies that came from the original game, is fan-made.
+3. This translation mod is intended for non-commercial use only.
+4. And more... Read the full EULA of this mod in Settings > Credits
 
 [CREDITS_PVZ_TITLE]
 Plants vs. Zombies 2 Chinese Version
-~It's About Time
-With English translation
-~Translated by Pea Gameplay (Original author) with some help from Nectarinna and evilhack28.
+With English Patch
+~by Pea Gameplay, evilhack28, ShadowVT, RusselSky, Nectarinna and some other people.
 
-My social platforms:
-YouTube: https://youtube.com/@peagameplay-vn
-Discord server: https://discord.gg/9dNbcJRvyb
-Email: nvdtn19forwork@gmail.com
+YouTube: youtube.com/@peagameplay-vn
+Discord: discord.gg/9dNbcJRvyb
 
-This translation is not a fully completed product. However, it's worth noting that this mod has successfully translated the most important aspects such as plants and quests, enhancing your understanding of the game.
+This translation is not a fully completed product. However, it's worth noting that it has successfully translated the most important aspects, enhancing your understanding of the game.
 
-You must agree to this license agreement when using this translation:
-
-1. This translation mod is an independent, community-created project and is not affiliated with, endorsed by or associated with the original game developers in any way.
-2. This notice must remain intact and unaltered in all distributions of the translation mod.
+You must agree to this EULA when using this patch:
+1. This notice must remain intact and unaltered in all distributions of the translation mod.
+2. This translation mod is an independent, community-created project and is not affiliated with, endorsed by, or associated with the original game developers in any way.
+3. Some of the translations in-game: the plant, zombie names, and flavor texts are not official. As said in above, they are not endorsed by the official developer team in any way, shape, or form. Everything presented here, aside from the plants and zombies that came from the original game, is fan-made.
 
 [CREDTIS_CHINA_PRODUCER]
-3. This translation mod is intended for non-commercial, personal, or community use only. It may not be used for any commercial purposes. It means that this translation mod is free to use by anyone, and you can't sell, monetize, or earn moneys from this mod.
-4. You can't bundle this product as a part of another product without written permission from the author. If used as part of a project or referenced, proper credit must be given to the author in a visible and appropriate manner.
-5. You may not claim authorship of this translation mod. Proper credit must always be given to the original author.
-6. Any misuse of this translation mod, including but not limited to adding inappropriate, offensive, or harassing content, is strictly PROHIBITED under all circumstances.
-7. Users are encouraged to report any instances of misuse or violation of these terms to the author.
-8. The author reserves all rights not expressly granted in this agreement.
+4. The translations are achieved by a mixture of AI and a lot of personal jobs. It can't be avoided from containing some mistakes. Feel free to report any bugs you find. Please allow for a small percentage of human error.
+5. This mod is free to use by anyone. It may not be used for any commercial purposes. You are not allowed to sell, monetize, or earn moneys from this mod.
+6. You can't bundle this product as a part of another one without written permission from the author. If used as part of a project or referenced, proper credit must be given to the author in a visible and appropriate manner.
+7. You may not claim ownership of this mod. Proper credit must always be given to the original author.
+8. Any misuses, including but not limited to adding inappropriate, offensive, or harassing content, is strictly PROHIBITED under all circumstances.
+9. Users are encouraged to report any instances of violation of these terms to the author.
+10. The author reserves all rights not expressly granted in this agreement.
 
 [Notice_About_This_Lawnstrings]
 Each contents of this translation is splitted into sections, from important part to unimportant part. For example:
@@ -45,6 +45,7 @@ You may use the search feature (Ctrl+F) in order to look up corresponding sectio
 
 List of the currently sections:
 [SECTION_SKILL_PLANTS]
+[SECTION_VERSION_364_NEW_TEXT]
 [SECTION_VERSION_333_NEW_TEXT]
 [SECTION_VERSION_344_NEW_TEXT]
 [SECTION_VERSION_328_NEW_TEXT]
@@ -6943,6 +6944,9 @@ Development Director
 
 [CREDTIS_CHINA_BICTH]
 Senior Product Manager
+
+[CREDTIS_CHINA_MANAGER]
+Senior Product Manager 
 
 [CREDTIS_CHINA_PM]
 Operations Director
@@ -18567,22 +18571,22 @@ Sky City
 Lost City
 
 [PIECE_COME_FROM_ANTHURIUM_LEVEL]
-Sky City-第11天
+Sky City - Day 11
 
 [PIECE_COME_FROM_PINEAPPLE_LEVEL]
-Sky City-第16天
+Sky City - Day 16
 
 [PIECE_COME_FROM_TOADSTOOL_LEVEL]
-Lost City-第11天
+Lost City- Day 11
 
 [PIECE_COME_FROM_LAVAGUAVA_LEVEL]
-Lost City-第20天
+Lost City - Day 20
 
 [COMPLAIN_ICON]
 Note
 
 [COMPLAIN_TITLE]
-Translated by Pea Gameplay~
+English patch by Pea Gameplay~
 
 [COMPLAIN_CONTENT_TIME]
 Customer service time: 9:00-19:00
@@ -18647,7 +18651,7 @@ Skip {NUMBER} levels
 Currently, you can skip up to level {NUMBER}
 
 [UNABLE_TO_SKIP_LEVEL]  
-You cannot skip levels currently
+Can't skip levels
 
 [TRAINING_COUNT]  
 Remaining attempts: {NUMBER}
@@ -18664,14 +18668,14 @@ Level {NUMBER}
 [START]  
 Start:
 
-[AFTER_LEVEL_SCORE]  
-Score after passing: {NUM}
-
-[OVER_PLAYER]  
-Expected to surpass {NUM} players
-
 [CURRENT_SCORE]  
 Current score: {NUM}
+
+[AFTER_LEVEL_SCORE]
+Rewards:          points
+
+[OVER_PLAYER]
+Surpass               players
 
 [PINATA_PARTY_COIN_REWARD_TEXT]  
 {NUMBER} coins
