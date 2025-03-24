@@ -34464,6 +34464,33 @@ https://discord.gg/9dNbcJRvyb
 [SETTINGS_TERMSOFSERVICE_URL_ORIGINAL]
 http://filead.talkyun.com.cn/tw/twyh.htm
 
+[SETTINGS_PERSONAL_TITLE]
+Donate to me!
+
+[SETTINGS_PERSONAL_URL]
+https://buymeacoffee.com/nvdtn19
+
+[SETTINGS_PERSONAL_URL_ANDROID]
+https://buymeacoffee.com/nvdtn19
+
+[SETTINGS_PERSONAL_URL_ORIGINAL]
+http://filead.talkyun.com.cn/tw/geren.htm
+
+[SETTINGS_INVENTORY_TITLE]
+sdk共享清单
+
+[SETTINGS_INVENTORY_URL]
+http://filead.talkyun.com.cn/tw/sdk.htm 
+
+[SETTINGS_INVENTORY_URL_ANDROID]
+http://filead.talkyun.com.cn/tw/sdk.htm 
+
+[TMALL_STORE_URL]
+http://pvztmall.popcap.com.cn
+
+[TMALL_STORE_BUTTON_CONTENT]
+Purchase peripheral products 
+
 [ACCOUNT_REMOVE_CONTENT_1]
 Deleting your account will result in:
 1. Deleting all your plants, Costumes, coins, gems, artifacts, pendants and other items from each mode.
@@ -75186,33 +75213,42 @@ Registration Inquiry: https://beian.miit.gov.cn/
 ^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
 
 [364_2_NOTICE_1]
-
+^00FF08^Hi, there are currently some reports that you cannot receive the Octopus Artifact after beating it's demo level when using the Plus edition. Apologize for this accident, I just checked in the files and found that I forgot to add this feature. Don't worry, this bug will be fixed in the next version, which is likely going to be released in the next month, so stay tuned for it!
 
 [364_2_NOTICE_2]
+^00FF08^Hi, there are currently some reports that you cannot receive the Octopus Artifact after beating it's demo level when using the Plus edition. Apologize for this accident, I just checked in the files and found that I forgot to add this feature. Don't worry, this bug will be fixed in the next version, which is likely going to be released in the next month, so stay tuned for it!
 
 
 [364_2_NOTICE_3]
+^00FF08^Hi, there are currently some reports that you cannot receive the Octopus Artifact after beating it's demo level when using the Plus edition. Apologize for this accident, I just checked in the files and found that I forgot to add this feature. Don't worry, this bug will be fixed in the next version, which is likely going to be released in the next month, so stay tuned for it!
 
 
 [364_2_NOTICE_4]
+^00FF08^Hi, there are currently some reports that you cannot receive the Octopus Artifact after beating it's demo level when using the Plus edition. Apologize for this accident, I just checked in the files and found that I forgot to add this feature. Don't worry, this bug will be fixed in the next version, which is likely going to be released in the next month, so stay tuned for it!
 
 
 [364_2_NOTICE_5]
+^00FF08^Hi, there are currently some reports that you cannot receive the Octopus Artifact after beating it's demo level when using the Plus edition. Apologize for this accident, I just checked in the files and found that I forgot to add this feature. Don't worry, this bug will be fixed in the next version, which is likely going to be released in the next month, so stay tuned for it!
 
 
 [364_2_NOTICE_6]
+^00FF08^Hi, there are currently some reports that you cannot receive the Octopus Artifact after beating it's demo level when using the Plus edition. Apologize for this accident, I just checked in the files and found that I forgot to add this feature. Don't worry, this bug will be fixed in the next version, which is likely going to be released in the next month, so stay tuned for it!
 
 
 [364_2_NOTICE_7]
+^00FF08^Hi, there are currently some reports that you cannot receive the Octopus Artifact after beating it's demo level when using the Plus edition. Apologize for this accident, I just checked in the files and found that I forgot to add this feature. Don't worry, this bug will be fixed in the next version, which is likely going to be released in the next month, so stay tuned for it!
 
 
 [364_2_NOTICE_8]
+^00FF08^Hi, there are currently some reports that you cannot receive the Octopus Artifact after beating it's demo level when using the Plus edition. Apologize for this accident, I just checked in the files and found that I forgot to add this feature. Don't worry, this bug will be fixed in the next version, which is likely going to be released in the next month, so stay tuned for it!
 
 
 [364_2_NOTICE_9]
+^00FF08^Hi, there are currently some reports that you cannot receive the Octopus Artifact after beating it's demo level when using the Plus edition. Apologize for this accident, I just checked in the files and found that I forgot to add this feature. Don't worry, this bug will be fixed in the next version, which is likely going to be released in the next month, so stay tuned for it!
 
 
 [364_2_NOTICE_10]
+^00FF08^Hi, there are currently some reports that you cannot receive the Octopus Artifact after beating it's demo level when using the Plus edition. Apologize for this accident, I just checked in the files and found that I forgot to add this feature. Don't worry, this bug will be fixed in the next version, which is likely going to be released in the next month, so stay tuned for it!
 
 
 
