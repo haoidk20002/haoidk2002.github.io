@@ -76472,9 +76472,6 @@ Proof of Perfectly Completing Parallel Universe No. 41
 [PVZ_ERROR_30021]
 Unknown error.
 
-[PLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANTS]
-
-
 [NIGHTCAP_SKILL_LEVEL1_DES]
 The attack range of Nightcap is increased by 1 tile, and the cooldown time of the stealth form is reduced by 2.5 seconds.
 
@@ -76955,7 +76952,7 @@ Not yet connected to GOOGLE PLAY
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Sure, but after I win, you have to give me one of those cars.
 
 [SHADOWPEASHOOTER_PRODUCT_SHORT_DESC]
-Shadow pea shooter can cause damage to surrounding units by firing bullets as a center
+Shadow Peashooter can cause damage to surrounding units by firing bullets as a center
 
 [BONKCHOY_PEDIA_EXTRA]
     补充说明：菜问（BonkChoy）根据名字对应原型应为“白菜”（BokChoy）在粤语中的发音，在中国分为很多种类，如小白菜和大白菜。小白菜在北方多被成为“油菜”，在南方则通常被称为“青菜”或“上海青”。菜问的美术设计本身更像是白菜和青菜的结合体，特此说明。
@@ -76981,12 +76978,6 @@ Olive Pit Glasses
 
 [NEW_AVATAR_DESCRIPTION_OLIVEPIT_2]
 Rest time reduced by 5s
-
-[MD5_CHECK_FAILED_TITLE]
-Detected cheating
-
-[MD5_CHECK_FAILED_DESC]
-^FF00000 detects cheating, please download the game again! ^oldclr
 
 [PERK_NAME_APPLYCONDITIONSHRINKING ]
 Become small
