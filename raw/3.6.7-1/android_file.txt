@@ -44,63 +44,396 @@ Each contents of this translation is splitted into sections, from important part
 You may use the search feature (Ctrl+F) in order to look up corresponding sections in this translation.
 
 List of the currently sections:
+
+
+[SECTION_SKILL_PLANTS_NEED_REVIEW]
+[ENDURIAN_SKILL_LEVEL1_unreviewed]
+
+
 [SECTION_SKILL_PLANTS]
-
 [SECTION_VERSION_364_NEW_TEXT]
-
 [SECTION_VERSION_333_NEW_TEXT]
-
 [SECTION_VERSION_344_NEW_TEXT]
-
 [SECTION_VERSION_328_NEW_TEXT]
-
 [SECTION_PLANTS_COSTUME]
-
 [SECTION_VERSION_330_NEW_TEXT]
-
 [SECTION_PLANTS]
-
 [SECTION_ZOMBIES]
-
 [SECTION_UNTRANSLATED_ZOMBIES]
-
 [SECTION_ARTIFACTS]
-
 [SECTION_AWARD_SCREEN]
-
 [SECTION_CHALLENGE]
-
 [SECTION_CREATIVE_COURTYARD]
-
 [SECTION_ENDLESS]
-
 [SECTION_GENE_ENHANCEMENT]
-
 [SECTION_JOUST]
-
 [SECTION_MEMORY_LANE]
-
 [SECTION_NARRATIVE]
-
 [SECTION_NEW_PVP]
-
 [SECTION_PENNY_CLASSROOM]
-
 [SECTION_PENNY_PURSUIT]
-
 [SECTION_PLANT_FAMILY]
-
 [SECTION_TASK]
-
 [SECTION_UI_BAG]
-
 [SECTION_UPGRADES]
-
 [SECTION_EULA]
-
 [SECTION_NEED_REVIEW]
 
 
+
+
+[SECTION_TIPS]
+[INFINITY_COINS_HEADER]
+Fix Negative Coins
+
+[INFINITY_COINS_DESC]
+Of if you have <27M coins
+
+[HEALTH_NOTICE_CONTENT]
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+
+[HEALTH_NOTICE_TITLE]
+Healthy Gaming Advice
+
+[HEALTH_NOTICE_CONTENT_2]
+This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A. Registration inquiry: https://beian.miit.gov.cn/
+Game Copyright Owner: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
+
+
+[HEALTH_NOTICE_CONTENT_3]
+This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
+
+[HEALTH_NOTICE_CONTENT_3_1]
+This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
+
+[HEALTH_NOTICE_CONTENT_4]
+Game Copyright Owner: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
+
+[HEALTH_NOTICE_CONTENT_5]
+Registration Inquiry: https://beian.miit.gov.cn/
+
+
+[SPRING_TIPS_1]
+^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
+^00FF08^ After you unlock a world, you will need more stars to unlock the next.
+
+[SPRING_TIPS_2]
+^00FF08 This is a fan-made translation so it can't be avoided from having mistakes.
+^00FF08 You can send feedback or report a bug by sending email to nvdtn19forwork@gmail.com
+
+[SPRING_TIPS_3]
+^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
+^00FF08^ Penny's Shop offers different plant pieces every day, visit it often.
+
+[SPRING_TIPS_4]
+^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
+^00FF08^ You get a free chest in Penny's Treasure from time to time!
+
+[SPRING_TIPS_5]
+^00FF08^ If you encounter any bugs, such as text displays as "<MISSING" or find inaccurate translations,
+^00FF08 please report them to me by sending email to nvdtn19forwork@gmail.com
+
+[SPRING_TIPS_6]
+^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
+^00FF08^ Each use of Tactical Cuke will be more powerful than the last, but also more expensive.
+
+[SPRING_TIPS_7]
+^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
+^00FF08^ Visit the Plant Inventory to check if any plants that needs to be unlocked or upgraded!
+
+[SPRING_TIPS_8]
+^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
+^00FF08^ Earn stars to get more plants and enhanced rewards.
+
+[SPRING_TIPS_9]
+^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
+^00FF08^ You can get culture medium for upgrading plants to level 5 in the Endless Challenge and Creative Courtyard shops.
+
+[LOADING_1]
+^00FF08^ English Patch Plus features: You have a turbo button that allows you to speed up the game in a level.
+
+[LOADING_2]
+^00FF08^ English Patch Plus features: Added Mower Launch and Instant Recharge upgrades (You can get it in Star Exchange)
+
+[LOADING_3]
+^00FF08^ English Patch Plus features: The cost for Tactical Cuke is now cheaper and no longer increase after an usage!
+
+[LOADING_4]
+^00FF08^ English Patch Plus features: You could have the Octopus Artifact for free. Beat it's demo level to get it.  
+
+[LOADING_5]
+^00FF08^ English Patch Plus features: You can use all plants in the Memory Lane mode.  
+
+[LOADING_6]
+^00FF08^ English Patch Plus features: You can get up to 20000 crystal/week after beating an adventure level.
+
+[LOADING_7]
+^00FF08^ English Patch Plus features: Ported some extra fonts from the international version!
+
+[LOADING_8]
+^00FF08^ English Patch Plus features: Auto Collecting Sun, Plant Food and Coins!
+
+[LOADING_9]
+^00FF08^ English Patch Plus features: You have a locally VIP Profile Picture!
+
+[LOADING_10]
+^00FF08^ English Patch Plus features: Plant Food and Sun now costs coins!
+
+[LOADING_11]
+^00FF08^ English Patch Plus features: Some quests are automatically completed for you!
+
+[LOADING_12]
+^00FF08^ English Patch Plus features: Unlocking New World with 1 stars!
+
+[LOADING_13]
+^00FF08^ English Patch Plus features: The amount of star required for unlocking items in Star Exchange are now cheaper!
+
+[LOADING_14]
+^00FF08^ English Patch Plus features: Some improvements to Daily Challenge!
+
+[LOADING_15]
+^00FF08^ English Patch is now including texture translation. Currently it's still in beta phase. Thanks to ShadowVT and RusselSky for making this possible!
+
+[LOADING_16]
+
+[LOADING_17]
+
+[LOADING_18]
+
+
+[360_1_NOTICE_1]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_1_NOTICE_2]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_1_NOTICE_3]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_1_NOTICE_4]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_1_NOTICE_5]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_1_NOTICE_6]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_1_NOTICE_7]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_1_NOTICE_8]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_1_NOTICE_9]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_1_NOTICE_10]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_2_NOTICE_1]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_2_NOTICE_2]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_2_NOTICE_3]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_2_NOTICE_4]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_2_NOTICE_5]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_2_NOTICE_6]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_2_NOTICE_7]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_2_NOTICE_8]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_2_NOTICE_9]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[360_2_NOTICE_10]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_1_NOTICE_1]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_1_NOTICE_2]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_1_NOTICE_3]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_1_NOTICE_4]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_1_NOTICE_5]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_1_NOTICE_6]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_1_NOTICE_7]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_1_NOTICE_8]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_1_NOTICE_9]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_1_NOTICE_10]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+
+[362_2_NOTICE_1]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_2_NOTICE_2]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_2_NOTICE_3]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_2_NOTICE_4]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_2_NOTICE_5]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_2_NOTICE_6]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_2_NOTICE_7]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_2_NOTICE_8]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_2_NOTICE_9]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[362_2_NOTICE_10]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+
+[363_1_NOTICE_1]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[363_1_NOTICE_2]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[363_1_NOTICE_3]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[363_1_NOTICE_4]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[363_1_NOTICE_5]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[363_1_NOTICE_6]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[363_1_NOTICE_7]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[363_1_NOTICE_8]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[363_1_NOTICE_9]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[363_1_NOTICE_10]
+^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
+
+[364_1_NOTICE_1]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
+
+
+[364_1_NOTICE_2]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
+
+
+[364_1_NOTICE_3]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
+
+
+[364_1_NOTICE_4]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
+
+
+[364_1_NOTICE_5]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
+
+
+[364_1_NOTICE_6]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
+
+
+[364_1_NOTICE_7]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
+
+
+[364_1_NOTICE_8]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
+
+
+[364_1_NOTICE_9]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
+
+
+[364_1_NOTICE_10]
+^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
+
+[364_2_NOTICE_1]
+
+
+[364_2_NOTICE_2]
+
+
+
+[364_2_NOTICE_3]
+
+
+
+[364_2_NOTICE_4]
+
+
+
+[364_2_NOTICE_5]
+
+
+
+[364_2_NOTICE_6]
+
+
+
+[364_2_NOTICE_7]
+
+
+
+[364_2_NOTICE_8]
+
+
+
+[364_2_NOTICE_9]
+
+
+
+[364_2_NOTICE_10]
 
 
 
@@ -733,10 +1066,10 @@ Skillfully mastered the ability of long-range attack, the attack range of launch
 Iceberg Lettuce has a 5% chance to be boosted when planted.
 
 [ICEBURG_PLANTFOOD_DESCRIPTION]
-Iceberg Lettuce will glow from the inside and cover the entire screen in a blue flash before freezing all grounded enemies for 15 seconds
+Iceberg Lettuce will glow from the inside and cover the entire screen in a blue flash before freezing all grounded enemies for ^0072ff^15 seconds.^oldclr^
 
 [ICEBURG_AVATAR_PLANTFOOD_DESCRIPTION]
-Iceberg Lettuce will glow from the inside and cover the entire screen in a blue flash before freezing all grounded enemies for 15 seconds, ^ff0000 and fire 6 Power Snow snowballs will be thrown to them.. ^oldclrr
+Iceberg Lettuce will glow from the inside and cover the entire screen in a blue flash before freezing all grounded enemies for ^0072ff^15 seconds,^oldclr^ ^ff0000 and fire 6 Power Snow snowballs will be thrown to them.. ^oldclrr
 
 [BLOOMERANG_NEW_SKILL_LEVEL1_DES]
 Bloomerang shoots boomerangs down his lane, dealing damage to up to 3 different zombies twice. Great for dealing with Camel Zombies, clumps of weaker zombies, or those hiding behind grid items like gravestones.
@@ -751,13 +1084,13 @@ Stack Carrying has been strengthened, and each Bloomerang reduces the the sun co
 When planting, there is a probability of directly releasing plants food!
 
 [BLOOMERANG_PLANTFOOD_DESCRIPTION]
-he hurls 16 boomerangs in a plus-shape pattern which return and hits the zombies again in a similar pattern
+The Boomerang Shooter rapidly spins itself, firing 10 boomerangs in each of the four directions (up, down, left, and right). These boomerangs penetrate and damage all zombies, returning after reaching the field's boundary to deal damage twice.
 
 [BLOOMERANG_AVATAR_PLANTFOOD_DESCRIPTION]
-^FFFF00 he hurls ten giant boomerangs in a cross-shape pattern which do double the damage^oldclrr . and hits the zombies again in a similar pattern
+The Boomerang Shooter rapidly spins itself, firing 10 larger boomerangs with increased damage in each of the four directions (up, down, left, and right). These boomerangs penetrate and damage all zombies, returning after reaching the field's boundary to deal damage twice.
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL1_DES]
-Twins can produce sun continuously, producing twice as many sun points per sunflower.
+Twin Sunflower can produce sun continuously, producing twice as many sun points per sunflower.
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL2_DES]
 Immediately after planting, Twin Sunflower produces 50 sun.
@@ -775,13 +1108,13 @@ Twin Sunflower instantly produces 450 sun.
 Twin Sunflower instantly produces 450 sun ^FFFF00 with small amounts of gold coins.^oldclrr
 
 [BONKCHOY_NEW_SKILL_LEVEL1_DES]
-When a zombie appears in one square on the left or right side of Caiwen, Caiwen punches hard. When the zombie's health is too low, Caiwen will activate uppercut to end the zombie.
+When a zombie appears one tile to the left or right of Bonk Choy, it will unleash a powerful punch. If the zombie's health is too low, Bonk Choy will deliver an uppercut to finish it off.
 
 [BONKCHOY_NEW_SKILL_LEVEL2_DES]
 Bonk Choy can perform an uppercut every 15 attacks, causing the zombie to float in the air for a short time.
 
 [BONKCHOY_NEW_SKILL_LEVEL3_DES]
-onk Choy can perform an uppercut for every 7 attacks, causing the zombies to float in the air for a short time.
+Bonk Choy can perform an uppercut for every 7 attacks, causing the zombies to float in the air for a short time.
 
 [BONKCHOY_NEW_SKILL_LEVEL4_DES]
 When planting, there is a probability of directly releasing plants food!
@@ -826,10 +1159,10 @@ Increases growth rate. After killing 5 zombies, Spikeweed will transform into Fi
 Spikeweed may be boosted when planted.
 
 [SPIKEWEED_PLANTFOOD_DESCRIPTION]
-covers the entire lane he is placed in with spikes, dealing 720 damage over 4.5 seconds
+Spikeweed continuously thrusts spikes along its row, dragging all zombies in the row to its tile and dealing damage.
 
 [SPIKEWEED_AVATAR_PLANTFOOD_DESCRIPTION]
-covers the entire lane he is placed in with spikes, dealing 720 damage over 4.5s ^FFFF00 stun zombie for 3s^oldclrr 
+Spikeweed continuously thrusts spikes along its row, dragging all zombies in the row to its tile and dealing damage, additionally causing stun for 3 seconds.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL1_DES]
 When zombies appear within a 2x3 range to the right of Snapdragon, it will spray flames over the attack range, dealing damage to all zombies.
@@ -881,24 +1214,23 @@ Squash smashes ^FFFF00 three random^ oldclr^ zombies before returning to his ori
 
 
 
-
 [CHILIBEAN_NEW_SKILL_LEVEL1_DES]
-When a zombie has eaten Chili Bean, the zombie will be harmed and release poison gas, causing 7 seconds to the zombie behind it^848484^vertigoⅠ^oldclrr. The vertigo effect of the poison gas is not effective for mechanical units.
+When a zombie finishes eating Chili Bean, it takes damage and releases toxic gas, causing Stun for 7 seconds to zombies behind it. The stun effect of the gas does not affect mechanical units.
 
 [CHILIBEAN_NEW_SKILL_LEVEL2_DES]
-Increases stun duration by 1.5 seconds.
+The toxic gas released by zombies has been improved, extending the Stun I duration to 8.5 seconds.
 
 [CHILIBEAN_NEW_SKILL_LEVEL3_DES]
-Increases stun duration by 3 seconds.
+The toxic gas released by zombies becomes even more intense, extending the Stun I duration to 10 seconds.
 
 [CHILIBEAN_NEW_SKILL_LEVEL4_DES]
-There is a low probability of be boosted
+When planted, there is a low chance to instantly unleash a Plant Food ability!
 
 [CHILIBEAN_PLANTFOOD_DESCRIPTION]
-He will spawn up to 3 Chili Beans on random avaliable tiles.
+Chili Bean expels toxic gas with all its might, then splits into three additional Chili Beans, which are randomly placed on empty tiles on the field.
 
 [CHILIBEAN_AVATAR_PLANTFOOD_DESCRIPTION]
-He will spawn up to ^ff0000 4 ^oldclrr Chili Beans on random avaliable tiles.
+Chili Bean expels toxic gas with all its might, then splits into four additional Chili Beans, which are randomly placed on empty tiles on the field.
 
 [SPLITPEA_NEW_SKILL_LEVEL1_DES]
 When a zombie appears on the right side of the two-way shooter, 1 pea is fired for each attack. When a zombie appears on the left side of the two-way shooter, 2 peas are fired for each attack.
@@ -913,7 +1245,7 @@ Split Pea gains 40% chance to attack with a snow pea backwards and a 60% chance 
 Split Pea may be boosted when planted.
 
 [SPLITPEA_NEW_SKILL_LEVEL5_DES]
-攻击时有50%的概率额外凝聚出一条火龙，对整行造成3600点火焰伤害。
+When attacking, there is a 50% chance to summon an additional fire dragon, dealing 3,600 fire damage to the entire row.
 
 [SPLITPEA_PLANTFOOD_DESCRIPTION]
 Shoots 60 peas forward and 90 peas plus one giant pea that deals 600 damage backward.
@@ -946,7 +1278,7 @@ This plant does not have an plants food effect
 This plant does not have an plants food effect 
 
 [SNOWPEA_NEW_SKILL_LEVEL1_DES]
-When a zombie appears in front of an ice shooter, the ice shooter fires ice peas to attack the zombie and cause ice deceleration effects that last 10 seconds on the hit target.
+When a zombie appears in front of an Snow Pea, it fires ice peas to attack the zombie and cause ice deceleration effects that last 10 seconds on the hit target.
 
 [SNOWPEA_NEW_SKILL_LEVEL2_DES]
 Every time a pea is fired, there is a 15% chance to fire an ice pick with damage of 90/shot instead.
@@ -958,16 +1290,16 @@ Every time a pea is fired, there is a 30% chance to launch an ice pick with dama
 Snow Pea have 50% of be boosted when planted!
 
 [SNOWPEA_NEW_SKILL_LEVEL5_DES]
-概率发射一颗强化冰棱，命中僵尸后冻结该僵尸，爆炸对1格范围内的僵尸造成伤害，并在该格寒冰地面持续3秒，对处于寒冰地面上的僵尸造成冰减速效果
+Has a chance to launch a reinforced ice shard. Upon hitting a zombie, it freezes the target and explodes, dealing damage to zombies within a 1-tile radius. The explosion creates an icy ground that lasts for 3 seconds, slowing zombies standing on it.
 
 [SNOWPEA_PLANTFOOD_DESCRIPTION]
-fires 60 peas and creates ice trail on the lane in front of him
+Releases an icy slowing effect on zombies in this row and fires 60 ice peas.
 
 [SNOWPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-fires 60 peas and ^FFFF00 three big frozen peas that deal 600 damage^oldclrr when creating a ice trail on the lane in front of him
+Releases an icy slowing effect on zombies in this row and fires 3 large ice peas with 40 times its own attack power.
 
 [TORCHWOOD_NEW_SKILL_LEVEL1_DES]
-The flame over the head of the torch stump will turn the passing pea into a flame pea bullet, increasing damage by 1 times.
+The flames atop the Torchwood cause passing peas to become fire pea bullets, doubling their damage.
 
 [TORCHWOOD_NEW_SKILL_LEVEL2_DES]
 Torchwood has been hardened to become more durable, and the health value has increased to 1500.
@@ -979,28 +1311,28 @@ Torchwood has become stronger and has 4500 HP.
 Torchwood have 60% of be boosted when planted!
 
 [TORCHWOOD_PLANTFOOD_DESCRIPTION]
-fire will change peas that pass trough it into plasma peas these deal three times the damage of the normal pea.
+The Firewood becomes more enraged, turning its flames blue, transforming passing peas into Plasma Peas, which deal double the damage.
 
 [TORCHWOOD_AVATAR_PLANTFOOD_DESCRIPTION]
-fire will change peas that pass trough it into ^FFFF00 purple plasma peas these deal quadruples the damage of normal peas.^oldclrr
+The Firewood enters a frenzy, turning its flames purple, transforming passing peas into Ghost Fire Peas, which deal three times the damage.
 
 [KERNELPULT_NEW_SKILL_LEVEL1_DES]
 Kernel-pult, thrown corn kernels to cause damage there is a 20% probability of launch butter when attacking. Butter causes 2 times the attack damage and stun for 8 seconds. (The stun time decreases with the zombie level, down to a minimum of 2 seconds.)
 
 [KERNELPULT_NEW_SKILL_LEVEL2_DES]
-Every 5 times Kernel-pult fires a Kernel Missile that does 150 damage.
+Every 5 attacks, Kernel Pult launches a Corn Missile dealing 150 damage.
 
 [KERNELPULT_NEW_SKILL_LEVEL3_DES]
-Every 3rd attack fires a Kernel Missile dealing 200 damage at evil zombies.
+Every 3 attacks, Kernel Pult launches a Corn Missile dealing 200 damage at the evil zombies.
 
 [KERNELPULT_NEW_SKILL_LEVEL4_DES]
-Kernel-pult have 35% of be boosted when planted!
+When planted, there is a low chance to release a Plant Food ability! The damage of the Corn Missile is increased to 250.
 
 [KERNELPULT_PLANTFOOD_DESCRIPTION]
-Kernel-pult hurls butter that hits every zombie and obstacle on-screen,
+Kernel Pult gathers butter and launches it into the air, tossing a block of butter at all zombies on the screen, dealing damage and freezing them.
 
 [KERNELPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Kernel-pult hurls ^FFFF00 flaming butter^oldclrr  that hits every zombie on-screen, ^FFFF00(50 damage at level 1).^oldclrr
+Kernel Pult gathers butter and launches it into the air, tossing a block of butter at all zombies on the screen, dealing higher damage and freezing them.
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL1_DES]
 When a zombie appears in the three lines to the right of the Lightning Reed, the zombie on the leftmost in the lightning attack range is used, and after the attack, a lightning chain sputtering with a damage of 5 points appears for up to three zombies.
@@ -1018,10 +1350,10 @@ When planting, there is a probability of directly releasing plants food!
 He generates a small storm cloud that tracks down a random target, dealing 160 damage per second. the cloud lasts for 15 seconds.
 
 [LIGHTNINGREED_AVATAR_PLANTFOOD_DESCRIPTION]
-Unleashes a huge lightning cloud and instantly electrocutes all zombies on screen.
+Gathering the power of lightning, a large thundercloud is formed that continuously attacks zombies. The thundercloud lasts for 15 seconds. ^ff0000^The large thundercloud deals damage to zombies in a cross-shaped area with each attack.^oldclr^
 
 [COCONUTCANNON_NEW_SKILL_LEVEL1_DES]
-After clicking on the coconut cannon, the coconut cannon will fire a coconut shell, which will explode after hitting the zombies and cause sputtering damage of 33% of the attack power value to the zombies in the 3x3 range centered on the coconut.
+After clicking on the Coconut Cannon, it will fire a coconut shell, which will explode after hitting the zombies and cause sputtering damage of 33% of the attack power value to the zombies in the 3x3 range centered on the coconut.
 
 [COCONUTCANNON_NEW_SKILL_LEVEL2_DES]
 Reduced rest time after firing coconut shells to 11.25 seconds.
@@ -1038,11 +1370,15 @@ The shells fired will splash coconut pulp, dealing 250 damage to up to five zomb
 [COCONUTCANNON_PLANTFOOD_DESCRIPTION]
 Coconut Cannon will release a gigantic coconut, pushing all zombies to the rightmost edge of the screen and dealing damage to all of them in a 3x3 area at the end
 
-[COCONUTCANNON_AVATAR_PLANTFOOD_DESCRIPTION]
-Coconut Cannon will release a gigantic coconut, pushing all zombies to the rightmost edge of the screen and dealing damage and ^FF0000 stun zombie in a 5x1 area ^oldclr
+[COCONUTCANNON_AVATAR_PLANTFOOD_DESCRIPTION]  
+Fires a special shell that pushes zombies in the row to the baseline, causing an explosion that deals damage to zombies in a 3×3 area. ^ff0000^Zombies at the baseline are stunned for 2 seconds.^oldclr^ ^848484^Afterward, the Coconut Cannon enters a resting state.^oldclr^
 
-[PEAPOD_NEW_SKILL_LEVEL1_DES]
-When a zombie appears in front of the pea pod, each pea in the pea pod fires the pea to attack the zombie. It is possible to superimpose the planting of pea pods on a single grid, up to 5 in a single grid
+
+[SECTION_SKILL_PLANTS_NEED_REVIEW]
+
+
+[PEAPOD_NEW_SKILL_LEVEL1_DES]  
+When zombies appear in front of the Pea Pod, each pea in the pod fires at the zombies. Peapods can be stacked on a single tile, with a maximum of 5 Peapods on one tile.
 
 [PEAPOD_NEW_SKILL_LEVEL2_DES]
 Pea Pod grows a head every with a maximum of 5.
@@ -5214,42 +5550,6 @@ Thunderbolts summoned by his Plant Food ability also create electric arcs, deali
 
 [STAR_CONVERT_SUCCESS]
 Congratulations! You got ^4FC148 {REWARD} ^oldclr^！
-
-[SPRING_TIPS_1]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ After you unlock a world, you will need more stars to unlock the next.
-
-[SPRING_TIPS_2]
-^00FF08 This is a fan-made translation so it can't be avoided from having mistakes.
-^00FF08 You can send feedback or report a bug by sending email to nvdtn19forwork@gmail.com
-
-[SPRING_TIPS_3]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ Penny's Shop offers different plant pieces every day, visit it often.
-
-[SPRING_TIPS_4]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ You get a free chest in Penny's Treasure from time to time!
-
-[SPRING_TIPS_5]
-^00FF08^ If you encounter any bugs, such as text displays as "<MISSING" or find inaccurate translations,
-^00FF08 please report them to me by sending email to nvdtn19forwork@gmail.com
-
-[SPRING_TIPS_6]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ Each use of Tactical Cuke will be more powerful than the last, but also more expensive.
-
-[SPRING_TIPS_7]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ Visit the Plant Inventory to check if any plants that needs to be unlocked or upgraded!
-
-[SPRING_TIPS_8]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ Earn stars to get more plants and enhanced rewards.
-
-[SPRING_TIPS_9]
-^00FF08^ Brought to you by Pea Gameplay~Thanks for playing!
-^00FF08^ You can get culture medium for upgrading plants to level 5 in the Endless Challenge and Creative Courtyard shops.
 
 [ADVICE_PLANT_NOT_ON_SARRACENIA_FOSSIL]
 You can't plant on petrified zombies.
@@ -76065,329 +76365,12 @@ Open the New Year Gift Pack to get lots of gems and rare decorations
 [REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
 Congratulations! You have been selected as today's luckiest player!
 
-[INFINITY_COINS_HEADER]
-Fix Negative Coins
 
-[INFINITY_COINS_DESC]
-Of if you have <27M coins
 
-[HEALTH_NOTICE_CONTENT]
-Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
 
-[HEALTH_NOTICE_TITLE]
-Healthy Gaming Advice
 
-[HEALTH_NOTICE_CONTENT_2]
-This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
-Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
-Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A. Registration inquiry: https://beian.miit.gov.cn/
-Game Copyright Owner: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
 
 
-[HEALTH_NOTICE_CONTENT_3]
-This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
-Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
-Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
-
-[HEALTH_NOTICE_CONTENT_3_1]
-This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
-Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
-Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
-
-[HEALTH_NOTICE_CONTENT_4]
-Game Copyright Owner: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
-
-[HEALTH_NOTICE_CONTENT_5]
-Registration Inquiry: https://beian.miit.gov.cn/
-
-
-[PVZ2_CHINESE_END]
-
-[LOADING_1]
-^00FF08^ English Patch Plus features: You have a turbo button that allows you to speed up the game in a level.
-
-[LOADING_2]
-^00FF08^ English Patch Plus features: Added Mower Launch and Instant Recharge upgrades (You can get it in Star Exchange)
-
-[LOADING_3]
-^00FF08^ English Patch Plus features: The cost for Tactical Cuke is now cheaper and no longer increase after an usage!
-
-[LOADING_4]
-^00FF08^ English Patch Plus features: You could have the Octopus Artifact for free. Beat it's demo level to get it.  
-
-[LOADING_5]
-^00FF08^ English Patch Plus features: You can use all plants in the Memory Lane mode.  
-
-[LOADING_6]
-^00FF08^ English Patch Plus features: You can get up to 20000 crystal/week after beating an adventure level.
-
-[LOADING_7]
-^00FF08^ English Patch Plus features: Ported some extra fonts from the international version!
-
-[LOADING_8]
-^00FF08^ English Patch Plus features: Auto Collecting Sun, Plant Food and Coins!
-
-[LOADING_9]
-^00FF08^ English Patch Plus features: You have a locally VIP Profile Picture!
-
-[LOADING_10]
-^00FF08^ English Patch Plus features: Plant Food and Sun now costs coins!
-
-[LOADING_11]
-^00FF08^ English Patch Plus features: Some quests are automatically completed for you!
-
-[LOADING_12]
-^00FF08^ English Patch Plus features: Unlocking New World with 1 stars!
-
-[LOADING_13]
-^00FF08^ English Patch Plus features: The amount of star required for unlocking items in Star Exchange are now cheaper!
-
-[LOADING_14]
-^00FF08^ English Patch Plus features: Some improvements to Daily Challenge!
-
-[LOADING_15]
-^00FF08^ English Patch is now including texture translation. Currently it's still in beta phase. Thanks to ShadowVT and RusselSky for making this possible!
-
-[LOADING_16]
-
-[LOADING_17]
-
-[LOADING_18]
-
-
-[360_1_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_1_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_1_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_1_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_1_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_1_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_1_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_1_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_1_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_1_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_2_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_2_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_2_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_2_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_2_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_2_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_2_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_2_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_2_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[360_2_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_1_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_1_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_1_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_1_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_1_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_1_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_1_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_1_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_1_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_1_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-
-[362_2_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_2_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_2_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_2_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_2_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_2_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_2_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_2_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_2_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[362_2_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-
-[363_1_NOTICE_1]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[363_1_NOTICE_2]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[363_1_NOTICE_3]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[363_1_NOTICE_4]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[363_1_NOTICE_5]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[363_1_NOTICE_6]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[363_1_NOTICE_7]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[363_1_NOTICE_8]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[363_1_NOTICE_9]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[363_1_NOTICE_10]
-^f21133^ A new update for the game as well as English patch has just released (3.6.4-1) with some new improvements and bug fixes. Update your game and the patch now as soon as possible! You can redownload the translation patch and follow the instructions from GitHub to update it.
-
-[364_1_NOTICE_1]
-^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
-
-
-[364_1_NOTICE_2]
-^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
-
-
-[364_1_NOTICE_3]
-^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
-
-
-[364_1_NOTICE_4]
-^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
-
-
-[364_1_NOTICE_5]
-^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
-
-
-[364_1_NOTICE_6]
-^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
-
-
-[364_1_NOTICE_7]
-^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
-
-
-[364_1_NOTICE_8]
-^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
-
-
-[364_1_NOTICE_9]
-^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
-
-
-[364_1_NOTICE_10]
-^f21133^You're using an outdated version of English patch that is no longer supported. It's recommend to update now to receive various bug-fixes and improvements. You can update the patch by opening game settings in the main menu and download it.
-
-[364_2_NOTICE_1]
-
-
-[364_2_NOTICE_2]
-
-
-
-[364_2_NOTICE_3]
-
-
-
-[364_2_NOTICE_4]
-
-
-
-[364_2_NOTICE_5]
-
-
-
-[364_2_NOTICE_6]
-
-
-
-[364_2_NOTICE_7]
-
-
-
-[364_2_NOTICE_8]
-
-
-
-[364_2_NOTICE_9]
-
-
-
-[364_2_NOTICE_10]
-
-
-
-
-
-[ENDURIAN_SKILL_LEVEL1_unreviewed]
 
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERRAMBUTAN_1]
@@ -77136,46 +77119,46 @@ Now zombies are in a high injury free state, only breaking toughness can cause n
 { SAY:winnie } Yellow strips are the toughness value of zombies, do you see the sign next to the toughness value?
 
 [AVATARCOLLECTIONS_THEME_TITLE6]
-童趣派对
+Childhood Party
 
 [AVATARCOLLECTIONS_THEME_DES6]
-童年的玩具最好玩！
+Childhood toys are the most fun!
 
 [AVATARCOLLECTIONS_HEAD_ID_25679]
-童趣派对
+Childhood Party
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25679]
-童年的玩具最好玩！
+Childhood toys are the most fun!
 
 [AVATARCOLLECTIONS_THEME_TITLE7]
-就是这么豪
+Living Large
 
 [AVATARCOLLECTIONS_THEME_DES7]
-金钱在手，天下我有！
+With money in hand, the world is mine!
 
 [AVATARCOLLECTIONS_HEAD_ID_25680]
-就是这么豪
+Living Large
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25680]
-金钱在手，天下我有！
+With money in hand, the world is mine!
 
 [AVATARCOLLECTIONS_THEME_TITLE8]
-武侠国风
+Martial Arts & National Style
 
 [AVATARCOLLECTIONS_THEME_DES8]
-千秋万载，一统江湖！
+For eternity, unifying the martial world!
 
 [AVATARCOLLECTIONS_THEME_TITLE9]
-大智若愚
+The Wisest Appear Foolish
 
 [AVATARCOLLECTIONS_THEME_DES9]
-一加一等于二吗？
+Does one plus one equal two?
 
 [AVATARCOLLECTIONS_HEAD_ID_25682]
-大智若愚
+The Wisest Appear Foolish
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25682]
-一加一等于二吗？
+Does one plus one equal two?
 
 [TOYS_HEAD_ID_25678]
 Flame Carnival
@@ -77184,37 +77167,39 @@ Flame Carnival
 Obtain through the Flame Carnival event
 
 [PARALLEL_SPIKEWEED]
-41号地刺
+No. 41 Spikeweed 
 
 [PARALLEL_SPIKEWEED_TOOLTIP]
-她不是普通的地刺，它可以秒杀所有的僵尸博士机甲
+It’s no ordinary spikeweed; it can instantly kill all Zombie Doctor Mechs.
 
 [PARALLEL_SPIKEWEED_DESCRIPTION_HEADER]
-眼神多了一丝忧郁
+A hint of melancholy in her gaze
 
 [PARALLEL_SPIKEWEED_DESCRIPTION]
-她不是普通的地刺，它可以秒杀所有的僵尸博士机甲
+It’s no ordinary spikeweed; it can instantly kill all Zombie Doctor Mechs.
 
 [PARALLEL_SPLITPEA]
-41号双向射手
+No. 41 Split Pea
 
 [PARALLEL_SPLITPEA_TOOLTIP]
-41号的双向射手是罕见的白羊座
+No. 41 Split Pea is a rare Aries
 
 [PARALLEL_SPLITPEA_DESCRIPTION_HEADER]
-左侧的豌豆比右侧的豌豆长一毫米
+The pea on the left is one millimeter longer than the pea on the right
 
 [PARALLEL_SPLITPEA_DESCRIPTION]
-41号的双向射手是罕见的白羊座
+No. 41 Split Pea is a rare Aries
 
 [PARALLEL_WINTERMELON]
-41号冰西瓜投手
+No. 41 Wintermelon
 
 [PARALLEL_WINTERMELON_TOOLTIP]
-火西瓜投手能造成范围性爆破伤害并使僵尸灼伤，每秒造成僵尸最大生命值100%的伤害，持续30秒。
+Fire Wintermelon can cause area burst damage and burn zombies, dealing 100% of their maximum health per second for 30 seconds.
 
 [PARALLEL_WINTERMELON_DESCRIPTION_HEADER]
-投掷西瓜的温度比一号宇宙高1摄氏度
+The temperature of the thrown watermelon is 1°C higher than that of the No. 1 universe
 
 [PARALLEL_WINTERMELON_DESCRIPTION]
-火西瓜投手能造成范围性爆破伤害并使僵尸灼伤，每秒造成僵尸最大生命值100%的伤害，持续30秒。
+Fire Wintermelon can cause area burst damage and burn zombies, dealing 100% of their maximum health per second for 30 seconds.
+
+[PVZ2_CHINESE_END]
