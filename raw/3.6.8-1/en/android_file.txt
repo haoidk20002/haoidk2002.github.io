@@ -861,13 +861,13 @@ Function Description
 - Spooky Halloween Night
 - Modern Technology
 - Don't Forget the Gentleman
+- Childhood Party
+- Living Large
+- Martial Arts & National Style
 3. When players collect all items required under a theme, they will receive a super reward that matches the theme.
-
-
 
 [AVATARCOLLECTIONS_PROGRESS]
 Collection Progress: {NUMBER1}/{NUMBER2}
-
 
 
 [AVATARCOLLECTIONS_THEME_TITLE0]
@@ -1798,16 +1798,16 @@ Hypno-shroom's cap glows when fed with Plant Food, and any zombie that eats him 
 First stage produce a small amount of sun second stage after 18s last stage aftee 72s
 
 [SUNSHROOM_NEW_SKILL_LEVEL2_DES]
-The growth rate of Sun-shroom is increased by 100%. 9 seconds to grow to the second stage, 36 seconds to grow to the third stage.
+The growth time for Sun-shroom at each stage is reduced to 60% of its original time.
 
 [SUNSHROOM_NEW_SKILL_LEVEL3_DES]
-Sun-shroom's growth rate is increased by 100% again. 6 seconds to grow to the second stage, 24 seconds to grow to the third stage.
+The growth time for Sun-shroom at each stage is reduced to 25% of its original time.
 
 [SUNSHROOM_NEW_SKILL_LEVEL4_DES]
 When planting, there is a probability of directly releasing plants food!
 
 [SUNSHROOM_NEW_SKILL_LEVEL5_DES]
-将阳光孢子散布在周围，使自身3X3范围内的植物攻击力上升50%，真菌攻击力上升100%
+Spreads Sunspores around, increasing the attack power of plants within its 3x3 range by 50%, and the attack power of fungi by 100%.
 
 [SUNSHROOM_PLANTFOOD_DESCRIPTION]
 When given Plant Food, Sun-shroom grows to full size (if he hasn't already) and produces 225 sun
@@ -1921,10 +1921,10 @@ Immediately grow to the third stage, ^ff0000 and create three 3x3-range ice cave
 The fireball attack zombies grow into two stages 30 seconds after planting and three stages 60 seconds after planting. After the third stage, fire a large fireball. After hitting the zombie, it will aim at other surrounding zombies and fire a small fireball. The damage of the small fireball is half that of the large fireball.
 
 [FIRESHROOM_NEW_SKILL_LEVEL2_DES]
-Increase the growth rate of Flame Mushroom by 50% and the damage by 15%.
+The growth time for Pyro-shroom at each stage is reduced to 75% of its original time, and it additionally increases damage by 15%.
 
 [FIRESHROOM_NEW_SKILL_LEVEL3_DES]
-Increase the growth rate of Flame Mushroom by 100% and increase the damage by 30%.
+The growth time for Pyro-shroom at each stage is reduced to 50% of its original time, and it additionally increases damage by 30%.
 
 [FIRESHROOM_NEW_SKILL_LEVEL4_DES]
 There is a high probability of be boosted
@@ -2830,25 +2830,25 @@ Throws her carrot. When the carrot hits the ground it will summon a giant snowma
 throws her carrot. When the carrot hits the ground it will summon a giant snowman that lands on random zombies doing heavy damage and freezing all of them in a 3x3 area. ^ff0000 and freezing for 3 seconds. ^oldclr
 
 [AGAVE_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在龙舌兰右侧 2 格时，龙舌兰会蓄力挥剑，并对范围内的僵尸发动斩击。龙舌兰的攻击会对穿戴防具的僵尸造成双倍伤害。
+When a zombie appears 2 spaces to the right of Agave, she will charge and swing her sword, performing a slash on zombies within the range. Agave's attacks will deal double damage to zombies wearing armor.
 
 [AGAVE_NEW_SKILL_LEVEL2_DES]
-龙舌兰高超的剑术可以在经过3s的蓄力后一次砍出两次斩击。
+Agave's advanced swordsmanship allows her to deliver two slashes after 3 seconds of charging.
 
 [AGAVE_NEW_SKILL_LEVEL3_DES]
-龙舌兰高超的剑术可以在经过2s的蓄力后一次砍出两次斩击。
+Agave's advanced swordsmanship allows her to deliver two slashes after 2 seconds of charging.
 
 [AGAVE_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+When planted, there is a high chance to directly release an Plant Food ultimate!
 
 [AGAVE_NEW_SKILL_LEVEL5_DES]
-岩浆番石榴喷发后随机抛出 5 个岩浆球，岩浆球落地后生成持续 11 秒的岩浆池。
+After 2 seconds of charging, Agave releases a Breaking Slash, targeting the first zombie in her path. She performs multiple slashes on zombies within a 1x2 area, each dealing 2700 damage.
 
 [AGAVE_PLANTFOOD_DESCRIPTION]
-龙舌兰大力挥剑向右侧砍出一道贯穿整行的剑气对整行所有僵尸的造成伤害。
+Agave swings her sword with great force, releasing a sword aura that cuts through the entire row, dealing damage to all zombies in the row.
 
 [AGAVE_AVATAR_PLANTFOOD_DESCRIPTION]
-龙舌兰大力挥剑向^ff0000^右侧三行砍出贯穿整行的剑气对三行所有僵尸的造成伤害。^oldclr^
+Agave swings her sword with great force, releasing a sword aura that cuts through the entire right three rows, dealing damage to all zombies in the three rows.
 
 [JACKFRUIT_NEW_SKILL_LEVEL1_DES]
 When a zombie appears on the right side, it scrolls to the zombie to the right, causing damage, and Jackfruit drops seeds that cannot move to absorb 200 points of damage each time it is hit, and can block a channel created by a lost guide zombie.
@@ -12062,7 +12062,7 @@ First Purchase Package
 Recharged total {NUMBER} CNY
 
 [RECHARGE_TOTAL_NUM_INVISIBLE]
-Recharged total ****** CNY
+Recharged total  CNY
 
 [RECHARGE_HIDE_BTN]
 Hide
@@ -15031,13 +15031,13 @@ Enables Magnet-shroom to affect third-Level zombies and increases recovery speed
 Rapid Growth
 
 [SUNSHROOM_SKILL1_LEVEL1_DES]
-Increases Sun-shroom's growth speed by 100%.
+Sun-shroom's growth time for each stage is reduced to 60% of the original.
 
 [SUNSHROOM_SKILL1_LEVEL2]
-Super Growth
+Super Illumination
 
 [SUNSHROOM_SKILL1_LEVEL2_DES]
-Multiplies the effect of Rapid Growth by 5.
+Sun-shroom's growth time for each stage is reduced to 25% of the original.
 
 [SUNSHROOM_SKILL1_LEVEL5]
 Sun Spore
@@ -15061,13 +15061,13 @@ Increases the effect of Winter Chill by 100%.
 Flame Aura
 
 [FIRESHROOM_SKILL1_LEVEL1_DES]
-Increases Fire-shroom's growth speed by 50% and additional damage by 15%.
+Fire-shroom's growth time for each stage is reduced to 75% of the original and gains an additional 15% damage boost.
 
 [FIRESHROOM_SKILL1_LEVEL2]
 High-Temperature Flame
 
 [FIRESHROOM_SKILL1_LEVEL2_DES]
-Increases the effect of Flame Aura by 100%.
+Fire-shroom's growth time for each stage is reduced to 50% of the original and gains an additional 30% damage boost.
 
 [FIRESHROOM_SKILL1_LEVEL5]
 Inferno Spreading
@@ -19051,16 +19051,22 @@ Chill Atmosphere
 When the Yeti hits a zombie, there is a 10% chance to freeze the zombie for 2 seconds.
 
 [AGAVE_SKILL_LEVEL1]
-双龙闪
+Twin Dragon Slash
 
 [AGAVE_SKILL_LEVEL1_DES]
-龙舌兰在没有攻击目标的时候会蓄力，蓄满后对靠近的僵尸同时挥出两剑。
+When Agave has no attack target, it will charge up. Once fully charged, it slashes twice at nearby zombies simultaneously.
 
 [AGAVE_SKILL_LEVEL2]
-极速蓄力
+Rapid Charge
 
 [AGAVE_SKILL_LEVEL2_DES]
-减少双龙闪50%蓄力时间
+Reduces Twin Dragon Slash charge time by 50%.
+
+[AGAVE_SKILL_LEVEL5]
+Sky-Cleaving Slash
+
+[AGAVE_SKILL_LEVEL5_DES]
+When fully charged, Agave's attack range expands, targeting the first zombie in its row. It unleashes multiple slashes on the zombie’s tile and the tile to its right.
 
 [JACKFRUIT_SKILL_LEVEL1]
 Copper-walled iron-walled
@@ -37725,13 +37731,13 @@ Assist to Level ^FA9A1C {NUMS}^oldclr
 You haven't selected wish rewards. Click the assist button to choose rewards.
 
 [PARTY_ASSIST_TASK_DES_0]
-Get Nyuwa Ophiuros Party Assistance Costume.
+获得天使星星果怪盗装扮
 
 [PARTY_ASSIST_TASK_DES_1]
-Obtain the costume of Angel Starfruit, Kiwifruit costume, the Fire Peashooter Anniversary costume, and the Dracaena costume.
+获得天使星星果怪盗装扮以及猕猴桃气球金箍装扮，火焰豌豆周年装扮，剑叶龙血树礼服装扮
 
 [PARTY_ASSIST_TASK_DES_2]
-Acquire all Costumes in this event.
+Buy all the costumes in this event.
 
 [PRODUCT_PARTYASSIST_TREASURE_BOWL]
 Party Assistance Gift Pack
@@ -38951,15 +38957,21 @@ Purchase of gold ingots has expired.
 You don't have enough gold ingots, would you like to buy more?
 
 [TREASURE_PAVILION_DESCRIPTION]
-Activity Rules:
-1.The Treasure Pavilion event is open between 0:00 on March 18th to 24:00 on March 31th
-2.The activity requires gold ingots to open the treasure chest. A single draw consumes 1 gold ingots, and ten consecutive draws consume 9 gold ingots. Gold ingots need to be purchased through the event store.
-3.Every time you open the treasure chest, you have a chance to win the grand prize pool. A total of 30 draws will win an excellent prize and above. A total of 60 draws will win a top prize and above. A total of 90 draws will win give 2 or more divine prizes. A total of 180 times will give a must-win divine item reward 1 (only one of the props will be awarded each time you must win)
-4.When you get the grand prize, you will get one of them according to the probability from all the grand prizes.
-5.Guarantee coverage rule: When multiple rewards trigger the guarantee at the same time, high-level rewards will cover low-level rewards.
-6.Guaranteed reset rules: After receiving a high-level reward, all guaranteed times below (including this level) will be reset.
-7.Each divine and top-quality reward can only be obtained once. Once the reward is obtained, the probability will be evenly distributed to other grand prizes.
-8.When the event ends, the remaining gold nuggets will be converted into gems at a ratio of 1:30
+Treasure Chest Event Rules:
+- Duration: April 10 (00:00) – April 23 (24:00).
+- How to Participate: Use Gold Ingots to open chests (1 for a single draw, 9 for ten). Gold Ingots are obtained from the event shop.
+- Guaranteed Rewards:
+30 draws: At least a Premium reward.
+60 draws: At least an Epic reward.
+90 draws: At least a Legendary Tier 2 reward.
+180 draws: A Legendary Tier 1 reward.
+- Reward System: Higher-tier rewards override lower ones if multiple guarantees trigger. Obtaining a high-tier reward resets all lower-tier guarantees. Each Legendary and Epic reward can only be obtained once.
+- Post-Event: Unused Gold Ingots are converted to gems (1:30 ratio). Duplicate artifact rewards convert into 1500 gems.
+- Drop Rates:
+Legendary Rewards: 7%–13% (exclusive costumes).
+Epic Rewards: 5% each (gems, plant pieces, upgrade materials).
+Premium Rewards: 10% each (plant pieces, enhancement items).
+General Pool: gems, coins, crystals, tickets, and fertilizers (5%–13%).
 
 Prize Pool Probability:
 Items (Probability)
@@ -39048,7 +39060,7 @@ BBQ Tacos: You can get Artifact Blessing Tickets, Orientational Pieces or Abyss 
  Pieces
 
 [DAVEKITCHEN_EXCHANGE_3]
-Bacon Tacos: You can get Artifact Blessing Tickets, Dracaena Pieces or Orange Culture Medium
+Bacon Tacos: You can get Artifact Blessing Tickets, Abyss Anemone Pieces or Orange Culture Medium
 
 [PLANTING_NOT_ON_SCHOOLBUS]
 You can't plant on Ice Cream Vans.
@@ -42816,6 +42828,70 @@ I've prepared a New Year's gift for you. Open it and take a look!
 
 
 [SECTION_PLANTS]
+
+[GUARDSHROOM]
+Guard-shroom
+
+[GUARDSHROOM_DESCRIPTION]
+{KEYWORD}Plant Characteristics: {STAT}purple plant, growing
+{FLAVOR} What does 365.154e+13 and Guard-shroom have in common? When Dave asked, Penny spent over four hours completing a census on Guard-shroom before emerging from the basement. Penny insists that the number is accurate and has since banned anyone else from going downstairs.
+
+[GUARDSHROOM_DESCRIPTION_HEADER]
+Guard-shroom can block enemies and spawn small Guard-shrooms that devour zombies.
+
+[GUARDSHROOM_TOOLTIP]
+Block enemies and spawn small Guard-shrooms that devour zombies
+
+[GUARDSHROOM_PRODUCT_SHORT_DESC]
+Block enemies and spawn small Guard-shrooms that devour zombies.
+
+[GUARDSHROOM_AVATAR_NAME]
+Block enemies and spawn small Guard-shrooms that devour zombies.
+
+[STORE_PRODUCT_AVATAR_GUARDSHROOM_TITLE]
+Guard-shroom Costume
+
+[STORE_PRODUCT_AVATAR_GUARDSHROOM]
+Increases the number of zombies consumed to 7.
+
+[GUARDSHROOM_SKILL_LEVEL1]
+Mushroom Enhancement
+
+[GUARDSHROOM_SKILL_LEVEL1_DES]
+Small Guard-shrooms digest faster; Guard-shroom’s sunlight cost multiplier is reduced to 1.5x.
+
+[GUARDSHROOM_SKILL_LEVEL2]
+Mushroom Evolution
+
+[GUARDSHROOM_SKILL_LEVEL2_DES]
+Small Guard-shrooms digest even faster; Guard-shroom’s sunlight cost no longer increases.
+
+[GUARDSHROOM_SKILL_LEVEL5]
+Abyss Frenzy
+
+[GUARDSHROOM_SKILL_LEVEL5_DES]
+Guard-shroom now spawns even stronger Abyss Small Guard-shrooms that can devour medium-sized zombies and drag them into the abyss upon death.
+
+[GUARDSHROOM_NEW_SKILL_LEVEL1_DES]
+Guard-shroom can block some leaping zombies and can be planted directly on both water and land. Periodically, small Guard-shrooms spawn around it, which can devour normal and Imp zombies. Other plants can be planted on top of small Guard-shrooms, and mushroom-type plants receive additional buffs when placed there. When the main plant above the small Guard-shroom activates its ultimate ability, the small Guard-shroom absorbs energy, allowing it to unleash a secondary ultimate attack after the first one completes.
+
+[GUARDSHROOM_NEW_SKILL_LEVEL2_DES]
+Small Guard-shrooms digest faster; Guard-shroom’s sunlight cost multiplier is reduced to 1.5x.
+
+[GUARDSHROOM_NEW_SKILL_LEVEL3_DES]
+Small Guard-shrooms digest even faster; Guard-shroom’s sunlight cost no longer increases.
+
+[GUARDSHROOM_NEW_SKILL_LEVEL4_DES]
+Has a chance to trigger an instant Plant Food ability when planted!
+
+[GUARDSHROOM_NEW_SKILL_LEVEL5_DES]
+Guard-shroom now spawns an even stronger Abyss Small Guard-shroom, which can devour medium-sized zombies. When a small Guard-shroom is eaten by a zombie, it instead falls into the abyss and drags the zombie down with it using its tentacles.
+
+[GUARDSHROOM_PLANTFOOD_DESCRIPTION]
+Guard-shroom extends its tentacles, consuming up to 5 small-sized zombies in a 3x3 area in front of it (level 5 can consume medium-sized zombies). It deals damage to any zombies it cannot devour and fills the 3x3 area with 8 small Guard-shrooms.
+
+[GUARDSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
+Guard-shroom extends its tentacles, consuming up to 7 small-sized zombies in a 4x3 area in front of it (level 5 can consume medium-sized zombies). It deals damage to any zombies it cannot devour and fills the 3x3 area with 8 small Guard-shrooms.
 
 [DAZEYCHAIN_SKILL_LEVEL5]
 Scientific Warm-Up
@@ -72151,7 +72227,7 @@ Chapter 17: Talkweb Information Systems Co., Ltd. Game Software License and Rest
  
 17.2 The license granted by Talkweb Information Systems Co., Ltd. under this agreement is for personal use only. If you need to use Talkweb Information Systems Co., Ltd.'s game software and services beyond personal use or use them for any commercial purposes, you should contact Talkweb Information Systems Co., Ltd. to obtain separate authorization. Any installation, use, access, display, operation, or commercial use that is not authorized by Talkweb Information Systems Co., Ltd. constitutes infringement.
  
-**Chapter 17: Talkweb Information Systems Co., Ltd. Game Software License and Restrictions**
+Chapter 17: Talkweb Information Systems Co., Ltd. Game Software License and Restrictions
 
 17.3 Unless otherwise specified in this agreement, without prior written consent from Talkweb Information Systems Co., Ltd., you shall not engage in the following activities (whether for profit or non-profit purposes):
 
@@ -72165,7 +72241,7 @@ Chapter 17: Talkweb Information Systems Co., Ltd. Game Software License and Rest
 
 (5) Engaging in any behavior that violates trademark law, copyright law, computer software protection regulations, related laws and regulations, or international treaties.
 
-**Chapter 18: Jurisdiction and Applicable Law**
+Chapter 18: Jurisdiction and Applicable Law
 
 18.1 This agreement is governed by the laws and regulations of the People's Republic of China (excluding conflict of laws provisions).
 
@@ -72175,15 +72251,15 @@ Chapter 17: Talkweb Information Systems Co., Ltd. Game Software License and Rest
 
 18.4 If any clause of this agreement is partially invalid for any reason, the remaining clauses remain valid and binding on the parties.
 
-**Chapter 19: Amendment of Terms**
+Chapter 19: Amendment of Terms
 
 19.1 Talkweb Information Systems Co., Ltd. has the right to modify the terms of this agreement when necessary. Please regularly check the relevant content. If you continue to use the services covered by this agreement, it will be deemed as your acceptance of the modified content. If you do not agree to the modified content, you should uninstall Talkweb Information Systems Co., Ltd.'s game software, terminate this agreement, and stop using Talkweb Information Systems Co., Ltd.'s game services.
 
-**Chapter 20: Notifications**
+Chapter 20: Notifications
 
 20.1 Talkweb Information Systems Co., Ltd. may send notifications to you through announcements in the game, the official website or forum of the game, emails, or regular forms of communication such as phone calls, WeChat messages, letters, etc. At the same time, you hereby agree that Talkweb Information Systems Co., Ltd. may send commercial information to your email address, phone number, WeChat, or by mail.
 
-**Chapter 21: Game Data**
+Chapter 21: Game Data
 
 Any data and information generated and stored in Talkweb Information Systems Co., Ltd.'s servers during your participation in the game, including but not limited to account data, character data, level, and virtual item data (excluding personal identity data such as name, ID card number, phone number, etc.), are part of the game software owned and managed by Talkweb Information Systems Co., Ltd. You have the right to modify, transfer, or abandon the data information belonging to your user account through legitimate means, provided that you comply with the game rules.
 
@@ -72276,7 +72352,7 @@ Three Rows
 Fairytale Forest
 
 [LUCKYCHEST_DES_DESCRIPTION]
-1. Event: April 1 to May 26. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
+1. Event: April 1 to May 26. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Two-Player Battle, or Stalemate Escape stages to gain daily progress.
 2. Lucky chests are valid only during the event period.
 3. Claim chests after 1, 5, or 10 daily completions. Progress resets daily.
 4. Chests provide random in-game rewards.
@@ -72826,6 +72902,9 @@ Carrotillery(Daucus carota var. sativus Hoffm.)
     白菜为二年生或越年生草本植物, 高40-60厘米, 常全株无毛, 有时叶下面中脉上有少数刺毛. 白菜基生叶多数而大形, 倒卵状长圆形至宽倒卵形, 长30-60厘米, 宽不及长的一半, 顶端圆钝, 边缘皱缩, 波状, 有时具不显明牙齿, 中脉白色而很宽, 有多数粗壮侧脉；叶柄白色, 扁平, 长5-9厘米, 宽2-8厘米, 边缘有具缺刻的宽薄翅；白菜的上部茎生叶长圆状卵形、长圆披针形至长披针形, 长2.5-7厘米, 顶端圆钝至短急尖, 全缘或有裂齿, 有柄或抱茎, 有粉霜. 白菜的花鲜黄色, 直径1.2-1.5厘米；花梗长4-6毫米；萼片长圆形或卵状披针形, 长4-5毫米, 直立, 淡绿色至黄色；花瓣倒卵形, 长7-8毫米, 基部渐窄成爪. 长角果较粗短, 长3-6厘米, 宽约3毫米, 两侧压扁, 直立, 喙长4-10毫米, 宽约1毫米, 顶端圆；果梗开展或上升, 长2.5-3厘米, 较粗. 种子球形, 直径1-1.5毫米, 棕色. 开花期为5月, 结果期尾6月. 
     白菜原产地为中国的华北, 是亚洲地区, 特别是中国、韩国、日本广泛栽培的一种蔬菜作物. 在中国是东北及华北冬、春季的主要蔬菜. 白菜较耐寒, 喜好冷凉气候, 适合在冷凉季节生长, 适于栽植在保肥、保水并富含有机质的壤土与砂壤土及黑黄土. 
     白菜中含有多种营养 CNY素, 具有美肤养颜、生津养胃、消脂减肥等功效. 白菜含有丰富的水分和维生素, 常吃白菜不但可以补充身体流失的水分, 所含的维生素C、维生素E还能预防皮肤色素沉着, 起到护肤养颜等效果. 白菜有养胃生津、清热除烦的作用, 将白菜捣烂取汁, 与百合、麦冬加水煎服, 对胃阴亏虚引起的胃隐痛有疗效. 白菜性寒、味甘, 适合口渴烦热、痰热咳嗽、风热感冒等患者食用；另外白菜水分含量大约为95％, 还含有丰富的膳食纤维, 可以刺激肠胃蠕动, 帮助消化, 促进肠道中废弃物的排泄. 
+
+[BONKCHOY_PEDIA_EXTRA]
+    补充说明：菜问（BonkChoy）根据名字对应原型应为“白菜”（BokChoy）在粤语中的发音，在中国分为很多种类，如小白菜和大白菜。小白菜在北方多被成为“油菜”，在南方则通常被称为“青菜”或“上海青”。菜问的美术设计本身更像是白菜和青菜的结合体，特此说明。
 
 [KERNELPULT_FAMILY]
 禾本科
@@ -73473,7 +73552,7 @@ Each hard level has three challenge objectives. Complete them to collect badges 
 1. Event Duration
 
 [ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_NO42_UNIVERSE]
-The event will run from January 27th to February 25th.
+The event will run from April 1th to May 10th.
 
 [ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_NO42_UNIVERSE]
 2. Plant Rules
@@ -73491,13 +73570,13 @@ The starting sun is 50, and the plant slots are 8. Sun can be upgraded through t
 4. Event Rewards
 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_NO42_UNIVERSE]
-Completing the event will reward you with two types of currency: normal and advanced. The advanced currency is only available on the first completion, while the normal currency can be repeatedly earned after completing levels, with a daily maximum of 500. The currencies can be used in the shop to exchange for rewards.
+Completing the event will reward you with two types of currency: normal and advanced. The advanced currency is only available on the first completion, while the normal currency can be repeatedly earned after completing levels, with a daily maximum of 600. The currencies can be used in the shop to exchange for rewards.
 
 [SPACETIME_KEY_INFO_TITLE_UNCHARTED_NEEDFORSPEED_202406]
 Racing Event Dungeon Description
 
 [SPACETIME_KEY_INFO_TITLE_UNCHARTED_NO42_UNIVERSE]
-NO42 Parallel Universe Dungeon Description
+Parallel Universe No. 41 Description
 
 [ELITE_ZOMBIE_TIPS_TEXT_ZOMBIE_VAN]
 After special training, able to be immune to control, transformation, and instant kills. After taking certain damage within 3 seconds, enters invincible state and returns to normal after a period of time.^oldclrr
@@ -73560,49 +73639,49 @@ Speed Racing - Day 6 (Hard)
 Speed Racing - Day 7 (Hard)
 
 [PLAYERS_TRIP_TO_NO42]
-{PLAYER}'s Trip to Parallel Universe No. 42
+{PLAYER}'s Parallel Universe No. 41
 
 [NO42_LEVEL_NAME_01]
-Opening
+Letting zombies into the house will result in victory
 
 [NO42_LEVEL_NAME_02]
-Time
+Prioritize planting sunflowers on the right side to block zombie attacks
 
 [NO42_LEVEL_NAME_03]
-Analysis
+On the first day, prioritize purchasing the original No. 42 sunflower
 
 [NO42_LEVEL_NAME_04]
-Science
+On the first day, prioritize purchasing the original No. 42 pea shooter
 
 [NO42_LEVEL_NAME_05]
-Reality and Illusion
+Shoveling plants will return 999% of the sunlight
 
 [NO42_LEVEL_NAME_06]
-Contradiction
+Typing "mustache" will cause a remarkable change in zombies
 
 [NO42_LEVEL_NAME_07]
-Breaking the Impasse
+Elite zombies are fire-element with toughness shields
 
 [NO42_LEVEL_NAME_01_H]
-Forty-Two
+Attacking the small demon cannon on the right side has no effect
 
 [NO42_LEVEL_NAME_02_H]
-Closed Loop
+Letting zombies eat 30 walnuts will cause them to choke
 
 [NO42_LEVEL_NAME_03_H]
-Plan
+The zombies are here to apologize, please do not attack
 
 [NO42_LEVEL_NAME_04_H]
-Trap
+Players who pass this level agree to stop using the original pea shooter
 
 [NO42_LEVEL_NAME_05_H]
-Mirror
+I'll secretly tell you: Cat Tail Grass is an undercover agent
 
 [NO42_LEVEL_NAME_06_H]
-Millennium
+The new world will be set in Atlantis
 
 [NO42_LEVEL_NAME_07_H]
-Entering the Dream
+Skipping the last level will grant unlimited diamonds
 
 [NO42_LEVEL_NAME_MUGEN]
 Endless
@@ -74034,7 +74113,7 @@ Obtained by purchasing the coin gift pack in Penny's future gift box
 Lucky Chest Phase II
 
 [MAT_LUCKYCHEST_USE]
-Opening the lucky chest gives you a chance to receive generous rewards. Only available for use between January 1, 2025, and February 25, 2025.
+Opening the lucky chest gives you a chance to receive generous rewards. Only available for use between April 1 - May 26.
 
 [MAT_LUCKYCHEST_GOT_WAY]
 Available through the Lucky Treasure event or purchased with weekly special offer bundles
@@ -74765,11 +74844,11 @@ The Elite Mirror Queen Zombie has a resilience bar mechanism; physical attacks c
 [ZOMBIE_PLANTWARS_MIRROR_QUEEN_PHASE3_DESCRIPTION]
 The Mirror Queen Zombie spends a lot of time each day indulging in her reflection. She fantasizes that her reflection is stronger and more beautiful than she is now. One day, the mirror finally responded to the queen's wish.
 
-[NIGHTTHETOY_TIP]
-Shard Shop
+[NIGHTTHETOY_TIP]  
+Stone Shop  
 
-[NIGHTTHETOY_SHOP]
-Shard Shop
+[NIGHTTHETOY_SHOP]  
+Stone Shop 
 
 [NIGHTTHETOY_TASK]
 Event tasks 
@@ -74790,85 +74869,83 @@ Congratulations ^FFFF00 {NAME}! ^oldclr You got ^0775F7 {ITEM} ^oldclr x {NUMS}
 Congratulations ^FFFF00 {NAME}! ^oldclr You got ^0000FF {ITEM} ^oldclr
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-Ancient chinese trip
+Fiery Frenzy
 
 [TOYNIGHT_TITLE]
-Ancient chinese trip
+Fiery Frenzy
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-Basic Jade Bundle
+Basic Flame Pack
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-Intermediate Jade Bundle
+Intermediate Flame Pack
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-Advanced Jade Bundle
+Advanced Flame Pack
 
 [PRODUCT_TOY_NIGHT_45_SHORTDESC]
-Beginner Limited Edition Gift Pack
+Basic Limited-Time Pack
 
 [PRODUCT_TOY_NIGHT_198_SHORTDESC]
-Royal Luxury Limited Edition Gift Pack
+Advanced Limited-Time Pack
 
 [TOYNIGHT_TASK_1]
 Enter the event for the first time
 
 [TOYNIGHT_TASK_2]
-Obtain the Lily Pharmacist Super Outfit
+Obtain the Electric Peel Super Outfit
 
 [TOYNIGHT_TASK_3]
-Obtain all outfit
+Obtain all three Electric Peel outfits
 
 [MAT_TOY_PARTS]
-Jade Shards  
+Cold Flame Stone
 
 [MAT_TOY_PARTS_USE]
-Exchange rewards in the Ancient chinese trip event Shard Shop
+Exchange for rewards in the Fiery Frenzy event shop
 
 [MAT_TOY_PARTS_GOT_WAY]
-Obtain through draws in the Ancient chinese trip event
+Obtain through draws in the Fiery Frenzy event
 
 [MAT_TOY_CLOCKWORK]
-Jade
+Flame Coins
 
 [MAT_TOY_CLOCKWORK_USE]
-Item consumed for draws in the Ancient chinese trip event
+Used for draws in the Fiery Frenzy event
 
 [MAT_TOY_CLOCKWORK_GOT_WAY]
-Obtain through purchasing in the Ancient chinese trip Gift Shop
+Purchase from the Fiery Frenzy event pack shop
 
 [TOY_NIGHT_EXPIRED]
-Expired rewards for the  Ancient chinese trip
+Expired Fiery Frenzy rewards
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
-1. Jade are obtained via gift packs and used for draws. Jade and jade shards won't carry over to the next event and will be converted to Gems at a 1:10 and 1:1 ratio.
-2. Each draw offers a chance for a ade shards or other rewards. Lucky players may directly win the Lily Pharmacist Super Outfit.
-3. If no grand prize is won within 20 consecutive draws, the next draw guarantees a reward from the prize pool.
-4. Repeated Super Outfits are converted into 200 jade shards.
+Fiery Frenzy Event Summary:  
 
-Guaranteed Prize Pool Chances:
-Tile Carrot Super Outfit: 3.72%
-jade shards*1300: 5.28%
-jade shards*700: 12.55%
-jade SH*500: 11.10%
-Gems*1888: 32.17%
-Penny's Secret Treasure Coupon*10: 35.18%
+- Purchase packs to obtain Flame Coins, which are used for draws. Unused Flame Coins and Cold Flame Stones convert to diamonds after the event (1:10 and 1:1 rates).  
+- Each draw grants Cold Flame Stones or other rewards, with a chance to win the Electric Peel Super Outfit.  
+- If no grand prize is won in 20 draws, the next draw guarantees a grand prize.  
+- Duplicate Super Outfits convert into 200 Cold Flame Stones.  
 
-Reward Probability:
-Lily Pharmacist super Outfit: 0.17%
-jade shards*1300: 0.21%
-jade shards*700: 0.43%
-jade SH*500: 0.85%
-jade SH*100: 6.09%
-jade SH*50: 16.00%
-jade SH*20: 12.00%
-jade SH*10: 35.00%
-Outfit Coupon*500: 2.50%
-Outfit Coupon*100: 9.75%
-Penny's Secret Treasure Coupon*1: 17.00%
+Grand Prize Pool:  
+- Electric Peel Super Outfit – 3.72%  
+- Cold Flame Stone ×1300 – 5.28%  
+- Cold Flame Stone ×700 – 12.55%  
+- Cold Flame Stone ×500 – 11.10%  
+- Diamonds ×1888 – 32.17%  
+- Penny’s Treasure Ticket ×10 – 35.18%  
+
+Regular Reward Pool:  
+- Cold Flame Stone ×100 – 6.09%  
+- Cold Flame Stone ×50 – 16.00%  
+- Cold Flame Stone ×20 – 12.00%  
+- Cold Flame Stone ×10 – 35.00%  
+- Outfit Ticket ×500 – 2.50%  
+- Outfit Ticket ×100 – 9.75%  
+- Penny’s Treasure Ticket ×1 – 17.00%  
 
 [TOY_NIGHT_GACHA_GOT_HINT]
-If already owned, automatically converted to jade shard reward
+If already owned, it will automatically convert into Cold Flame Stone rewards.
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
 Event Description
@@ -74936,7 +75013,7 @@ Anime-style Outfit
 Attack power increased by 30%.
 
 [GINGLEBELL_TITLE]
-Springs's Jingle Bells
+Fool's Bells
 
 [GINGLEBELL_TIPS]
 Challenges are unavailable during the ranking freeze period.  
@@ -74954,10 +75031,10 @@ Participation Reward
 Record
 
 [GINGLEBELL_DESCRIPTION_TITLE]
-Jingle Bells Description
+Fool's Bell Description
 
 [GINGLEBELL_DESCRIPTION]
-Your total score is based on the damage done to snowmen within a limited time. Points earned from the latest levels contribute to daily bonus missions that refresh every day. Three themes—firepower test, accuracy test, and tactical test—are unlocked in sequence, each with three levels, every two days for levels and six days for themes. The leaderboard ranks players based on the total scores from the three latest theme levels. After a new theme unlocks, there’s an anti cheat detection period from 0:00 to 10:00 when players cannot access the new levels; only scores from up-to-date levels are counted. Rewards are automatically issued post-ranking, and any detected abnormal scores will be excluded. The leaderboard will be visible for one day on March 30th, during which no level challenges are allowed.
+Your total score is based on the damage done to snowmen within a limited time. Points earned from the latest levels contribute to daily bonus missions that refresh every day. Three themes are unlocked in sequence, each with three levels, every two days for levels and six days for themes. The leaderboard ranks players based on the total scores from the three latest theme levels. After a new theme unlocks, there’s an anti cheat detection period from 0:00 to 10:00 when players cannot access the new levels; only scores from up-to-date levels are counted. Rewards are automatically issued post-ranking, and any detected abnormal scores will be excluded. The leaderboard will be visible for one day on April 23th, during which no level challenges are allowed.
 
 [GINGLEBELL_RANK]
 Your ranking: {NUMBER}
@@ -74966,7 +75043,7 @@ Your ranking: {NUMBER}
 Total Number of Participants: {NUMBER}
 
 [GINGLEBELL_RANK_REWARD_TITLE]
-Jingle Bells Leaderboard Rewards
+Fool's Bell Leaderboard Rewards
 
 [GINGLEBELL_TAB1]
 Theme Challenge
@@ -74990,49 +75067,106 @@ Damage: {NUMBER}
 Deal as much damage in 30 seconds!
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-Double Eleven's Jingle Bells
+Fool's Bell
 
 [GINGLEBELL_TASKDESCRIPTION]
-Deal {NUMBER} damage to the Money Tree in the latest level
+Deal {NUMBER} damage to the clown zombie in the latest level
 
 [A_PILE_SNOWMEN1_TITLE]
-Firepower Test - I
+Live Interaction - Level 1
 
 [A_PILE_SNOWMEN2_TITLE]
-Firepower Test - II
+Live Interaction - Level 2
 
 [A_PILE_SNOWMEN3_TITLE]
-Firepower Test - III
+Live Interaction - Level 3
 
 [CONVEYER_BELT1_TITLE]
-Accuracy Test - I
+Improv Show - Level 1
 
 [CONVEYER_BELT2_TITLE]
-Accuracy Test - II
+Improv Show - Level 2
 
 [CONVEYER_BELT3_TITLE]
-Accuracy Test - III
+Improv Show - Level 3
 
 [RANDOM_SNOWMEN1_TITLE]
-Tactical Test - I
+Planned Show - Level 1
 
 [RANDOM_SNOWMEN2_TITLE]
-Tactical Test - II
+Planned Show - Level 2
 
 [RANDOM_SNOWMEN3_TITLE]
-Tactical Test - III
+Planned Show - Level 3
+
+[GINGLEBELL_S1_1_TITLE]
+Live Interaction - Level 1
+
+[GINGLEBELL_S1_2_TITLE]
+Live Interaction - Level 2
+
+[GINGLEBELL_S1_3_TITLE]
+Live Interaction - Level 3
+
+[GINGLEBELL_S2_1_TITLE]
+Improv Show - Level 1
+
+[GINGLEBELL_S2_2_TITLE]
+Improv Show - Level 2
+
+[GINGLEBELL_S2_3_TITLE]
+Improv Show - Level 3
+
+[GINGLEBELL_S3_1_TITLE]
+Planned Show - Level 1
+
+[GINGLEBELL_S3_2_TITLE]
+Planned Show - Level 2
+
+[GINGLEBELL_S3_3_TITLE]
+Planned Show - Level 3
+
+[GINGLEBELL_S4_1_TITLE]
+Live Interaction - Level 1
+
+[GINGLEBELL_S4_2_TITLE]
+Live Interaction - Level 2
+
+[GINGLEBELL_S4_3_TITLE]
+Live Interaction - Level 3
+
+[GINGLEBELL_S5_1_TITLE]
+Improv Show - Level 1
+
+[GINGLEBELL_S5_2_TITLE]
+Improv Show - Level 2
+
+[GINGLEBELL_S5_3_TITLE]
+Improv Show - Level 3
+
+[GINGLEBELL_S6_1_TITLE]
+Planned Show - Level 1
+
+[GINGLEBELL_S6_2_TITLE]
+Planned Show - Level 2
+
+[GINGLEBELL_S6_3_TITLE]
+Planned Show - Level 3
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
-Do the most damage you can in 30 seconds!
+Challenge to deal the highest damage in 30 seconds!
 
 [SNOWNIGHTSTAGE2_LEVEL_NAME]
-Accuracy Test - Level {LEVEL_NUMBER}
+Improv Show - Level {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Firepower Test - Level {LEVEL_NUMBER}
+Live Interaction - Level {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
-Tactical Test - Level {LEVEL_NUMBER}
+Planned Show - Level {LEVEL_NUMBER}
+
+[PLAYERS_TRIP_TO_SNOWNIGHT]
+{PLAYER}'s Fool's Bell Journey
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_1]
 Floatie, Scarf and Santa Earmuffs
@@ -76115,29 +76249,28 @@ Close in
 Players can earn tokens by completing levels in the secret area and exchange them for various items in the shop.
 
 [NEWYEAR_PACK_TITLE]
-New Year Gift Pack
+Celebration Pack
 
 [NEWYEAR_PACK_TEN]
-Ten times guaranteed
+Guaranteed after 10 Purchases
 
 [NEWYEARPACK_DESCRIPTION_TITLE]
-Activity Description
+Event Description
 
 [NEWYEARPACK_DESCRIPTION]
-New Year Gift Pack Purchase Description:  
-1. After purchasing the gift pack, gems are guaranteed, with a chance to receive a selected decoration box (New Year Box).  
-2. The gift pack has a guaranteed drop, after purchasing the same pack 9 times without receiving the New Year Box, the next purchase will guarantee the New Year Box.  
-3. The gift pack purchase limit is refreshed daily, but the guaranteed count does not reset and carries over.  
-4. After obtaining the New Year Box, it will be stored in the inventory, where you can select a decoration from the box.
-
-New Year Cumulative Recharge Description:  
-During the event, any recharge within the game will contribute to the cumulative recharge progress bar.
+Celebration Pack Purchase Instructions:
+- After purchasing the pack, you are guaranteed a diamond reward and have a chance to obtain a selected costume chest.
+- The pack has a guarantee: If you purchase the same pack 9 times without obtaining the costume chest, the next purchase will guarantee a costume chest.
+- The pack has a daily purchase limit, but the guarantee count remains and is carried over.
+- Once a costume chest is obtained, it will be stored in your backpack. After use, you can select one costume from the chest.
+- Costume chests from the current event can be used for rewards until the start of the next event. After the next event starts, the current costume chests will expire and cannot be used.
+- Celebration Recharge Instructions: During the event, any in-game recharge contributes to the cumulative recharge progress.
 
 [NEWYEARPACK_MAIN_TIPS_INFO]
-Daily 0 Yuan Welcome Gift: Gems *15  
-2 Yuan Welfare Gift Pack: Gems *30, 10% chance to get a Beginner Decoration New Year Box  
-3 Yuan Welfare Gift Pack: Gems *90, 10% chance to get an Intermediate Decoration New Year Box  
-6 Yuan Welfare Gift Pack: Gems *180, 10% chance to get an Advanced Decoration New Year Box
+Daily Free Gift: 15 Diamonds
+2 Yuan Welfare Pack: 30 Diamonds, 10% chance to get a Basic Costume Chest
+3 Yuan Welfare Pack: 90 Diamonds, 10% chance to get an Intermediate Costume Chest
+6 Yuan Welfare Pack: 180 Diamonds, 10% chance to get an Advanced Costume Chest
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
 2 Yuan Welfare Gift Box
@@ -76149,31 +76282,31 @@ Daily 0 Yuan Welcome Gift: Gems *15
 6 Yuan Welfare Gift Box
 
 [MAT_NEW_YEAR_CHESTS_SMALL]
-Beginner Decoration New Year Box
+Basic Costume Chest
 
 [MAT_NEW_YEAR_CHESTS_SMALL_USE]
-After use, choose one plant costume from the box.
+Use to select one plant costume from the chest
 
 [MAT_NEW_YEAR_CHESTS_SMALL_GOT_WAY]
-Chance to obtain from purchasing welfare gift boxes in the New Year Gift Pack.
+Obtained via chance in Celebration Pack's Welfare Gift Boxes
 
 [MAT_NEW_YEAR_CHESTS_MIDDLE]
-Intermediate Decoration New Year Box
+Intermediate Costume Chest
 
 [MAT_NEW_YEAR_CHESTS_MIDDLE_USE]
-After use, choose one plant costume from the box.
+Use to select one plant costume from the chest
 
 [MAT_NEW_YEAR_CHESTS_MIDDLE_GOT_WAY]
-Chance to obtain from purchasing welfare gift boxes in the New Year Gift Pack.
+Obtained via chance in Celebration Pack's Welfare Gift Boxes
 
 [MAT_NEW_YEAR_CHESTS_BIG]
-Advanced Decoration New Year Box
+Advanced Costume Chest
 
 [MAT_NEW_YEAR_CHESTS_BIG_USE]
-After use, choose one plant costume from the box.
+Use to select one plant costume from the chest
 
 [MAT_NEW_YEAR_CHESTS_BIG_GOT_WAY]
-Chance to obtain from purchasing welfare gift boxes in the New Year Gift Pack.
+Obtained via chance in Celebration Pack's Welfare Gift Boxes
 
 [UINEWYEARREDPACKET_DES_DESCRIPTION]
 All times are in UTC+8.
@@ -76360,7 +76493,7 @@ New Year's Day: ^ff0000^Targeted Fragments^oldclr^*300
 Grand Prize for the Luckiest Player
 
 [ACTIVITY_NEWYEARPACK_SHORT_DESCRIPTION]
-Open the New Year Gift Pack to get lots of gems and rare decorations
+Open the Celebration Gift Pack to get lots of gems and rare decorations
 
 [REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
 Congratulations! You have been selected as today's luckiest player!
@@ -76380,7 +76513,7 @@ Frost Rambutan Growth Costume
 Attack interval reduced by 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_NEKOTAIL_2]
-CattailCake
+Cattail Cake
 
 [NEW_AVATAR_DESCRIPTION_NEKOTAIL_2]
 Attack power increased by 20%
@@ -76392,7 +76525,7 @@ Primal Walnut Cosplay Costume
 Sunlight consumption reduced by 10
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_3]
-Dracaena §§§§§§§§
+Dracaena Costume
 
 [NEW_AVATAR_DESCRIPTION_DRACAENA_3]
 Sunlight consumption reduced by 25
@@ -76443,6 +76576,8 @@ Party Angel Starfruit
 [PARTYEPSACTIVITY_HEAD_DES_ID_25676]
 Limited Avatar for Party Assistance Event
 
+[S24_MEMORY_LEVEL_NAME_4]
+Look At The Moon
 
 
 [UNCHARTED_NO42_HEAD_ID_10001]
@@ -76937,9 +77072,6 @@ Not yet connected to GOOGLE PLAY
 [SHADOWPEASHOOTER_PRODUCT_SHORT_DESC]
 Shadow Peashooter can cause damage to surrounding units by firing bullets as a center
 
-[BONKCHOY_PEDIA_EXTRA]
-    补充说明：菜问（BonkChoy）根据名字对应原型应为“白菜”（BokChoy）在粤语中的发音，在中国分为很多种类，如小白菜和大白菜。小白菜在北方多被成为“油菜”，在南方则通常被称为“青菜”或“上海青”。菜问的美术设计本身更像是白菜和青菜的结合体，特此说明。
-
 
 [NOVICESEVENDAYS_TASK_NAME_7]
 Conducted 1 Garden War
@@ -77101,10 +77233,10 @@ Electric damage increased by 20%
 
 
 [NARRATIVE_RESILIE2_1]
-Be careful about {NPC_ENTER:winnie} that's not good.
+{NPC_ENTER:winnie}Be careful, that's not good.
 
 [NARRATIVE_RESILIE3_1]
-{NPC_ENTER:crazydave} let me use my favorite pea shooter to attack
+{NPC_ENTER:crazydave}Let me use my favorite peashooter to attack...
 
 [NARRATIVE_RESILIE5_1]
 {NPC_ENTER:winnie}beeps.... The test report is out.
@@ -77116,7 +77248,13 @@ The report says this is Dr. Zombie's latest masterpiece! You need to find a way 
 Now zombies are in a high injury free state, only breaking toughness can cause normal damage to zombies.
 
 [NARRATIVE_RESILIE5_4]
-{ SAY:winnie } Yellow strips are the toughness value of zombies, do you see the sign next to the toughness value?
+{SAY:winnie}Yellow strips are the toughness value of zombies, do you see the sign next to the toughness value?
+
+[NEW_AVATAR_SHORT_DESCRIPTION_JACKFRUIT_2]
+Jackfruit Eye Mask Outfit
+
+[NEW_AVATAR_DESCRIPTION_JACKFRUIT_2]
+Seed life increased by 20%.
 
 [AVATARCOLLECTIONS_THEME_TITLE6]
 Childhood Party
@@ -77201,5 +77339,7 @@ The temperature of the thrown watermelon is 1°C higher than that of the No. 1 u
 
 [PARALLEL_WINTERMELON_DESCRIPTION]
 Fire Wintermelon can cause area burst damage and burn zombies, dealing 100% of their maximum health per second for 30 seconds.
+
+
 
 [PVZ2_CHINESE_END]
