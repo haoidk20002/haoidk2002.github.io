@@ -3609,16 +3609,16 @@ Poison Shadow Mushroom emits poisonous mist, causing full-screen zombies to ente
 ^ff0000The color of all the toxins in Poison Shadow Mushroom turns green, emitting poisonous mist, causing the full-screen zombie^oldclrr to enter a ^701edf^poisoning Ⅰ^oldclrr state that lasts for 30 seconds and slow down. Releasing plants food  again will cause the zombies to receive the remaining damage immediately, and release the poisoned state.
 
 [MOONFLOWER_NEW_SKILL_LEVEL1_DES]
-Moonlight flowers can generate sun. After planting, they establish a moonlight zone within a range of 3x3 centered on themselves and activate the shadow state of other types of shadow plants within the range. When there are 3 or more shadow plants around themselves, they enter the shadow state.
+Moonflowers can generate sun. After planting, they establish a moonlight zone within a range of 3x3 centered on themselves and activate the shadow state of other types of shadow plants within the range. When there are 3 or more shadow plants around themselves, they enter the shadow state.
 
 [MOONFLOWER_NEW_SKILL_LEVEL2_DES]
-When shadow plants are planted in the moonlight zone, there is a 10% probability that moonlight flowers will produce 25 sun immediately.
+When shadow plants are planted in the moonlight zone, there is a 10% probability that Moonflower will produce 25 sun immediately.
 
 [MOONFLOWER_NEW_SKILL_LEVEL3_DES]
-When shadow plants are planted in the moonlight zone, there is a 20% probability that moonlight flowers will produce 25 sun immediately.
+When shadow plants are planted in the moonlight zone, there is a 20% probability that Moonflower will produce 25 sun immediately.
 
 [MOONFLOWER_NEW_SKILL_LEVEL4_DES]
-There is a low probability of be boosted
+There is a probability of be boosted
 
 [MOONFLOWER_NEW_SKILL_LEVEL5_DES]
 Super Cauliflower has a 25% probability of emitting a colored light wave that has a lethal effect on uncharming zombies.
@@ -4161,10 +4161,10 @@ There is a low probability of be boosted
 In the normal state, 80% emits a shadow beam. In the shadow state, there is a 30% probability that the first zombie to be killed will turn into a black hole, causing damage or devouring passing small and medium-sized zombies for 4 seconds.
 
 [SHADOWPEASHOOTER_PLANTFOOD_DESCRIPTION]
-Shadow Pea condenses 3 ghost balls, causing damage to zombies in the 3x3 range. As the number of moonlight flowers increases on the field, the attack range will also be expanded, maximizing to full screen.
+Shadow Pea condenses 3 ghost balls, causing damage to zombies in the 3x3 range. As the number of Moonflower increases on the field, the attack range will also be expanded, maximizing to full screen.
 
 [SHADOWPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Shadow Pea condenses ^ff00004 ghost balls^oldclrr, causing damage to zombies in the 3x3 range. As the number of moonlight flowers increases on the field, the attack range will also be expanded, maximizing to full screen.
+Shadow Pea condenses ^ff00004 ghost balls^oldclrr, causing damage to zombies in the 3x3 range. As the number of Moonflower increases on the field, the attack range will also be expanded, maximizing to full screen.
 
 [SNAPPEA_NEW_SKILL_LEVEL1_DES]
 When a zombie appears on the right side of the cannibal flower pea, it dives to the ground to appear on the soles of this zombie's feet and devour this zombie, which then enters a digestive state. If it is a non-devourable zombie, 3 pea bullets will be fired after it appears.
@@ -75108,7 +75108,7 @@ Deal as much damage in 30 seconds!
 Fool's Bell
 
 [GINGLEBELL_TASKDESCRIPTION]
-Deal {NUMBER} damage to the clown zombie in the latest level
+Deal {NUMBER} damage to Jester Zombie in the latest level
 
 [A_PILE_SNOWMEN1_TITLE]
 Live Interaction - Level 1
