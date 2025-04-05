@@ -21359,7 +21359,7 @@ Cold can confuse dinosaurs! Take advantage of their chaos!
 Epic Mission: The Gems!
 
 [EPIC_QUEST_GOLDBLOOM_LEVEL_NAME]
-Epic Mission - Golden Flower - Steps {LEVEL_NUMBER}
+Epic Mission - Gold Bloom - Steps {LEVEL_NUMBER}
 
 [EPIC_QUEST_GOLDBLOOM_STEP_1_TITLE]
 Complete every step in an epic mission for a huge reward.
@@ -43141,18 +43141,18 @@ Lunisolar Honeysuckle
 
 [TWINSHONEYSUCKLE_DESCRIPTION]
 {KEYWORD} Range: {STAT} Golden Flower targets the front row, Silver Flower targets the entire screen.  
-{KEYWORD} Special: {STAT} Golden Flower summons the sun to deal fire damage, Silver Flower summons the moon to deal ice damage.  
+{KEYWORD} Special: {STAT} Golden Flower summons the sun to deal fire damage, Silver Flower summons the   moon to deal ice damage.  
 {KEYWORD} Plant Characteristics: {STAT} Yellow plant, Blue plant.  
 {FLAVOR} The Twin Honeysuckles are twin sisters who gained the powers of the sun and moon during their growth.  
 
 [TWINSHONEYSUCKLE_DESCRIPTION_HEADER]
-Golden Flower summons the sun to deal fire damage, Silver Flower summons the moon to deal ice damage.  
+Lunisolar Honeysuckle are twin sisters who acquired the powers of the sun and the moon respectively as they grew up.
 
 [TWINSHONEYSUCKLE_TOOLTIP]
-Golden Flower summons the sun to deal fire damage, Silver Flower summons the moon to deal ice damage.  
+Lunisolar Honeysuckle are twin sisters who acquired the powers of the sun and the moon respectively as they grew up.
 
 [TWINSHONEYSUCKLE_PRODUCT_SHORT_DESC]
-Golden Flower summons the sun to deal fire damage, Silver Flower summons the moon to deal ice damage.  
+Lunisolar Honeysuckle are twin sisters who acquired the powers of the sun and the moon respectively as they grew up.
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL1]
 Surge of Mana  
