@@ -987,10 +987,10 @@ Peashooter fires peas at zombies in his lane.
 There is a 10% chance to fire 5 peas in a row.
 
 [PEASHOOTER_NEW_SKILL_LEVEL3_DES]
-The trigger probability of Pea Combo is increased by 100%, and there is a 20% probability of firing 5 peas in a row.
+The chance of consecutive shooting is now 20%.
 
 [PEASHOOTER_NEW_SKILL_LEVEL4_DES]
-Peashooter has a 35% chance to be boosted when planted.
+Peashooter has a 25% chance to be boosted when planted.
 
 [PEASHOOTER_NEW_SKILL_LEVEL5_DES]
 Peas fired by Peashooter are upgraded to super peas, and the damage is increased to 210.
@@ -1029,7 +1029,7 @@ Wall-nut blocks zombies with its high 4000 HP. Use them stop huge groups of zomb
 50% chance to produce an explosion when destroyed, which does no damage but knocks back zombies nearby.
 
 [WALLNUT_NEW_SKILL_LEVEL3_DES]
-The chance of Wall-Nut exploding when destroyed is increased to 100%.
+Wall-nut now always explode when destroyed.
 
 [WALLNUT_NEW_SKILL_LEVEL4_DES]
 Wall-nut has a 25% chance to be boosted when planted.
@@ -1056,10 +1056,10 @@ Potato Mine is now instantly armed when planted.
 Potato Mine has a 25% chance to be boosted when planted.
 
 [POTATOMINE_PLANTFOOD_DESCRIPTION]
-Potato Mine instantly arms itself and sends out two duplicates to the right of the lawn.
+Potato Mine instantly arms itself and sends out 2 duplicates to the right of the lawn.
 
 [POTATOMINE_AVATAR_PLANTFOOD_DESCRIPTION]
-Potato Mine instantly arms itself and sends out ^ff0000^three^oldclr^ duplicates to the right of the lawn.
+Potato Mine instantly arms itself and sends out ^ff0000^3^oldclr^ duplicates to the right of the lawn.
 
 [CABBAGEPULT_NEW_SKILL_LEVEL1_DES]
 Cabbage-pult launches cabbages at zombies, ignoring all other obstacles like gravestones in their way. He fires at a slower pace than Peashooter, but does double the damage per hit.
@@ -1068,10 +1068,10 @@ Cabbage-pult launches cabbages at zombies, ignoring all other obstacles like gra
 Cabbage-pult's attack speed is increased by 25%.
 
 [CABBAGEPULT_NEW_SKILL_LEVEL3_DES]
-Cabbage-pult's attack speed is increased by 50%.
+Cabbage-pult's attack speed is now increased by 50%.
 
 [CABBAGEPULT_NEW_SKILL_LEVEL4_DES]
-Cabbage-pult has a 35% chance to be boosted when planted.
+Cabbage-pult has a 25% chance to be boosted when planted.
 
 [CABBAGEPULT_NEW_SKILL_LEVEL5_DES]
 Cabbage-pult's attack now fires golden cabbages that split in the air into 2-3 smaller ones.
@@ -1080,7 +1080,7 @@ Cabbage-pult's attack now fires golden cabbages that split in the air into 2-3 s
 Cabbage-pult launches large cabbages at every zombie on the lawn.
 
 [CABBAGEPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Cabbage-pult launches large ^ff0000^electrified^oldclr^ cabbages at every zombie on the lawn.
+Cabbage-pult launches large ^ff0000^electrified^oldclr^ cabbages at every zombie on the lawn^ff0000^, dealing more damage.^oldclr^
 
 [ICEBURG_NEW_SKILL_LEVEL1_DES]
 Iceberg Lettuce freezes a zombie on contact for 10 seconds. Their freeze also puts out torches and dynamite, but is also un-done by fire attacks.
