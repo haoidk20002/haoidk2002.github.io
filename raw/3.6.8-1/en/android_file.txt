@@ -1329,11 +1329,7 @@ Coconut Cannon has a 25% chance to be boosted when planted.
 The shells fired will splash coconut pulp, dealing 250 damage to up to five zombies within the attack range.
 
 [COCONUTCANNON_AVATAR_PLANTFOOD_DESCRIPTION]
-Fires a special shell that pushes zombies in the row to the baseline, causing an explosion that deals damage to zombies in a 3×3 area. ^ff0000^Zombies at the baseline are stunned for 2 seconds.^oldclr^ ^848484^Afterward, the Coconut Cannon enters a resting state.^oldclr^
-
-
-[SECTION_SKILL_PLANTS_NEED_REVIEW]
-
+Fires a special shell that pushes zombies in the row to the baseline, causing an explosion that deals damage to zombies in a 3×3 area. ^ff0000^Zombies at the baseline are stunned for 2 seconds.^oldclr^ Afterward, the Coconut Cannon enters a resting state.
 
 [PEAPOD_NEW_SKILL_LEVEL1_DES]
 When zombies appear in front of the Pea Pod, each pea in the pod fires at the zombies. Peapods can be stacked on a single tile, with a maximum of 5 Peapods on one tile.
@@ -1345,13 +1341,10 @@ Pea Pod grows a head every with a maximum of 5.
 Pea Pod grows a head every 40 seconds with a maximum of 5.
 
 [PEAPOD_NEW_SKILL_LEVEL4_DES]
-When planting for the first time, you will directly release the plants food with a medium rate!
-
-[PEAPOD_PLANTFOOD_DESCRIPTION]
-Fires five big peas that deal 400 damage each.
+Pea Pod has a 25% chance to be boosted when planted.
 
 [PEAPOD_AVATAR_PLANTFOOD_DESCRIPTION]
-Fires five big peas that deal 400 damage each.
+Fires ^ff0000^5 big fire peas that deal more damage.^oldclr^
 
 [MELONPULT_NEW_SKILL_LEVEL1_DES]
 Watermelon is thrown when a zombie appears on the right side of a Melon-pult. The watermelon is broken after hitting the zombies, causing sputtering damage with 50% attack power to the zombies in the 3x3 range centered on the watermelon.
@@ -1369,7 +1362,7 @@ Melon-pult has a 25% chance to be boosted when planted.
 There is a 25% chance to throw 3 melon slices that does damage to zombies in its lane in a 3x3 area.
 
 [MELONPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Melon-pult will turn into a mortar cannon, before unleashing a barrage of ^FFFF00fire melons each fire melons quadruple the damage of normal melons^oldclrr.
+Melon-pult will turn into a mortar cannon, before unleashing a barrage of ^ff0000^fire melons each fire melons quadruple the damage of normal melons.^oldclr^
 
 [IMITATER_NEW_SKILL_LEVEL1_DES]
 Imitate the previous plant in the plant card slot, which takes a short time to transform when planted. Excellent when paired with long recharge time. Beware, he can die before the transformation.
@@ -1378,22 +1371,23 @@ Imitate the previous plant in the plant card slot, which takes a short time to t
 No PF effect.
 
 [REPEATER_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of the Repeater, the Repeater fires two peas per round to attack the zombie.
+When a zombie appears on the right side of the Repeater, the Repeater fires 2 peas per round to attack the zombie.
 
 [REPEATER_NEW_SKILL_LEVEL2_DES]
 Repeater gains 16% chance to shoot a frozen pea, and fire pea.
 
 [REPEATER_NEW_SKILL_LEVEL3_DES]
-Repeater's have 32% chance to shoot a frozen pea or a fire pea.In addition, he have 16% chance to shoot plasma peas.
+Repeater now also have 16% chance to shoot plasma peas.
 
 [REPEATER_NEW_SKILL_LEVEL4_DES]
-Repeater have 70% of be boosted when planted!
-
-[REPEATER_PLANTFOOD_DESCRIPTION]
-Continuously fires 60 peas, and a giant pea at the end, dealing 400 damage.
+Repeater has a 25% chance to be boosted when planted.
 
 [REPEATER_AVATAR_PLANTFOOD_DESCRIPTION]
-Continuously fires 60 peas, and a giant pea at the end, dealing 400 damage. (^FFFF00 Any peas fired by Repeater has a chance to be a fire, napalm or frozen pea.^oldclrr )
+Continuously fires 60 peas, and a giant pea at the end. ^ff0000^ Any small pea fired by Repeater has a chance to be a fire, napalm or frozen pea. Giant peas only have a chance to be a fire or plasma peas.^oldclr^
+
+
+[SECTION_SKILL_PLANTS_NEED_REVIEW]
+
 
 [SPIKEROCK_NEW_SKILL_LEVEL1_DES]
 When a zombie steps on a ground stab, a stab is launched to cause damage to all zombies. The Spikerock spine has three Spikerock, and when it loses all of them, it will die. ^ff0000It has miraculous effects on roller and piano zombies! ^oldclrr
