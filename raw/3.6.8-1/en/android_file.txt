@@ -996,7 +996,7 @@ Peashooter has a 25% chance to be boosted when planted.
 Peas fired by Peashooter are upgraded to super peas, and the damage is increased to 210.
 
 [PEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Peashooter fires ^FFFF003 large peas, each piercing through weaker zombies until they do their full damage^oldclrr.
+Peashooter fires ^ff0000^3 large peas, each piercing through weaker zombies until they do their full damage^oldclr^.
 
 [SUNFLOWER_NEW_SKILL_LEVEL1_DES]
 Sunflower produces 50 sun every 23.5 to 25 seconds. They're very important plants, so get as many of them on the lawn as you can, while still leaving space for your attackers in the back!
@@ -1014,7 +1014,7 @@ Sunflower has a 25% chance to be boosted when planted.
 Sunflowers leave an explosive sunflower seed when they are destroyed, which does damage equivalent to 10% of the target's max health on contact in a large area. The seed despawns itself after 10 seconds.
 
 [SUNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Sunflower instantly generates 300 sun in a large burst ^FFFF00alongside some gold coins^oldclrr.
+Sunflower instantly generates 300 sun in a large burst ^ff0000^alongside some gold coins^oldclr^.
 
 [WALLNUT_NEW_SKILL_LEVEL1_DES]
 Wall-nut blocks zombies with its high 4000 HP. Use them stop huge groups of zombies or to protect melee plants.
@@ -1032,7 +1032,7 @@ Wall-nut has a 25% chance to be boosted when planted.
 Gains 3 nut projectiles that can attack nearby zombies. Flaming Nuts do 90 damage, Lightning Nuts deal 60 damage and stun for 1.5 seconds while Ice Nuts deal 60 damage and slow zombies for 10 seconds.
 
 [WALLNUT_AVATAR_PLANTFOOD_DESCRIPTION]
-Wall-nut is encased in ^FFFF00crystal armor^oldclrr, giving him an additional ^FFFF0016000 HP^oldclrr.
+Wall-nut is encased in ^ff0000^crystal armor^oldclr^, giving him an additional ^ff0000^16000 HP^oldclr^.
 
 [POTATOMINE_NEW_SKILL_LEVEL1_DES]
 Potato Mines explode all nearby zombies for massive damage, but take 15 seconds to arm themselves. Place them at the start of levels to handle early threats, or behind walls to deal with large zombie clumps!
@@ -1050,7 +1050,7 @@ Potato Mine has a 25% chance to be boosted when planted.
 Potato Mine instantly arms itself and sends out 2 duplicates to the right of the lawn.
 
 [POTATOMINE_AVATAR_PLANTFOOD_DESCRIPTION]
-Potato Mine instantly arms itself and sends out ^FFFF003 duplicates^oldclrr to the right of the lawn.
+Potato Mine instantly arms itself and sends out ^ff0000^3 duplicates^oldclr^ to the right of the lawn.
 
 [CABBAGEPULT_NEW_SKILL_LEVEL1_DES]
 Cabbage-pult launches cabbages at zombies, ignoring all other obstacles like gravestones in their way. He fires at a slower pace than Peashooter, but does double the damage per hit.
@@ -1068,7 +1068,7 @@ Cabbage-pult has a 25% chance to be boosted when planted.
 Cabbage-pult's attack now fires golden cabbages that split in the air into 2-3 smaller ones.
 
 [CABBAGEPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Cabbage-pult launches ^FFFF003large electrified cabbages^oldclrr at every zombie on the lawn, ^FFFF003dealing more damage^oldclrr.
+Cabbage-pult launches ^ff0000^large electrified cabbages^oldclr^ at every zombie on the lawn, ^ff0000^dealing more damage^oldclr^.
 
 [ICEBURG_NEW_SKILL_LEVEL1_DES]
 Iceberg Lettuce freezes a zombie on contact for 10 seconds. Their freeze also puts out torches and dynamite, but is also un-done by fire attacks.
@@ -1083,7 +1083,7 @@ Skillfully mastered the ability of long-range attack, the attack range of launch
 Iceberg Lettuce has a 25% chance to be boosted when planted.
 
 [ICEBURG_AVATAR_PLANTFOOD_DESCRIPTION]
-Iceberg Lettuce will glow from the inside and cover the entire screen in a blue flash before freezing all grounded enemies for 15 seconds, and fire 6 Power Snow snowballs will be thrown to them.
+Iceberg Lettuce will glow from the inside and cover the entire screen in a blue flash before freezing all grounded enemies for 15 seconds, ^ff0000^and fire 6 Power Snow snowballs will be thrown to them.^oldclr^
 
 [BLOOMERANG_NEW_SKILL_LEVEL1_DES]
 Bloomerang shoots boomerangs down his lane, dealing damage to up to 3 different zombies twice. Great for dealing with Camel Zombies, clumps of weaker zombies, or those hiding behind grid items like gravestones.
@@ -1098,7 +1098,7 @@ Stack Carrying has been strengthened, and each Bloomerang now reduces the sun co
 Bloomerang has a 25% chance to be boosted when planted.
 
 [BLOOMERANG_AVATAR_PLANTFOOD_DESCRIPTION]
-The Boomerang Shooter rapidly spins itself, firing ^FFFF0010 larger boomerangs with increased damage^oldclrr in each of the four directions. These boomerangs penetrate and damage all zombies, returning after reaching the field's boundary to deal damage twice.
+The Boomerang Shooter rapidly spins itself, firing ^ff0000^ larger boomerangs with increased damage^oldclr^ in each of the four directions. These boomerangs penetrate and damage all zombies, returning after reaching the field's boundary to deal damage twice.
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL1_DES]
 Twin Sunflower can produce sun continuously, producing twice as many sun points per sunflower.
@@ -1113,7 +1113,7 @@ Immediately after planting, Twin Sunflower produces 150 sun.
 Twin Sunflower has a 25% chance to be boosted when planted.
 
 [TWINSUNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Twin Sunflower instantly produces 450 sun ^FFFF00with small amount of gold coins.^oldclrr
+Twin Sunflower instantly produces 450 sun ^ff0000^with small amount of gold coins.^oldclrr^
 
 [BONKCHOY_NEW_SKILL_LEVEL1_DES]
 When a zombie appears one tile to the left or right of Bonk Choy, it will unleash a powerful punch. If the zombie's health is too low, Bonk Choy will deliver an uppercut to finish it off.
@@ -1125,13 +1125,13 @@ Bonk Choy can perform an uppercut every 15 attacks, causing the zombie to float 
 Bonk Choy can perform an uppercut for every 7 attacks, causing the zombies to float in the air for a short time.
 
 [BONKCHOY_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
+Bonk Choy has a 25% chance to be boosted when planted.
 
 [BONKCHOY_NEW_SKILL_LEVEL5_DES]
-After two uppercuts, Bonk Choy will add an earth-shaking punch, which will cause 145 points of damage to a single zombie within 1 square to the right, and 45 points of splash damage to other zombies within the single square.
+After 2 uppercuts, Bonk Choy will add an earth-shaking punch, which will cause 145 points of damage to a single zombie within 1 square to the right, and 45 points of splash damage to other zombies within the single square.
 
 [BONKCHOY_AVATAR_PLANTFOOD_DESCRIPTION]
-^ff0000 Immediately pull the small and medium-sized zombies in the surrounding 5×5 range to its own position and stun them, ^oldclrr then punches them continuously in a 3x3 area.
+^ff0000^Immediately pull the small and medium-sized zombies in the surrounding 5×5 range to its own position and stun them, ^oldclrr^ then punches them continuously in a 3x3 area.
 
 [SPRINGBEAN_NEW_SKILL_LEVEL1_DES]
 When a zombie enters one square on the right side of the spring bean, the spring is pressed tightly to repel the zombie touching the spring bean by 1.25 squares. ^ff0000The location of the plywood in Pirate Harbor has miraculous effects! ^oldclrr
@@ -1140,64 +1140,52 @@ When a zombie enters one square on the right side of the spring bean, the spring
 Unlocks Powerful Bounce, each bounce has a 15% chance of directly knocking small and medium-sized zombies into the air.
 
 [SPRINGBEAN_NEW_SKILL_LEVEL3_DES]
-The trigger probability of Powerful Bounce is increased by 100%.
+The trigger probability of Powerful Bounce is increased to 30%.
 
 [SPRINGBEAN_NEW_SKILL_LEVEL4_DES]
-There is a low probability of be boosted
-
-[SPRINGBEAN_PLANTFOOD_DESCRIPTION]
-Spring Bean will jump into the air then back onto the ground to unleash a great impact, bouncing every zombie on screen back 1.25 tiles or in nearby water
+Spring Bean has a 25% chance to be boosted when planted.
 
 [SPRINGBEAN_AVATAR_PLANTFOOD_DESCRIPTION]
-Spring Bean will jump into the air then back onto the ground to unleash a great impact, bouncing and ^FF0000 stuning ^oldclr every zombie on screen back 1.25 tiles or in nearby water
+Spring Bean will jump into the air then back onto the ground to unleash a great impact, bouncing and ^ff0000^ stunning ^oldclr^ every zombie on screen back 1.25 tiles or into nearby deep water in Pirate Seas.
 
 [SPIKEWEED_NEW_SKILL_LEVEL1_DES]
-When a zombie steps on a ground stab, a stab is launched to cause damage to all zombies. ^ff0000It has miraculous effects on roller and piano zombies! ^oldclrr
+When a zombie steps on a ground stab, a stab is launched to cause damage to all zombies. It has miraculous effects on roller and piano zombies!
 
 [SPIKEWEED_NEW_SKILL_LEVEL2_DES]
 After killing 15 zombies, Spikeweed will transform into Fiendish Spikeweed, increasing damage to 22.5.
 
 [SPIKEWEED_NEW_SKILL_LEVEL3_DES]
-Increases growth rate. After killing 5 zombies, Spikeweed will transform into Fiendish Spikeweed, increasing damage to 30.
+After killing 5 zombies, Spikeweed will transform into Fiendish Spikeweed, increasing damage to 30.
 
 [SPIKEWEED_NEW_SKILL_LEVEL4_DES]
-Spikeweed may be boosted when planted.
-
-[SPIKEWEED_PLANTFOOD_DESCRIPTION]
-Spikeweed continuously thrusts spikes along its row, dragging all zombies in the row to its tile and dealing damage.
+Spikeweed has a 25% chance to be boosted when planted.
 
 [SPIKEWEED_AVATAR_PLANTFOOD_DESCRIPTION]
-Spikeweed continuously thrusts spikes along its row, dragging all zombies in the row to its tile and dealing damage, additionally causing stun for 3 seconds.
+Spikeweed continuously thrusts spikes along its row, dragging all zombies in the row to its tile and dealing damage, ^ff0000^additionally stunning them for 3 seconds^oldclr^.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL1_DES]
 When zombies appear within a 2x3 range to the right of Snapdragon, it will spray flames over the attack range, dealing damage to all zombies.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL2_DES]
-50% chance to spew blue flames that deal 45 damage.
+Snapdragon has 50% chance to spew blue flames that deal 45 damage.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL3_DES]
-Always spews blue flames that deal 78 damage.
+Snapdragon now always spews blue flames that deal 78 damage.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL4_DES]
-There is a high probability of directly releasing plants food during planting
+Snapdragon has a 25% chance to be boosted when planted.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL5_DES]
 50% chance to fire a lane-wide attack that does 3600 incendiary damage.
 
-[SNAPDRAGON_PLANTFOOD_DESCRIPTION]
-Snapdragon will grow wings and fly a little bit to releases a powerful burst of fire in a 3x3 range causing damage to all zombies.
-
 [SNAPDRAGON_AVATAR_PLANTFOOD_DESCRIPTION]
-Snapdragon will grow wings and fly a little bit to releases a powerful burst of fire in a ^ff0000 4x3 range ^oldclrr, causing damage to all zombies.
+Snapdragon will grow wings and fly a little bit to releases a powerful burst of fire in a ^ff0000^4x3 range^oldclr^, causing damage to all zombies.
 
 [POWERLILY_NEW_SKILL_LEVEL1_DES]
-After planting, it immediately blooms and produces an plants food.
-
-[POWERLILY_PLANTFOOD_DESCRIPTION]
-This plant does not have a plant food effect.
+After planting, it immediately blooms and produces plant food.
 
 [POWERLILY_AVATAR_PLANTFOOD_DESCRIPTION]
-This plant does not have a plant food effect.
+No PF effect. 
 
 [SQUASH_NEW_SKILL_LEVEL1_DES]
 When a zombie appears in one square on each side of Squash, after he jumps to cause damage to zombies in a single square range.
@@ -1209,13 +1197,10 @@ When a zombie appears in one square on each side of Squash, after he jumps to ca
 40% to return after attacking, dealing damage on his tile.
 
 [SQUASH_NEW_SKILL_LEVEL4_DES]
-Squash may be boosted when planted.
-
-[SQUASH_PLANTFOOD_DESCRIPTION]
-Squash smashes two random zombies before returning to his original position
+Squash has a 25% chance to be boosted when planted.
 
 [SQUASH_AVATAR_PLANTFOOD_DESCRIPTION]
-Squash smashes ^FFFF00 three random^ oldclr^ zombies before returning to his original position
+Squash smashes ^ff0000^3^oldclr^ random zombies before returning to his original position.
 
 [CHILIBEAN_NEW_SKILL_LEVEL1_DES]
 When a zombie finishes eating Chili Bean, it takes damage and releases toxic gas, causing Stun for 7 seconds to zombies behind it. The stun effect of the gas does not affect mechanical units.
@@ -1227,13 +1212,10 @@ The toxic gas released by zombies has been improved, extending the Stun I durati
 The toxic gas released by zombies becomes even more intense, extending the Stun I duration to 10 seconds.
 
 [CHILIBEAN_NEW_SKILL_LEVEL4_DES]
-When planted, there is a low chance to instantly unleash a Plant Food ability!
-
-[CHILIBEAN_PLANTFOOD_DESCRIPTION]
-Chili Bean expels toxic gas with all its might, then splits into three additional Chili Beans, which are randomly placed on empty tiles on the field.
+Chili Bean has a 25% chance to be boosted when planted.
 
 [CHILIBEAN_AVATAR_PLANTFOOD_DESCRIPTION]
-Chili Bean expels toxic gas with all its might, then splits into four additional Chili Beans, which are randomly placed on empty tiles on the field.
+Chili Bean expels toxic gas with all its might, then splits into ^ff0000^4^oldclr^ additional Chili Beans, which are randomly placed on empty tiles on the field.
 
 [SPLITPEA_NEW_SKILL_LEVEL1_DES]
 When a zombie appears on the right side of the two-way shooter, 1 pea is fired for each attack. When a zombie appears on the left side of the two-way shooter, 2 peas are fired for each attack.
@@ -1245,40 +1227,28 @@ Split Pea has a 40% chance to attack with a snow pea backwards.
 Split Pea gains 40% chance to attack with a snow pea backwards and a 60% chance to shoot a fire pea forward.
 
 [SPLITPEA_NEW_SKILL_LEVEL4_DES]
-Split Pea may be boosted when planted.
-
-[SPLITPEA_NEW_SKILL_LEVEL5_DES]
-When attacking, there is a 50% chance to summon an additional fire dragon, dealing 3,600 fire damage to the entire row.
-
-[SPLITPEA_PLANTFOOD_DESCRIPTION]
-Shoots 60 peas forward and 90 peas plus one giant pea that deals 600 damage backward.
+Split Pea has a 25% chance to be boosted when planted.
 
 [SPLITPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Shoots ^FFFF00 60 peas each head, then finally a giant fire pea (forward head) and big snow pea (backward head, 600 damage).^oldclrr
+Shoots ^ff0000^ 60 peas each head, then finally a giant fire pea (forward head) and big snow pea (backward head, 600 damage).^oldclr^
 
 [JALAPENO_NEW_SKILL_LEVEL1_DES]
-Once planted, Jalapeno will immediately cause damage to the entire line Jalapeno ignores armor.
+Once planted, Jalapeno will immediately burns an entire lane, dealing high damage to zombies. 
 
 [JALAPENO_NEW_SKILL_LEVEL2_DES]
-Jalapeno additionally targets the column he is in covering: left, right, up, down
+Jalapeno now burns in a cross shape.
 
 [JALAPENO_NEW_SKILL_LEVEL3_DES]
-Jalapeno costs 100 sun instead of 125
-
-[JALAPENO_PLANTFOOD_DESCRIPTION]
-
+Jalapeno costs 100 sun instead of 125.
 
 [JALAPENO_AVATAR_PLANTFOOD_DESCRIPTION]
-
+No PF effect.
 
 [GRAVEBUSTER_NEW_SKILL_LEVEL1_DES]
-It can be planted on a tombstone, and it takes 4.5 seconds to eat all the tombstone
-
-[GRAVEBUSTER_PLANTFOOD_DESCRIPTION]
-
+It can be planted on a tombstone, and it takes 4.5 seconds to eat all the tombstone.
 
 [GRAVEBUSTER_AVATAR_PLANTFOOD_DESCRIPTION]
-
+No PF effect.
 
 [SNOWPEA_NEW_SKILL_LEVEL1_DES]
 When a zombie appears in front of an Snow Pea, it fires ice peas to attack the zombie and cause ice deceleration effects that last 10 seconds on the hit target.
@@ -1290,16 +1260,13 @@ Every time a pea is fired, there is a 15% chance to fire an ice pick with damage
 Every time a pea is fired, there is a 30% chance to launch an ice pick with damage of 120/shot.
 
 [SNOWPEA_NEW_SKILL_LEVEL4_DES]
-Snow Pea have 50% of be boosted when planted!
+Snow Pea has a 25% chance to be boosted when planted.
 
 [SNOWPEA_NEW_SKILL_LEVEL5_DES]
-Has a chance to launch a reinforced ice shard. Upon hitting a zombie, it freezes the target and explodes, dealing damage to zombies within a 1-tile radius. The explosion creates an icy ground that lasts for 3 seconds, slowing zombies standing on it.
-
-[SNOWPEA_PLANTFOOD_DESCRIPTION]
-Releases an icy slowing effect on zombies in this row and fires 60 ice peas.
+Snow Pea now has a chance to launch a reinforced ice shard. Upon hitting a zombie, it freezes the target and explodes, dealing damage to zombies within a 1-tile radius. The explosion creates an icy ground that lasts for 3 seconds, slowing zombies standing on it.
 
 [SNOWPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Releases an icy slowing effect on zombies in this row and fires 3 large ice peas with 40 times its own attack power.
+Releases an icy slowing effect on zombies in this row and fires ^ff0000^3 large ice peas dealing more damage.^oldclr^
 
 [TORCHWOOD_NEW_SKILL_LEVEL1_DES]
 The flames atop the Torchwood cause passing peas to become fire pea bullets, doubling their damage.
@@ -1311,13 +1278,10 @@ Torchwood has been hardened to become more durable, and the health value has inc
 Torchwood has become stronger and has 4500 HP.
 
 [TORCHWOOD_NEW_SKILL_LEVEL4_DES]
-Torchwood have 60% of be boosted when planted!
-
-[TORCHWOOD_PLANTFOOD_DESCRIPTION]
-The Firewood becomes more enraged, turning its flames blue, transforming passing peas into Plasma Peas, which deal double the damage.
+Torchwood has a 25% chance to be boosted when planted.
 
 [TORCHWOOD_AVATAR_PLANTFOOD_DESCRIPTION]
-The Firewood enters a frenzy, turning its flames purple, transforming passing peas into Ghost Fire Peas, which deal three times the damage.
+The Firewood enters a frenzy state, turning its flames ^ff0000^purple, quadrupling^oldclr^ passing peas' damage.
 
 [KERNELPULT_NEW_SKILL_LEVEL1_DES]
 Kernel-pult, thrown corn kernels to cause damage there is a 20% probability of launch butter when attacking. Butter causes 2 times the attack damage and stun for 8 seconds. (The stun time decreases with the zombie level, down to a minimum of 2 seconds.)
@@ -1326,34 +1290,28 @@ Kernel-pult, thrown corn kernels to cause damage there is a 20% probability of l
 Every 5 attacks, Kernel Pult launches a Corn Missile dealing 150 damage.
 
 [KERNELPULT_NEW_SKILL_LEVEL3_DES]
-Every 3 attacks, Kernel Pult launches a Corn Missile dealing 200 damage at the evil zombies.
+Every 3 attacks, Kernel Pult launches a Corn Missile dealing 200 damage.
 
 [KERNELPULT_NEW_SKILL_LEVEL4_DES]
-When planted, there is a low chance to release a Plant Food ability! The damage of the Corn Missile is increased to 250.
-
-[KERNELPULT_PLANTFOOD_DESCRIPTION]
-Kernel Pult gathers butter and launches it into the air, tossing a block of butter at all zombies on the screen, dealing damage and freezing them.
+Kernel-pult has a 25% chance to be boosted when planted.
 
 [KERNELPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Kernel Pult gathers butter and launches it into the air, tossing a block of butter at all zombies on the screen, dealing higher damage and freezing them.
+Kernel-pult tosses ^ff0000^flaming butter^oldclr^ at all zombies on the screen, ^ff0000^dealing higher damage^oldclr^ and stunning them.
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL1_DES]
 When a zombie appears in the three lines to the right of the Lightning Reed, the zombie on the leftmost in the lightning attack range is used, and after the attack, a lightning chain sputtering with a damage of 5 points appears for up to three zombies.
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL2_DES]
-7% chance to ^ff9600^ stun ^oldclrr targets for 1 second.
+Lightning Reed has 7% chance to stun targets for 1 second.
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL3_DES]
-15% chance to stun targets for 1 second.
+Lightning Reed has 15% chance to stun targets for 1 second.
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[LIGHTNINGREED_PLANTFOOD_DESCRIPTION]
-He generates a small storm cloud that tracks down a random target, dealing 160 damage per second. the cloud lasts for 15 seconds.
+Lightning Reed has a 25% chance to be boosted when planted.
 
 [LIGHTNINGREED_AVATAR_PLANTFOOD_DESCRIPTION]
-Gathering the power of lightning, a large thundercloud is formed that continuously attacks zombies. The thundercloud lasts for 15 seconds. ^ff0000^The large thundercloud deals damage to zombies in a cross-shaped area with each attack.^oldclr^
+Gathering the power of lightning, ^ff0000^a large thundercloud^oldclr^ is formed that continuously attacks zombies, lasting for 15 seconds. ^ff0000^The large thundercloud deals damage to zombies in a cross-shaped area with each attack.^oldclr^
 
 [COCONUTCANNON_NEW_SKILL_LEVEL1_DES]
 After clicking on the Coconut Cannon, it will fire a coconut shell, which will explode after hitting the zombies and cause sputtering damage of 33% of the attack power value to the zombies in the 3x3 range centered on the coconut.
@@ -1362,16 +1320,13 @@ After clicking on the Coconut Cannon, it will fire a coconut shell, which will e
 Reduced rest time after firing coconut shells to 11.25 seconds.
 
 [COCONUTCANNON_NEW_SKILL_LEVEL3_DES]
-Reduced rest time after firing coconut shells to 9 seconds
+Reduced rest time after firing coconut shells to 9 seconds.
 
 [COCONUTCANNON_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
+Coconut Cannon has a 25% chance to be boosted when planted.
 
 [COCONUTCANNON_NEW_SKILL_LEVEL5_DES]
 The shells fired will splash coconut pulp, dealing 250 damage to up to five zombies within the attack range.
-
-[COCONUTCANNON_PLANTFOOD_DESCRIPTION]
-Coconut Cannon will release a gigantic coconut, pushing all zombies to the rightmost edge of the screen and dealing damage to all of them in a 3x3 area at the end
 
 [COCONUTCANNON_AVATAR_PLANTFOOD_DESCRIPTION]
 Fires a special shell that pushes zombies in the row to the baseline, causing an explosion that deals damage to zombies in a 3×3 area. ^ff0000^Zombies at the baseline are stunned for 2 seconds.^oldclr^ ^848484^Afterward, the Coconut Cannon enters a resting state.^oldclr^
@@ -1408,25 +1363,19 @@ When there are 2 or more zombies in the attack range, Melon-pult has a 25% chanc
 When there are 2 or more zombies in the attack range, Melon-pult has a 50% chance to launch two watermelons.
 
 [MELONPULT_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
+Melon-pult has a 25% chance to be boosted when planted.
 
 [MELONPULT_NEW_SKILL_LEVEL5_DES]
 There is a 25% chance to throw 3 melon slices that does damage to zombies in its lane in a 3x3 area.
 
-[MELONPULT_PLANTFOOD_DESCRIPTION]
-Melon-pult will turn into a mortar cannon, before unleashing a barrage of giant melons each giant melon deals 200 damage to the initial target, but only 20 splash damage in a 3x3 area.
-
 [MELONPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Melon-pult will turn into a mortar cannon, before unleashing a barrage of ^FFFF00fire melons each fire melons quadruple the damage of normal melons^oldclrr 200 damage to the initial target, but only 20 splash damage in a 3x3 area.
+Melon-pult will turn into a mortar cannon, before unleashing a barrage of ^FFFF00fire melons each fire melons quadruple the damage of normal melons^oldclrr.
 
 [IMITATER_NEW_SKILL_LEVEL1_DES]
-Transformed eggplant transforms into the previous plant in the plant card slot, which takes a short time to transform when planted.
-
-[IMITATER_PLANTFOOD_DESCRIPTION]
-
+Imitate the previous plant in the plant card slot, which takes a short time to transform when planted. Excellent when paired with long recharge time. Beware, he can die before the transformation.
 
 [IMITATER_AVATAR_PLANTFOOD_DESCRIPTION]
-
+No PF effect.
 
 [REPEATER_NEW_SKILL_LEVEL1_DES]
 When a zombie appears on the right side of the Repeater, the Repeater fires two peas per round to attack the zombie.
@@ -1533,11 +1482,8 @@ Upon detonation, has 50% chance to spawn a static cherry that acts like a Potato
 [CHERRY_BOMB_NEW_SKILL_LEVEL3_DES]
 There is a 100% probability of leaving a small cherry with a damage of 1800 and an explosion range of 1x2 after the explosion.
 
-[CHERRY_BOMB_PLANTFOOD_DESCRIPTION]
-
-
 [CHERRY_BOMB_AVATAR_PLANTFOOD_DESCRIPTION]
-
+No PF effect.
 
 [PEACH_NEW_SKILL_LEVEL1_DES]
 Xiantao can emit light waves to treat plants within 3x3 centered on itself and restore 150 health points to all plants. Repeat every 5 seconds.
