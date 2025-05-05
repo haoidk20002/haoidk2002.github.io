@@ -1,51 +1,95 @@
+[SECTION_NAME]
+HEALTH_NOTICE
+PLANTS_SKILLS_PREVIEW
+PLANTS_ALMANAC
+PLANTS_ENCYCLOPEDIA
+ZOMBIES_ALMANAC
+UPGRADE_ALMANAC
+ACHIEVEMENT
+OTHERS
+
+[HEALTH_NOTICE]
+[HEALTH_NOTICE_CONTENT]
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+
+[HEALTH_NOTICE_TITLE]
+Healthy Gaming Advice
+
+[HEALTH_NOTICE_CONTENT_2]
+This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A. Registration inquiry: https://beian.miit.gov.cn/
+Game Copyright Owner: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
+
+[HEALTH_NOTICE_CONTENT_3]
+This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
+
+[HEALTH_NOTICE_CONTENT_4]
+Game Copyright Owner: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
+
+[HEALTH_NOTICE_CONTENT_5]
+Registration Inquiry: https://beian.miit.gov.cn/
+
+[HEALTH_NOTICE_CONTENT_3_1]
+This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
+Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
+Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
+
+[PLANTS_SKILLS_PREVIEW]
+
+[PLANTS_ALMANAC]
+
+[PLANTS_ENCYCLOPEDIA]
+[ZOMBIES_ALMANAC]
+[UPGRADES_ALMANAC]
+
+[ACHIEVEMENT]
 [ACHIEVE_BROADSIDE_DESC]
-使用椰子加农炮消灭小鬼僵尸炮
+Use a Coconut Cannon to destroy an Imp Cannon
 
 [ACHIEVE_BROADSIDE_TITLE]
-侧舷炮
+Broadside
 
 [ACHIEVE_COWBOY_STARS_DESC]
-获得所有狂野西部之星
+Complete the Wild West
 
 [ACHIEVE_COWBOY_STARS_TITLE]
-咦嗬
+Yee-Haw!
 
 [ACHIEVE_DOG_WHISPERER_DESC]
-在死神僵尸召唤出墓碑之前干掉他！
+Destroy a Tomb Raiser before it can raise any gravestones
 
 [ACHIEVE_DOG_WHISPERER_TITLE]
-死神
-
-[PLANTING_BEYOND_NEW_PVP_LIMIT]
-超出植物种植上限，记得升级向日葵哦！
+A-noob-is
 
 [ACHIEVE_DRAGON_AGE_DESC]
-一关中种植十棵火龙草
+Plant 10 Snapdragons in a single level
 
 [ACHIEVE_DRAGON_AGE_TITLE]
-龙之纪元
+Dragon Age
 
 [ACHIEVE_EGYPT_STARS_DESC]
-获得所有神秘埃及之星
+Complete Ancient Egypt
 
 [ACHIEVE_EGYPT_STARS_TITLE]
-图坦坚果王
+Nut Un-Common
 
 [ACHIEVE_FRIED_CHICKEN_DESC]
-对僵尸鸡使用闪电芦苇
+Use the Lightning Reed on a chicken
 
 [ACHIEVE_FRIED_CHICKEN_TITLE]
-炸鸡
+Fried Chicken
 
 [ACHIEVE_GIDDYUP_DESC]
-狂野西部闯关成功
+Unleash the Wild West Gargantuar
 
 [ACHIEVE_GIDDYUP_TITLE]
-哟呵！驾！
+Giddyup!
 
 [ACHIEVE_HIGH_FIVE_DESC]
 种下五棵高坚果并给他们使用能量豆
-
 
 [ACHIEVE_HIGH_FIVE_TITLE]
 太棒了！击掌！
@@ -64,7 +108,6 @@
 
 [ACHIEVE_MAGICAL_FRUIT_DESC]
 使用一棵巴豆击昏十名僵尸
-
 
 [ACHIEVE_MAGICAL_FRUIT_TITLE]
 魔力之果
@@ -134,6 +177,217 @@
 
 [ACHIEVE_YARR_MATEY_TITLE]
 哇！航海家！！
+
+[ACHIEVE_ALL_IN_JEST_DESC]
+完成一个关卡，别让小丑僵尸反弹攻击
+
+[ACHIEVE_ALL_IN_JEST_TITLE]
+都是玩笑
+
+[ACHIEVE_BANANA_STORM_DESC]
+只用香蕉消灭僵尸，完成沙滩关卡
+
+[ACHIEVE_BANANA_STORM_TITLE]
+香蕉风暴
+
+[ACHIEVE_BIG_KAHUNKA_DESC]
+打败深海巨人僵尸，收集他们的时空钥匙
+
+[ACHIEVE_BIG_KAHUNKA_TITLE]
+BIG KAHUNKA
+
+[ACHIEVE_EIGHTIES_BACK_FROM_THE_FUTURE_3_DESC]
+在同一关卡中种植三次逆时草
+
+[ACHIEVE_EIGHTIES_BACK_FROM_THE_FUTURE_3_TITLE]
+由未来回归 3
+
+[ACHIEVE_EIGHTIES_BEET_IT_DESC]
+只用魔音甜菜打败僵尸，完成一个关卡
+
+[ACHIEVE_EIGHTIES_BEET_IT_TITLE]
+甜菜风暴
+
+[ACHIEVE_EIGHTIES_BREAKING_IT_OFF_DESC]
+在录音机僵尸用歌曲传递自己的力量之前将其消灭
+
+[ACHIEVE_EIGHTIES_BREAKING_IT_OFF_TITLE]
+中断
+
+[ACHIEVE_EIGHTIES_DROP_THE_MIC_DESC]
+完成摇滚年代之旅，B面
+
+[ACHIEVE_EIGHTIES_DROP_THE_MIC_TITLE]
+扔掉麦克风
+
+[ACHIEVE_EIGHTIES_HEAD_BANGER_DESC]
+对一个朋克僵尸使用磁力菇
+
+[ACHIEVE_EIGHTIES_HEAD_BANGER_TITLE]
+摇滚乐手
+
+[ACHIEVE_EIGHTIES_VOLUME_GOES_TO_SIXTEEN_DESC]
+打败重金属巨人僵尸
+
+[ACHIEVE_EIGHTIES_VOLUME_GOES_TO_SIXTEEN_TITLE]
+音量调到16
+
+[ACHIEVE_FLY_FISHING_FAIL_DESC]
+不让渔夫钩走你的植物，完成一个关卡
+
+[ACHIEVE_FLY_FISHING_FAIL_TITLE]
+飞蝇钓失败
+[ACHIEVE_FUNGUS_HUMONGOUS_DESC]
+用一个能量豆激活20个小喷菇
+
+[ACHIEVE_FUNGUS_HUMONGOUS_TITLE]
+巨型蘑菇
+
+[ACHIEVE_FUTURE_COMPLETE_DESC]
+完成未来世界关卡
+
+[ACHIEVE_FUTURE_COMPLETE_TITLE]
+丢下头目
+
+[ACHIEVE_FUTURE_GARGANTUAR_DESC]
+释放未来世界巨人僵尸
+
+[ACHIEVE_FUTURE_GARGANTUAR_TITLE]
+原动力
+
+[ACHIEVE_FUTURE_GRASS_EFFECT_DESC]
+用棱镜草发射500阳光
+
+[ACHIEVE_FUTURE_GRASS_EFFECT_TITLE]
+草地效应
+
+[ACHIEVE_FUTURE_JETTISONS_DESC]
+用三叶草在一个关卡中消灭30个喷射器僵尸
+
+[ACHIEVE_FUTURE_JETTISONS_TITLE]
+抛弃物
+
+[ACHIEVE_FUTURE_RERESPAWN_DESC]
+种植一个全息坚果，让它被杀死，然后复活两次
+
+[ACHIEVE_FUTURE_RERESPAWN_TITLE]
+再次复活
+
+[ACHIEVE_FUTURE_SUN_DAMAGED_DESC]
+触发一个阳光炸弹，消灭路障机甲僵尸
+
+[ACHIEVE_FUTURE_SUN_DAMAGED_TITLE]
+太阳伤害
+
+[ACHIEVE_FUTURE_TILE_DENIAL_DESC]
+不在强化瓷砖上种植任何植物，完成一个未来关卡
+
+[ACHIEVE_FUTURE_TILE_DENIAL_TITLE]
+空能量砖
+[ACHIEVE_HAMMER_TIME_DESC]
+释放黑暗巨人僵尸
+
+[ACHIEVE_HAMMER_TIME_TITLE]
+铁锤时间
+
+[ACHIEVE_ICEAGE_BARRAGE_DESC]
+打败地懒巨人僵尸，收集他们的时空钥匙
+
+[ACHIEVE_ICEAGE_BARRAGE_TITLE]
+火力全开
+
+[ACHIEVE_ICEAGE_ICEBLOCKADE_DESC]
+如果关卡中出现穴居僵尸，别让它推着冰块通过第6列
+
+[ACHIEVE_ICEAGE_ICEBLOCKADE_TITLE]
+冰块障碍
+
+[ACHIEVE_ICEAGE_KNOCKEMDEAD_DESC]
+用甜菜护卫一次攻击击退6个僵尸
+
+[ACHIEVE_ICEAGE_KNOCKEMDEAD_TITLE]
+拍死他们！
+
+[ACHIEVE_ICEAGE_MELTDOWN_DESC]
+完成冰河世界
+
+[ACHIEVE_ICEAGE_MELTDOWN_TITLE]
+熔化！
+
+[ACHIEVE_ICEAGE_RUNWEASLEY_DESC]
+如果关卡中出现冰鼬僵尸，别让鼬鼠越过滑块
+
+[ACHIEVE_ICEAGE_RUNWEASLEY_TITLE]
+鼬鼠快跑
+
+[ACHIEVE_ICEAGE_SOTHAWFUL_DESC]
+在单个关卡中熔化13个冰块
+
+[ACHIEVE_ICEAGE_SOTHAWFUL_TITLE]
+好暖和啊
+
+[ACHIEVE_NOT_BAAAD_DESC]
+别让巫师催眠植物，完成一个关卡
+
+[ACHIEVE_NOT_BAAAD_TITLE]
+还不错
+
+[ACHIEVE_OUT_OF_DARKNESS_DESC]
+完成黑暗时代
+
+[ACHIEVE_OUT_OF_DARKNESS_TITLE]
+走出黑暗
+
+[ACHIEVE_TEN_PIN_KAPOW_DESC]
+用保龄泡泡的一个泡泡消灭10个僵尸
+
+[ACHIEVE_TEN_PIN_KAPOW_TITLE]
+全中
+
+[ACHIEVE_UNDERTOW_DESC]
+在一个关卡中，用缠绕水草消灭10个僵尸
+
+[ACHIEVE_UNDERTOW_TITLE]
+回头浪
+
+[ACHIEVE_VASEBREAKER_DAVYJONESVASE_DESC]
+完成海盗港湾挑战包
+
+[ACHIEVE_VASEBREAKER_DAVYJONESVASE_NAME]
+戴维·琼斯的罐子
+
+[ACHIEVE_VASEBREAKER_POTTERYTRAINED_DESC]
+在无尽砸罐子模式中撑过30关
+
+[ACHIEVE_VASEBREAKER_POTTERYTRAINED_NAME]
+陶器训练
+
+[ACHIEVE_VASEBREAKER_TOMBBREAKER_DESC]
+完成神秘埃及挑战包
+
+[ACHIEVE_VASEBREAKER_TOMBBREAKER_NAME]
+坟墓破坏者 
+
+[ACHIEVE_VASEBREAKER_VASEWRANGLER_DESC]
+完成狂野西部挑战包
+
+[ACHIEVE_VASEBREAKER_VASEWRANGLER_NAME]
+罐子女牛仔
+
+[ACHIEVE_WAVE_GOODBYE_DESC]
+完成巨浪沙滩关卡
+
+[ACHIEVE_WAVE_GOODBYE_TITLE]
+再见了，海浪
+[ACHIEVE_YOUR_HAT_SIR_DESC]
+仅利用磁力菇的伤害消灭一个僵尸
+
+[ACHIEVE_YOUR_HAT_SIR_TITLE]
+先生，你的帽子！
+
+[OTHERS]
+[PLANTING_BEYOND_NEW_PVP_LIMIT]
+超出植物种植上限，记得升级向日葵哦！
 
 [ADVICE_ALMANAC_FROM_PLANTS]
 点击地图上的植物也可进入图鉴
@@ -2446,33 +2700,7 @@ Chinese_China
 [FREE_GEM_GET_TEXT]
 获取免费钻石
 
-[HEALTH_NOTICE_CONTENT]
-抵制不良游戏，拒绝盗版游戏 注意自我保护，谨防受骗上当 适度游戏益脑，沉迷游戏伤身 合理安排时间，享受健康生活
 
-[HEALTH_NOTICE_TITLE]
-健康游戏忠告
-
-[HEALTH_NOTICE_CONTENT_2]
-本网络游戏适合年满12周岁以上的用户使用。为了您的健康，请合理控制游戏时间。抵制不良游戏，拒绝盗版游戏。
-注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。
-批准文号：新出审字\[2013]1509号；出版物号：ISBN978-7-89989-834-5；ICP备案号：湘B2-20100081-55A  备案查询：https://beian.miit.gov.cn/
-游戏著作权人：Electronic Arts Inc.；出版服务单位：拓维信息系统股份有限公司
-
-[HEALTH_NOTICE_CONTENT_3]
-本网络游戏适合年满12周岁以上的用户使用。为了您的健康，请合理控制游戏时间。抵制不良游戏，拒绝盗版游戏。
-注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。
-批准文号：新出审字\[2013]1509号；出版物号：ISBN978-7-89989-834-5；ICP备案号：湘B2-20100081-55A
-
-[HEALTH_NOTICE_CONTENT_4]
-游戏著作权人：Electronic Arts Inc.；出版服务单位：拓维信息系统股份有限公司
-
-[HEALTH_NOTICE_CONTENT_5]
-备案查询：https://beian.miit.gov.cn/
-
-[HEALTH_NOTICE_CONTENT_3_1]
-本网络游戏适合年满12周岁以上的用户使用。为了您的健康，请合理控制游戏时间。抵制不良游戏，拒绝盗版游戏。
-注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。
-批准文号：新出审字\[2013]1509号；出版物号：ISBN978-7-89989-834-5；ICP备案号：视听备【2023】B4327
 
 [MARIGOLD]
 金盏花
@@ -24613,208 +24841,6 @@ x {SPEED}
 
 [WARNING_BASSRAIN]
 贝斯手僵尸闪亮登场！
-
-[ACHIEVE_ALL_IN_JEST_DESC]
-完成一个关卡，别让小丑僵尸反弹攻击
-
-[ACHIEVE_ALL_IN_JEST_TITLE]
-都是玩笑
-
-[ACHIEVE_BANANA_STORM_DESC]
-只用香蕉消灭僵尸，完成沙滩关卡
-
-[ACHIEVE_BANANA_STORM_TITLE]
-香蕉风暴
-
-[ACHIEVE_BIG_KAHUNKA_DESC]
-打败深海巨人僵尸，收集他们的时空钥匙
-
-[ACHIEVE_BIG_KAHUNKA_TITLE]
-BIG KAHUNKA
-[ACHIEVE_EIGHTIES_BACK_FROM_THE_FUTURE_3_DESC]
-在同一关卡中种植三次逆时草
-
-[ACHIEVE_EIGHTIES_BACK_FROM_THE_FUTURE_3_TITLE]
-由未来回归 3
-
-[ACHIEVE_EIGHTIES_BEET_IT_DESC]
-只用魔音甜菜打败僵尸，完成一个关卡
-
-[ACHIEVE_EIGHTIES_BEET_IT_TITLE]
-甜菜风暴
-
-[ACHIEVE_EIGHTIES_BREAKING_IT_OFF_DESC]
-在录音机僵尸用歌曲传递自己的力量之前将其消灭
-
-[ACHIEVE_EIGHTIES_BREAKING_IT_OFF_TITLE]
-中断
-
-[ACHIEVE_EIGHTIES_DROP_THE_MIC_DESC]
-完成摇滚年代之旅，B面
-
-[ACHIEVE_EIGHTIES_DROP_THE_MIC_TITLE]
-扔掉麦克风
-
-[ACHIEVE_EIGHTIES_HEAD_BANGER_DESC]
-对一个朋克僵尸使用磁力菇
-
-[ACHIEVE_EIGHTIES_HEAD_BANGER_TITLE]
-摇滚乐手
-
-[ACHIEVE_EIGHTIES_VOLUME_GOES_TO_SIXTEEN_DESC]
-打败重金属巨人僵尸
-
-[ACHIEVE_EIGHTIES_VOLUME_GOES_TO_SIXTEEN_TITLE]
-音量调到16
-
-[ACHIEVE_FLY_FISHING_FAIL_DESC]
-不让渔夫钩走你的植物，完成一个关卡
-
-[ACHIEVE_FLY_FISHING_FAIL_TITLE]
-飞蝇钓失败
-[ACHIEVE_FUNGUS_HUMONGOUS_DESC]
-用一个能量豆激活20个小喷菇
-
-[ACHIEVE_FUNGUS_HUMONGOUS_TITLE]
-巨型蘑菇
-
-[ACHIEVE_FUTURE_COMPLETE_DESC]
-完成未来世界关卡
-
-[ACHIEVE_FUTURE_COMPLETE_TITLE]
-丢下头目
-
-[ACHIEVE_FUTURE_GARGANTUAR_DESC]
-释放未来世界巨人僵尸
-
-[ACHIEVE_FUTURE_GARGANTUAR_TITLE]
-原动力
-
-[ACHIEVE_FUTURE_GRASS_EFFECT_DESC]
-用棱镜草发射500阳光
-
-[ACHIEVE_FUTURE_GRASS_EFFECT_TITLE]
-草地效应
-
-[ACHIEVE_FUTURE_JETTISONS_DESC]
-用三叶草在一个关卡中消灭30个喷射器僵尸
-
-[ACHIEVE_FUTURE_JETTISONS_TITLE]
-抛弃物
-
-[ACHIEVE_FUTURE_RERESPAWN_DESC]
-种植一个全息坚果，让它被杀死，然后复活两次
-
-[ACHIEVE_FUTURE_RERESPAWN_TITLE]
-再次复活
-
-[ACHIEVE_FUTURE_SUN_DAMAGED_DESC]
-触发一个阳光炸弹，消灭路障机甲僵尸
-
-[ACHIEVE_FUTURE_SUN_DAMAGED_TITLE]
-太阳伤害
-
-[ACHIEVE_FUTURE_TILE_DENIAL_DESC]
-不在强化瓷砖上种植任何植物，完成一个未来关卡
-
-[ACHIEVE_FUTURE_TILE_DENIAL_TITLE]
-空能量砖
-[ACHIEVE_HAMMER_TIME_DESC]
-释放黑暗巨人僵尸
-
-[ACHIEVE_HAMMER_TIME_TITLE]
-铁锤时间
-[ACHIEVE_ICEAGE_BARRAGE_DESC]
-打败地懒巨人僵尸，收集他们的时空钥匙
-
-[ACHIEVE_ICEAGE_BARRAGE_TITLE]
-火力全开
-
-[ACHIEVE_ICEAGE_ICEBLOCKADE_DESC]
-如果关卡中出现穴居僵尸，别让它推着冰块通过第6列
-
-[ACHIEVE_ICEAGE_ICEBLOCKADE_TITLE]
-冰块障碍
-
-[ACHIEVE_ICEAGE_KNOCKEMDEAD_DESC]
-用甜菜护卫一次攻击击退6个僵尸
-
-[ACHIEVE_ICEAGE_KNOCKEMDEAD_TITLE]
-拍死他们！
-
-[ACHIEVE_ICEAGE_MELTDOWN_DESC]
-完成冰河世界
-
-[ACHIEVE_ICEAGE_MELTDOWN_TITLE]
-熔化！
-
-[ACHIEVE_ICEAGE_RUNWEASLEY_DESC]
-如果关卡中出现冰鼬僵尸，别让鼬鼠越过滑块
-
-[ACHIEVE_ICEAGE_RUNWEASLEY_TITLE]
-鼬鼠快跑
-
-[ACHIEVE_ICEAGE_SOTHAWFUL_DESC]
-在单个关卡中熔化13个冰块
-
-[ACHIEVE_ICEAGE_SOTHAWFUL_TITLE]
-好暖和啊
-[ACHIEVE_NOT_BAAAD_DESC]
-别让巫师催眠植物，完成一个关卡
-
-[ACHIEVE_NOT_BAAAD_TITLE]
-还不错
-[ACHIEVE_OUT_OF_DARKNESS_DESC]
-完成黑暗时代
-
-[ACHIEVE_OUT_OF_DARKNESS_TITLE]
-走出黑暗
-[ACHIEVE_TEN_PIN_KAPOW_DESC]
-用保龄泡泡的一个泡泡消灭10个僵尸
-
-[ACHIEVE_TEN_PIN_KAPOW_TITLE]
-全中
-
-[ACHIEVE_UNDERTOW_DESC]
-在一个关卡中，用缠绕水草消灭10个僵尸
-
-[ACHIEVE_UNDERTOW_TITLE]
-回头浪
-
-[ACHIEVE_VASEBREAKER_DAVYJONESVASE_DESC]
-完成海盗港湾挑战包
-
-[ACHIEVE_VASEBREAKER_DAVYJONESVASE_NAME]
-戴维·琼斯的罐子
-
-[ACHIEVE_VASEBREAKER_POTTERYTRAINED_DESC]
-在无尽砸罐子模式中撑过30关
-
-[ACHIEVE_VASEBREAKER_POTTERYTRAINED_NAME]
-陶器训练
-
-[ACHIEVE_VASEBREAKER_TOMBBREAKER_DESC]
-完成神秘埃及挑战包
-
-[ACHIEVE_VASEBREAKER_TOMBBREAKER_NAME]
-坟墓破坏者 
-
-[ACHIEVE_VASEBREAKER_VASEWRANGLER_DESC]
-完成狂野西部挑战包
-
-[ACHIEVE_VASEBREAKER_VASEWRANGLER_NAME]
-罐子女牛仔
-
-[ACHIEVE_WAVE_GOODBYE_DESC]
-完成巨浪沙滩关卡
-
-[ACHIEVE_WAVE_GOODBYE_TITLE]
-再见了，海浪
-[ACHIEVE_YOUR_HAT_SIR_DESC]
-仅利用磁力菇的伤害消灭一个僵尸
-
-[ACHIEVE_YOUR_HAT_SIR_TITLE]
-先生，你的帽子！
 
 [ACHIEVEMENT_99_UNDEAD_BALLOONS_DESC]
 不让气球僵尸通过第5列
