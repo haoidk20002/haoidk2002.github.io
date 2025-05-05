@@ -38,11 +38,85 @@ Take care of yourself, beware of scams. Pay attention to self-protection and avo
 Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
 
 [PLANTS_SKILLS_PREVIEW]
+[PLANT_PROPERTY_BASE]
+Basic Abilities
+
+[PLANT_WAKEUP_LEVEL1]
+Ability Awaken
+
+[PLAYER_HOUSE_PLANTS]
+[PEASHOOTER_NEW_SKILL_LEVEL1_DES]
+Peashooter fires peas at zombies in his lane.
+
+[PEASHOOTER_SKILL1_LEVEL1]
+Pea Combo
+
+[PEASHOOTER_NEW_SKILL_LEVEL2_DES]
+There is a 10% chance to fire 5 peas in a row.
+
+[PEASHOOTER_SKILL1_LEVEL2]
+Quick Loading
+
+[PEASHOOTER_NEW_SKILL_LEVEL3_DES]
+The trigger probability of Pea Combo is doubled.
+
+[PEASHOOTER_NEW_SKILL_LEVEL4_DES]
+35% chance of getting boosted when planted! With PF, Peashooter fires a barrage of 60 peas. At Level 5, 80 peas are shot instead.
+
+[PEASHOOTER_SUPERSKILL_NAME]
+Super Pea
+
+[PEASHOOTER_NEW_SKILL_LEVEL5_DES]
+Peas fired by Peashooter are upgraded to Super Peas, and the damage is increased to 210. This also affects PF effect.
+
+[PEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
+Peashooter fires 3 large peas, each piercing through weaker zombies until they do their full damage, and the damage is higher. 
 
 [PLANTS_ALMANAC]
+[PLANT_FAMILT_BOOST_TITLE]
+Plant Family Effects:
+
+[PLANT_FAMILT_BOOST_RESEARCH]
+TBA
+
+[PLAYER_HOUSE_PLANTS]
+[PEASHOOTER]
+Peashooter
+
+[PEASHOOTER_DESCRIPTION]
+{KEYWORD}Plant Characteristics: {STAT}green plant, pea family
+{FLAVOR}"What is it like being famous?" asked the Peashooter while sipping his bottled water, "I can't talk right now, I'm finishing my merchandising deal. Hold my fir coat."
+
+[PEASHOOTER_DESCRIPTION_HEADER]
+Peashooters are your first line of defense. They shoot peas at attacking zombies.
 
 [PLANTS_ENCYCLOPEDIA]
+[PLANT_PEDIA]
+Plant Encyclopedia
+
+[PLANT_PEDIA_REWARD]
+Plant Encyclopedia Reward
+
+[PEASHOOTER_PEDIA]
+豌豆（Pisum sativum L.）
+    一年生攀援草本植物，高0.5-2米。全株绿色，光滑无毛，外表具有白粉霜。叶具小叶4-6片，托叶比小叶大，叶状，心形，下缘具细牙齿。小叶为卵圆形，长2-5厘米，宽1-2.5厘米；花序生于叶腋，单生或数朵排列为总状花序；花萼为钟状，深5裂，裂片披针形；花冠颜色多样，随不同品种而异，但多为白色和紫色，雄蕊为两个部分。雌蕊的子房无毛，花柱扁平，内面有髯毛。豌豆的荚果肿胀，长椭圆形，长2.5-10厘米，宽0.7-14厘米，顶端斜急尖，背部近于伸直，内侧有坚硬纸质的内皮；种子2-10颗，为圆形，青绿色，成熟干燥后变为黄色。开花期为6-7月，结果期为7-9月。（基于《中国植物志》）
+    豌豆原产地为亚洲西部和地中海地区，后传入印度北部，经中亚细亚传至中国。因为是栽培物种，目前在全球很多国家都有种植。
+    豌豆主要作为食物，它的种子和嫩豆荚可以食用，有丰富的营养价值，种子富含蛋白质、碳水化合物、维生素和矿物质，是一种重要的粮食和蔬菜作物，豌豆苗和豌豆花也可以食用，独具特风味和营养价值。此外，豌豆还有一定的药用价值，如具有利尿、止泻、清凉、解暑的功效。
+
+[SUNFLOWER_PEDIA]
+向日葵（Helianthus annuus L.）
+    一年生高大草本植物。茎秆直立，高1-3米，粗壮，茎秆上被白色粗硬毛，不分枝或有时上部分枝。叶互生，叶片心状卵圆形或卵圆形，顶端急尖或渐尖，叶片中有三基出脉，叶片边缘有粗锯齿，叶片两面被短糙毛，有长柄。花序为头状花序、极大，径约10-30厘米，花序单生于茎的顶端或枝的顶端，花序常常下倾。花序的总苞片多层，叶质，覆瓦状排列，总苞片为卵形至卵状披针形，顶端尾状渐尖，被长硬毛或纤毛。花托平或稍凸起、有半膜质的托片。花有两类，一类舌状花多数为黄色、舌片开展，长圆状卵形或长圆形，不结实。另一类管状花、数目极多，棕色或紫色，有披针形裂片，能够结果实。果实为瘦果，倒卵形或卵状长圆形，稍扁压，果实长10-15毫米，有细肋条，常被白色短柔毛，上端具有2个膜片状、早落的冠毛。开花期为7-9月，结果期为8-9月。
+    向日葵原产地为北美洲，目前在全球很多国家都有栽培种植。
+    向日葵的用途很广泛，它的种子可用于食物，能加工成供人类食用的油类，是脂肪的来源，也可用作动物饲料和可能用作替代燃料的能源植物。另外，向日葵还可用作观赏植物，也是一种吸引授粉蜜蜂采集花蜜和花粉的重要蜜源植物。
+
+[POTATOMINE_PEDIA]
+马铃薯（Solanum tuberosum L.）
+    野生马铃薯是多年生草本植物，栽培马铃薯为一年生或一年两季栽培草本植物。株高20-100厘米；马铃薯的茎分为地上茎和地下茎（块茎）两种类型：地上茎呈菱形，茎上有毛；地下茎（块茎）呈圆形、球形、卵形、椭圆形等形状，地下茎上面有芽眼；地下茎的皮呈红色、黄色、白色或紫色；块茎内（薯肉）呈白色、淡黄色、黄色等颜色。马铃薯的叶为奇数羽状复叶；叶片初生时为单叶，逐渐生长成奇数不相等羽状复叶，大小相间，呈卵形至长圆形；花序为聚伞花序，着生于植株的顶部；花为白色、红色、紫色或蓝紫色；果实为浆果，球形，果实绿色或紫褐色；种子肾形，黄色。开花期通常为夏季。 
+    马铃薯起源于南美洲安第斯高原，最初由印第安人种植，16世纪西班牙探险队将马铃薯带回欧洲，之后逐渐传播到全世界各国，现广泛种植于全球温带地区，在世界多个国家都有重要的地位。因为种子繁殖会导致性状分离，所以马铃薯最常用的繁殖方式是无性块茎繁殖。中国是世界马铃薯总产量最高的国家，全国各地都有种植，种植面积和总产量长期占据全球总量的四分之一以上。
+    马铃薯是一种重要的粮食和蔬菜兼用的作物，富含碳水化合物、植物蛋白、B族维生素、维生素C、类胡萝卜素和膳食纤维，易被人体消化吸收，具有补充营养、健脾利湿、宽肠通便、保护血管等功效。此外，马铃薯性平、和中养胃、健脾利湿，能促进脾胃的消化功能，还有解毒消肿等功效。同时还可以缓解心血管系统的脂肪沉积、保持血管的弹性、缓解动脉粥样硬化。
+
 [ZOMBIES_ALMANAC]
+
 [UPGRADES_ALMANAC]
 
 [ACHIEVEMENT]
@@ -3930,15 +4004,6 @@ Chinese_China
 [PEAPOD_TOOLTIP]
 堆叠种植数棵豌豆，造成多倍伤害。
 
-[PEASHOOTER]
-豌豆射手
-
-[PEASHOOTER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族
-{FLAVOR}“问我成功的滋味如何？”豌豆射手慢悠悠地啜了一口热茶。“这个我现在不能告诉你，我正在整理我的商业合同。这是我的外套，保管好！”
-
-[PEASHOOTER_DESCRIPTION_HEADER]
-豌豆射手，你的第一道防线，发射豌豆攻击僵尸。
 
 [PEASHOOTER_PLANTFOOD]
 连续发射一串豌豆，造成巨大伤害。
@@ -13198,9 +13263,6 @@ LV.
 [STORE_CATEGORY_NAME_REDPACK10_DESC]
 购买钻石x120。送十五个扭蛋
 
-[PLANT_PROPERTY_BASE]
-基础能力
-
 [PLANT_PROPERTYUP_LEVEL1]
 战斗训练
 
@@ -13224,9 +13286,6 @@ LV.
 
 [PLANT_PROPERTYUP_LEVEL4_DES]
 获得超强的战斗能力，攻防属性提高150%。
-
-[PLANT_WAKEUP_LEVEL1]
-能力觉醒
 
 [PLANT_WAKEUP_LEVEL1_DES]
 四阶特殊能力：种植时有概率直接释放能量豆大招！
@@ -13483,14 +13542,12 @@ LV.
 [WINTERMELON_SUPERSKILL_DES]
 有概率对一直线目标造成伤害
 
-[PEASHOOTER_SKILL1_LEVEL1]
-豌豆连发
+
 
 [PEASHOOTER_SKILL1_LEVEL1_DES]
 使豌豆射手有10%概率进入连发状态，发射一连串豌豆。
 
-[PEASHOOTER_SKILL1_LEVEL2]
-快速上膛
+
 
 [PEASHOOTER_SKILL1_LEVEL2_DES]
 使豌豆连发的效果提升100%。
@@ -33762,11 +33819,7 @@ x500更改名字
 [PLANT_FAMILY_NAME_50050]
 来自深渊
 
-[PLANT_FAMILT_BOOST_TITLE]
-植物家族效果：
 
-[PLANT_FAMILT_BOOST_RESEARCH]
-研发中
 
 [PLANT_FAMILY_NAME_50016]
 踩僵尸的蘑菇
@@ -34253,8 +34306,7 @@ x500更改名字
 [REMOVE_AD_HINT]
 任意充值即可去掉插屏广告哟
 
-[PEASHOOTER_SUPERSKILL_NAME]
-超级豌豆
+
 
 [PEASHOOTER_SUPERSKILL_DES]
 豌豆子弹进化为超级豌豆，增强攻击力。
@@ -36585,11 +36637,6 @@ SDK初始化失败
 茄科
 [POTATOMINE_GENUS]
 茄属
-[POTATOMINE_PEDIA]
-马铃薯（Solanum tuberosum L.）
-    野生马铃薯是多年生草本植物，栽培马铃薯为一年生或一年两季栽培草本植物。株高20-100厘米；马铃薯的茎分为地上茎和地下茎（块茎）两种类型：地上茎呈菱形，茎上有毛；地下茎（块茎）呈圆形、球形、卵形、椭圆形等形状，地下茎上面有芽眼；地下茎的皮呈红色、黄色、白色或紫色；块茎内（薯肉）呈白色、淡黄色、黄色等颜色。马铃薯的叶为奇数羽状复叶；叶片初生时为单叶，逐渐生长成奇数不相等羽状复叶，大小相间，呈卵形至长圆形；花序为聚伞花序，着生于植株的顶部；花为白色、红色、紫色或蓝紫色；果实为浆果，球形，果实绿色或紫褐色；种子肾形，黄色。开花期通常为夏季。 
-    马铃薯起源于南美洲安第斯高原，最初由印第安人种植，16世纪西班牙探险队将马铃薯带回欧洲，之后逐渐传播到全世界各国，现广泛种植于全球温带地区，在世界多个国家都有重要的地位。因为种子繁殖会导致性状分离，所以马铃薯最常用的繁殖方式是无性块茎繁殖。中国是世界马铃薯总产量最高的国家，全国各地都有种植，种植面积和总产量长期占据全球总量的四分之一以上。
-    马铃薯是一种重要的粮食和蔬菜兼用的作物，富含碳水化合物、植物蛋白、B族维生素、维生素C、类胡萝卜素和膳食纤维，易被人体消化吸收，具有补充营养、健脾利湿、宽肠通便、保护血管等功效。此外，马铃薯性平、和中养胃、健脾利湿，能促进脾胃的消化功能，还有解毒消肿等功效。同时还可以缓解心血管系统的脂肪沉积、保持血管的弹性、缓解动脉粥样硬化。
 
 [CARROTLAUNCHER_FAMILY]
 伞形科
@@ -36653,27 +36700,13 @@ SDK初始化失败
 菊科
 [SUNFLOWER_GENUS]
 向日葵属
-[SUNFLOWER_PEDIA]
-向日葵（Helianthus annuus L.）
-    一年生高大草本植物。茎秆直立，高1-3米，粗壮，茎秆上被白色粗硬毛，不分枝或有时上部分枝。叶互生，叶片心状卵圆形或卵圆形，顶端急尖或渐尖，叶片中有三基出脉，叶片边缘有粗锯齿，叶片两面被短糙毛，有长柄。花序为头状花序、极大，径约10-30厘米，花序单生于茎的顶端或枝的顶端，花序常常下倾。花序的总苞片多层，叶质，覆瓦状排列，总苞片为卵形至卵状披针形，顶端尾状渐尖，被长硬毛或纤毛。花托平或稍凸起、有半膜质的托片。花有两类，一类舌状花多数为黄色、舌片开展，长圆状卵形或长圆形，不结实。另一类管状花、数目极多，棕色或紫色，有披针形裂片，能够结果实。果实为瘦果，倒卵形或卵状长圆形，稍扁压，果实长10-15毫米，有细肋条，常被白色短柔毛，上端具有2个膜片状、早落的冠毛。开花期为7-9月，结果期为8-9月。
-    向日葵原产地为北美洲，目前在全球很多国家都有栽培种植。
-    向日葵的用途很广泛，它的种子可用于食物，能加工成供人类食用的油类，是脂肪的来源，也可用作动物饲料和可能用作替代燃料的能源植物。另外，向日葵还可用作观赏植物，也是一种吸引授粉蜜蜂采集花蜜和花粉的重要蜜源植物。
 
 [PEASHOOTER_FAMILY]
 豆科
 [PEASHOOTER_GENUS]
 豌豆属
-[PEASHOOTER_PEDIA]
-豌豆（Pisum sativum L.）
-    一年生攀援草本植物，高0.5-2米。全株绿色，光滑无毛，外表具有白粉霜。叶具小叶4-6片，托叶比小叶大，叶状，心形，下缘具细牙齿。小叶为卵圆形，长2-5厘米，宽1-2.5厘米；花序生于叶腋，单生或数朵排列为总状花序；花萼为钟状，深5裂，裂片披针形；花冠颜色多样，随不同品种而异，但多为白色和紫色，雄蕊为两个部分。雌蕊的子房无毛，花柱扁平，内面有髯毛。豌豆的荚果肿胀，长椭圆形，长2.5-10厘米，宽0.7-14厘米，顶端斜急尖，背部近于伸直，内侧有坚硬纸质的内皮；种子2-10颗，为圆形，青绿色，成熟干燥后变为黄色。开花期为6-7月，结果期为7-9月。（基于《中国植物志》）
-    豌豆原产地为亚洲西部和地中海地区，后传入印度北部，经中亚细亚传至中国。因为是栽培物种，目前在全球很多国家都有种植。
-    豌豆主要作为食物，它的种子和嫩豆荚可以食用，有丰富的营养价值，种子富含蛋白质、碳水化合物、维生素和矿物质，是一种重要的粮食和蔬菜作物，豌豆苗和豌豆花也可以食用，独具特风味和营养价值。此外，豌豆还有一定的药用价值，如具有利尿、止泻、清凉、解暑的功效。
 
-[PLANT_PEDIA]
-植物百科
 
-[PLANT_PEDIA_REWARD]
-植物百科奖励
 
 [ALOES]
 芦荟医师
@@ -67300,26 +67333,12 @@ FPS：{NUM}
 
 
 
-[PEASHOOTER_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在豌豆射手右侧时，会向僵尸发射直线飞行的豌豆子弹。
 
-[PEASHOOTER_NEW_SKILL_LEVEL2_DES]
-豌豆射手攻击时有10%的概率连续发射5颗豌豆子弹。
-
-[PEASHOOTER_NEW_SKILL_LEVEL3_DES]
-豌豆连发的触发概率提升100%，攻击时有20%的概率连续发射5颗豌豆子弹。
-
-[PEASHOOTER_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
-
-[PEASHOOTER_NEW_SKILL_LEVEL5_DES]
-豌豆射手发射的豌豆子弹升级为超级豌豆子弹，子弹伤害提升至210。
 
 [PEASHOOTER_PLANTFOOD_DESCRIPTION]
 豌豆射手化身超级士兵状态，连续发射60颗豌豆子弹，倾泻向右侧的僵尸。5阶时变为80颗豌豆子弹。
 
-[PEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-豌豆射手化身超级士兵状态，^ff0000^发射出3颗大豌豆，每颗大豌豆穿透僵尸并造成超高伤害！^oldclr^
+
 
 [SUNFLOWER_NEW_SKILL_LEVEL1_DES]
 向日葵可以持续产出阳光，为种植其它植物做好准备。
